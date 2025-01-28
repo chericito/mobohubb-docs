@@ -32,7 +32,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
 3. **Set up**
 
-   ![](https://files.readme.io/1e7ccb83bc6b6c013df65ea4c787647b746b4d2ff088364f30968f63c1f8fee4-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e7ccb83bc6b6c013df65ea4c787647b746b4d2ff088364f30968f63c1f8fee4-image.png" />
 
    <br />
 
