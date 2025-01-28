@@ -14,8 +14,8 @@ metadata:
 
 **In this guide you'll learn**
 
-* What Mobohubb is
-* The main benefits of using Mobohubb
+* What is Mobohubb?
+* Key benefits of Mobohubb
 * Common terms and definitions to get you started
 
 ***
