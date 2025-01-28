@@ -1,5 +1,5 @@
 ---
-title: Logging into mobohubb
+title: Logging into Mobohubb
 deprecated: false
 hidden: false
 metadata:
