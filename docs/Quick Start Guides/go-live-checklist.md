@@ -19,7 +19,7 @@ metadata:
 
 | **Checklist**                                                                  | **Resource**                                                                                |
 | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| Get a Mobohubb subscription                                                    | [Pricing](https://mobohubb.com/#pricing)                                                    |
+| Acquire a Mobohubb subscription                                                | [Pricing](https://mobohubb.com/#pricing)                                                    |
 | Get to know the basics about Mobohubb                                          | [Mobohubb Quick Overview](https://mobohubb.readme.io/docs/mobohubb-quick-overview#/)        |
 | Learn how to log in                                                            | [Logging Into Mobohubb](https://mobohubb.readme.io/docs/logging-into-mobohubb#/)            |
 | Discover what to do if you're a new user                                       | [New User First Steps](https://mobohubb.readme.io/update/docs/new-user-first-steps#/)       |
