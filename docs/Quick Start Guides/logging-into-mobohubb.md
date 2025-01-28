@@ -8,8 +8,6 @@ hidden: false
 metadata:
   robots: index
 ---
-# Logging into Mobohubb
-
 **In this guide you'll discover**
 
 * How to check your subscription and log in as an administrator
