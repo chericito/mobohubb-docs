@@ -1,11 +1,11 @@
 ---
-title: 'New User: First Steps'
+title: 'New Users: Quick Start Guide'
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-# First Time Logging In
+# After Logging In
 
 When you log in for the first time, the **Set-up Wizard** will open. This assists in configuring the application quickly and correctly. Here are the steps to complete the Wizard:
 
