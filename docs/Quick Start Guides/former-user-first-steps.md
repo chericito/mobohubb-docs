@@ -1,5 +1,5 @@
 ---
-title: 'Former User: First Steps'
+title: 'Former Users: Quick Start Guides'
 deprecated: false
 hidden: false
 metadata:
