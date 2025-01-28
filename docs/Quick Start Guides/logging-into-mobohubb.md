@@ -13,8 +13,6 @@ metadata:
 **In this guide you'll discover**
 
 * How to check your subscription and log in as an administrator
-* Steps to complete your first-time Set-up Wizard
-* Tips for customizing your organization's portal
 
 ***
 
