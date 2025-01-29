@@ -54,13 +54,45 @@ Mobohubb also provides advanced technical support to resolve any issues that may
 
 ## Glossary of Terms
 
-* **App mobile**: A software application developed specifically for smartphones or tablets.
-* **Dashboard**: A main screen that centralizes important actions/sections of an application.
-* **Graphical interface/GUI**: A digital interface with icons, buttons, and menus for user interaction.
-* **Log in/login**: The process of connecting to and starting use of a system or web platform.
-* **Mobile operating system (mobile OS)**: The set of programs that enable mobile apps to run on devices like Android, iOS, or KaiOS.
-* **Navigation bar/Navbar**: A screen area displaying key options or functions in an application.
-* **One-time password (OTP)**: A temporary code sent by an automated system to verify a user’s identity.
-* **Scroll bar**: A horizontal or vertical bar that appears when you need to scroll through on-screen content.
-* **Sign Out**: The action of logging out of an application.
-* **User interface/UI**: The bridge between users and computers, encompassing screens, sounds, and overall interactive design.
+This glossary provides quick definitions for commonly used Mobohubb terms, ensuring you have the context needed to effectively navigate and utilize our platform.
+
+<Tabs>
+  <Tab title="Mobile & UI Terms">
+    * **App mobile**\
+      A software application developed specifically for smartphones or tablets.
+
+    * **Dashboard**\
+      A main screen that centralizes important actions/sections of an application.
+
+    * **Graphical interface/GUI**\
+      A digital interface with icons, buttons, and menus for user interaction.
+
+    * **Mobile operating system (mobile OS)**\
+      A set of programs that enable mobile apps to run on devices like Android, iOS, or KaiOS.
+
+    * **Navigation bar/Navbar**\
+      A screen area displaying key options or functions in an application.
+
+    * **Scroll bar**\
+      A horizontal or vertical bar that appears when you need to scroll through on-screen content.
+
+    * **User interface/UI**\
+      The bridge between users and computers, encompassing screens, sounds, and overall interactive design.
+  </Tab>
+
+  <Tab title="Security & Access Terms">
+    * **Log in/login**\
+      The process of connecting to and starting use of a system or web platform.
+
+    * **One-time password (OTP)**\
+      A temporary code sent by an automated system to verify a user’s identity.
+
+    * **Sign Out**\
+      The action of logging out of an application.
+  </Tab>
+
+  <Tab title="Organization Terms">
+    * **Sites/Accounts**\
+      Physical places associated with the main headquarters or organization, typically used to structure and manage company locations.
+  </Tab>
+</Tabs>
