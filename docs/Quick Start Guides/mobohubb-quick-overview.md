@@ -34,7 +34,13 @@ Mobohubb also provides advanced technical support to resolve any issues that may
 
 ## Glossary of Terms
 
-* **App mobile**: A software application developed specifically for smartphones or tablets.
+* \*\*App
+  <Accordion title="My Accordion Title" icon="fa-info-circle">
+    Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Ut enim
+    ad minim veniam, quis nostrud exercitation ullamco. Excepteur sint
+    occaecat cupidatat non proident!
+  </Accordion>
+  mobile\*\*: A software application developed specifically for smartphones or tablets.
 * **Dashboard**: A main screen that centralizes important actions/sections of an application.
 * **Graphical interface/GUI**: A digital interface with icons, buttons, and menus for user interaction.
 * **Log in/login**: The process of connecting to and starting use of a system or web platform.
