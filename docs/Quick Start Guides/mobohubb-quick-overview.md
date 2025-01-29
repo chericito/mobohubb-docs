@@ -10,9 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-# Getting Started with Mobohubb
-
-**In this guide you'll learn**
+**In this page you'll learn**
 
 * What is Mobohubb?
 * Key benefits of Mobohubb
