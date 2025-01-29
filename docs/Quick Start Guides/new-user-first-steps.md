@@ -28,7 +28,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
    * Upload your **logo file** (JPG or PNG). This will appear in the top-left corner of the portal.
    * Upload your **mobile logo file** (JPG or PNG). This will be displayed in the mobile app.
    * Upload your **icon file** (JPG or PNG). This icon appears in the top-left corner of your app when the menu collapses.
-   * Click on the interface in the **Set up** section to configure your first site.
+   * Click on the interface in the **Set up** section to configure your first <Glossary>site</Glossary>.
 
 3. **Set up**
 
@@ -36,10 +36,10 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
    <br />
 
-   * **Site name**: Enter a name that identifies your site.
+   * **Site name**: Enter a name that identifies your <Glossary>site</Glossary>.
    * **Site type**: Select from security, facilities, cleaning, construction, restaurant, or choose **Other** if none match.
    * **Site address**: Enter the physical or virtual address where your main activities occur.
-   * Click **Finish** to save your changes and create your site. You can now fully use the Mobohubb portal.
+   * Click **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the Mobohubb portal.
 
 > **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.zendesk.com/hc/en-us/articles/25649941947021) to get started.
 
