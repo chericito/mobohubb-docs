@@ -24,7 +24,7 @@ metadata:
 
 Mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
 
-## Benefits of using Mobohubb
+## Benefits of Mobohubb
 
 Employees use their Android or iOS smartphones or tablets to scan checkpoints, mark tasks, send reports, and record their working hours. All activities become immediately visible, improving productivity, efficiency, and accountability while reducing paperwork and costs. This user-friendly deskless platform transforms the way mobile workers perform their jobs and interact with their organizations.
 
