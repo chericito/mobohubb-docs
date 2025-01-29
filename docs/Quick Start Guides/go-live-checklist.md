@@ -17,139 +17,16 @@ metadata:
 
 ***
 
-<br />
-
-<Table align={["left","left","left"]}>
-  <thead>
-    <tr>
-      <th style={{ textAlign: "left" }}>
-
-      </th>
-
-      <th style={{ textAlign: "left" }}>
-        **Checklist**
-      </th>
-
-      <th style={{ textAlign: "left" }}>
-        **Resource**
-      </th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        *
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Acquire a Mobohubb subscription
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        [Pricing](https://mobohubb.com/#pricing)
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Get to know the basics about Mobohubb
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        [Mobohubb Quick Overview](https://mobohubb.readme.io/docs/mobohubb-quick-overview#/)
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Learn how to log in
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        [Logging Into Mobohubb](https://mobohubb.readme.io/docs/logging-into-mobohubb#/)
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Discover what to do if you're a new user
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        [New User First Steps](https://mobohubb.readme.io/update/docs/new-user-first-steps#/)
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Migrating from the classic experience? Learn how to uplevel the new experience
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        [Former User First Steps](https://mobohubb.readme.io/update/docs/former-user-first-steps#/)
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Other quickstart guide
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Other quickstart guide
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-
-      </td>
-    </tr>
-
-    <tr>
-      <td style={{ textAlign: "left" }}>
-        * <br />
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-        Other quickstart guide
-      </td>
-
-      <td style={{ textAlign: "left" }}>
-
-      </td>
-    </tr>
-  </tbody>
-</Table>
+| **Checklist**                                                                  | **Resource**                                                                                |
+| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| Acquire a Mobohubb subscription                                                | [Pricing](https://mobohubb.com/#pricing)                                                    |
+| Get to know the basics about Mobohubb                                          | [Mobohubb Quick Overview](https://mobohubb.readme.io/docs/mobohubb-quick-overview#/)        |
+| Learn how to log in                                                            | [Logging Into Mobohubb](https://mobohubb.readme.io/docs/logging-into-mobohubb#/)            |
+| Discover what to do if you're a new user                                       | [New User First Steps](https://mobohubb.readme.io/update/docs/new-user-first-steps#/)       |
+| Migrating from the classic experience? Learn how to uplevel the new experience | [Former User First Steps](https://mobohubb.readme.io/update/docs/former-user-first-steps#/) |
+| Other quickstart guide                                                         |                                                                                             |
+| Other quickstart guide                                                         |                                                                                             |
+| Other quickstart guide                                                         |                                                                                             |
 
 Use these resources to guide your organization through the essential steps to “go live” with Mobohubb. Once you’ve completed the above items, you’ll be ready to leverage Mobohubb’s powerful features to streamline and optimize your deskless workforce operations.
 
