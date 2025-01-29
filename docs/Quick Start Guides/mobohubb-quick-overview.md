@@ -43,9 +43,7 @@ Mobohubb is a platform to manage and support workers who do not have a fixed des
   </Card>
 </Cards>
 
-Employees use their Android or iOS smartphones or tablets to scan checkpoints, mark tasks, send reports, and record their working hours. All activities become immediately visible, improving productivity, efficiency, and accountability while reducing paperwork and costs. This user-friendly deskless platform transforms the way mobile workers perform their jobs and interact with their organizations.
-
-Mobohubb also provides advanced technical support to resolve any issues that may arise. Its new UI includes improved security protocols and multiple login options, simplifying the identity validation process.
+<br />
 
 ***
 
