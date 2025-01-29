@@ -9,6 +9,8 @@ hidden: false
 metadata:
   robots: index
 ---
+<Image align="center" width="60% " src="https://files.readme.io/22d62b688b890c8831d0c14f43b995ba62f2320b01cff58d8ba5bbe4e0bfb443-mobo-2d-26.png" />
+
 **In this guide you'll discover**
 
 * An overview of Mobohubb essentials
