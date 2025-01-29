@@ -53,7 +53,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -67,7 +67,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -81,7 +81,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -95,7 +95,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -109,7 +109,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -123,7 +123,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
@@ -137,7 +137,7 @@ metadata:
 
     <tr>
       <td style={{ textAlign: "left" }}>
-        *
+        * <br />
       </td>
 
       <td style={{ textAlign: "left" }}>
