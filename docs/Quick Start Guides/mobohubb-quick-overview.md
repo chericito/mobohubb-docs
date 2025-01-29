@@ -29,26 +29,24 @@ Mobohubb is a platform to manage and support workers who do not have a fixed des
 ## Benefits of using Mobohubb
 
 <Cards columns={4}>
-  <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
-    Neque porro quisquam est qui dolorem ipsum quia
+  <Card title="Mobile Task Management" icon="fa-mobile">
+    Employees can scan checkpoints, mark tasks, send reports, and record working hours directly from their Android or iOS devices.
   </Card>
 
-  <Card title="Second Card" icon="fa-user">
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  <Card title="Immediate Visibility & Efficiency" icon="fa-eye">
+    All activities become instantly visible—boosting productivity, efficiency, and accountability while reducing paperwork and costs.
   </Card>
 
-  <Card title="Third Card" icon="fa-star">
-    > Ut enim ad minim veniam, quis nostrud ullamco
+  <Card title="Advanced Technical Support" icon="fa-headset">
+    Mobohubb provides expert support to quickly resolve any issues, along with a revamped UI for a seamless experience.
   </Card>
 
-  <Card title="Fourth Card" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+  <Card title="Enhanced Security & Access" icon="fa-lock">
+    Benefit from improved security protocols and multiple login options to simplify user identity validation.
   </Card>
 </Cards>
 
 Employees use their Android or iOS smartphones or tablets to scan checkpoints, mark tasks, send reports, and record their working hours. All activities become immediately visible, improving productivity, efficiency, and accountability while reducing paperwork and costs. This user-friendly deskless platform transforms the way mobile workers perform their jobs and interact with their organizations.
-
-<br />
 
 Mobohubb also provides advanced technical support to resolve any issues that may arise. Its new UI includes improved security protocols and multiple login options, simplifying the identity validation process.
 
