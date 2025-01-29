@@ -17,16 +17,16 @@ metadata:
 
 ***
 
-| **Checklist**                                                                  | **Resource**                                                                                |
-| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| Acquire a Mobohubb subscription                                                | [Pricing](https://mobohubb.com/#pricing)                                                    |
-| Get to know the basics about Mobohubb                                          | [Mobohubb Quick Overview](https://mobohubb.readme.io/docs/mobohubb-quick-overview#/)        |
-| Learn how to log in                                                            | [Logging Into Mobohubb](https://mobohubb.readme.io/docs/logging-into-mobohubb#/)            |
-| Discover what to do if you're a new user                                       | [New User First Steps](https://mobohubb.readme.io/update/docs/new-user-first-steps#/)       |
-| Migrating from the classic experience? Learn how to uplevel the new experience | [Former User First Steps](https://mobohubb.readme.io/update/docs/former-user-first-steps#/) |
-| Other quickstart guide                                                         |                                                                                             |
-| Other quickstart guide                                                         |                                                                                             |
-| Other quickstart guide                                                         |                                                                                             |
+| Check | **Checklist**                                                                  | **Resource**                                                                                |
+| :---- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| -\[ ] | Acquire a Mobohubb subscription                                                | [Pricing](https://mobohubb.com/#pricing)                                                    |
+|       | Get to know the basics about Mobohubb                                          | [Mobohubb Quick Overview](https://mobohubb.readme.io/docs/mobohubb-quick-overview#/)        |
+|       | Learn how to log in                                                            | [Logging Into Mobohubb](https://mobohubb.readme.io/docs/logging-into-mobohubb#/)            |
+|       | Discover what to do if you're a new user                                       | [New User First Steps](https://mobohubb.readme.io/update/docs/new-user-first-steps#/)       |
+|       | Migrating from the classic experience? Learn how to uplevel the new experience | [Former User First Steps](https://mobohubb.readme.io/update/docs/former-user-first-steps#/) |
+|       | Other quickstart guide                                                         |                                                                                             |
+|       | Other quickstart guide                                                         |                                                                                             |
+|       | Other quickstart guide                                                         |                                                                                             |
 
 Use these resources to guide your organization through the essential steps to “go live” with Mobohubb. Once you’ve completed the above items, you’ll be ready to leverage Mobohubb’s powerful features to streamline and optimize your deskless workforce operations.
 
