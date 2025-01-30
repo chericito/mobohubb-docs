@@ -239,7 +239,7 @@ If you're an existing user, you can **update** your personal details (email or p
 
    * Choose your user entry from the drop-down menu.
 
-   ![](https://files.readme.io/49b2e45505842425fc31580a943bc32c699160fb15172163d69453bdaec69aa8-image.png)
+   <Image align="center" src="https://files.readme.io/49b2e45505842425fc31580a943bc32c699160fb15172163d69453bdaec69aa8-image.png" />
 
    <br />
 
