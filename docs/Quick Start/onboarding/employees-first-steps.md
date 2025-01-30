@@ -29,8 +29,6 @@ metadata:
 2. **Type in your password** and tap on the **Login** button.
 3. **Wait** for the login to complete.
 
-***
-
 ## Web App
 
 1. Access [https://webapp.mobohubb.com/](https://webapp.mobohubb.com/)
