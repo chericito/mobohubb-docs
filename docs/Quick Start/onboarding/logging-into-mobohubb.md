@@ -20,7 +20,10 @@ metadata:
 
 ## Administrator
 
-To use Mobohubb, you must have a current subscription, which you can verify on the [Mobohubb pricing page](https://mobohubb.com/#pricing). Once your subscription is active, Mobohubb provides the administrator’s email address along with the user credentials and password.
+To use Mobohubb, you must have a current subscription, which you can verify on the [Mobohubb pricing page](https://mobohubb.com/#pricing).
+
+* Mobohubb provides the administrator’s email address along with the user credentials and password.
+* Administrators provide the login information to the employees once the employee's user is created.
 
 1. **Go to the Mobohubb web page**: This is our home page, where you can learn more about Mobohubb’s features, products, blogs, prices, and support.
 
@@ -53,5 +56,3 @@ To use Mobohubb, you must have a current subscription, which you can verify on t
 7. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
 > **Note:** The login window also includes a **Recover your password** feature if you need to reset your credentials.
-
-## Employee
