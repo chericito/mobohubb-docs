@@ -394,18 +394,66 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 ### Saving a Draft
 
 1. **Select** the form or checklist.
+
    * Use the **search bar** at the top to find it.
-2. **Fill in** the form, keeping in mind required fields (\*).
+
+   <Image align="center" width="30% " src="https://files.readme.io/1c8451260578292179399c831a82983eedada1b9b6f8cfbe4dee47646a438107-image.png" />
+
+   <br />
+2. **Fill in** the form, keeping in mind required fields.
+
+<Image align="center" width="30% " src="https://files.readme.io/e525982516443e7f6936bf7ac4f12bb18066d22ee0fdbf8a7368b9381e7ff890-image.png" />
+
+<br />
+
 3. Tap the **drop menu**.
+
+<Image align="center" width="30% " src="https://files.readme.io/b67f9d85a0b446202cc1b818b9d5aed4d2d7aa40cab62436c3bf7dd42888850d-image.png" />
+
+<br />
+
 4. Select **Save Draft**.
+
+<Image align="center" width="30% " src="https://files.readme.io/f80f81c73598b31e407c1fd3d75f51dd8f15b7538d2144ceb441202f9b9a1c56-image.png" />
+
+<br />
+
 5. **Close** and confirm.
+
+<Image align="center" width="30% " src="https://files.readme.io/93b54e853f7b9d70c1fc2f015b603652cc2450bdaba3a584d05e8220ad286319-image.png" />
+
+<br />
 
 ### Completing a Draft
 
 1. Tap on **Saved Drafts**.
+
+<Image align="center" width="30% " src="https://files.readme.io/3268988e5f8455c840686cd859689957b784939c2598ba87b8d2986545c74ded-image.png" />
+
+<br />
+
 2. **Select** the draft form.
-   * You can use the **search bar** to find it by the name assigned.
+
+* You can use the **search bar** to find it by the name assigned.
+
+<Image align="center" width="30% " src="https://files.readme.io/4640b302e60b69f0a38e80091ff9d6319cb775d086493ba541d46a02e47075b2-image.png" />
+
+<br />
+
 3. **Fill in** or complete the draft.
+
+<Image align="center" width="30% " src="https://files.readme.io/65a42877b4c1edae9a6b697b9a6373bf3cdbe6ef9b59d76dbf98e4546a4ebd22-image.png" />
+
+<br />
+
 4. **Submit** the form or checklist.
+
+<Image align="center" width="30% " src="https://files.readme.io/064b3badcfb5371b525ab53a00d8c64f8828e485b4d017e19976876b1ce29f6d-image.png" />
+
+<br />
+
 5. **Close** and confirm.
-   * You can track your logs in **My Activity**.
+
+* You can track your logs in **My Activity**.
+
+<Image align="center" width="30% " src="https://files.readme.io/2068a479862e03d4c2fab2c80365328b21f04b0435d2abd3204d09992c463385-image.png" />
