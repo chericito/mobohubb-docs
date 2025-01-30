@@ -93,8 +93,6 @@ The first step assigns logos, icons, and other branding details to your organiza
 > * **Organization name** = The company’s corporate name.
 > * **Site name** = The physical (or virtual) location where main activities occur.
 
-<br />
-
 ## Set Up the Scan Points
 
 A **scan point** is an element read by a mobile device to obtain information. You can use **QR codes** or **NFC tags**, and they must be placed where you want employees to scan. Once you’ve identified your points of interest (i.e., sites defined previously), you can associate specific forms or tasks with each scan point.
