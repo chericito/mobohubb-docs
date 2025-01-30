@@ -1,5 +1,6 @@
 ---
 title: Log in Mobile App
+excerpt: This guide will cover the different methods to Log in the Mobile App.
 deprecated: false
 hidden: false
 metadata:
