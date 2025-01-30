@@ -12,6 +12,7 @@ metadata:
 **In this page you'll learn**
 
 * What is Mobohubb?
+* Differences between the web and mobiles apps
 * Key benefits of Mobohubb
 * Common terms and definitions to get you started
 
@@ -22,6 +23,8 @@ metadata:
 <Image align="center" width="50% " src="https://files.readme.io/074938e15d9e7a992700bbef7dc7e1606c4b1aedf991a706e2cb09fc150024be-social-media-branding-02.png" />
 
 Mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
+
+## Web App & Mobile App
 
 ## Benefits of using Mobohubb
 
