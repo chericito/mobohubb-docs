@@ -105,7 +105,7 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5a2a5da4150b8d6b11c66bb56ca546b9c4590a32515b9d3cf8c963037cdc86e6-image.png" />
 
-   * Click the “Add New” button.
+   * **Click** the “Add New” button.
 
      <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9f7c89224978483d49ba77614668990a4a9fd3e7f14638f28f29fcc066f66f53-image.png" />
 
@@ -119,21 +119,21 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 
 4. **Time Interval**
 
-   * Specify how often you want users to scan this code (e.g., “01:00” = once per hour).
+   * **Specify** how often you want users to scan this code (e.g., “01:00” = once per hour).
 
 5. **Associate Tag** (Optional)
-   * If needed, attach a predefined tag. You can create or manage tags in our [Tags Section](#).
+   * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](#).
 
 6. **Link to a Task or Form** (Optional)
    * You can associate the scan point with an existing task or form (created in later steps).
    * For initial setup, you may choose **None** until tasks/forms are ready.
 
 7. **Activate the Scan Point**
-   * Check the box to mark it as active.
+   * **Check** the box to mark it as active.
 
 8. **Save**
 
-   * Click “Save” at the bottom of the form to finalize.
+   * **Click** “Save” at the bottom of the form to finalize.
 
 > **Note:** Repeat this process for each location or checkpoint where you need a scan point. Once finished, mark the second step complete (2/5).
 
