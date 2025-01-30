@@ -1,5 +1,5 @@
 ---
-title: Logging into Mobohubb
+title: Logging into Mobohubb Web App
 excerpt: >-
   Learn how to access the Mobohubb Portal for the first time, set up your
   credentials, and customize your environment.
