@@ -108,10 +108,10 @@ If the administrator wants breaks to be manual, you will see a **Take a break** 
 
 ### Completing a Draft
 
-6. Tap on **Saved Drafts**.
-7. **Select** the draft form.
+1. Tap on **Saved Drafts**.
+2. **Select** the draft form.
    * You can use the **search bar** to find it by the name assigned.
-8. **Fill in** or complete the draft.
-9. **Submit** the form or checklist.
-10. **Close** and confirm.
-    * You can track your logs in **My Activity**.
+3. **Fill in** or complete the draft.
+4. **Submit** the form or checklist.
+5. **Close** and confirm.
+   * You can track your logs in **My Activity**.
