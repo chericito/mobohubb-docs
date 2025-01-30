@@ -47,7 +47,7 @@ When invited via email, workers receive a message containing their **username** 
 
 When invited via SMS, workers receive a text message containing access information and a verification code.
 
-<Image align="center" width="50% " src="https://files.readme.io/47bb56b4f277b2fb83d6153f42b3dd3b24c03526c1a7bca0c339aaef17b38335-image.png" />
+<Image align="center" width="40% " src="https://files.readme.io/47bb56b4f277b2fb83d6153f42b3dd3b24c03526c1a7bca0c339aaef17b38335-image.png" />
 
 > **Note:** For the **initial SMS invitation**, use the **SMS verification code** to log in.
 
@@ -65,7 +65,7 @@ You can choose from **three** authentication methods to log in:
 
 Select your preferred login method on the Mobohubb login screen:
 
-![Choose Your Login Method](https://files.readme.io/3c3616520d8e3b3fa2c88acf1219cd9bab61f911c496d42a9523d84a1e7f716d-image.png)
+<Image align="center" width="30% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
 
 ***
 
@@ -88,7 +88,94 @@ You will receive a code to confirm the phone number you entered. Make sure you h
 4. **Wait for Log In**
    * If the code matches, you will gain access to the app.
 
+## Existing User
+
+You can choose from **three** authentication methods to log in:
+
+* **Verification code by SMS**
+* **Verification code by email**
+* **Username and password**
+
+After entering the mobile app and watching the welcome video, **use the change the authentication method** button.
+
+<Image align="center" width="40% " src="https://files.readme.io/53b8f12994459c55e339fdd8e98ea517ec9ab5dbc1d7fe2ee8ea65714ef8bb43-image.png" />
+
+<br />
+
+<Image align="center" width="35% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
+
+<br />
+
+### Check and Update Your Information
+
+If you're an existing user, you can **update** your personal details (email or phone number) by following these steps:
+
+1. **Use the “domain and pin” button**
+
+   * On the **“Verify Phone Number”** screen, tap to use domain and pin. You will be redirected.
+
+   <Image align="center" width="40% " src="https://files.readme.io/bc8bbae6175d505e6a18f31b77d6b8eb620b221caecc8caa9747112fe51dec58-image.png" />
+
+   <br />
+
+2. **Enter Your Current Pin and Domain**
+
+   * Use the **same** pin and domain you used in the classic version.
+
+   ![](https://files.readme.io/2a0d74c30aa8c6c0334b39190ac204485194069c57ac1cfe66f3a22ed3dd791e-image.png)
+
+   <br />
+
+   * Tap **“Sign in.”**
+
+3. **Access the People Field**
+
+   * The screen will show a **people** field, along with your existing email and phone number.
+   * Select **“People”** to update the data.
+
+   ![](https://files.readme.io/75fdf161b16a830ae56b95d1f91b15d06374633d3d6b397e73afd0d782589360-image.png)
+
+   <br />
+
+4. **Select Your User**
+
+   * Choose your user entry from the drop-down menu.
+
+   ![](https://files.readme.io/49b2e45505842425fc31580a943bc32c699160fb15172163d69453bdaec69aa8-image.png)
+
+   <br />
+
+5. **Update Your Data**
+
+   * Only **blank fields** can be edited. If a field already has data, it will be **disabled**.
+
+   ![](https://files.readme.io/59fbd1fc60956d06aeb5728ee7ba42049201d6df3a811ab09e9d69b43c281a44-image.png)
+
+   <br />
+
 ***
+
+## Update Phone Number
+
+1. **Type Your Phone Number & Validate**
+   * Tap **“Verify.”** A text message with a one-time password (**OTP**) will be sent to your new number.
+   * Check your SMS app for the code, then enter it to confirm the update.
+
+2. **View Confirmation**
+   * A message will confirm **“Your phone number was updated successfully.”**
+   * The login process continues; you can **choose** which method you wish to use.
+
+***
+
+## Update Email
+
+1. **Type Your Email & Validate**
+   * Tap **“Verify.”** An email containing a **one-time password (OTP)** will be sent.
+   * Check your inbox for the code, then enter it to confirm the update.
+
+2. **View Confirmation**
+   * A message will confirm **“Your email address was updated successfully.”**
+   * The login process continues; you can **choose** which method you wish to use.
 
 ## Email Verification Code
 
