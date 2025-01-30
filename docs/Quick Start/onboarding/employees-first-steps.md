@@ -205,6 +205,71 @@ To log in via email, ensure the **email address** registered by your administrat
 
 ***
 
+## Password Reset
+
+A secure and user-friendly feature that lets you quickly reset a forgotten or expired password via **email** or **SMS** verification, ensuring account access is restored without compromising security.
+
+***
+
+### Tap on "Forgot Password?"
+
+* **Mobile App**: After opening the app (and watching the welcome video), tap **“Forgot password?”**
+
+<Image align="center" width="30% " src="https://files.readme.io/73c22990c6541dfd1d1dc7ede40957236c09e0b9581fdeee411b011d9fd4e4b0-image.png" />
+
+* **Web App**: On the login screen, click **“Forgot password?”**
+
+<Image align="center" width="30% " src="https://files.readme.io/76a54010c2f795ce6685d1c4d23bbfee72bad38f1f72f41ce0a6242a259c552b-image.png" />
+
+<br />
+
+***
+
+### Enter Your Username
+
+* Type in your **username**.
+* Tap or click **“Recover.”**
+
+> **Note:** The **username** is the same **email** you use to log in.
+>
+> <br />
+
+<Columns layout="auto">
+  <Column>
+    Neque porro quisquam est qui dolorem ipsum quia
+
+    <Image align="center" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30%" />
+  </Column>
+
+  <Column>
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+
+    <Image align="center" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30%" />
+  </Column>
+
+  <Column>
+    > Ut enim ad minim veniam, quis nostrud ullamco
+  </Column>
+</Columns>
+
+<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30% " />
+
+<Image align="center" border={false} caption="Web" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30% " />
+
+***
+
+### Check Your Email & Change Your Password
+
+* Locate the **recovery code** sent to your email.
+* **Enter the code** in the designated field.
+* **Enter a new password** (minimum 6 characters).
+* **Confirm** the new password.
+* Tap or click **“Recover.”**
+
+Once you complete these steps, your password will be reset, and you can log in with your new credentials.
+
+***
+
 # Scan QR Codes
 
 1. **Locate** the landing screen.
