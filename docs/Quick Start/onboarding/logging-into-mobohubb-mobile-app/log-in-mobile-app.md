@@ -67,15 +67,18 @@ Select your preferred login method on the Mobohubb login screen:
 
 <Image align="center" width="30% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
 
-***
-
-## SMS Verification Code
+### SMS Verification Code
 
 You will receive a code to confirm the phone number you entered. Make sure you have access to the phone number registered in the portal.
 
 1. **Enter Your Phone Number**
+
    * Tap the flag icon to adjust your country code if needed.
    * This phone number is managed by the portal administrator.
+
+   <Image align="center" width="% " src="https://files.readme.io/77f2ac24918d2fd0e6678709f5177daf6cc6c45e1055a937bcf02b9a9378f9ba-image.png" />
+
+   <br />
 
 2. **Check Your SMS**
    * A unique 6-digit verification code will be sent to your registered phone.
@@ -87,6 +90,40 @@ You will receive a code to confirm the phone number you entered. Make sure you h
 
 4. **Wait for Log In**
    * If the code matches, you will gain access to the app.
+
+### Email Verification Code
+
+A code will be sent to the registered email address to confirm your identity. Ensure you have access to the email address provided to the portal administrator.
+
+1. **Enter Your Email**
+   * This email is managed by the portal administrator.
+
+2. **Check Your Email**
+   * A unique 6-digit verification code will be sent to your inbox.
+
+3. **Return to the Login Interface**
+   * Enter the code and tap **“Login.”**
+   * Resend the code if you don’t receive it.
+   * Check **“Keep me logged in”** to maintain your session (if enabled by the admin).
+
+4. **Wait for Log In**
+   * If the code is correct, you will be logged in.
+
+***
+
+### Username and Password
+
+This method uses a combination of username/email and a password to verify identity. Your administrator can reset the password if necessary.
+
+1. **Enter Your Username or Email**
+   * This information is registered by the portal administrator.
+
+2. **Enter Your Password**
+   * Tap **“Login.”**
+   * Check **“Keep me logged in”** to remain logged in (if allowed by the admin).
+
+3. **Wait for Log In**
+   * Once verified, you’ll be granted access to the app.
 
 ## Existing User
 
@@ -100,11 +137,7 @@ After entering the mobile app and watching the welcome video, **use the change t
 
 <Image align="center" width="40% " src="https://files.readme.io/53b8f12994459c55e339fdd8e98ea517ec9ab5dbc1d7fe2ee8ea65714ef8bb43-image.png" />
 
-<br />
-
 <Image align="center" width="35% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
-
-<br />
 
 ### Check and Update Your Information
 
@@ -155,63 +188,59 @@ If you're an existing user, you can **update** your personal details (email or p
 
 ***
 
-## Update Phone Number
+### Update Phone Number
 
 1. **Type Your Phone Number & Validate**
+
    * Tap **“Verify.”** A text message with a one-time password (**OTP**) will be sent to your new number.
+
+   ![](https://files.readme.io/408036eef28b4d8fa5fc1dc3dd005592dad79ffb185c5647ce9c0c55265b3c99-image.png)
+
+   <br />
+
    * Check your SMS app for the code, then enter it to confirm the update.
 
+   ![](https://files.readme.io/fc584cd19d5431218ed1ea455373418a5b390d0aafd5b0f81bbb58bae63002e0-image.png)
+
+   <br />
+
 2. **View Confirmation**
-   * A message will confirm **“Your phone number was updated successfully.”**
+
+   * A message will confirm **“Your phone number was updated successfully”.**
+
+   ![](https://files.readme.io/e9fc43660e2a47f11e6b7b8ebf8f6747e58c910b3aa05073ed0562a1c4370533-image.png)
+
+   <br />
+
    * The login process continues; you can **choose** which method you wish to use.
 
 ***
 
-## Update Email
+### Update Email
 
 1. **Type Your Email & Validate**
+
    * Tap **“Verify.”** An email containing a **one-time password (OTP)** will be sent.
+
+   <Image align="center" width="38% " src="https://files.readme.io/8f4f6384afceb6dbeff5809b688251428b1dda5f86536b6fafd5784bfcfadef4-image.png" />
+
+   <br />
+
    * Check your inbox for the code, then enter it to confirm the update.
 
+   <Image align="center" width="38% " src="https://files.readme.io/68eef2820433640728b8c508f51dec8d5f8963327a00c9a328fd2fac3a4bfd95-image.png" />
+
+   <br />
+
 2. **View Confirmation**
-   * A message will confirm **“Your email address was updated successfully.”**
+
+   * A message will confirm **“Your email address was updated successfully”.**
+
+   <Image align="center" width="44% " src="https://files.readme.io/f2eec5164a59745166c0f4c9e6d2188455839808468c2d419110d4715536f752-image.png" />
+
+   <br />
+
    * The login process continues; you can **choose** which method you wish to use.
-
-## Email Verification Code
-
-A code will be sent to the registered email address to confirm your identity. Ensure you have access to the email address provided to the portal administrator.
-
-1. **Enter Your Email**
-   * This email is managed by the portal administrator.
-
-2. **Check Your Email**
-   * A unique 6-digit verification code will be sent to your inbox.
-
-3. **Return to the Login Interface**
-   * Enter the code and tap **“Login.”**
-   * Resend the code if you don’t receive it.
-   * Check **“Keep me logged in”** to maintain your session (if enabled by the admin).
-
-4. **Wait for Log In**
-   * If the code is correct, you will be logged in.
-
-***
-
-## Username and Password
-
-This method uses a combination of username/email and a password to verify identity. Your administrator can reset the password if necessary.
-
-1. **Enter Your Username or Email**
-   * This information is registered by the portal administrator.
-
-2. **Enter Your Password**
-   * Tap **“Login.”**
-   * Check **“Keep me logged in”** to remain logged in (if allowed by the admin).
-
-3. **Wait for Log In**
-   * Once verified, you’ll be granted access to the app.
-
-***
 
 # Choose the Site
 
