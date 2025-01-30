@@ -1,5 +1,5 @@
 ---
-title: 'Mobile: Quick Start Guide'
+title: 'Mobile App: Quick Start Guide'
 excerpt: >-
   Welcome to your **Onboarding: First Steps** guide. Here, we’ll walk you
   through the essentials of logging in, scanning QR codes, managing the time
