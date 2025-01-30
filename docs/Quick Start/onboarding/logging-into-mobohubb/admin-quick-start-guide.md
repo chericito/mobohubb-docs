@@ -167,6 +167,4 @@ After updating **Branding (1/2)** and **Users (2/2)**, your new Mobohubb environ
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fc48f7c62c5e90e902a09cb16582888739f61b7ee0b59c490075d549976a1104-image.png" />
 
-<br />
-
 You and your team can now log in and start exploring all the latest features and improvements of the new Mobohubb platform!
