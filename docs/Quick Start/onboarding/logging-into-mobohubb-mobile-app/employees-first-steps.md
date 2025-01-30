@@ -119,8 +119,6 @@ Previously, users needed a domain and pin to verify identity. Now, **Mobohubb** 
 
 <br />
 
-***
-
 ## Other Authentication Methods
 
 You can select your preferred login method by tapping your choice on the login screen.
@@ -201,13 +199,9 @@ To log in via email, ensure the **email address** registered by your administrat
 
 <Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
 
-***
-
 ## Password Reset
 
 A secure and user-friendly feature that lets you quickly reset a forgotten or expired password via **email** or **SMS** verification, ensuring account access is restored without compromising security.
-
-***
 
 ### Tap on "Forgot Password?"
 
@@ -221,8 +215,6 @@ A secure and user-friendly feature that lets you quickly reset a forgotten or ex
 
 <br />
 
-***
-
 ### Enter Your Username
 
 * Type in your **username**.
@@ -233,8 +225,6 @@ A secure and user-friendly feature that lets you quickly reset a forgotten or ex
 <Image align="center" border={false} caption="Mobile" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30% " />
 
 <Image align="center" border={false} caption="Web" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30% " />
-
-***
 
 ### Check Your Email & Change Your Password
 
