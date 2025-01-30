@@ -31,6 +31,16 @@ Mobohubb is a platform to manage and support workers who do not have a fixed des
 
 ## Web App & Mobile App
 
+### Web App
+
+Mobohubb’s **Web App** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
+
+### Mobile App
+
+The **Mobile App** connects administrators with their deskless workforce. Employees can scan QR or NFC codes, complete tasks, fill out forms, record hours, and share real-time updates, making it easy to stay productive on the go.
+
+> [Learn how to log in](https://mobohubb.readme.io/update/docs/logging-into-mobohubb#/)
+
 ## Benefits of using Mobohubb
 
 <Cards columns={4}>
