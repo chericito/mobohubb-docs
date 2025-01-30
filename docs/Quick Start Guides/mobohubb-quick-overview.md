@@ -41,6 +41,8 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
 
 > [Learn how to log in](https://mobohubb.readme.io/update/docs/logging-into-mobohubb#/)
 
+***
+
 ## Benefits of using Mobohubb
 
 <Cards columns={4}>
