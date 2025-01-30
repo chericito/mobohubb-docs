@@ -1,5 +1,5 @@
 ---
-title: 'Onboarding: Mobile App'
+title: 'Mobile: Quick Start Guide'
 excerpt: >-
   Welcome to your **Onboarding: First Steps** guide. Here, we’ll walk you
   through the essentials of logging in, scanning QR codes, managing the time
@@ -25,8 +25,7 @@ metadata:
 
 ## Android
 
-**Download Mobohubb Beta on your Android device**\
-Android devices allow you to install Mobohubb directly from the Google Play Store.
+**Download Mobohubb Beta on your Android device**: Android devices allow you to install Mobohubb directly from the Google Play Store.
 
 1. **Open Mobohubb beta** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share).
 
@@ -46,8 +45,7 @@ Android devices allow you to install Mobohubb directly from the Google Play Stor
 
 ## iPhone and iPad
 
-**Download Mobohubb Beta on your iOS/iPadOS device**\
-iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
+**Download Mobohubb Beta on your iOS/iPadOS device**: iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
 
 1. **Open Mobohubb beta** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
 
