@@ -97,7 +97,7 @@ The first step assigns logos, icons, and other branding details to your organiza
 
 A **scan point** is an element read by a mobile device to obtain information. You can use **QR codes** or **NFC tags**, and they must be placed where you want employees to scan. Once you’ve identified your points of interest (i.e., sites defined previously), you can associate specific forms or tasks with each scan point.
 
-> **Tip:** Think of scan points as checkpoints in your workflow. Each scan point can be configured to prompt users with a form or task, helping them complete actions and log data.
+> **Note:** Think of scan points as checkpoints in your workflow. Each scan point can be configured to prompt users with a form or task, helping them complete actions and log data.
 
 ### Creating Your First Scan Points
 
@@ -138,3 +138,73 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 > **Note:** Repeat this process for each location or checkpoint where you need a scan point. Once finished, mark the second step complete (2/5).
 
 9. **Click** on **"Task"** to proceed.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/56394e7cb743d26f3d9c05938a5ee6133f6fedc3b9c33e968542ea04856feb3b-image.png" />
+
+<br />
+
+## Configure Tasks
+
+**Tasks** represent the specific activities or goals workers perform. Each task can be assigned to one or more users, linked to a specific location, or associated with a category like a scan point (QR/NFC), which helps track attendance, time, and place. You can also enable a report feature to collect and manage data (e.g., work orders, checklists). Follow the steps below to set up your first tasks:
+
+1. **Add a new task**
+
+   * **Click** the **“Add new”** button.
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/27e6769eae122d8ceb81f02b095fb596e385544995e5440e31a4133835452da3-image.png" />
+
+   <br />
+
+2. **Open the task form & name the task**
+
+   * **Give** the task a descriptive name.
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/546b3c32557f52dd1d7162f66323f66e2ffc038376be77f2e951f888c0692213-image.png" />
+
+   <br />
+
+3. **Add a sequence**
+   * Use a unique, sequential number to order and identify the task.
+
+4. **Associate a predefined tag** *(Optional)*
+   * For the initial setup, you may skip this unless you’ve created tags (via the Tags Section).
+
+5. **Assign users**
+   * Select the individuals or groups who will perform this task.
+
+6. **Task description**
+
+   * Provide details (e.g., location, relevant instructions).
+
+7. **Choose the task type**
+   * **Scan**: Requires scanning a QR code or NFC tag.
+   * **Report**: Links to an existing form (created beforehand) to gather data.
+   * **Manual**: Appears as a simple checkbox in the app.
+   > **Note**: If using a Report task, make sure the form already exists so you can select it from the dropdown.
+
+8. **Add meta data** *(Optional)*
+   * This extra info appears to the user. Provide a **meta name** and **meta value** for each entry.
+
+9. **Activate GPS** *(Optional)*
+
+   * **Turn** tasks into **Geo tasks** by enabling GPS. **This requires a completed site.**
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7ed4b001c295d193d66479bd2cd9d0c97e6f3d43509a1d4f99892a601c37ece4-image.png" />
+
+   <br />
+
+   * Once GPS is active, the “Task description” field changes to “Address” so you can define coordinates.
+
+10. **Show the task as active**
+
+* Check the box to enable the task in the system.
+
+11. **Save**
+
+* **Click** **"Save"** at the bottom of the form to finalize.
+
+> **Note:** Repeat this procedure for each task. When finished, mark this step complete (3/5). You’re now one step closer to fully setting up your Mobohubb portal!
+
+12. **Click** on **"Form/Checklist"** to proceed.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/020c720d43d18a42b37623ba7db9949497d38d604c791fe20f003996d89e194e-image.png" />
