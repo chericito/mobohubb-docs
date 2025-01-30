@@ -313,3 +313,14 @@ After logging in, you may need to select a **site** if your organization has mul
 If you’re assigned to more than one site, simply choose the site you wish to proceed with.
 
 ![Choose Site](https://files.readme.io/e5e6017f61d767394401a6979e9439def92314238c7ccc7003ebacbd880f5d0b-image.png)
+
+<br />
+
+# Grant Permissions
+
+To use all features of the Mobohubb app, you must allow access to your device’s location, microphone, media files, and camera. On **iOS**, these permissions (especially microphone and photo gallery) must be granted separately.
+
+* **Camera Permission**: Needed to scan QR/NFC points and upload photos in forms.
+* **Location Permission**: Ensures accurate time clock tracking and completion of Geo tasks.
+* **Media File Permission**: Lets you upload existing files or images when filling out forms.
+* **Microphone Permission**: Enables you to record and send voice notes within forms.
