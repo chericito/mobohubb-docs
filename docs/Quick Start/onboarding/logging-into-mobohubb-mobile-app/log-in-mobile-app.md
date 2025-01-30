@@ -220,7 +220,7 @@ If you're an existing user, you can **update** your personal details (email or p
 
    * Use the **same** pin and domain you used in the classic version.
 
-   ![](https://files.readme.io/2a0d74c30aa8c6c0334b39190ac204485194069c57ac1cfe66f3a22ed3dd791e-image.png)
+   <Image align="center" src="https://files.readme.io/2a0d74c30aa8c6c0334b39190ac204485194069c57ac1cfe66f3a22ed3dd791e-image.png" />
 
    <br />
 
@@ -231,7 +231,7 @@ If you're an existing user, you can **update** your personal details (email or p
    * The screen will show a **people** field, along with your existing email and phone number.
    * Select **“People”** to update the data.
 
-   ![](https://files.readme.io/75fdf161b16a830ae56b95d1f91b15d06374633d3d6b397e73afd0d782589360-image.png)
+   <Image align="center" src="https://files.readme.io/75fdf161b16a830ae56b95d1f91b15d06374633d3d6b397e73afd0d782589360-image.png" />
 
    <br />
 
@@ -247,7 +247,7 @@ If you're an existing user, you can **update** your personal details (email or p
 
    * Only **blank fields** can be edited. If a field already has data, it will be **disabled**.
 
-   ![](https://files.readme.io/59fbd1fc60956d06aeb5728ee7ba42049201d6df3a811ab09e9d69b43c281a44-image.png)
+   <Image align="center" src="https://files.readme.io/59fbd1fc60956d06aeb5728ee7ba42049201d6df3a811ab09e9d69b43c281a44-image.png" />
 
    <br />
 
@@ -257,13 +257,13 @@ If you're an existing user, you can **update** your personal details (email or p
 
    * Tap **“Verify.”** A text message with a one-time password (**OTP**) will be sent to your new number.
 
-   ![](https://files.readme.io/408036eef28b4d8fa5fc1dc3dd005592dad79ffb185c5647ce9c0c55265b3c99-image.png)
+   <Image align="center" src="https://files.readme.io/408036eef28b4d8fa5fc1dc3dd005592dad79ffb185c5647ce9c0c55265b3c99-image.png" />
 
    <br />
 
    * Check your SMS app for the code, then enter it to confirm the update.
 
-   ![](https://files.readme.io/fc584cd19d5431218ed1ea455373418a5b390d0aafd5b0f81bbb58bae63002e0-image.png)
+   <Image align="center" src="https://files.readme.io/fc584cd19d5431218ed1ea455373418a5b390d0aafd5b0f81bbb58bae63002e0-image.png" />
 
    <br />
 
@@ -271,7 +271,7 @@ If you're an existing user, you can **update** your personal details (email or p
 
    * A message will confirm **“Your phone number was updated successfully”.**
 
-   ![](https://files.readme.io/e9fc43660e2a47f11e6b7b8ebf8f6747e58c910b3aa05073ed0562a1c4370533-image.png)
+   <Image align="center" src="https://files.readme.io/e9fc43660e2a47f11e6b7b8ebf8f6747e58c910b3aa05073ed0562a1c4370533-image.png" />
 
    <br />
 
