@@ -24,8 +24,7 @@ metadata:
 **Download Mobohubb Beta on your Android device**\
 Android devices allow you to install Mobohubb directly from the Google Play Store.
 
-1. **Open Mobohubb beta** in the Google Play Store using this link:\
-   [https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share)
+1. **Open Mobohubb beta** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share).
 
    <Image align="center" width="60% " src="https://files.readme.io/a1274e592e718ca8f38e56603473243ffb45c0ff744ea290fda5395d043673eb-image.png" />
 
@@ -46,8 +45,7 @@ Android devices allow you to install Mobohubb directly from the Google Play Stor
 **Download Mobohubb Beta on your iOS/iPadOS device**\
 iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
 
-1. **Open Mobohubb beta** in the App Store using this link:\
-   [https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone)
+1. **Open Mobohubb beta** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
 
    <Image align="center" width="60% " src="https://files.readme.io/8e992cb69eeb834e7df1479dcd4765f5bb1eb6e1b6b1e75db3a6de5d2dbef2ac-image.png" />
 
