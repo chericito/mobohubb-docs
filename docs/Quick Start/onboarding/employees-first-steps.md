@@ -330,13 +330,33 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 # Complete Tasks
 
 1. **Select** the task.
+
    * You can use the **search bar** at the top of the tasks section to easily find it.
+
+   <Image align="center" width="38% " src="https://files.readme.io/3af86ec971e98f3967e689e4c8c0a382f67fee7241d44220405b2a0216c4791d-image.png" />
+
+   <br />
 2. **Swipe right** to mark it as done.
+
+<Image align="center" width="38% " src="https://files.readme.io/f6ab9fab3fcac295c74677c57427ea9a4606f1924f3678e576b651c77ab0e850-image.png" />
+
+<br />
+
 3. **Confirm** using the check button.
-   * **Scan task**: Prompts you to scan a QR code or NFC with your device.
-   * **Report task**: Redirects you to a form.
-   * **Manual task**: Appears as a checkbox with no redirects.
-4. Click **Close**.
+
+<Image align="center" width="38% " src="https://files.readme.io/b13cf0a1a844d8ba29b1f9bc38927f32f365e616c44415c8010fa1bdafd26924-image.png" />
+
+<br />
+
+* **Scan task**: Prompts you to scan a QR code or NFC with your device.
+* **Report task**: Redirects you to a form.
+* **Manual task**: Appears as a checkbox with no redirects.
+
+4. **Click** **Close**.
+
+<Image align="center" width="38% " src="https://files.readme.io/af629cad8e13c1f4d3b80b91d4cb36b4692847f31d8c87b61d090a923a548557-image.png" />
+
+<br />
 
 ***
 
