@@ -11,6 +11,8 @@ metadata:
 **In this guide you'll discover**
 
 * How to check your subscription and log in as an administrator
+* How to log in as a user in the mobile app
+  <br />
 
 ***
 
@@ -49,3 +51,17 @@ To use Mobohubb, you must have a current subscription, which you can verify on t
 7. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
 > **Note:** The login window also includes a **Recover your password** feature if you need to reset your credentials.
+
+# Logging into the Mobile App
+
+## No More Domain and Pin
+
+<br />
+
+Previously, access to the mobile application required the introduction of a domain and a pin to verify the user's identity. Currently, we have improved our security protocols to streamline the access process and validation of the user's identity, so we provide several options for users to log in:
+
+SMS verification code: you will receive a text message with a code that you must enter on the login screen.Email verification code: you will receive an email with a code that you must enter on the login screen.
+Username and password: you can create a username and password that you will use to access the platform.
+If you are an existing user and this is the first time you access the platform, don’t worry: you can use the domain and pin as a first step. However, you must then fill in the fields corresponding to the email and mobile number, which are essential in using Mobohubb.
+
+You can consult the no more domain and pin section of the mobile user guide to enter the mobile app to update data.
