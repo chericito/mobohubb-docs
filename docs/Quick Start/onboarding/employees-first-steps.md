@@ -174,17 +174,34 @@ To log in via SMS, you’ll need the **phone number** registered by your adminis
 To log in via email, ensure the **email address** registered by your administrator is correct. You’ll receive a **6-digit code** to confirm your identity.
 
 1. **Enter Your Email Address**
-2. **Check Your Email**
-   * A unique 6-digit code will be sent to your inbox.
-3. **Return to the Login Screen**
-   * Enter the verification code to confirm your identity.
-   * If you don’t receive a code, tap **“Resend Code.”**
-   * Check **“Keep me logged in”** (if enabled) to remain logged in.
-   * Tap **“Login.”**
-4. **Wait for Login**
-   * If the code is correct, you’ll gain access to the app.
+
+<Image align="center" width="30% " src="https://files.readme.io/34f77c5289f823df2da171bb04b85e6782581c45f96450a055c20994c9f8baa5-image.png" />
 
 <br />
+
+2. **Check Your Email**
+
+* A unique 6-digit code will be sent to your inbox.
+
+<Image align="center" width="50% " src="https://files.readme.io/42b4ce5f4f56e331bd865a54f9f05e238cfa94d6481e10e12b7bf21aa1d4c388-image.png" />
+
+3. **Return to the Login Screen**
+
+* Enter the verification code to confirm your identity.
+
+<Image align="center" width="30% " src="https://files.readme.io/4d1cdd0e14e023c1d03eb63aff655778bb7a95076bd2f196620908855420d050-image.png" />
+
+<br />
+
+* If you don’t receive a code, tap **“Resend Code”.**
+* Check **“Keep me logged in”** (if enabled) to remain logged in.
+* Tap **“Login.”**
+
+4. **Wait for Login**
+
+* If the code is correct, you’ll gain access to the app.
+
+<Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
 
 ***
 
