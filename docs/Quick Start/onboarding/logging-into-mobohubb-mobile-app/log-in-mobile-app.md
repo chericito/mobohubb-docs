@@ -55,6 +55,8 @@ When invited via SMS, workers receive a text message containing access informati
 
 # Log in the Mobile App
 
+## New User
+
 You can choose from **three** authentication methods to log in:
 
 * **Verification code by SMS**
