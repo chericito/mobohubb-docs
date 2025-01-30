@@ -91,7 +91,7 @@ Previously, users needed a domain and pin to verify identity. Now, **Mobohubb** 
 
 <Image align="center" width="30% " src="https://files.readme.io/004e4698b68ac44d39548a93c3a409d74b084fe2dc01aa6235062e594936e23e-image.png" />
 
-<br />
+> **Note**: For a complete walkthrough on Mobile App Log In, please visit our [dedicated page](https://mobohubb.readme.io/docs/log-in-mobile-app#/).
 
 ## Web App
 
