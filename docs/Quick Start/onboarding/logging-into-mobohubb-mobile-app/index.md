@@ -37,7 +37,7 @@ Android devices allow you to install Mobohubb directly from the Google Play Stor
 
 ***
 
-# iPhone and iPad
+## iPhone and iPad
 
 **Download Mobohubb Beta on your iOS/iPadOS device**\
 iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
