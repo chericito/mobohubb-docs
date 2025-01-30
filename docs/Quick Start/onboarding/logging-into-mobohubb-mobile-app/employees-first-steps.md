@@ -457,3 +457,5 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 * You can track your logs in **My Activity**.
 
 <Image align="center" width="30% " src="https://files.readme.io/2068a479862e03d4c2fab2c80365328b21f04b0435d2abd3204d09992c463385-image.png" />
+
+This is everything you need for a quick start. Please, don't hesitate on asking questions or [contact support](https://mobohubb.zendesk.com/hc/en-us/requests/new).
