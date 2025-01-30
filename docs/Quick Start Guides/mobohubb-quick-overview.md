@@ -8,6 +8,11 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
+next:
+  pages:
+    - slug: logging-into-mobohubb
+      title: Logging into Mobohubb
+      type: basic
 ---
 **In this page you'll learn**
 
