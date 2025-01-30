@@ -1,5 +1,5 @@
 ---
-title: 'Mobile Onboarding: First Steps'
+title: 'Onboarding: Mobile App'
 excerpt: >-
   Welcome to your **Onboarding: First Steps** guide. Here, we’ll walk you
   through the essentials of logging in, scanning QR codes, managing the time
