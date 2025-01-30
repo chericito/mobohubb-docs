@@ -67,49 +67,75 @@ Select your preferred login method on the Mobohubb login screen:
 
 <Image align="center" width="30% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
 
+<br />
+
 ### SMS Verification Code
 
-You will receive a code to confirm the phone number you entered. Make sure you have access to the phone number registered in the portal.
+To log in via SMS, you’ll need the **phone number** registered by your administrator. You’ll receive a **6-digit code** to confirm your identity.
 
-1. **Enter Your Phone Number**
+1. **Enter Your Mobile Number**
 
-   * Tap the flag icon to adjust your country code if needed.
-   * This phone number is managed by the portal administrator.
+   * Tap the **flag icon** to adjust your country code if needed.
 
-   <Image align="center" width="% " src="https://files.readme.io/77f2ac24918d2fd0e6678709f5177daf6cc6c45e1055a937bcf02b9a9378f9ba-image.png" />
+   <Image align="center" width="30% " src="https://files.readme.io/316a819ae4032205a3db6fd446f1b808282b885df157de91e8f6e5545f1f1b3d-image.png" />
+
+   <br />
+2. **Check Your SMS**
+
+   * A unique 6-digit code will be sent to your phone.
+
+   <Image align="center" width="30% " src="https://files.readme.io/658d6282d6c03dbe765d323f781303ea20c21f1e172bd147e5f64e2993f34d6c-image.png" />
+
+   <br />
+3. **Return to the Login Screen**
+
+   * Enter the verification code to confirm your identity.
+
+   <Image align="center" width="30% " src="https://files.readme.io/0fe259c692fe9d6bb00d7d22f6852baa5c6d2b82db0b0cd8b1cef8a4b7ea9ef0-image.png" />
 
    <br />
 
-2. **Check Your SMS**
-   * A unique 6-digit verification code will be sent to your registered phone.
+   * If you don’t receive a code, tap **“Resend Code”.**
+   * Check **“Keep me logged in”** (if enabled by your admin) to remain logged in.
+4. **Tap “Login”**
 
-3. **Return to the Login Interface**
-   * Enter the verification code and tap **“Login.”**
-   * You can resend the code if you don’t receive it.
-   * Check **“Keep me logged in”** to maintain your session (if enabled by the admin).
+   * If the code matches, you’ll be granted access.
 
-4. **Wait for Log In**
-   * If the code matches, you will gain access to the app.
+   <Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
+
+   <br />
 
 ### Email Verification Code
 
-A code will be sent to the registered email address to confirm your identity. Ensure you have access to the email address provided to the portal administrator.
+To log in via email, ensure the **email address** registered by your administrator is correct. You’ll receive a **6-digit code** to confirm your identity.
 
-1. **Enter Your Email**
-   * This email is managed by the portal administrator.
+1. **Enter Your Email Address**
+
+<Image align="center" width="30% " src="https://files.readme.io/34f77c5289f823df2da171bb04b85e6782581c45f96450a055c20994c9f8baa5-image.png" />
 
 2. **Check Your Email**
-   * A unique 6-digit verification code will be sent to your inbox.
 
-3. **Return to the Login Interface**
-   * Enter the code and tap **“Login.”**
-   * Resend the code if you don’t receive it.
-   * Check **“Keep me logged in”** to maintain your session (if enabled by the admin).
+* A unique 6-digit code will be sent to your inbox.
 
-4. **Wait for Log In**
-   * If the code is correct, you will be logged in.
+<Image align="center" width="50% " src="https://files.readme.io/42b4ce5f4f56e331bd865a54f9f05e238cfa94d6481e10e12b7bf21aa1d4c388-image.png" />
 
-***
+3. **Return to the Login Screen**
+
+* Enter the verification code to confirm your identity.
+
+<Image align="center" width="30% " src="https://files.readme.io/4d1cdd0e14e023c1d03eb63aff655778bb7a95076bd2f196620908855420d050-image.png" />
+
+* If you don’t receive a code, tap **“Resend Code”.**
+* Check **“Keep me logged in”** (if enabled) to remain logged in.
+* Tap **“Login.”**
+
+4. **Wait for Login**
+
+* If the code is correct, you’ll gain access to the app.
+
+<Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
+
+<br />
 
 ### Username and Password
 
@@ -124,6 +150,45 @@ This method uses a combination of username/email and a password to verify identi
 
 3. **Wait for Log In**
    * Once verified, you’ll be granted access to the app.
+
+## Password Reset
+
+You can quickly reset a forgotten or expired password via **email** or **SMS** verification, ensuring account access is restored without compromising security.
+
+### Tap on "Forgot Password?"
+
+* **Mobile App**: After opening the app (and watching the welcome video), tap **“Forgot password?”**
+
+<Image align="center" width="30% " src="https://files.readme.io/73c22990c6541dfd1d1dc7ede40957236c09e0b9581fdeee411b011d9fd4e4b0-image.png" />
+
+* **Web App**: On the login screen, click **“Forgot password?”**
+
+<Image align="center" width="30% " src="https://files.readme.io/76a54010c2f795ce6685d1c4d23bbfee72bad38f1f72f41ce0a6242a259c552b-image.png" />
+
+### Enter Your Username
+
+* Type in your **username**.
+* Tap or click **“Recover.”**
+
+> **Note:** The **username** is the same **email** you use to log in.
+
+<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30% " />
+
+<Image align="center" border={false} caption="Web" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30% " />
+
+### Check Your Email & Change Your Password
+
+* Locate the **recovery code** sent to your email.
+* **Enter the code** in the designated field.
+* **Enter a new password** (minimum 6 characters).
+* **Confirm** the new password.
+* Tap or click **“Recover”.**
+
+<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/1fc9e5b638ca63ab44b909e2e0d2661941d367a51447d7b4f0e9703acb5c990d-image.png" width="30% " />
+
+<Image align="center" border={true} caption="Web" src="https://files.readme.io/8ca79dd64536467d5b417848378416dfecd17863f5652657831470c2a647caee-image.png" width="30% " />
+
+Once you complete these steps, your password will be reset, and you can log in with your new credentials.
 
 ## Existing User
 
@@ -186,8 +251,6 @@ If you're an existing user, you can **update** your personal details (email or p
 
    <br />
 
-***
-
 ### Update Phone Number
 
 1. **Type Your Phone Number & Validate**
@@ -213,8 +276,6 @@ If you're an existing user, you can **update** your personal details (email or p
    <br />
 
    * The login process continues; you can **choose** which method you wish to use.
-
-***
 
 ### Update Email
 
