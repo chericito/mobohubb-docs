@@ -231,22 +231,6 @@ A secure and user-friendly feature that lets you quickly reset a forgotten or ex
 * Tap or click **“Recover.”**
 
 > **Note:** The **username** is the same **email** you use to log in.
->
-> <br />
-
-<Columns layout="auto">
-  <Column>
-    *Mobile*
-
-    <Image align="center" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30%" />
-  </Column>
-
-  <Column>
-    *Web*
-
-    <Image align="center" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30%" />
-  </Column>
-</Columns>
 
 <Image align="center" border={false} caption="Mobile" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30% " />
 
@@ -260,7 +244,11 @@ A secure and user-friendly feature that lets you quickly reset a forgotten or ex
 * **Enter the code** in the designated field.
 * **Enter a new password** (minimum 6 characters).
 * **Confirm** the new password.
-* Tap or click **“Recover.”**
+* Tap or click **“Recover”.**
+
+<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/1fc9e5b638ca63ab44b909e2e0d2661941d367a51447d7b4f0e9703acb5c990d-image.png" width="30% " />
+
+<Image align="center" border={true} caption="Web" src="https://files.readme.io/8ca79dd64536467d5b417848378416dfecd17863f5652657831470c2a647caee-image.png" width="30% " />
 
 Once you complete these steps, your password will be reset, and you can log in with your new credentials.
 
@@ -269,9 +257,27 @@ Once you complete these steps, your password will be reset, and you can log in w
 # Scan QR Codes
 
 1. **Locate** the landing screen.
+
+<Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
+
 2. Use the bottom menu and select the **Scan** option.
+
+<Image align="center" width="30% " src="https://files.readme.io/3ed3bf8037091bb2585712c23e6145f09434947fa65ad503606d4749914f2851-image.png" />
+
+<br />
+
 3. The **camera** will activate and scan the QR code.
+
+<Image align="center" width="30% " src="https://files.readme.io/37123b81d11453aded391513b313c58cbc905664d6b281ad6ef73cf2c9fd7b5c-image.png" />
+
+<br />
+
 4. **Submit** the QR code.
+
+<Image align="center" width="30% " src="https://files.readme.io/3c443a2353cb2c0cf3f85dcb578a029473518fdd23db7b34884352101655627d-image.png" />
+
+<br />
+
 5. **Close** and validate. You can track your logs in **My Activity**.
 
 ***
