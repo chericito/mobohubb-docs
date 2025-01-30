@@ -1,7 +1,7 @@
 ---
 title: 'Existing Users: Quick Start Guides'
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
