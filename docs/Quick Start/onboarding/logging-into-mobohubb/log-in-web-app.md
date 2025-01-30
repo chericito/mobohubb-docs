@@ -15,7 +15,7 @@ metadata:
 
 ***
 
-# Log in the Web App
+# Logging In the Web App
 
 1. Navigate to [https://app.mobohubb.com/](https://app.mobohubb.com/).
 
