@@ -11,11 +11,14 @@ metadata:
 **In this guide you'll discover**
 
 * How to check your subscription and log in as an administrator
+* How to log in as an employee
 * How to log in as a user in the mobile app
 
 ***
 
-## Logging In the Web App
+# Logging In the Web App
+
+## Administrator
 
 To use Mobohubb, you must have a current subscription, which you can verify on the [Mobohubb pricing page](https://mobohubb.com/#pricing). Once your subscription is active, Mobohubb provides the administrator’s email address along with the user credentials and password.
 
@@ -50,3 +53,5 @@ To use Mobohubb, you must have a current subscription, which you can verify on t
 7. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
 > **Note:** The login window also includes a **Recover your password** feature if you need to reset your credentials.
+
+## Employee
