@@ -63,8 +63,6 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
   </Card>
 </Cards>
 
-<br />
-
 ***
 
 ## Glossary of Terms
