@@ -5,7 +5,7 @@ excerpt: >-
   deskless workforce. Each resource below offers specific guidance to help you
   hit the ground running.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
