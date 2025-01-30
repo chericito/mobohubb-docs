@@ -65,6 +65,16 @@ iOS and iPadOS devices allow you to install Mobohubb directly from the App Store
 
 This identity verification method uses a combination of email and password to allow access. The password can be changed by a portal administrator, while the username will be retained.
 
+### No More Domain and Pin
+
+Previously, users needed a domain and pin to verify identity. Now, **Mobohubb** offers multiple login methods:
+
+* **Email verification code**
+* **SMS verification code**
+* **Username & password**
+
+**If you’re an existing user logging in for the first time, you can still use your domain and pin initially. However, you’ll then be required to update your email and phone number to take advantage of the new login methods.**
+
 ## Mobile App
 
 1. **Enter your email**
@@ -108,6 +118,71 @@ This identity verification method uses a combination of email and password to al
 4. To see more options, **select the top-left button** with the three stripes.
 
 <Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/de137b8c8e1120d6519c0d4e45775f02c9e78b9c3ba8852f1115e2175c3e0e98-image.png" />
+
+<br />
+
+***
+
+## Other Authentication Methods
+
+You can select your preferred login method by tapping your choice on the login screen.
+
+<Image align="center" width="30% " src="https://files.readme.io/330aa505017d23cc1dfd61035b099589cf20537edce384682e8c1450dfc4e6dd-image.png" />
+
+<br />
+
+### SMS Verification Code
+
+To log in via SMS, you’ll need the **phone number** registered by your administrator. You’ll receive a **6-digit code** to confirm your identity.
+
+1. **Enter Your Mobile Number**
+
+   * Tap the **flag icon** to adjust your country code if needed.
+
+   <Image align="center" width="30% " src="https://files.readme.io/316a819ae4032205a3db6fd446f1b808282b885df157de91e8f6e5545f1f1b3d-image.png" />
+
+   <br />
+2. **Check Your SMS**
+
+   * A unique 6-digit code will be sent to your phone.
+
+   <Image align="center" width="30% " src="https://files.readme.io/658d6282d6c03dbe765d323f781303ea20c21f1e172bd147e5f64e2993f34d6c-image.png" />
+
+   <br />
+3. **Return to the Login Screen**
+
+   * Enter the verification code to confirm your identity.
+
+   <Image align="center" width="30% " src="https://files.readme.io/0fe259c692fe9d6bb00d7d22f6852baa5c6d2b82db0b0cd8b1cef8a4b7ea9ef0-image.png" />
+
+   <br />
+
+   * If you don’t receive a code, tap **“Resend Code”.**
+   * Check **“Keep me logged in”** (if enabled by your admin) to remain logged in.
+4. **Tap “Login”**
+
+   * If the code matches, you’ll be granted access.
+
+   <Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
+
+   <br />
+
+***
+
+### Email Verification Code
+
+To log in via email, ensure the **email address** registered by your administrator is correct. You’ll receive a **6-digit code** to confirm your identity.
+
+1. **Enter Your Email Address**
+2. **Check Your Email**
+   * A unique 6-digit code will be sent to your inbox.
+3. **Return to the Login Screen**
+   * Enter the verification code to confirm your identity.
+   * If you don’t receive a code, tap **“Resend Code.”**
+   * Check **“Keep me logged in”** (if enabled) to remain logged in.
+   * Tap **“Login.”**
+4. **Wait for Login**
+   * If the code is correct, you’ll gain access to the app.
 
 <br />
 
