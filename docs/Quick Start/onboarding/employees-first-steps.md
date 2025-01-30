@@ -280,6 +280,10 @@ Once you complete these steps, your password will be reset, and you can log in w
 
 5. **Close** and validate. You can track your logs in **My Activity**.
 
+<Image align="center" width="30% " src="https://files.readme.io/548e7710efc10de4747021044a6c5953e3c202ec771013252f876f1777801209-image.png" />
+
+<br />
+
 ***
 
 # Manage the Time Clock
@@ -289,16 +293,37 @@ Once you complete these steps, your password will be reset, and you can log in w
 3. **Hold down** the clock button until the green indicator completes (about 5 seconds).
 4. Verify that the **stopwatch** is running.
 
+<Image align="center" width="30% " src="https://files.readme.io/a6ec3c7b20820aa0070e989f2bc86f9a26c27059e153f4006cffd83c88688cb0-image.png" />
+
+<br />
+
 **To check out** of the Time Clock:
 
 1. Go back to the **Time Clock** section in the footer menu.
 2. Add a **note** for your check-out (optional).
 3. **Hold down** the clock button until the green indicator completes (5 seconds).
+
+<Image align="center" width="30% " src="https://files.readme.io/774379149ba17b5aac607d76604844bf68666786ec199573bfed22ddf92af244-image.png" />
+
+<br />
+
 4. **Close** the time summary, where you can see the total hours worked.
+
+<Image align="center" width="33% " src="https://files.readme.io/c613406c404c7ee32f33ae8bfee0728204a1d5184303a9cd1d2d524623e3413d-image.png" />
+
+<br />
 
 ### Manual Breaks
 
-If the administrator wants breaks to be manual, you will see a **Take a break** button on the time clock. Tap it to choose from the **break options** configured by the admin (paid or unpaid).
+If the administrator wants breaks to be manual, you will see a **Take a break** button on the time clock.
+
+<Image align="center" width="30% " src="https://files.readme.io/8e368035977cc8df25d00fac88e16e60d83da725e7e23ba3bf9c9740e0ce6173-image.png" />
+
+Tap it to choose from the **break options** configured by the admin (paid or unpaid).
+
+<Image align="center" width="30% " src="https://files.readme.io/436861f37c38e8b7469d79145f3373c7bf23b7b27989d3a67c7a16b20e498f4c-image.png" />
+
+<br />
 
 ***
 
