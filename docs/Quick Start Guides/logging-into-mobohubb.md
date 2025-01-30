@@ -14,7 +14,7 @@ metadata:
 
 ***
 
-## Logging In
+## Logging In the Web App
 
 To use Mobohubb, you must have a current subscription, which you can verify on the [Mobohubb pricing page](https://mobohubb.com/#pricing). Once your subscription is active, Mobohubb provides the administrator’s email address along with the user credentials and password.
 
