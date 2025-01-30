@@ -1,5 +1,5 @@
 ---
-title: Logging into Mobohubb Mobile App
+title: Mobohubb Mobile App
 excerpt: >-
   This guide explains how to download and install the Mobohubb Mobile App on
   both Android and iOS devices, and details the new login methods available to
