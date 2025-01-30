@@ -1,5 +1,5 @@
 ---
-title: 'Admin: Quick Start Guide'
+title: Migrating from Classic Monohub Admin Quick Start Guide
 excerpt: >-
   This guide is designed for **existing admin users** transitioning from the
   classic portal. We’ll show you how to log in, update your organization’s
