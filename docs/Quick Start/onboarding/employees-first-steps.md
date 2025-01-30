@@ -236,19 +236,15 @@ A secure and user-friendly feature that lets you quickly reset a forgotten or ex
 
 <Columns layout="auto">
   <Column>
-    Neque porro quisquam est qui dolorem ipsum quia
+    *Mobile*
 
     <Image align="center" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30%" />
   </Column>
 
   <Column>
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+    *Web*
 
     <Image align="center" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30%" />
-  </Column>
-
-  <Column>
-    > Ut enim ad minim veniam, quis nostrud ullamco
   </Column>
 </Columns>
 
