@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-# After Logging In
+# After Logging in for the First Time
 
 When you log in for the first time, the **Set-up Wizard** will open. This assists in configuring the application quickly and correctly. Here are the steps to complete the Wizard:
 
