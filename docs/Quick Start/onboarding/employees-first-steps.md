@@ -363,11 +363,31 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 # Forms or Checklists
 
 1. **Select** the form or checklist.
+
    * Use the search bar at the top to find it quickly.
-2. **Fill in the form**, noting the fields marked with an asterisk (\*).
+
+   <Image align="center" width="30% " src="https://files.readme.io/d0974cf095507abd4956b3a61631fc7055cfa442c12b6befbad655b9f27b13c1-image.png" />
+
+   <br />
+2. **Fill in the form**, noting the fields marked with an asterisk.
+
+<Image align="center" width="30% " src="https://files.readme.io/93bfbc1bfde4d83b952134f46e848886d51cbef7a60a16fbeb0aaf27f72d4cd1-image.png" />
+
+<br />
+
 3. **Submit** the form or checklist.
+
+<Image align="center" width="30% " src="https://files.readme.io/cdeb1a0d0272d7bbd622f8dc92aa43b2372804ac1bc0587f60a21355cf99b6d5-image.png" />
+
+<br />
+
 4. **Close** and confirm.
-   * You can track your logs in **My Activity**.
+
+* You can track your logs in **My Activity**.
+
+<Image align="center" width="30% " src="https://files.readme.io/8a2ae740c23b05db3cbe0041e5f7e2881d2e53f3f5bbbb9ea2b993ddb4228d8f-image.png" />
+
+<br />
 
 ***
 
