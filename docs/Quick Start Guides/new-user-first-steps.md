@@ -11,8 +11,8 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
 1. **Welcome**
 
-   * Confirm the name of your organization in the text box.
-   * Click on the **Make it your own** interface to customize the portal’s appearance and functionality.
+   * **Confirm** the name of your organization in the text box.
+   * **Click** on the **Make it your own** interface to customize the portal’s appearance and functionality.
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5b7d25b72dfbd18f9bf86559f08665aaaa7f51d307916d561097bdb1e2bad14c-image.png" />
 
@@ -24,11 +24,11 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
    <br />
 
-   * Choose a color theme for your app. This theme affects the background, icons, and fonts in the portal.
-   * Upload your **logo file** (JPG or PNG). This will appear in the top-left corner of the portal.
-   * Upload your **mobile logo file** (JPG or PNG). This will be displayed in the mobile app.
-   * Upload your **icon file** (JPG or PNG). This icon appears in the top-left corner of your app when the menu collapses.
-   * Click on the interface in the **Set up** section to configure your first <Glossary>site</Glossary>.
+   * **Choose** a color theme for your app. This theme affects the background, icons, and fonts in the portal.
+   * **Upload** your **logo file** (JPG or PNG). This will appear in the top-left corner of the portal.
+   * **Upload** your **mobile logo file** (JPG or PNG). This will be displayed in the mobile app.
+   * **Upload** your **icon file** (JPG or PNG). This icon appears in the top-left corner of your app when the menu collapses.
+   * **Click** on the interface in the **Set up** section to configure your first <Glossary>site</Glossary>.
 
 3. **Set up**
 
@@ -36,10 +36,10 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
    <br />
 
-   * **Site name**: Enter a name that identifies your <Glossary>site</Glossary>.
-   * **Site type**: Select from security, facilities, cleaning, construction, restaurant, or choose **Other** if none match.
-   * **Site address**: Enter the physical or virtual address where your main activities occur.
-   * Click **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the Mobohubb portal.
+   * **Site name**: **Enter** a name that identifies your <Glossary>site</Glossary>.
+   * **Site type**: **Select** from security, facilities, cleaning, construction, restaurant, or choose **Other** if none match.
+   * **Site address**: **Enter** the physical or virtual address where your main activities occur.
+   * **Click** **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the Mobohubb portal.
 
 > **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.zendesk.com/hc/en-us/articles/25649941947021) to get started.
 
