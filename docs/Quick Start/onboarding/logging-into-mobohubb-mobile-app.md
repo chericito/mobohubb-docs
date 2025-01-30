@@ -12,8 +12,6 @@ metadata:
 **In this guide you'll learn**
 
 * How to download the Mobohubb Beta App on Android and iOS
-* The new login methods and how to use them
-* What to do when receiving email or SMS invitations
 
 ***
 
