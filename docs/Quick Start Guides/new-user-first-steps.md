@@ -57,7 +57,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
 When you first log in, you’ll see a setup walkthrough in the top menu. Each of the **5 steps** must be completed before asking mobile users to access the app. As you finish each step, select the green check circle on the left side to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your Mobohubb menu will be fully set up.
 
-### 1. Customize Your Brand
+## Customize Your Brand
 
 The first step assigns logos, icons, and other branding details to your organization. By default, these apply to all sites; however, you can customize each site’s branding if needed.
 
@@ -92,3 +92,51 @@ The first step assigns logos, icons, and other branding details to your organiza
 >
 > * **Organization name** = The company’s corporate name.
 > * **Site name** = The physical (or virtual) location where main activities occur.
+
+<br />
+
+## Set Up the Scan Points
+
+A **scan point** is an element read by a mobile device to obtain information. You can use **QR codes** or **NFC tags**, and they must be placed where you want employees to scan. Once you’ve identified your points of interest (i.e., sites defined previously), you can associate specific forms or tasks with each scan point.
+
+> **Tip:** Think of scan points as checkpoints in your workflow. Each scan point can be configured to prompt users with a form or task, helping them complete actions and log data.
+
+### Creating Your First Scan Points
+
+1. **Add a New Scan Point**
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5a2a5da4150b8d6b11c66bb56ca546b9c4590a32515b9d3cf8c963037cdc86e6-image.png" />
+
+   * Click the “Add New” button.
+
+     <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9f7c89224978483d49ba77614668990a4a9fd3e7f14638f28f29fcc066f66f53-image.png" />
+
+2. **QR Code ID**
+   * Assign a unique ID for each scan point. This should follow a logical sequence (e.g., sequential numbers) to keep them organized.
+   * Visit our [QR Codes Section](#) for details on generating QR codes.
+
+3. **Name & Description**
+   * **Name**: A quick identifier (e.g., “Lobby Entrance,” “Server Room”).
+   * **Description**: Add relevant details such as room number or specific location.
+
+4. **Time Interval**
+
+   * Specify how often you want users to scan this code (e.g., “01:00” = once per hour).
+
+5. **Associate Tag** (Optional)
+   * If needed, attach a predefined tag. You can create or manage tags in our [Tags Section](#).
+
+6. **Link to a Task or Form** (Optional)
+   * You can associate the scan point with an existing task or form (created in later steps).
+   * For initial setup, you may choose **None** until tasks/forms are ready.
+
+7. **Activate the Scan Point**
+   * Check the box to mark it as active.
+
+8. **Save**
+
+   * Click “Save” at the bottom of the form to finalize.
+
+> **Note:** Repeat this process for each location or checkpoint where you need a scan point. Once finished, mark the second step complete (2/5).
+
+9. **Click** on **"Task"** to proceed.
