@@ -23,23 +23,21 @@ metadata:
 
 # Log In
 
-<Cards columns={2}>
-  <Card title="Mobile App" icon="fa-mobile">
-    **Enter your email**\
-    **Type in your password** and tap on the **Login** button.\
-    **Wait** for the login to complete.
-  </Card>
+## Mobile App
 
-  <Card title="Web App" icon="fa-globe">
-    Access [https://webapp.mobohubb.com/](🔗)
+1. **Enter your email**
+2. **Type in your password** and tap on the **Login** button.
+3. **Wait** for the login to complete.
 
-    **Enter your email**\
-    **Type in your password** and tap on the **Login** button\
-    **Wait** for the login to complete
+***
 
-    To see more options, **select the top-left button** with the three stripes.
-  </Card>
-</Cards>
+## Web App
+
+1. Access [https://webapp.mobohubb.com/](https://webapp.mobohubb.com/)
+2. **Enter your email**
+3. **Type in your password** and tap on the **Login** button
+4. **Wait** for the login to complete
+5. To see more options, **select the top-left button** with the three stripes.
 
 ***
 
