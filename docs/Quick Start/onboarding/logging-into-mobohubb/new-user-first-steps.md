@@ -151,8 +151,6 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/56394e7cb743d26f3d9c05938a5ee6133f6fedc3b9c33e968542ea04856feb3b-image.png" />
 
-<br />
-
 ## Configure Tasks
 
 **Tasks** represent the specific activities or goals workers perform. Each task can be assigned to one or more users, linked to a specific location, or associated with a category like a scan point (QR/NFC), which helps track attendance, time, and place. You can also enable a report feature to collect and manage data (e.g., work orders, checklists). Follow the steps below to set up your first tasks:
@@ -315,7 +313,7 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 
 **Click** on **“Invite your team”** to move to the final step.
 
-![](https://files.readme.io/5a70d2e13bf641a33a9f5c12ffba3047af19aa36f15a3ec09e726915f5ada93a-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5a70d2e13bf641a33a9f5c12ffba3047af19aa36f15a3ec09e726915f5ada93a-image.png" />
 
 # Invite Your Team
 
