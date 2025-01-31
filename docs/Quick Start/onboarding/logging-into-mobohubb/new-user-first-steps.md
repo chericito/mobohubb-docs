@@ -15,6 +15,16 @@ next:
       title: 'Existing Users: Quick Start Guides'
       type: basic
 ---
+**In this quick start guide you'll learn:**
+
+* How to **complete the Setup Wizard** after your first login
+* How to **customize your brand**, including logos, colors, and time zone settings
+* How to **set up scan points** (QR/NFC) and link them to tasks or forms
+* How to **configure tasks** for your deskless workforce and enable optional GPS tracking
+* How to **create forms and checklists**, add fields, and manage advanced options
+* How to **invite your team** and assign roles (e.g., Organization Administrator, Site Administrator)
+* How to **complete your final setup** so the portal and app are ready for use
+
 # After Logging in for the First Time
 
 When you log in for the first time, the **Set-up Wizard** will open. This assists in configuring the application quickly and correctly. Here are the steps to complete the Wizard:
