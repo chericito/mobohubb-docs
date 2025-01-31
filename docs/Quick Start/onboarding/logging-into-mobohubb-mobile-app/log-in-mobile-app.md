@@ -151,11 +151,11 @@ This method uses a combination of username/email and a password to verify identi
 3. **Wait for Log In**
    * Once verified, you’ll be granted access to the app.
 
-## Password Reset
+### Password Reset
 
 You can quickly reset a forgotten or expired password via **email** or **SMS** verification, ensuring account access is restored without compromising security.
 
-### Tap on "Forgot Password?"
+#### Tap on "Forgot Password?"
 
 * **Mobile App**: After opening the app (and watching the welcome video), tap **“Forgot password?”**
 
@@ -165,7 +165,7 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 
 <Image align="center" width="30% " src="https://files.readme.io/76a54010c2f795ce6685d1c4d23bbfee72bad38f1f72f41ce0a6242a259c552b-image.png" />
 
-### Enter Your Username
+#### Enter Your Username
 
 * Type in your **username**.
 * Tap or click **“Recover.”**
@@ -176,7 +176,7 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 
 <Image align="center" border={false} caption="Web" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30% " />
 
-### Check Your Email & Change Your Password
+#### Check Your Email & Change Your Password
 
 * Locate the **recovery code** sent to your email.
 * **Enter the code** in the designated field.
