@@ -40,5 +40,3 @@ next:
     * A quick start guide to help you and your team maximize productivity in the field
   </Card>
 </Cards>
-
-a
