@@ -16,24 +16,24 @@ next:
 ---
 **In this page you'll learn**
 
-* What is Mobohubb?
+* What is mobohubb?
 * Differences between the web and mobiles apps
-* Key benefits of Mobohubb
+* Key benefits of mobohubb
 * Common terms and definitions to get you started
 
 ***
 
-## What is Mobohubb?
+## What is mobohubb?
 
 <Image align="center" width="50% " src="https://files.readme.io/074938e15d9e7a992700bbef7dc7e1606c4b1aedf991a706e2cb09fc150024be-social-media-branding-02.png" />
 
-Mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
+mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
 
 ## Web App & Mobile App
 
 ### Web App
 
-Mobohubb’s **Web App** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
+mobohubb’s **Web App** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
 
 > [Learn how to log in](https://mobohubb.readme.io/update/docs/log-in-web-app#/)
 
@@ -45,7 +45,7 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
 
 ***
 
-## Benefits of using Mobohubb
+## Benefits of using mobohubb
 
 <Cards columns={4}>
   <Card title="Mobile Task Management" icon="fa-mobile">
@@ -69,7 +69,7 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
 
 ## Glossary of Terms
 
-This glossary provides quick definitions for commonly used Mobohubb terms, ensuring you have the context needed to effectively navigate and utilize our platform.
+This glossary provides quick definitions for commonly used mobohubb terms, ensuring you have the context needed to effectively navigate and utilize our platform.
 
 <Tabs>
   <Tab title="Mobile & UI Terms">
