@@ -36,7 +36,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 <br />
 
-### Updating Your Branding
+### Update Your Branding
 
 1. **Click** **“Branding.”**
 
