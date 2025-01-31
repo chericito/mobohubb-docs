@@ -17,7 +17,7 @@ metadata:
 
 # Log in the Web App
 
-1. Navigate to [https://app.mobohubb.com/](https://app.mobohubb.com/).
+1. Navigate to [app.mobohubb.com](https://app.mobohubb.com/).
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e2e033648945fdfabf4cb7243a8a1ee48e83e3a40137eebe6b6a66fca715cdf-image.png" />
 
