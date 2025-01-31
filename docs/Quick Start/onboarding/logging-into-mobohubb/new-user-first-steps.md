@@ -208,3 +208,154 @@ A **scan point** is an element read by a mobile device to obtain information. Yo
 12. **Click** on **"Form/Checklist"** to proceed.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/020c720d43d18a42b37623ba7db9949497d38d604c791fe20f003996d89e194e-image.png" />
+
+# Create Forms and Checklists
+
+**Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. This ensures tasks are completed correctly, reducing errors or omissions.
+
+1. **Add** a new form
+   * **Click** the **“Add new”** button on the right side of the interface.\
+     ![](https://files.readme.io/d1ec2a6093d2811fa652442a324f453bbafe8199e49acb5cc7bf3449f70669b2-image.png)
+
+2. **Create** a prefix
+   * **Assign** a short code to identify your form (letters, numbers, or symbols).\
+     ![](https://files.readme.io/e99d031f44b5cc253c8aa58d3edbb491ef6a3b71ce217f8f2c6f5cea27634f28-image.png)
+
+3. **Name** the form
+   * Provide a clear, concise title that describes its purpose.
+
+4. **Associate** it with a predefined tag *(optional)*
+   * For initial setup, you can skip this if you haven’t defined tags yet.
+
+5. **Select** the users
+   * Assign individuals or groups who can access and fill out the form.\
+     ![](https://files.readme.io/d0d16ceb9cd35133dd09bd3e7584bb8f144113aa7aa6c38a092a8b8bce756a83-image.png)
+
+6. **Choose** the form’s visibility
+   * Pick **Web App**, **Mobile App**, or both.
+
+7. **Check** the activation box
+   * This enables or disables your form.
+
+8. **Use** the “Next” button to go to “Form Fields”
+   * Saves your changes and moves you to the **Form Fields** tab.\
+     ![](https://files.readme.io/034bc3670a188ac54fed9b1a35173c2512f08eabea07c531e6be90adc0b39d8c-image.png)
+
+9. **Add** new fields
+   * By default, there is only one field. Click **“Add new”** at the top to include more.\
+     ![](https://files.readme.io/bb78af8eb1c92a6d2b773bc76a3e1b8ee0a52267552196f04415a77c381a258b-image.png)
+
+10. **Configure** the type of field
+
+* In the configuration area on the right, choose a field type (e.g., text, number, date, time, select, checkbox, radio, signature, scan).\
+  ![](https://files.readme.io/7b49443f26357577a8c1c9d7b1d914db1864fe84e4984d7929193ee995b24f6b-image.png)
+
+11. **Configure** the name of the field
+
+* Enter a clear, concise label visible to users.
+
+12. **Configure** the mandatory setting
+
+* Decide if users **must** fill it out (required) or can skip it (optional).
+
+13. **Configure** conditional fields *(optional)*
+
+* For fields like **Select** or **Radio**, you can activate a “conditional” option. This lets you show additional fields based on the user’s selection.\
+  ![](https://files.readme.io/e442dc5c8545997e8d1d5628a85278b9bc74aab6596efa7a836e0775026d9334-image.png)
+
+14. **Use** the “Next” button to go to “Advanced Options”
+
+* Saves your changes and moves you to the **Advanced Options** tab.\
+  ![](https://files.readme.io/ab4c6ca092cbedededee9a4fba8c4ef988fcde83aa9e258480b532b01f2ab917-image.png)
+
+15. **Activate** or **deactivate** GPS coordinate
+
+* Decide if the form will record user latitude and longitude.
+
+16. **Set** a site map *(optional)*
+
+* Upload an image to appear at the top of your form, serving as a reference.\
+  ![](https://files.readme.io/96309833276472fbcadc7ba641af4d0537e55817dc153140486ccc282b12950e-image.png)
+
+17. **Allow** user access to media options
+
+* Decide if users can add photos, audio, video, attachments, or scans.
+
+18. **Set aside** which media are mandatory
+
+* Choose if photos, audio, or video must be included or can be skipped.
+
+19. **Allow** camera and gallery or camera only
+
+* If **camera & gallery** is chosen, users can take new media or select existing files.
+
+20. **Activate** immediate notification of form execution *(optional)*
+
+* Send an email upon form submission. Specify recipients, subject, body, format (PDF, HTML, Excel), and attachment name.\
+  ![](https://files.readme.io/147c94910e0f277e48923f49f244fb1d7486d5b415842d3dcdaf865b417b383b-image.png)
+
+21. **Save** and **activate** the preview
+
+* See how your form looks before finalizing.\
+  ![](https://files.readme.io/6695dcd718768e586c48809ff4b7402f6bbab5ebec3db0aeb35d5745aaade291-image.png)
+
+> **Note:** After creating your forms or checklists, mark the **fourth step** complete so the setup indicator shows **4/5**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/193e455ebcf63f9b8b3554972022e4f9daec303300793919b6eef4f5b41e755d-image.png" />
+
+**Click** on **“Invite your team”** to move to the final step.
+
+![](https://files.readme.io/5a70d2e13bf641a33a9f5c12ffba3047af19aa36f15a3ec09e726915f5ada93a-image.png)
+
+# Invite Your Team
+
+**Inviting users** is the final step in setting up your Mobohubb environment. By assigning roles and permissions, you can segment access across different sites and maintain an organized structure.
+
+1. **Go** to the Users section and **click** the **“New User”** button.\
+   ![New User Button](https://files.readme.io/4aca6cf483c1b8825ef1059d1db069c18a0c304d4df77e5eb742c14f4757ebf0-image.png)
+
+2. **Enter** the data of the new user and **fill in** the first name and last name fields.\
+   ![Enter User Data](https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png)
+
+3. **Fill** in the phone number and email address fields.
+   > **Note:** The user’s email address will be the username.
+
+4. **Choose** the security group from the dropdown menu.
+
+5. **Choose** between invite by SMS or by email by checking the box.
+   > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.\
+   > ![Invite by Email or SMS](https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png)
+
+6. The user will receive an email or SMS with a link to confirm registration.
+
+7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
+   ![Save User](https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png)
+
+8. **Repeat** these steps for each additional user.
+
+> Some organizations have employees at multiple sites. Assigning unique roles at each site helps segment and manage permissions securely.
+
+## Security Groups
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f87e952ed98e2759e2be5474478bc1c2c5a1cd0254854798b8337e789dbb27a8-image.png" />
+
+Mobohubb offers several security groups to define user roles:
+
+* **Organization Administrator**: Has full access to the organization and all its sites.
+* **Site Administrator**: Manages all settings for a specific site but cannot alter other sites.
+* **Billing Administrator**: Manages subscription and billing-related settings.
+* **Editor**: Can edit most settings in the Mobohubb portal.
+* **Read-only**: Can view site settings and data but cannot modify them.
+* **Mobile**: Uses the mobile app for tasks like scanning QR codes and filling out reports, but does not have access to the web portal.
+
+## Organizational Structure
+
+“Organizational structure” defines how tasks and responsibilities are assigned within your company. Mobohubb lets you easily manage roles, onboard staff quickly, and segment data across multiple sites.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a3b0385ca01d963d2cb78f5af758d5abfd92db8980e46940e4eb75a984416848-image.png" />
+
+> **Note:** Once you have **invited your team** and assigned appropriate roles, mark the **fifth** and final step complete so your setup indicator shows **5/5**. After this, the walkthrough will **no longer** be visible.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5ede6fd9531f30bdc21fdd2ad33a698e71bf52e670e985de0b05f5ed498c8f0b-image.png" />
+
+> 👍 Your new Mobohubb environment is now fully configured and ready to use!
