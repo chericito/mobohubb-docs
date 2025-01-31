@@ -26,6 +26,8 @@ metadata:
   <Tab title="Side Menu">
     <Image align="center" border={true} src="https://files.readme.io/bb11c0f7acc60f9b1fd9a526f5a40a81f50c0bf80a7ee5e99a08ef824926315e-image.png" width="80%" />
 
+    <br />
+
     The **Side Menu** is located on the **left** of the screen and contains the main tools of the application (e.g., Dashboard, Configuration, Productivity, Exceptions, Administration, Favorites).
 
     * It can **collapse** to free up screen space.
@@ -34,6 +36,8 @@ metadata:
 
   <Tab title="Top Menu">
     <Image align="center" border={true} src="https://files.readme.io/77f9fb3139ce233fb525ee05d6770537d7dbdb6e72636053b1ab24b504bb3a94-image.png" width="80%" />
+
+    <br />
 
     The **Top Menu** displays:
 
@@ -45,6 +49,8 @@ metadata:
   <Tab title="Header Block">
     <Image align="center" border={true} src="https://files.readme.io/346e796e7107d98264b6f854b0750570f950f174b4805db9959140c407117d2e-image.png" width="80%" />
 
+    <br />
+
     The **Header Block** displays:
 
     * The **title** or name of the current section or window you’re viewing.
@@ -53,6 +59,8 @@ metadata:
 
   <Tab title="Organization Selector">
     <Image align="center" border={true} src="https://files.readme.io/e587a6ebc457ccefdc2367dc5403db0f006247d9dc33f1a247fd3fd695917d34-image.png" width="80%" />
+
+    <br />
 
     The **Organization Structure Selector**:
 
@@ -63,11 +71,15 @@ metadata:
   <Tab title="Main Content">
     <Image align="center" border={true} src="https://files.readme.io/276e9e9abe53a6c7fb431b3b34622fc9c7679996b376facff218233ae9c7a8b4-image.png" width="80%" />
 
+    <br />
+
     The **Main Content** area displays the specific data or interface you’ve chosen (e.g., dashboards, tasks, forms). All primary actions and information appear here.
   </Tab>
 
   <Tab title="General Settings">
     <Image align="center" border={true} src="https://files.readme.io/ddd898468aa518fcbb0e357f25764a96486b8661ae3fbeb884822daa741c23bf-image.png" width="80%" />
+
+    <br />
 
     The **General Settings** interface:
 
