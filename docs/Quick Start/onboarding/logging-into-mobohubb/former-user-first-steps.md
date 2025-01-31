@@ -7,7 +7,7 @@ excerpt: >-
   update user data so your team can take advantage of the improved login
   methods.
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
@@ -18,12 +18,9 @@ metadata:
 * How to update user data (phone number/email) to enable **SMS, email code,** or **username & password** logins
 * How to complete the **two-step setup** and confirm the configuration indicator shows **2/2**
 
-***
+## Log In
 
-## 1. Log In
-
-1. **Go** to the Mobohubb Portal:\
-   [https://beta.mobohubb.com](https://beta.mobohubb.com)
+1. **Go** to the [Mobohubb Portal](https://beta.mobohubb.com)
 
 2. **Enter** your **username or email** and **password** (the same information you use on the classic Mobohubb portal).
 
@@ -34,9 +31,7 @@ After logging in, you’ll see a **two-step walkthrough**:
 * **Step 1**: Branding
 * **Step 2**: Users
 
-***
-
-## 2. Update Your Organization
+## Update Your Organization
 
 You can configure your organization in **two steps**—**Branding** and **Users**. Access each interface by clicking on the step names in the top menu.
 
@@ -49,9 +44,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 > **Note:** For more details on organization branding, see **Organization Branding**.
 
-***
-
-### 2.2 Update Users
+### Update Users
 
 In the previous system, users confirmed their identity with a **domain and pin**. Now, **Mobohubb** offers **three** login options for the mobile app:
 
@@ -73,17 +66,16 @@ In the previous system, users confirmed their identity with a **domain and pin**
    * **To allow email code login**: Update the **email address**.
    * **To allow username & password login**: Update the **email address** and then **reset the password**.
 
-4. **Click** **“Save.”**
+4. **Click** **"Save".**
 
-You’ll be redirected to the **“Security”** tab.\
-5\. **Close** when finished.
+You’ll be redirected to the **“Security”** tab.
+
+5. **Close** when finished.
 
 > **Note:** Repeat for each user until all data is updated.
 
 **Remember** to check the final step so the **configuration indicator** shows **2/2**.
 
 > **Note:** To add brand-new users, see the **Add New Users** section.
-
-***
 
 **You’re all set!** Your organization is now configured, and your existing users can log in using any of the new authentication methods. If you have any questions, please visit our support resources or contact your Mobohubb representative.
