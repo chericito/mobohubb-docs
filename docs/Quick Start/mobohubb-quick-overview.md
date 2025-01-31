@@ -1,5 +1,5 @@
 ---
-title: 'Mobohubb: Quick Overview'
+title: 'mobohubb: Quick Overview'
 excerpt: >-
   Mobohubb is a powerful deskless workforce platform designed to streamline
   communication, collaboration, and management for on-the-go teams—reducing
