@@ -38,7 +38,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 ### Update Your Branding
 
-1. **Click** **“Branding.”**
+1. **Click** **“Branding”.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/94559cc8fc74b7b606a74ef790ce64c3bfb84ede56137858eb063f6875ee9354-image.png" />
 
@@ -75,7 +75,7 @@ In the previous system, users confirmed their identity with a **domain and pin**
 
 #### Updating User Information
 
-1. **Click** **“Users.”**
+1. **Click** **“Users”.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3d999e99bff9b0f37dde896a1c10cafbf5b055884d47e537d4e846fcc664694a-image.png" />
 
