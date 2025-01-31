@@ -20,7 +20,7 @@ next:
 # Resources
 
 <Cards columns={2}>
-  <Card title="Web App" href="https://mobohubb.readme.io/docs/log-in-web-app#/" icon="fa-home" target="_blank">
+  <Card title="Web App" href="https://mobohubb.readme.io/docs/log-in-web-app#/" icon="fa-globe" target="_blank">
     Learn how to access the Mobohubb Portal for the first time, set up your credentials, and customize your environment.
 
     **In these sections you'll discover:**
@@ -30,7 +30,7 @@ next:
     * Quick start guides for new and existing users (migrating from the classic Mobohubb experience)
   </Card>
 
-  <Card title="Mobile App" icon="fa-user">
+  <Card title="Mobile App" href="https://mobohubb.readme.io/docs/logging-into-mobohubb-mobile-app#/" icon="fa-mobile" target="_blank">
     Find out how to download and install the Mobohubb Mobile App on both Android and iOS devices, and learn how to log in using various methods.
 
     **In these sections you'll discover:**
