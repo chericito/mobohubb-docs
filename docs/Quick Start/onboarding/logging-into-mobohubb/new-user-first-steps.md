@@ -61,7 +61,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
    * **Site address**: **Enter** the physical or virtual address where your main activities occur.
    * **Click** **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the Mobohubb portal.
 
-> **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.zendesk.com/hc/en-us/articles/25649941947021) to get started.
+> **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.readme.io/docs/former-user-first-steps#/) to get started.
 
 # Setting up Your Mobohubb
 
