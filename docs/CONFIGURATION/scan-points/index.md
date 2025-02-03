@@ -1,5 +1,9 @@
 ---
 title: Scan Points
+excerpt: >-
+  A comprehensive guide to setting up, managing, and organizing scan points (QR
+  codes or NFC tags) in Mobohubb. Learn how to add, edit, delete, import, and
+  export scan points to streamline your on-site operations.
 deprecated: false
 hidden: false
 metadata:
@@ -10,6 +14,26 @@ A **scan point** is an element that can be read with a mobile device to obtain i
 * **Tip:** Make sure you’ve identified your **places of interest** before defining any scan points.
 
 ***
+
+In This Guide You Will
+
+* **Add QR Code Scan Points**\
+  Learn how to create and configure new QR codes to identify specific locations or checkpoints.
+
+* **Add NFC Tag Scan Points**\
+  Discover how to set up and manage NFC-enabled locations for swift, contactless scanning.
+
+* **Edit Existing Scan Points**\
+  Update names, IDs, intervals, and other details as your operations evolve.
+
+* **Delete Scan Points**\
+  Remove outdated or unused scan points to keep your data clean and relevant.
+
+* **Export Scan Points**\
+  Generate an Excel file for off-platform analysis or archiving.
+
+* **Import Multiple Scan Points**\
+  Use an Excel template to quickly upload a batch of scan points, saving time and effort.
 
 ## Add a QR Code Scan Point
 
@@ -167,58 +191,96 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 7. **Save and Close**\
    ![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
 
-Edit scan pointsTo edit a scan point:
+## Delete Scan Points
 
-1. Navigate to the portal’s top menu.
+Follow these steps to **remove** existing scan points (QR codes or NFC tags):
 
-![](https://files.readme.io/8bda85c12c17f8b02227d3ca2ae76457af9ea33dbc13c555c73b72cefbd9edba-image.png)
+1. **Navigate** to the portal’s top menu\
+   ![](https://files.readme.io/3fe63e789b6cc5dd80d82911c9abb6c77fac93f41ad980c17b8983565a8edd88-image.png)
 
-<br />
+2. **Go** to **“General Settings.”**
+   * In the top menu, click **Settings** (or use the side menu to access **General Settings**).\
+     ![](https://files.readme.io/238d3df470d68c7c3696f26d2d9ae8693cd067196121674486c0fc7e5a3870dc-image.png)
 
-<br />
+3. **Select “Scan-Points Management.”**
+   * Within **Configuration**, click **Scan-Points Management**.\
+     ![](https://files.readme.io/f7e6d66e609b16c2ad19ce377d5481a64e300d7b12e536304e4ca923e5face9c-image.png)
 
-2. Navigate to “General Settings.”
+4. **Check** the scan point(s) you wish to remove
+   * You can select **multiple** scan points at once.\
+     ![](https://files.readme.io/c99688a7db9130eb1604dd327872a6f3a18c543c80325b1b9a5dccbb3d36ddc3-image.png)
 
-In the top menu, find and click on “Settings”. This is typically where you will find various configuration options for your organization. You may also use the side menu to reach the General Settings menu.
+5. **Click “Delete.”**
+   * All selected scan points will be discarded.\
+     ![](https://files.readme.io/6d35f9516e10060fa9ac261d6a93ad572cf77db888b2df7f26827eced3da36d7-image.png)
 
-![](https://files.readme.io/cb5e45dd5a54e7480af1ef99d49ddc54354be32eb5076196c5ef2ab51ba3abed-image.png)
+6. **Confirm** and **close**
+   * Verify the count of selected scan points matches what you intend to remove.
+   * Click **Delete** to finalize.\
+     ![](https://files.readme.io/8779cf3ff836c906c74b4254df7a7c3ace4e39c8217467dd26d1f68f6370a19a-image.png)
 
-<br />
+## Export Scan Points
 
-3. Navigate to “Scan-Points Management.”
+Exporting scan points to an **Excel file** can help you manage data offline or share with others.
 
-Within the “Configuration” area, click on the “Scan-Points Management” section.
+1. **Navigate** to the portal’s top menu\
+   ![](https://files.readme.io/8448a833bbd1c3c9e5321fedb48c730c2f2651c5149d6208561beff8a2f87b6e-image.png)
 
-![](https://files.readme.io/eda238a99007696c54f377adbf4e416d2d238229b596e58a2a70142bc4aa8a4c-image.png)
+2. **Go** to **“General Settings.”**
+   * In the top menu, click **Settings** (or use the side menu to access **General Settings**).\
+     ![](https://files.readme.io/f2d57f77380f7e6dbc932d7ed3c4918dc14471f962eb5ae9c6b1368378f140c0-image.png)
 
-<br />
+3. **Select “Scan-Points Management.”**
+   * Within **Configuration**, click **Scan-Points Management**.\
+     ![](https://files.readme.io/0e6f7993ff7879ce8b4fd43f34973e3b83f86a00cdad6832f09e689d18d92159-image.png)
 
-4. Check the scan point that you wish to modify; you can use filters to easily find it.
+4. **Click “Export.”**\
+   ![](https://files.readme.io/179f0399a76b5afcefd8768bfe473d83bd13edb70518733a897f5372b3cc902e-image.png)
 
-Note: You can only modify one scan point at a time, so do not check more than one.
+5. **Export** the Excel file
+   * Choose **all data** or only the **current view**.\
+     ![](https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png)
 
-![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
+> **Note:**
+>
+> * If the file is **within size limits**, it will download directly to your computer.
+> * If it **exceeds size limits**, it will appear in the **“Downloads”** section on the platform.
 
-<br />
+## Import Scan Points
 
-5. Click on “Edit” button.
+If you have **multiple scan points** to add at once, you can **import** them from an Excel template. Follow these steps to speed up your setup process:
 
-![](https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png)
+1. **Navigate** to the portal’s top menu\
+   ![](https://files.readme.io/4e2351313c7f65fe1ec581a71960647331269fbb5dcde4658ef022d34af6b7d4-image.png)
 
-<br />
+2. **Go** to **“General Settings.”**
+   * Click **Settings** in the top menu (or find **General Settings** in the side menu).\
+     ![](https://files.readme.io/043f796be5211222567c80076d6bbd00d2bfa76fd9b1cf26209ff10f8b4fd835-image.png)
 
-6. Modify the current data.
+3. **Select “Scan-Points Management.”**
+   * Within **Configuration**, click **Scan-Points Management**.\
+     ![](https://files.readme.io/cfd078718dbbd9cc4b974ed31447caf778fc154f8dfeda7a8568fbb9e05d0d9d-image.png)
 
-Scan-point ID: which must follow an ordered numbering with respect to the other points and must stand for the scan point. This can be associated with a QR code or an NFC tag.Name for the scan point: which allows you to find it quickly.
-Description: for more details, such as the exact location, the room number, or a distinctive feature.
-Time interval: the time interval (for example, once per hour) is used to compel users to periodically scan codes.
-Associate it with a predefined tag.
-Select between associating it with a task or a form, but to link them, the form or task must have previously been generated; you can also choose not to associate it.
-If you choose to associate with task or form, a new box from the dropdown menu related to the tasks / forms information will appear.
-Check the box where it will be marked as active.
+4. **Click “Import.”**\
+   ![](https://files.readme.io/d4b945de4e1f651cadedb44bea1dc18d4c390da1b5382d429b79b23785150710-image.png)
 
-![](https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png)
+5. **Upload the File**
 
-7. Save and close.
+   * If you have a **prepared spreadsheet**, upload it directly.
+   * If not, **download the template** to fill in your scan point data. (Each row represents one scan point.)\
+     ![](https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png)
 
-![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
+   ![](https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png)
+
+   * **Upload** the completed file in the form.\
+     ![](https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png)
+
+   * **Click** **“Save.”**\
+     ![](https://files.readme.io/13be90ab5ed34de92216ec521b6a60bfe1b71b8afad4fdba6f304361fdeb9a43-image.png)
+
+6. **Wait** for the import
+   * Depending on the **size** of your data, the import may take some time.\
+     ![](https://files.readme.io/277cf2d0926efe09b5ed2924f47fa1b0722e9aa1958158dbed4e2a77b2354510-image.png)
+
+7. **Confirm** new scan points
+   * Once complete, the **new scan points** will appear in your **Scan-Points Management** list.
