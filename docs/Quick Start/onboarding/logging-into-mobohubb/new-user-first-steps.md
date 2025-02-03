@@ -121,7 +121,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 2. **QR Code ID**
    * Assign a unique ID for each scan point. This should follow a logical sequence (e.g., sequential numbers) to keep them organized.
-   * Visit our [QR Codes Section](#) for details on generating QR codes.
+   * Visit our [QR Codes Section](https://mobohubb.readme.io/docs/qr-codes#/) for details on generating QR codes.
 
 3. **Name & Description**
    * **Name**: A quick identifier (e.g., “Lobby Entrance,” “Server Room”).
@@ -132,7 +132,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * **Specify** how often you want users to scan this code (e.g., “01:00” = once per hour).
 
 5. **Associate Tag** (Optional)
-   * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](#).
+   * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](https://mobohubb.readme.io/docs/tags#/).
 
 6. **Link to a Task or Form** (Optional)
    * You can associate the scan point with an existing task or form (created in later steps).
