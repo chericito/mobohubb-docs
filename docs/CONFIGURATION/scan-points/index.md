@@ -87,7 +87,7 @@ Note: They are used to segment data and help with searches.
 
 10. Select between associating it with a task or with a form or not associate it.
 
-You can go to step 11 if you don’t associate it with a task or a form. To link them with tasks or forms, you need to have previously generated them. Consult how to create new tasks or consult how to create new forms.
+You can go to step 11 if you don’t associate it with a task or a form. To link them with tasks or forms, you need to have previously generated them. Consult how to create new [tasks ](https://mobohubb.readme.io/docs/tasks#/)or consult how to create new forms.
 
 ![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
 
