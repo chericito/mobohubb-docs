@@ -15,4 +15,4 @@ If you have configurated NFC tags, this stands for the scan point and must be nu
 
 You can select the NFC tags you don't have configured by scanning them using the mobile app, and then edit the scanning point to fill in the scan-point name, the description of the scan name, and all related information.
 
-Learn how to set up and manage NFC Tags in mobohubb
+Learn how to [set up and manage NFC Tags in mobohubb](https://mobohubb.readme.io/docs/qr-codes#/).
