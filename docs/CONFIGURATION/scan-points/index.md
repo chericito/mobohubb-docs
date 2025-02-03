@@ -77,7 +77,9 @@ The time intervals are set up in a way that if the chosen time period passes, th
 
 9. Associate it with a predefined tag.
 
-If you have previously created a tag, you can assign it in the dropdown menu. You may consult our tags section.Note: They are used to segment data and help with searches.
+If you have previously created a tag, you can assign it in the dropdown menu. You may consult our [tags ](https://mobohubb.readme.io/docs/tags#/)section.
+
+Note: They are used to segment data and help with searches.
 
 ![](https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png)
 
@@ -85,12 +87,13 @@ If you have previously created a tag, you can assign it in the dropdown menu. Yo
 
 10. Select between associating it with a task or with a form or not associate it.
 
-You can go to step 11 if you don’t associate it with a task or a form.To link them with tasks or forms, you need to have previously generated them. Consult how to create new tasks or consult how to create new forms.
+You can go to step 11 if you don’t associate it with a task or a form. To link them with tasks or forms, you need to have previously generated them. Consult how to create new tasks or consult how to create new forms.
 
-NV151 (9).png
+![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
 
-A new box with a dropdown menu will appear to link it with the task / form. Tasks and forms must be “active” to be visible in this dropdown menu.Select the task / form.
-NV151 (8).png
+<br />
+
+A new box with a dropdown menu will appear to link it with the task / form. Tasks and forms must be “active” to be visible in this dropdown menu. Select the task / form.
 
 11. Check the box where it will be marked as active.
 
