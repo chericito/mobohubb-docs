@@ -18,3 +18,5 @@ There are three ways to generate a QR code:
 [https://mobohubb.zendesk.com/hc/en-us/article\_attachments/25709777445389](https://mobohubb.zendesk.com/hc/en-us/article_attachments/25709777445389)  download 200 QR template
 
 [https://mobohubb.zendesk.com/hc/en-us/article\_attachments/25709791464717](https://mobohubb.zendesk.com/hc/en-us/article_attachments/25709791464717) Download 2000 QR template
+
+Learn how to [set up and manage QR Codes in mobohubb](https://mobohubb.readme.io/docs/scan-points#/)
