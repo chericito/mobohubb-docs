@@ -69,108 +69,62 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 > **Note:** **Repeat** these steps for each scan point you need to create.
 
-Scan points
-
 <br />
 
-A scan point is an element that can be read with a mobile device to obtain information. There are two kinds of scan points: QR codes and NFC tags. To define scan points, you must choose where you want to use them, so make sure you have determined your places of interest. When you create a site in the Site management section, choose whether it will be associated with QR codes or NFC tags.
+## Add an NFC Tag Scan Point
 
-As these points must be clear, you must fill out the description and order the points in series to better organize them. Every QR code or NFC tag can be configured to link to a specific form or task. The application supports the creation of multiple scan points.
+Follow these steps to create a new scan point associated with an **NFC tag**:
 
-Add a QR code scan pointTo add a new QR code scan point:
+1. **Navigate to the Portal’s Top Menu**\
+   ![](https://files.readme.io/f0ad9f10a15a691cb8b1e75313f9602c21955e6418003d0f66193cec06d7c223-image.png)
 
-1. Navigate to the portal’s top menu.
+2. **Go to “General Settings”**
+   * In the top menu, **click** **Settings** (or use the **side menu** to find the **General Settings** option).\
+     ![](https://files.readme.io/03e5c9995a1e496ce44eb663904db9da8d87bf9bf2462c0237bf1642e5c8e920-image.png)
 
-![](https://files.readme.io/609510573f5fffaea1ccca22de8106edf6fe46e201c34957cf08d17e4d700ea7-image.png)
+3. **Select “Scan-Points Management”**
+   * Within **Configuration**, **click** on **Scan-Points Management**.\
+     ![](https://files.readme.io/baf85da3bd651b42e1de2bcada425e52f4f0d0166c82625e83eb83166ff2de2f-image.png)
 
-<br />
+4. **Click “Add New”**\
+   ![](https://files.readme.io/79840a40c1d29a79398427ee944a88e32311de21dd0bc5af3fb40143fd67dc40-image.png)
 
-2. Navigate to “General Settings.”
+5. **Fill in the NFC Code ID**
+   * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
+   * If you already have **configured** NFC tags, assign a **unique, sequential** ID (e.g., `Location001`, `Location016`), aligning them with other scan points.
+   * Alternatively, **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.\
+     ![](https://files.readme.io/fed242b601c6513ddf85b0f89a79db12088c3ccb960d3a736c34ef7b837842bf-image.png)
 
-In the top menu, find and click on “Settings”. This is typically where you will find various configuration options for your organization. You may also use the side menu to reach the General Settings menu.
+6. **Add a Name**
+   * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.\
+     ![](https://files.readme.io/55feacf0361054cf96b11f8decf94565bbe5b009b5467399f53e77ecf5eb6e2d-image.png)
 
-![](https://files.readme.io/5d5d2925ad1d70a55100292938684e9c22a423d62a9049dd327324f456705e8e-image.png)
+7. **Add a Description**
+   * Include any relevant details such as room number or distinctive features.\
+     ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
 
-<br />
+8. **Choose a Time Interval**
+   * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.\
+     ![](https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png)
 
-3. Navigate to “Scan-Points Management.”
+9. **Associate a Predefined Tag** *(Optional)*
+   * If you have previously created tags, assign one here to **segment data** and simplify searches.\
+     ![](https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png)
 
-Within the “Configuration” area, click on the “Scan-Points Management” section.
+10. **Link to a Task or Form** *(Optional)*
 
-![](https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png)
+* If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
+* If you don’t wish to link anything, go to step 11.\
+  ![](https://files.readme.io/b1e723a8fa4ccd74139b1b364391f6fb19e5fb079a6e9cc17f069c9c0759a726-image.png)
+  ![](https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png)
 
-<br />
+11. **Mark as Active**
 
-4. Click on “Add New” button.
+* Check the box to make this scan point visible to users.
+* Uncheck to **temporarily hide** it.\
+  ![](https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png)
 
-![](https://files.readme.io/342fddd36289e74c1519f50a65489c3e9b6ec371a178536c7916693422efa24e-image.png)
+12. **Save and Close**\
+    ![](https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png)
 
-<br />
-
-5. Fill in the QR Code ID.
-
-This stands for the scan point and must be numbered in a sequence in relation to the other points. As you have specified your areas of interest, you will need to select the places where you wish to use them. Location001 or Location016, for instance, may be a scan-point ID. Visit our section How to create a QR code.
-
-<br />
-
-![](https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png)
-
-6. Add a name for the scan point.
-
-Which allows you to find it quickly. For example, Security camera room.
-
-![](https://files.readme.io/f1af3e37760526881563cb81233fe42143ca2afd7af19ddc2d1254d30f61015f-image.png)
-
-<br />
-
-7. Add a description for more details.
-
-Such as the exact location, the room number, or a distinctive feature.
-
-![](https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png)
-
-<br />
-
-8. Choose a time interval.
-
-The time intervals are set up in a way that if the chosen time period passes, the scan points are shown as active. The time is in HH:MM format; for example 08:00. The ability to distinguish between scan points that require several scans and those that do not is helpful to classify its relevance and compare with log data.
-
-![](https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png)
-
-<br />
-
-9. Associate it with a predefined tag.
-
-If you have previously created a tag, you can assign it in the dropdown menu. You may consult our [tags ](https://mobohubb.readme.io/docs/tags#/)section.
-
-Note: They are used to segment data and help with searches.
-
-![](https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png)
-
-<br />
-
-10. Select between associating it with a task or with a form or not associate it.
-
-You can go to step 11 if you don’t associate it with a task or a form. To link them with tasks or forms, you need to have previously generated them. Consult how to create new [tasks ](https://mobohubb.readme.io/docs/tasks#/) or consult how to create new [forms](https://mobohubb.readme.io/docs/forms#/).
-
-![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
-
-<br />
-
-A new box with a dropdown menu will appear to link it with the task / form. Tasks and forms must be “active” to be visible in this dropdown menu. Select the task / form.
-
-11. Check the box where it will be marked as active.
-
-If this box is not checked, this object will not be visible to other users until its status is "active" again. It works to hide it momentarily.
-
-![](https://files.readme.io/4aa677d41faddf691c661084b009da437a714c9be35900baae075a59d0d2b126-image.png)
-
-<br />
-
-12. Save and close.
-
-![](https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png)
-
-<br />
-
-Note: Repeat the procedure for each scan point.
+> **Note:** **Repeat** the procedure for each NFC tag scan point you need to create.
