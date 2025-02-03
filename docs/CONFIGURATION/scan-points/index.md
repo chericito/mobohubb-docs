@@ -15,23 +15,18 @@ A **scan point** is an element that can be read with a mobile device to obtain i
 
 ***
 
-In This Guide You Will
+**In this guide you'll learn**
 
 * **Add QR Code Scan Points**\
   Learn how to create and configure new QR codes to identify specific locations or checkpoints.
-
 * **Add NFC Tag Scan Points**\
   Discover how to set up and manage NFC-enabled locations for swift, contactless scanning.
-
 * **Edit Existing Scan Points**\
   Update names, IDs, intervals, and other details as your operations evolve.
-
 * **Delete Scan Points**\
   Remove outdated or unused scan points to keep your data clean and relevant.
-
 * **Export Scan Points**\
   Generate an Excel file for off-platform analysis or archiving.
-
 * **Import Multiple Scan Points**\
   Use an Excel template to quickly upload a batch of scan points, saving time and effort.
 
@@ -92,8 +87,6 @@ Follow these steps to create a new scan point associated with a **QR code**:
     ![](https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png)
 
 > **Note:** **Repeat** these steps for each scan point you need to create.
-
-<br />
 
 ## Add an NFC Tag Scan Point
 
@@ -186,7 +179,7 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
    * **Task/Form Association**: Choose whether to link the scan point to an existing **task** or **form** (must be **active**).
    * **Active Box**: If checked, makes the scan point visible to users.
 
-   ![](https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
 
 7. **Save and Close**\
    ![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
@@ -270,7 +263,7 @@ If you have **multiple scan points** to add at once, you can **import** them fro
    * If not, **download the template** to fill in your scan point data. (Each row represents one scan point.)\
      ![](https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png)
 
-   ![](https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png" />
 
    * **Upload** the completed file in the form.\
      ![](https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png)
