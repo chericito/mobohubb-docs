@@ -1,18 +1,38 @@
 ---
 title: NFC Tags
+excerpt: >-
+  Discover how NFC tags streamline location tracking in Mobohubb, simplifying
+  on-the-go data collection and checkpoint management.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-NFC tags
+# Definition
 
-<br />
+**NFC (Near Field Communication) tags** are small, passive electronic devices that store and transmit information wirelessly over short distances—typically just a few centimeters. Each tag contains a **microchip** and an **antenna**, enabling communication with NFC-enabled devices, such as smartphones or tablets, when they come into close proximity.
 
-NFC (Near Field Communication) tags are small, passive electronic devices that can store and transmit information wirelessly over short distances, typically a few centimeters. These tags contain a microchip and an antenna, allowing them to communicate with NFC-enabled devices, such as smartphones or tablets, when brought into proximity. NFC tags can be used as a scan point for Mobohubb. NFC tags may or may not have been previously configured.
+***
 
-If you have configurated NFC tags, this stands for the scan point and must be numbered in a sequence in relation to the other points. As you have specified your areas of interest, you will need to select the places where you wish to use them. Location001 or Location016, for instance, may be a scan-point ID.
+## Using NFC Tags in Mobohubb
 
-You can select the NFC tags you don't have configured by scanning them using the mobile app, and then edit the scanning point to fill in the scan-point name, the description of the scan name, and all related information.
+1. **Create or Update an NFC Tag**
+   * Treat your NFC tag as a **scan point** within Mobohubb.
+   * Assign it a **sequence** or **unique ID** (e.g., Location001, Location016) to match your organization’s numbering system.
+   * **Specify** which areas or locations each NFC tag covers.
 
-Learn how to [set up and manage NFC Tags in mobohubb](https://mobohubb.readme.io/docs/scan-points#/).
+2. **Configure Unassigned Tags**
+   * If you have NFC tags that are **not yet configured**, you can simply **scan them** with your mobile device using the Mobohubb app.
+   * **Edit** the scan point’s name, description, and any other necessary information in the portal.
+
+> **Example**
+>
+> * **Scan-Point ID**: Location016
+> * **Description**: Lobby Entrance Tag
+> * **Coordinates**: Optional if adding a GPS-based task
+
+***
+
+## Next Steps
+
+* Learn how to **[set up and manage NFC Tags in Mobohubb](https://mobohubb.readme.io/docs/scan-points#/)** to streamline your workflow and effectively track locations or checkpoints.
