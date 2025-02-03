@@ -63,7 +63,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
 > **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.readme.io/docs/former-user-first-steps#/) to get started.
 
-# Setting up Your Mobohubb
+# Setting up Your mobohubb
 
 When you first log in, you’ll see a setup walkthrough in the top menu. Each of the **5 steps** must be completed before asking mobile users to access the app. As you finish each step, select the green check circle on the left side to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your Mobohubb menu will be fully set up.
 
