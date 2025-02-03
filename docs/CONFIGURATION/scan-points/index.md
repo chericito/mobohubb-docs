@@ -128,3 +128,97 @@ Follow these steps to create a new scan point associated with an **NFC tag**:
     ![](https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png)
 
 > **Note:** **Repeat** the procedure for each NFC tag scan point you need to create.
+
+## Edit Scan Points
+
+Follow these steps to update any **existing** scan point (QR code or NFC tag):
+
+1. **Navigate to the Portal’s Top Menu**\
+   ![](https://files.readme.io/8bda85c12c17f8b02227d3ca2ae76457af9ea33dbc13c555c73b72cefbd9edba-image.png)
+
+2. **Go to “General Settings”**
+   * Click **Settings** in the top menu (or find **General Settings** in the side menu).\
+     ![](https://files.readme.io/cb5e45dd5a54e7480af1ef99d49ddc54354be32eb5076196c5ef2ab51ba3abed-image.png)
+
+3. **Select “Scan-Points Management”**
+   * Within **Configuration**, click **Scan-Points Management**.\
+     ![](https://files.readme.io/eda238a99007696c54f377adbf4e416d2d238229b596e58a2a70142bc4aa8a4c-image.png)
+
+4. **Choose the Scan Point to Edit**
+   * **Check** the box next to the scan point you wish to modify.
+   * Only **one** scan point can be edited at a time.\
+     ![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
+
+5. **Click “Edit.”**\
+   ![](https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png)
+
+6. **Modify the Current Data**
+
+   * **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC).
+   * **Name**: A quick identifier to help locate it.
+   * **Description**: Extra details (location, room number, distinctive features).
+   * **Time Interval**: E.g., “once per hour,” prompting periodic scans.
+   * **Predefined Tag**: Associate an existing tag to assist with segmentation or searches.
+   * **Task/Form Association**: Choose whether to link the scan point to an existing **task** or **form** (must be **active**).
+   * **Active Box**: If checked, makes the scan point visible to users.
+
+   ![](https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png)
+
+7. **Save and Close**\
+   ![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
+
+Edit scan pointsTo edit a scan point:
+
+1. Navigate to the portal’s top menu.
+
+![](https://files.readme.io/8bda85c12c17f8b02227d3ca2ae76457af9ea33dbc13c555c73b72cefbd9edba-image.png)
+
+<br />
+
+<br />
+
+2. Navigate to “General Settings.”
+
+In the top menu, find and click on “Settings”. This is typically where you will find various configuration options for your organization. You may also use the side menu to reach the General Settings menu.
+
+![](https://files.readme.io/cb5e45dd5a54e7480af1ef99d49ddc54354be32eb5076196c5ef2ab51ba3abed-image.png)
+
+<br />
+
+3. Navigate to “Scan-Points Management.”
+
+Within the “Configuration” area, click on the “Scan-Points Management” section.
+
+![](https://files.readme.io/eda238a99007696c54f377adbf4e416d2d238229b596e58a2a70142bc4aa8a4c-image.png)
+
+<br />
+
+4. Check the scan point that you wish to modify; you can use filters to easily find it.
+
+Note: You can only modify one scan point at a time, so do not check more than one.
+
+![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
+
+<br />
+
+5. Click on “Edit” button.
+
+![](https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png)
+
+<br />
+
+6. Modify the current data.
+
+Scan-point ID: which must follow an ordered numbering with respect to the other points and must stand for the scan point. This can be associated with a QR code or an NFC tag.Name for the scan point: which allows you to find it quickly.
+Description: for more details, such as the exact location, the room number, or a distinctive feature.
+Time interval: the time interval (for example, once per hour) is used to compel users to periodically scan codes.
+Associate it with a predefined tag.
+Select between associating it with a task or a form, but to link them, the form or task must have previously been generated; you can also choose not to associate it.
+If you choose to associate with task or form, a new box from the dropdown menu related to the tasks / forms information will appear.
+Check the box where it will be marked as active.
+
+![](https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png)
+
+7. Save and close.
+
+![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
