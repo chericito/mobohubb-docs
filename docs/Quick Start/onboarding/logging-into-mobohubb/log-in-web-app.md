@@ -35,7 +35,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b71fc921e921f540295ba781b2d61e539c826d9b35b589472166d987c78ad501-image.png" />
 
-> **Note:** Additional security protocols (e.g., MFA) may be enabled. For more information, visit [Portal security protocols (MFA)](https://mobohubb.zendesk.com/hc/en-us/articles/25712852588941).
+> **Note:** Additional security protocols (e.g., MFA) may be enabled. For more information, visit [Multi-factor Authentication](https://mobohubb.readme.io/docs/multi-factor-authentication-mfa#/).
 
 5. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
