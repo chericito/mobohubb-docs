@@ -23,15 +23,15 @@ metadata:
 1. **Open** the Mobohubb portal’s top menu.\
    ![](https://files.readme.io/2dde87c7bf14894cb436a9023f89aab832d4aa427c394390e5dfe89eba6619c6-image.png)
 
-2. **Click** **“Profile.”**
+2. **Click** **“Profile”.**
    * Access your personal information in the profile section.\
      ![](https://files.readme.io/77bbe559be0433cc706eee1e89ec387ef18e5aee38eb7e19b2934d2f48408960-image.png)
 
-3. **Navigate** to **“Security Settings.”**\
+3. **Navigate** to **“Security Settings”.**\
    ![](https://files.readme.io/f06cbaa242017fb5fa67331c83f2a54010653fe640e1406423e52f5c848f3bff-image.png)
 
 <Tabs>
-  <Tab title="Phone Number (2FA)">
+  <Tab title="Phone Number (2FA)" icon="fa-mobile">
     **4. Enable authentication with phone number**
 
     * This links MFA to the **user’s phone number**.
@@ -42,7 +42,7 @@ metadata:
     > **Note:** If you choose this method, you may **skip** the app-based token steps.
   </Tab>
 
-  <Tab title="App-Based Token">
+  <Tab title="App-Based Token" icon="fa-key">
     **5. Enable authentication with an app-based token**
 
     * **Click** “Enable” to display a **QR code**.
