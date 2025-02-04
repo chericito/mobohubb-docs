@@ -37,32 +37,42 @@ metadata:
 
    <Image align="center" className="border" border={true} src="https://files.readme.io/ed31952e92227399dcf6b59558bd0194be1e3d337392c0f63bb86c17cdfc3826-image.png" />
 
-2. **Click “Edit Menu”.**\
-   ![](https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png)
+2. **Click “Edit Menu”.**
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png" />
+
+<br />
 
 3. **Manage Each Section**
 
-   * Tap the **3 dots** to **edit** the section name or **add options** (tools) to it.\
-     ![](https://files.readme.io/16ed38538af90fd4a29d60209e2f25c395d95288ec1358dc63521894544cbb66-image.png)
+* Tap the **3 dots** to **edit** the section name or **add options** (tools) to it.
 
-   **Edit Section**
+<Image align="center" className="border" border={true} src="https://files.readme.io/16ed38538af90fd4a29d60209e2f25c395d95288ec1358dc63521894544cbb66-image.png" />
 
-   * Change the **display name** of the section. (Optional)\
-     ![](https://files.readme.io/f1f311be3f43e3ec67f384c5fbc4e80e860861e4882553ee6bfc0adc0ab13f34-image.png)
+<br />
 
-   **Add Options**
+**Edit Section**
 
-   * **Feature**: Choose a Mobohubb tool or **Custom** URL.
+* Change the **display name** of the section. (Optional)
 
-   * **Icon** and **Color**: Select from the available icon set and color palette.
+<Image align="center" className="border" border={true} src="https://files.readme.io/f1f311be3f43e3ec67f384c5fbc4e80e860861e4882553ee6bfc0adc0ab13f34-image.png" />
 
-   * **Name**: Give this menu item a unique label.\
-     ![](https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png)
+<br />
 
-   > **Note:** A **Custom** feature can open an external website when clicked.\
-   > ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
+**Add Options**
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/e7b03d22313d62c82ceae1b5b8fb953a729a1da609c6d5152ff7831faeaa6172-image.png" />
+* **Feature**: Choose a Mobohubb tool or **Custom** URL.
+
+* **Icon** and **Color**: Select from the available icon set and color palette.
+
+* **Name**: Give this menu item a unique label.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png" />
+
+<br />
+
+> **Note:** A **Custom** feature can open an external website when clicked.\
+> ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
 
 ***
 
@@ -139,7 +149,7 @@ If you want to **restore** the original layout or **undo** all customizations, y
 
 2. **Select “Edit Menu”.**
 
-![](https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png" />
 
 <br />
 
