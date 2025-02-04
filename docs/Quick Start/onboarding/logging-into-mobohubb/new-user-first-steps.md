@@ -153,7 +153,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 ## Configure Tasks
 
-**Tasks** represent the specific activities or goals workers perform. Each task can be assigned to one or more users, linked to a specific location, or associated with a category like a scan point (QR/NFC), which helps track attendance, time, and place. You can also enable a report feature to collect and manage data (e.g., work orders, checklists). Follow the steps below to set up your first tasks:
+**Tasks** represent the specific activities or goals workers perform. Each task can be assigned to one or more users, linked to a specific location, or associated with a category like a scan point (QR/NFC), which helps track attendance, time, and place. You can also enable a report feature to collect and manage data (e.g., work orders, checklists). **Find a complete guide to create and manage tasks in our[dedicated guide](https://mobohubb.readme.io/docs/tasks#/).**
 
 1. **Add a new task**
 
