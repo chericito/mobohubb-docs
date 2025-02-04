@@ -1,5 +1,5 @@
 ---
-title: Forms
+title: Forms and Checklists
 deprecated: false
 hidden: false
 metadata:
