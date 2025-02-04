@@ -60,7 +60,7 @@ metadata:
    > **Note:** A **Custom** feature can open an external website when clicked.\
    > ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
 
-   ![](https://files.readme.io/e7b03d22313d62c82ceae1b5b8fb953a729a1da609c6d5152ff7831faeaa6172-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/e7b03d22313d62c82ceae1b5b8fb953a729a1da609c6d5152ff7831faeaa6172-image.png" />
 
 ***
 
@@ -111,19 +111,17 @@ metadata:
 
 ***
 
-## Saving Changes
+### Saving Changes
 
 After customizing sections and tools, **click “Save changes”** at the bottom of the menu settings. Your **updated menu** will appear immediately, including any **Favorites** you’ve configured.
 
 > **Note:** If you forget to save, your adjustments won’t be applied.
 
-***
-
 ## Final Result
 
 Once saved, your left-hand menu reflects the **new arrangement**, section names, tools, and **Favorites**. You can quickly jump to **frequently used items** from the Favorites area or any section you created.
 
-Enjoy your **personalized** Mobohubb menu!
+***
 
 ## Reset the Menu
 
@@ -154,8 +152,6 @@ You can **collapse** the entire side menu so that **only icons** are displayed�
 2. **Uncollapse** the Menu
    * Click the same **top corner** again to restore.\
      ![](https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png)
-
-***
 
 ## Collapse Sections
 
