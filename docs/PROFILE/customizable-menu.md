@@ -1,171 +1,172 @@
 ---
 title: Customizable Menu
+excerpt: >-
+  Learn how to fully customize and manage Mobohubb’s left-hand sidebar
+  menu—create and edit sections, add tools or custom links, organize favorites,
+  and reset or collapse the menu to streamline your workflow.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-The menu is the sidebar to the left of the screen that allows you to access the platform’s distinct functions and options. You can now customize the menu according to your preferences and needs, adding or removing whatever elements you wish, adding, deleting, or configuring sections, and you can also modify the Favorites section, where you can save the items you use the most or wish to have at hand.
+**In this guide you'll learn**
 
-To customize the menu and add favorites, follow these steps.
+* **How to Edit or Create Sections** and rearrange them
+* **How to Add, Remove, or Configure Tools** (including icons and colors)
+* **How to Use Favorites** for quick access to frequently used features
+* **How to Reset the Menu** to default if needed
+* **How to Collapse the Entire Menu** or individual sections to save screen space
 
-Note: You can also drag and drop the tools within the same section or between different sections to change their order. To do this, tap and hold the tool you wish to move and drag it to the desired position. You will see a previsualization indicating where the tool will be placed when you release it.
+***
 
-Sections
+<Accordion title="Overview & Notes">
+  **Key Points**
 
-1. Click on the gear icon at the bottom of the menu to access the menu settings.
+  * **Drag & Drop**: Reorder tools or entire sections by clicking and dragging them to a new position.
+  * **Custom Items**: Add your own links using the “custom” feature, which redirects users to any URL.
+  * **Save**: Always click **“Save changes”** at the bottom of the menu settings when done.
+</Accordion>
 
-![](https://files.readme.io/ed31952e92227399dcf6b59558bd0194be1e3d337392c0f63bb86c17cdfc3826-image.png)
+***
 
-<br />
+## Sections
 
-2. Click on the "Edit Menu" option.
+1. **Access Menu Settings**
+   * Click the **gear icon** at the bottom of the menu.\
+     ![](https://files.readme.io/ed31952e92227399dcf6b59558bd0194be1e3d337392c0f63bb86c17cdfc3826-image.png)
 
-![](https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png)
+2. **Click “Edit Menu.”**\
+   ![](https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png)
 
-<br />
+3. **Manage Each Section**
 
-3. For each section, by tapping on the 3 dots, you can edit the section or add options to the section.
+   * Tap the **3 dots** to **edit** the section name or **add options** (tools) to it.\
+     ![](https://files.readme.io/16ed38538af90fd4a29d60209e2f25c395d95288ec1358dc63521894544cbb66-image.png)
 
-![](https://files.readme.io/16ed38538af90fd4a29d60209e2f25c395d95288ec1358dc63521894544cbb66-image.png)
+   **Edit Section**
 
-<br />
+   * Change the **display name** of the section. (Optional)\
+     ![](https://files.readme.io/f1f311be3f43e3ec67f384c5fbc4e80e860861e4882553ee6bfc0adc0ab13f34-image.png)
 
-![](https://files.readme.io/91dcdef19ee65db4960ed9428cb13866f53166e832e81cd815674ea38156f3dd-image.png)
+   **Add Options**
 
-<br />
+   * **Feature**: Choose a Mobohubb tool or **Custom** URL.
 
-4. Edit: you can change the display name of the section. (Optional).
+   * **Icon** and **Color**: Select from the available icon set and color palette.
 
-![](https://files.readme.io/f1f311be3f43e3ec67f384c5fbc4e80e860861e4882553ee6bfc0adc0ab13f34-image.png)
+   * **Name**: Give this menu item a unique label.\
+     ![](https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png)
 
-<br />
+   > **Note:** A **Custom** feature can open an external website when clicked.\
+   > ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
 
-5. Add options: You can choose the feature, icon, color, and name. (Optional).
+   ![](https://files.readme.io/e7b03d22313d62c82ceae1b5b8fb953a729a1da609c6d5152ff7831faeaa6172-image.png)
 
-![](https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png)
+***
 
-<br />
+## Tools
 
-Note: You may create your own customized tool, such having access to your own organization's URL by adding a new option with the "custom" feature.
+<Tabs>
+  <Tab title="Editing Tools" icon="fa-edit">
+    **1. Access Menu Settings**
 
-![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
+    * Click the **gear icon** at the bottom of the menu.\
+      ![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
 
-<br />
+    **2. Click “Edit Menu.”**\
+    ![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
 
-Note: Clicking this option will redirect you to the URL.
+    **3. Choose the Section** where the tool resides or where you want to add it.\
+    ![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
 
-![](https://files.readme.io/e7b03d22313d62c82ceae1b5b8fb953a729a1da609c6d5152ff7831faeaa6172-image.png)
+    **4. Tap the 3 Dots on a Tool** to **Edit** or **Delete**.\
+    ![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
 
-<br />
+    **5. Edit Tool** (Optional)
 
-Tools
+    * **Icon & Color**: Pick from the built-in library.
+    * **Name**: Enter a descriptive label.\
+      ![](https://files.readme.io/eb282e9c06420b00a72cc9fbe3e4c84b5072913923604d9101375f6ddffb01d2-image.png)
 
-1. Click on the gear icon at the bottom of the menu to access the menu settings.
+    **6. Delete Tool** (Optional)
 
-![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
+    * Remove it from the section.\
+      ![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
+  </Tab>
 
-<br />
+  <Tab title="Rearranging & Favorites" icon="fa-star">
+    **1. Drag & Drop Tools**
 
-2. Click on the Edit Menu option.
+    * Move them **within** the same section or **between** sections.
+    * A preview will indicate the new position upon release.
 
-![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
+    **2. Add or Remove Tools from Favorites**
 
-<br />
+    * The **Favorites** section is at the **top** of the menu settings.
+    * **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
 
-3. Choose the section of the tool.
+    ![](https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png)
+  </Tab>
+</Tabs>
 
-![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
+***
 
-<br />
+## Saving Changes
 
-4. For each tool, by tapping on the 3 dots, you can edit or delete the option.
+After customizing sections and tools, **click “Save changes”** at the bottom of the menu settings. Your **updated menu** will appear immediately, including any **Favorites** you’ve configured.
 
-![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
+> **Note:** If you forget to save, your adjustments won’t be applied.
 
-<br />
+***
 
-5. Edit: Customize its color, icon, and name. (Optional).
+## Final Result
 
-![](https://files.readme.io/eb282e9c06420b00a72cc9fbe3e4c84b5072913923604d9101375f6ddffb01d2-image.png)
+Once saved, your left-hand menu reflects the **new arrangement**, section names, tools, and **Favorites**. You can quickly jump to **frequently used items** from the Favorites area or any section you created.
 
-<br />
+Enjoy your **personalized** Mobohubb menu!
 
-Icons section.
+## Reset the Menu
 
-![](https://files.readme.io/d8ee5f2528b44e00462e7a996fac93058394d8cf87f922f457ffd15e4dfb915c-image.png)
+If you want to **restore** the original layout or **undo** all customizations, you can reset the menu to its **initial configuration**:
 
-Color background section.
+1. **Open Menu Settings**
+   * Click the **gear icon** at the bottom.\
+     ![](https://files.readme.io/dbbfed8ad12c651345beb3f1542b8ea9a5be065d29d1e67aaf7d179547387afd-image.png)
 
-![](https://files.readme.io/e5f3b15d43ed8a5d4031f1c3c7322c50eb629444c43fe4748af67c24a4e885f4-image.png)
+2. **Select “Edit Menu.”**\
+   ![](https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png)
 
-6. Delete: Remove from the section. (Optional).
+3. **Click “Reset Menu.”**\
+   ![](https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png)
 
-![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
+> **Note:** After confirming, all custom sections, tools, and favorites will revert to **default**.
 
-<br />
+***
 
-7. Place them in the section of your choice (optional).
+## Collapse the Menu
 
-Note: If you wish to use the Favorites section, which is located at the top of the menu settings, find the tool and drag and drop it into the Favorites section. To remove an item from your favorites, drag and drop it out of the Favorites section.
+You can **collapse** the entire side menu so that **only icons** are displayed—saving screen space:
 
-When you have finished customizing the menu, click the "Save changes" button at the bottom of the menu settings.
+1. **Collapse** the Menu
+   * Click the **top corner** of the side menu.\
+     ![](https://files.readme.io/500245c4c2473a8c1c99a989d3d2b51621bc74a32784ea60a46eb43bb84f9f4e-image.png)
 
-![](https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png)
+2. **Uncollapse** the Menu
+   * Click the same **top corner** again to restore.\
+     ![](https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png)
 
-<br />
+***
 
-You will see that the menu has been updated with the items you have chosen and that a Favorites section has been created with the items you have saved. You can access them by clicking on their names.
+## Collapse Sections
 
-Reset menu\
-You can also reset the menu to the initial configuration using the Edit Menu–reset menu option if you cannot find a tool or wish to undo the changes you have made.
+Each **section** within the menu can also be collapsed individually—showing **only the section’s name** or **all contained tools**:
 
-1. Click on the gear icon at the bottom of the menu to access the menu settings.
+1. **Collapse a Section**
+   * Click on the **section name** to hide its tools.\
+     ![](https://files.readme.io/98c70812b296130a0dd8aace93140ed09f957a7822a47d505224915bdab96f8b-image.png)
 
-![](https://files.readme.io/dbbfed8ad12c651345beb3f1542b8ea9a5be065d29d1e67aaf7d179547387afd-image.png)
+2. **Uncollapse a Section**
+   * Click the **section name** again to expand it.\
+     ![](https://files.readme.io/807e146a67e732346cdf16e84e646b35d164e52bec6ac1000309c1b263bb1dd8-image.png)
 
-<br />
-
-2. Click on the "Edit Menu" option.
-
-![](https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png)
-
-<br />
-
-3. Click on "Reset menu."
-
-![](https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png)
-
-<br />
-
-Collapse menu\
-It is possible to collapse the menu so that only the icons of the sections and/or features are shown, omitting the names.
-
-1. Click on the top corner of the side menu to collapse it.
-
-![](https://files.readme.io/500245c4c2473a8c1c99a989d3d2b51621bc74a32784ea60a46eb43bb84f9f4e-image.png)
-
-<br />
-
-2. Click on the top corner of the side menu to uncollapse it.
-
-![](https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png)
-
-<br />
-
-Collapse Sections\
-It is possible to collapse sections to show only the name or to show all the features it contains.
-
-1. Click on the section to collapse it.
-
-<br />
-
-![](https://files.readme.io/98c70812b296130a0dd8aace93140ed09f957a7822a47d505224915bdab96f8b-image.png)
-
-2. Click on the section to uncollapse it.
-
-![](https://files.readme.io/807e146a67e732346cdf16e84e646b35d164e52bec6ac1000309c1b263bb1dd8-image.png)
-
-<br />
-
-Note: Collapsing every section as in the example is not required.
+> **Note:** Collapsing all sections is **not required**, but can help organize large menus.
