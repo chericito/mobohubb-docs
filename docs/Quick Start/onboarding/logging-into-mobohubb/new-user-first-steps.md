@@ -219,7 +219,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 # Create Forms and Checklists
 
-**Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. This ensures tasks are completed correctly, reducing errors or omissions.
+**Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. This ensures tasks are completed correctly, reducing errors or omissions. **Find a complete guide to create and manage tasks in our[dedicated guide](https://mobohubb.readme.io/docs/forms#/).**
 
 1. **Add** a new form
    * **Click** the **“Add new”** button on the right side of the interface.\
