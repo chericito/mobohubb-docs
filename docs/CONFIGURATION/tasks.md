@@ -138,4 +138,4 @@ Tasks are goals or actions that employees carry out as part of their job duties.
    * **All Information** or only the **Current View**.\
      ![](https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png)
 
-> **Note:** An Excel file will download if it’s **within size limits**. If it exceeds the limit, it appears in **“Downloads”** on the platform.
+> **Note:** An Excel file will download if it’s **within size limits**. If it exceeds the limit, it appears in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform.
