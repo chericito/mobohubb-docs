@@ -35,7 +35,7 @@ metadata:
    * Click the **gear icon** at the bottom of the menu.\
      ![](https://files.readme.io/ed31952e92227399dcf6b59558bd0194be1e3d337392c0f63bb86c17cdfc3826-image.png)
 
-2. **Click “Edit Menu.”**\
+2. **Click “Edit Menu”.**\
    ![](https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png)
 
 3. **Manage Each Section**
