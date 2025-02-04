@@ -23,7 +23,9 @@ Tags are powerful labels that help you organize and filter data in the Mobohubb 
 * **Identify Clients or Projects**: When managing multiple external clients or ongoing projects, tag items accordingly for quick reference.
 * **Simplify Searches**: Apply descriptive tags (e.g., “Electrical,” “Maintenance,” “Cleanup”) so users can find exactly what they need without scrolling through unrelated items.
 
-### In this Guide You’ll Learn
+***
+
+**In this guide you’ll learn**
 
 * **How to create new tags** with names, colors, and optional location information
 * **How to edit and delete** existing tags to keep your workspace tidy
@@ -57,7 +59,7 @@ Follow the steps below to **create** a new tag:
    * **Color**: Select a hue from the color palette.
    * **Activate**: Check the box to enable the tag.
 
-   ![](https://files.readme.io/54c2ab7d7ddfe8e539aabefb6f95f0e315fee6f821a1002375bbd51eb8a74e8f-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/54c2ab7d7ddfe8e539aabefb6f95f0e315fee6f821a1002375bbd51eb8a74e8f-image.png" />
 
 6. **Fill Optional Information** *(Optional)*
 
@@ -83,11 +85,11 @@ Once created, your tag becomes available for **association with elements** (e.g.
 1. **Navigate** to the Portal’s Top Menu\
    ![](https://files.readme.io/95a4332135d75ce8a674b7ca2c112a0cae4ab0e8d47e895e5d90d03773e7b952-image.png)
 
-2. **Go to “General Settings.”**
+2. **Go to “General Settings”.**
    * Click **Settings** in the top menu (or use the **side menu**).\
      ![](https://files.readme.io/62f1e972f99b9d541eab4359d03e54483f9486b2e12d820be66e420742378a01-image.png)
 
-3. **Select “Tags.”**
+3. **Select “Tags”.**
    * Within **Configuration**, click **Tags**.\
      ![](https://files.readme.io/ad270d6aacfe25ff3dcf8cc2ecaa123f7d012b594d7ae735796c8f7380d6af96-image.png)
 
