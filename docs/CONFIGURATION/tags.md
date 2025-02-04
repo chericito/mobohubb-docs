@@ -143,4 +143,4 @@ To export existing tags in **Excel format**:
 
 A file in Excel format will be downloaded if it’s within the **size limit**.
 
-> **Note:** If the file is **too large**, it will appear in the **“Downloads”** section on the platform.
+> **Note:** If the file is **too large**, it will appear in the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** section on the platform.
