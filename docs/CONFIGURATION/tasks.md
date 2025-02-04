@@ -1,18 +1,20 @@
 ---
 title: Tasks
+excerpt: >-
+  Discover how to create, edit, delete, and export tasks in Mobohubb. Learn how
+  to assign tasks to users, configure types (scan, alert, report, manual), and
+  enable Geo-tasks for location-based actions—ensuring your team’s workflow
+  stays organized and efficient.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-# Tasks
-
-**Description**\
 Tasks are goals or actions that employees carry out as part of their job duties. Each task can be **associated** with one or more people, a location, or even a category—like **scan**, which requires scanning a QR code or NFC tag; **report**, which requires filling out a form; **alert**, which triggers a notification; or **manual**, which is simply checked off by the user. Tasks can also be configured as **Geo-tasks** if you need to capture or require location coordinates.
 
 ***
 
-## In This Guide You'll Learn
+**In this guide you'll learn**
 
 * **How to add new tasks** to organize your workforce’s responsibilities
 * **How to edit existing tasks** and maintain accurate information
@@ -51,8 +53,11 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 6. **Set** the Task Type
 
    * **Scan**: Requires scanning a QR/NFC to complete.
+
    * **Alert**: Notifies or prompts an event or situation.
+
    * **Report**: Links to a **form** that users must fill out.
+
    * **Manual**: Appears as a checkbox in the app.
 
    > **Note**: For a **Report** task, you must have an **active** form created beforehand.
