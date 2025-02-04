@@ -1,5 +1,5 @@
 ---
-title: Multi-factor Authentication (MFA)
+title: Multi-Factor Authentication (MFA)
 excerpt: >-
   **MFA** adds an extra layer of security to your Mobohubb portal login by
   requiring a second method of identification. You can enable either **2-Factor
