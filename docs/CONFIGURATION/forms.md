@@ -182,7 +182,7 @@ To export forms/checklists (e.g., for archiving or analysis):
 2. **Choose** which data to export
    * You can typically export **All** information from the current view.
    * If the file is within size limits, it will **download** to your computer in Excel format.
-   * If it exceeds size limits, check the **“Downloads”** option in the platform.\
+   * If it exceeds size limits, check the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option in the platform.\
      ![](https://files.readme.io/fd4774fb2bf5eb163345201bffe5e167caa8c4d7ebb0d03209a30aa08ceea520-image.png)
 
 Once complete, you’ll have an Excel file containing all relevant data for your forms or checklists.
