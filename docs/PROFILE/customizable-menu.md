@@ -133,10 +133,10 @@ If you want to **restore** the original layout or **undo** all customizations, y
    * Click the **gear icon** at the bottom.\
      ![](https://files.readme.io/dbbfed8ad12c651345beb3f1542b8ea9a5be065d29d1e67aaf7d179547387afd-image.png)
 
-2. **Select “Edit Menu.”**\
+2. **Select “Edit Menu”.**\
    ![](https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png)
 
-3. **Click “Reset Menu.”**\
+3. **Click “Reset Menu”.**\
    ![](https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png)
 
 > **Note:** After confirming, all custom sections, tools, and favorites will revert to **default**.
