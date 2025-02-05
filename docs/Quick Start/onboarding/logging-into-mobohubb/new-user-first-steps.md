@@ -347,7 +347,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f87e952ed98e2759e2be5474478bc1c2c5a1cd0254854798b8337e789dbb27a8-image.png" />
 
-Mobohubb offers several security groups to define user roles:
+mobohubb offers several [security groups](https://mobohubb.readme.io/docs/security-groups#/) to define user roles:
 
 * **Organization Administrator**: Has full access to the organization and all its sites.
 * **Site Administrator**: Manages all settings for a specific site but cannot alter other sites.
