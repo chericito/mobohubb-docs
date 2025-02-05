@@ -11,7 +11,6 @@ metadata:
 **In this guide you'll discover**
 
 * How to check your subscription and log in as an administrator
-* How to log in as a user in the mobile app
 
 ***
 
