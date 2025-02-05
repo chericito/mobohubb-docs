@@ -328,7 +328,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 3. **Fill** in the phone number and email address fields.
    > **Note:** The user’s email address will be the username.
 
-4. **Choose** the security group from the dropdown menu.
+4. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
 
 5. **Choose** between invite by SMS or by email by checking the box.
    > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.\
