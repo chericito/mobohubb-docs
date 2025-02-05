@@ -36,4 +36,4 @@ To create a new tag, follow the steps below:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2cbbf096a71c82d09ebd2e6502d1fdf994cc24a9ea858ee946694fe48c2619e5-image.png" />
 
-For more information, visit our **[dedicated page on Tags](https://mobohubb.readme.io/update/docs/tags#/)**
+For more information, visit our **[dedicated page on Tags](https://mobohubb.readme.io/update/docs/tags#/)**.
