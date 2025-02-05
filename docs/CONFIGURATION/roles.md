@@ -12,6 +12,8 @@ metadata:
 ---
 We have recently **rebuilt our organizational structure levels** for the Mobohubb portal to make it easier to search by **region, site, or account**. Our **dashboards** have also been updated, ensuring that all users see data consistently based on their assigned **role and hierarchy**.
 
+<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=4b40837d-61c4-4815-98b4-22c416b34312&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Roles - Mobohubb ‐ Hecho con Clipchamp.mp4" />
+
 Roles are now **color-coded**, making it much easier to differentiate and identify them quickly.
 
 ## **Add Roles**
