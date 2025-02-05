@@ -1,5 +1,5 @@
 ---
-title: Enhanced Label Configuration
+title: Enhanced Tags Configuration
 excerpt: >-
   Discover how to configure and manage color-coded tags in Mobohubb for better
   data segmentation, easier searches, and efficient site management.
@@ -13,8 +13,6 @@ next:
       title: Tags
       type: basic
 ---
-# Enhanced Tags Configuration
-
 Tags are a very sophisticated aspect of the system and are used to segment data, help with searches, and apply specific actions and functionalities. They are applied when managing multiple customer sites under a single account and help our programmer send only the desired data.
 
 The labels are now **color-coded**, which makes it much easier to differentiate and identify them quickly.
