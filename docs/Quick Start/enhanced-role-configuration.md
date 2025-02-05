@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-We have recently **rebuilt our organizational structure levels** for the Mobohubb portal to make it easier to search by **region, site, or account**. Our **dashboards** have also been updated, ensuring that all users see data consistently based on their assigned **role and hierarchy.**
+We have **rebuilt our organizational structure levels** for the Mobohubb portal to make it easier to search by **region, site, or account**. Our **dashboards** have also been updated, ensuring that all users see data consistently based on their assigned **role and hierarchy.**
 
 Roles are now **color-coded**, making it much easier to differentiate and identify them quickly.
 
