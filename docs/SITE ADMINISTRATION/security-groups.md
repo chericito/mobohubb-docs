@@ -18,23 +18,33 @@ metadata:
 
 ## **Available Security Groups**
 
-* **Organization Administrator**\
-  Full access to the organization and all sites. This is the most powerful group, controlling the entire Mobohubb portal.
+<br />
 
-* **Site Administrator**\
-  Complete control over a **single site**, including all site-related settings. Cannot alter other sites.
+<Cards columns={2}>
+  <Card title="Organization Administrator" icon="fa-user-shield">
+    Full access to the **organization** and **all sites**. This is the most powerful group, controlling the entire Mobohubb portal.
+  </Card>
 
-* **Billing Administrator**\
-  Access to billing settings, including subscriptions.
+  <Card title="Site Administrator" icon="fa-user-cog">
+    Complete control over a **single site**, including all site-related settings. Cannot modify other sites.
+  </Card>
 
-* **Editor**\
-  Can edit most **site settings** in the Mobohubb portal.
+  <Card title="Billing Administrator" icon="fa-credit-card">
+    Access to **billing settings**, including subscriptions and financial details.
+  </Card>
 
-* **Read-only**\
-  Can **view** site settings and data but **cannot** modify them.
+  <Card title="Editor" icon="fa-edit">
+    Can edit most **site settings** in the Mobohubb portal, but does not have full administrative privileges.
+  </Card>
 
-* **Mobile**\
-  Uses the **mobile app** for tasks like scanning QR codes, filling out reports, and communicating. Cannot access the web portal or make portal modifications.
+  <Card title="Read-only" icon="fa-eye">
+    Can **view** site settings and data but **cannot** make any modifications.
+  </Card>
+
+  <Card title="Mobile" icon="fa-mobile-alt">
+    Uses the **mobile app** for tasks (e.g., scanning QR codes, filling out reports). Cannot access the web portal or modify portal elements.
+  </Card>
+</Cards>
 
 You can view the specifics for each group—name, description, permissions, and site associations—in the **General Settings** > **Security Groups** area.
 
