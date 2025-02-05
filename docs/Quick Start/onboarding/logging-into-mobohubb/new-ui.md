@@ -10,6 +10,8 @@ hidden: false
 metadata:
   robots: index
 ---
+<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=ada7ba6c-c6e2-49a7-8769-fc32692d1895&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="853" height="480" frameborder="0" scrolling="no" allowfullscreen title="New UI - Mobohubb.mp4" />
+
 > **Highlights**
 >
 > * **Updated Color Palette** for a harmonious look
