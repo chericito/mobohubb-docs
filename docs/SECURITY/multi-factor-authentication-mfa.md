@@ -10,11 +10,11 @@ hidden: false
 metadata:
   robots: index
 ---
-> **In this guide you'll learn:**
->
-> * How to **enable MFA** via phone or app-based token
-> * How to **deactivate MFA** if you no longer need it
-> * Important notes on **managing** MFA options in your profile settings
+**In this guide you'll learn:**
+
+* How to **enable MFA** via phone or app-based token
+* How to **deactivate MFA** if you no longer need it
+* Important notes on **managing** MFA options in your profile settings
 
 ***
 
