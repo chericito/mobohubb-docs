@@ -102,5 +102,3 @@ metadata:
     2. **Click** **"Delete"** to confirm the removal.
   </Tab>
 </Tabs>
-
-![](https://files.readme.io/d9a3b524c18a813875168c252fd67235b83ace36227ec08e57f0fd1f87a367f7-image.png)
