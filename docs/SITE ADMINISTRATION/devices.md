@@ -55,73 +55,100 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
 
-1. **Go** to **“General Settings.”**\
-   ![](NV94%20\(1\).png)
+2. **Go** to **“General Settings”.**
 
-2. **Select “Devices.”**\
-   ![](Devices%20\(12\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
 
-3. **Check** the devices to remove.
-   * You can select multiple devices.\
-     ![](Devices%20\(7\).png)
+![](NV94%20\(1\).png)
 
-4. **Click “Delete.”**
-   * All checked devices will be discarded.\
-     ![](Devices%20\(5\).png)
+3. **Select “Devices”.**
 
-5. **Confirm** your action.
-   * Verify the number of devices to remove, then click **Delete**.\
-     ![](Devices%20\(4\).png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
+
+![](Devices%20\(12\).png)
+
+4. **Check** the devices to remove.
+
+* You can select multiple devices.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5801623b1bf6007ea92ec36bf6efd46f68d03c6c713910749de50df8a7efe540-image.png" />
+
+5. **Click “Delete”.**
+
+* All checked devices will be discarded.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/07369850fd734f26acef8306f4692429536120caeaeaa62da3f2d6ee28392a3f-image.png" />
+
+6. **Confirm** your action.
+
+* Verify the number of devices to remove, then click **Delete**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7fe15da6255d001f31a84e786af7d15b3128c71b785f5040ac4d062025fbafcf-image.png" />
 
 ***
 
 ## **Export Devices**
 
-1. **Navigate** to the portal’s top menu.\
-   ![](NV94%20\(2\).png)
+1. **Navigate** to the portal’s top menu.
 
-2. **Go** to **“General Settings.”**\
-   ![](NV94%20\(1\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
 
-3. **Select “Devices.”**\
-   ![](Devices%20\(12\).png)
+2. **Go** to **“General Settings”.**
 
-4. **Click “Export.”**\
-   ![](Devices%20\(11\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
 
+3. **Select “Devices”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
+
+4. **Click “Export”.**
 5. **Export** the Excel file.
-   * Choose **all information** or **current window** only.\
-     ![](Devices%20\(3\).png)
 
-> **Note:** A file in **Excel** format will be downloaded if it’s within size limits. If it exceeds the limit, you’ll find it in the **Downloads** section of the platform.
+* Choose **all information** or **current window** only.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a99a65d70620bedfc5ae4ad404d30f7a18292fc042e8f244197cbb22d1c9e601-image.png" />
+
+> **Note:** A file in **Excel** format will be downloaded if it’s within size limits. If it exceeds the limit, you’ll find it in the **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** section of the platform.
 
 ***
 
 ## **Activate or Deactivate Devices**
 
-1. **Navigate** to the portal’s top menu.\
-   ![](NV94%20\(2\).png)
+1. **Navigate** to the portal’s top menu.
 
-2. **Go** to **“General Settings.”**\
-   ![](NV94%20\(1\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
 
-3. **Select “Devices.”**\
-   ![](Devices%20\(12\).png)
+2. **Go** to **“General Settings”.**
 
-4. **Check** the devices to modify.\
-   ![](Devices%20\(7\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
 
-5. **Click** the **3-dot button**.\
-   ![](device%20\(2\).png)
+![](NV94%20\(1\).png)
 
-6. **Choose “Activate” or “Deactivate.”**\
-   ![](device%20\(1\).png)
+3. **Select “Devices”.**
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
+
+![](Devices%20\(12\).png)
+
+4. **Check** the devices to modify.
+
+* You can select multiple devices.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e5a4c75e65ef774dd8a99809173977e5fbdde16b3371d930be7f607d57a3db6-image.png" />
+
+5. **Click** the **3-dot button**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1924cb62a388b354199629d124e07d103c56c893bbbc59d9062c8a88d1fd2402-image.png" />
+
+6. **Choose “Activate” or “Deactivate”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fa984fc98a9f5a080e2465c4891d78fb18cd6c5e7892324f892f994c93867fa8-image.png" />
 
 7. **Confirm** your action.
-   * For deactivation, click **Deactivate** in the pop-up.\
-     ![](device%201%20\(1\).png)
-   * For activation, click **Activate** in the pop-up.\
-     ![](device%201%20\(3\).png)
 
-8. **Check** the **Device Status** column to confirm changes.\
-   ![](device%201%20\(2\).png)
+* For deactivation, click **Deactivate** in the pop-up.
+* For activation, click **Activate** in the pop-up.
+
+6. **Check** the **Device Status** column to confirm changes.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e878e62dce4fa03c07d09f5453b2098be3ad3b02bc84b37292dd1167d51c1b3-image.png" />
