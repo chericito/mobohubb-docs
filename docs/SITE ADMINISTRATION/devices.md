@@ -9,123 +9,119 @@ hidden: false
 metadata:
   robots: index
 ---
-Devices
+The **Devices** feature allows you to manage and monitor the devices used by your team to access the **mobohubb** app. You can **edit device information**, **delete registered devices**, **activate or deactivate devices**, and **export device data**. Only Administrators can access this feature.
 
-The device feature allows you to manage and monitor the devices used by your team to access the Mobohubb app. You can edit device information, delete registered devices, activate or deactivate devices, and export their data. This feature is intended for Administrators only.
+> **Note:** You **cannot add new devices** through this interface. Devices are **automatically added** once your team members log in to the **mobohubb** mobile app.
 
-Note: This feature does not allow you to add new devices. Devices are added automatically when you log in to the mobile app.
+***
 
-Edit deviceTo edit an existing device:
+## **Edit a Device**
 
-1. Navigate to the portal’s top menu.
+1. **Navigate** to the portal’s top menu.
 
-NV94 (2).png
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c96f37ff18ea140db5c0672b673ffb9404036ca064652aabe71c75efa147ef49-image.png" />
 
-2. Navigate to “General Settings.”
+2. **Go** to **“General Settings”.**
 
-In the top menu, find and click on “Settings.”NV94 (1).png
+* In the top menu, click **Settings**.
 
-3. Navigate to “Devices.”
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5d52fbc09ab0b360e2d362fc59d89dee35ad29a3652c2fc4ec37b893c2f0b5c1-image.png" />
 
-Within the “Configuration” area, click on the “Devices” section.Devices (12).png
+3. **Select “Devices”.**
 
-4. Check the device using the “Device Name” column.
+* Within the **Configuration** area, click **Devices**.
 
-Devices (10).png
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a4ed2b737ecbb1fa7919f4460f1a808df5a8504429b668f434572056fa04a2ea-image.png" />
 
-5. Edit the relevant data.
+4. **Check** the desired device (under “Device Name”).
 
-You can edit the phone number, email, device type, device brand, tags and description.Devices (2).png
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f07f5a23d4d88afebfb18574cea5a082672401edbd026a7b6d7d08e705a4497c-image.png" />
 
-Note: You cannot edit the device name, or ID, because this information is linked directly to the device when your team logs in to the Mobohubb app.
+5. **Edit** the relevant data.
 
-6. Save and close.
+   <Image align="center" className="border" border={true} src="https://files.readme.io/d2fcee7da2660bfaed197d0a957af0db3dacecf08a48612eb8350e5eadaf1bb7-image.png" />
 
-Devices (1).pngDelete devices
-To delete devices:
+* You can modify the **phone number**, **email**, **device type**, **device brand**, **tags**, and **description**.
+* **Cannot Edit**: device name or ID, as these link directly to the physical device upon login.
 
-1. Navigate to the portal’s top menu.
+5. **Save and Close.**\
+   ![](Devices%20\(1\).png)
 
-NV94 (2).png
+***
 
-2. Navigate to “General Settings.”
+## **Delete Devices**
 
-In the top menu, find and click on “Settings.”NV94 (1).png
+1. **Navigate** to the portal’s top menu.
 
-3. Navigate to “Devices.”
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
 
-Within the “Configuration” area, click on the “Devices” section.Devices (12).png
+1. **Go** to **“General Settings.”**\
+   ![](NV94%20\(1\).png)
 
-4. Check the devices.
+2. **Select “Devices.”**\
+   ![](Devices%20\(12\).png)
 
-You can check as many devices as you wish to remove.Devices (7).png
+3. **Check** the devices to remove.
+   * You can select multiple devices.\
+     ![](Devices%20\(7\).png)
 
-5. Click on “Delete.”
+4. **Click “Delete.”**
+   * All checked devices will be discarded.\
+     ![](Devices%20\(5\).png)
 
-By clicking the “Delete” button, all devices checked will be discarded.Devices (5).png
+5. **Confirm** your action.
+   * Verify the number of devices to remove, then click **Delete**.\
+     ![](Devices%20\(4\).png)
 
-6. Confirm.
+***
 
-You can confirm if the number of devices displayed corresponds to the number you wish to remove. Click on “Delete.”Devices (4).png
+## **Export Devices**
 
-Export devicesTo export device information:
+1. **Navigate** to the portal’s top menu.\
+   ![](NV94%20\(2\).png)
 
-1. Navigate to the portal’s top menu.
+2. **Go** to **“General Settings.”**\
+   ![](NV94%20\(1\).png)
 
-NV94 (2).png
+3. **Select “Devices.”**\
+   ![](Devices%20\(12\).png)
 
-2. Navigate to “General Settings.”
+4. **Click “Export.”**\
+   ![](Devices%20\(11\).png)
 
-In the top menu, find and click on “Settings.”NV94 (1).png
+5. **Export** the Excel file.
+   * Choose **all information** or **current window** only.\
+     ![](Devices%20\(3\).png)
 
-3. Navigate to “Devices.”
+> **Note:** A file in **Excel** format will be downloaded if it’s within size limits. If it exceeds the limit, you’ll find it in the **Downloads** section of the platform.
 
-Within the “Configuration” area, click on the “Devices” section.Devices (12).png
+***
 
-4. Click on “Export.”
+## **Activate or Deactivate Devices**
 
-Devices (11).png
+1. **Navigate** to the portal’s top menu.\
+   ![](NV94%20\(2\).png)
 
-5. Export the Excel file.
+2. **Go** to **“General Settings.”**\
+   ![](NV94%20\(1\).png)
 
-You can export all the information or only the information shown in the current window\.Devices (3).png
+3. **Select “Devices.”**\
+   ![](Devices%20\(12\).png)
 
-A file in Excel format will be downloaded to the computer if the file does not exceed the allowed size.
+4. **Check** the devices to modify.\
+   ![](Devices%20\(7\).png)
 
-Note: If the report exceeds the allowed size, it will appear in the “Downloads” option on the platform.
+5. **Click** the **3-dot button**.\
+   ![](device%20\(2\).png)
 
-Activate or deactivate devicesTo activate or deactivate an existing device:
+6. **Choose “Activate” or “Deactivate.”**\
+   ![](device%20\(1\).png)
 
-1. Navigate to the portal’s top menu.
+7. **Confirm** your action.
+   * For deactivation, click **Deactivate** in the pop-up.\
+     ![](device%201%20\(1\).png)
+   * For activation, click **Activate** in the pop-up.\
+     ![](device%201%20\(3\).png)
 
-NV94 (2).png
-
-2. Navigate to “General Settings.”
-
-In the top menu, find and click on “Settings.”NV94 (1).png
-
-3. Navigate to “Devices.”
-
-Within the “Configuration” area, click on the “Devices” section.Devices (12).png
-
-4. Check the “Devices.”
-
-You can check as many devices as you wish to modify.Devices (7).png
-
-5. Click on the three dots button.
-
-device (2).png
-
-6. Click on “Activate” or “Deactivate” depending on your needs.
-
-device (1).png
-
-7.Confirm.
-
-When you deactivate devices, this is the pop-up notification to confirm the deactivation. Click on the “Deactivate” button.device 1 (1).png
-
-When you activate devices, this is the pop-up notification to confirm the activation. Click on the “Activate” button.device 1 (3).png
-
-8. Check the "Device status" column to confirm the changes.
-
-device 1 (2).png
+8. **Check** the **Device Status** column to confirm changes.\
+   ![](device%201%20\(2\).png)
