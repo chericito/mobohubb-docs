@@ -10,11 +10,19 @@ hidden: false
 metadata:
   robots: index
 ---
-> **Prerequisites:**
->
-> * Have **organization administrator** or **billing** permissions to view or modify these settings.
-> * [How to Give User Permissions](https://mobohubb.readme.io/docs/security-groups#/)
-> * [Log in to the Portal](https://beta.mobohubb.com)
+<Cards columns={3}>
+  <Card title="Permissions Required" icon="fa-lock">
+    Have **organization administrator** or **billing** permissions to view or modify these settings.
+  </Card>
+
+  <Card title="How to Give User Permissions" href="https://mobohubb.readme.io/docs/security-groups#/" target="_blank" icon="fa-user-shield">
+    Learn how to assign roles and permissions in **mobohubb**.
+  </Card>
+
+  <Card title="Log in to the Portal" href="https://beta.mobohubb.com" target="_blank" icon="fa-sign-in-alt">
+    Access your **mobohubb** account to manage billing settings.
+  </Card>
+</Cards>
 
 This guide explains how to access and manage the **Billing** section in **mobohubb**—where you can **change your plan**, **update payment information**, or **review payment history**.
 
