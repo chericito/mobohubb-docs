@@ -60,9 +60,6 @@ metadata:
     **Add Site**
 
     1. Within the site parent, **click** the **"Add Site"** button.
-
-    <Image align="center" border={true} src="https://files.readme.io/a19b7c1603c30c426e4e19ea4d13414d0e1e4140905d77e244838b5ab6d8d929-image.png" width="60%" />
-
     2. **Enter** the site information (site name, description, etc.) and **save** your changes.
 
     <Image align="center" border={true} src="https://files.readme.io/3c1772fa55d9afbd63bb1cdab5fc29fd6942e2fee4b07ba3bdb7e09a08068833-image.png" width="60%" />
