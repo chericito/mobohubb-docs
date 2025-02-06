@@ -19,7 +19,7 @@ metadata:
   </Card>
 </Cards>
 
-***In This Guide You'll Learn***
+**In This Guide You'll Learn**
 
 * How to **access** the site management area for time zone updates
 * How to **select** and **save** a new time zone
