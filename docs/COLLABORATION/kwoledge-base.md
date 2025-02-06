@@ -113,46 +113,57 @@ Easily locate and move between folders using the **directory index**:
 
 ## **Edit an Article**
 
-1. **Identify** the article and **click the 3-dot menu**.\
-   ![](Captura%20de%20pantalla%202024-09-09%20082942%20-%20copia.png)
+1. **Identify** the article and **click the 3-dot menu**.![](Captura%20de%20pantalla%202024-09-09%20082942%20-%20copia.png)
 
-2. **Click “Edit.”**\
-   ![](Captura%20de%20pantalla%202024-09-09%20082942.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c373f9c8c173a973ff2d946dab05b0d1e89d86534dd9ecdcf99201f2db24b35-image.png" />
 
-3. **Update** the article’s data: name, body, attachments, images.\
-   ![](Captura%20de%20pantalla%202024-09-09%20093439.png)
+2. **Click “Edit”.**
 
-4. **Save and Close.**\
-   ![](Captura%20de%20pantalla%202024-09-09%20093801.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0b44f5b59b387fce42a3b46e04418c87f3c3b5fd01fe3d7e8a3a07673e29618d-image.png" />
+
+3. **Update** the article’s data: name, body, attachments, images.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4addaa979f276eedd6e6bf42212915570a506b58f7ef28fc50d6fa97b99fb36a-image.png" />
+
+4. **Save and Close.**
 
 ***
 
 ## **Edit a Folder**
 
-1. **Identify** the folder and **click the 3-dot menu**.\
-   ![](Captura%20de%20pantalla%202024-09-09%20092007.png)
+1. **Identify** the folder and **click the 3-dot menu**.
 
-2. **Click “Edit.”**\
-   ![](Captura%20de%20pantalla%202024-09-09%20092017.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c373f9c8c173a973ff2d946dab05b0d1e89d86534dd9ecdcf99201f2db24b35-image.png" />
 
-3. **Update** the folder name.\
-   ![](Captura%20de%20pantalla%202024-09-09%20114120.png)
+2. **Click “Edit”.**
 
-4. **Save and Close.**\
-   ![](Captura%20de%20pantalla%202024-09-09%20093651.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b8b41f7d86a88588ead64c17fb30bdd89e86e3e72cb83ca01813f3829f2936bc-image.png" />
+
+3. **Update** the folder name.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/098e5638245f4d16ad0ba9160d1a82625db821e8c3997259e9ad95e4d8db41cc-image.png" />
+
+4. **Save and Close.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b3e46ba1ffd0eb28f6a0199674b979cd4ad43c255ba5e1bb6e16fc76c204db91-image.png" />
+
+![](Captura%20de%20pantalla%202024-09-09%20093651.png)
 
 ***
 
 ## **Delete an Article**
 
-1. **Identify** the article and **click the 3-dot menu**.\
-   ![](Captura%20de%20pantalla%202024-09-09%20082942%20-%20copia.png)
+1. **Identify** the article and **click the 3-dot menu**.
 
-2. **Click “Delete.”**\
-   ![](Captura%20de%20pantalla%202024-09-09%20082942.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b8b41f7d86a88588ead64c17fb30bdd89e86e3e72cb83ca01813f3829f2936bc-image.png" />
 
-3. **Confirm** the deletion.\
-   ![](Captura%20de%20pantalla%202024-09-09%20092030.png)
+2. **Click “Delete”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d7670f9efc9435968a71a3a3d2e07d2582466ae57207e4bf7b347911151d3c14-image.png" />
+
+3. **Confirm** the deletion.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e4be2d7d470ee84a4a2c0ddef35ff2bbb5ab54233d76e2442894825edee84d44-image.png" />
 
 ***
 
@@ -160,11 +171,16 @@ Easily locate and move between folders using the **directory index**:
 
 > **Warning:** Deleting a folder **removes all its contents**, including subfolders and files.
 
-1. **Identify** the folder and **click the 3-dot menu**.\
-   ![](Captura%20de%20pantalla%202024-09-09%20092007.png)
+1. **Identify** the folder and **click the 3-dot menu**.
 
-2. **Click “Delete.”**\
-   ![](Captura%20de%20pantalla%202024-09-09%20092017.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d919608dcef64b06accb2ab9cce0eba1813e8b9a97bd49c09b3ce791bcb33951-image.png" />
 
-3. **Confirm** the deletion.\
-   ![](Captura%20de%20pantalla%202024-09-09%20092030.png)
+2. **Click “Delete”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8e752d5c637449abc5543a2c577c6d8a4f8c5d1e443752814e7793601385cc9e-image.png" />
+
+3. **Confirm** the deletion.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7601a6ab59fc619adf346211dbb5b496efa40df0da3ce288567aec5b827a00b9-image.png" />
+
+![](Captura%20de%20pantalla%202024-09-09%20092030.png)
