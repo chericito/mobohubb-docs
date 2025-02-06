@@ -16,4 +16,4 @@ Site administration in Mobohubb allows you to **create and manage** multiple loc
 
 * **New Subscription Model**: Under this model, the **number of sites** you can manage is based on the **number of mobile app users**. The allowed sites will vary according to your chosen tier.
 
-For more details on expanding your site capacity or updating your subscription, please reach out to **mobohubb Support**.
+For more details on expanding your site capacity or updating your subscription, please reach out to **[mobohubb Support](https://mobohubb.zendesk.com/hc/en-us/requests/new)**.
