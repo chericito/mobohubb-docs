@@ -18,6 +18,8 @@ metadata:
 
 ***
 
+**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using Site Branding, Branding, and Mobile Configuration tabs. The ability to create new sites depends on your subscription—legacy users must request site creation through support, while newer subscriptions allow site management based on the number of mobile app users. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining the onboarding of staff and segmentation of data across different sites.
+
 ## Accessing Organizational Structure Management
 
 1. **Navigate** to the portal’s top menu.\
