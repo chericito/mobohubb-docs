@@ -18,8 +18,6 @@ metadata:
 
 This guide explains how to access and manage the **Billing** section in **mobohubb**—where you can **change your plan**, **update payment information**, or **review payment history**.
 
-***
-
 ## **How to Manage Billing Settings**
 
 Only users with the **Billing** security group or **Organization Administrator** rights can access this tool. It redirects you to a **payment platform**, enabling you to update your mobohubb plan, payment method, and view your subscription details.
@@ -164,4 +162,4 @@ Only users with the **Billing** security group or **Organization Administrator**
 
 Here, you can view the record of your **recent payments**, including amounts and dates.
 
-<Image align="center" border={true} src="https://files.readme.io/8c6b0cd3fd57d96262c2de8030343c3ddbfa00a97e5e7ad2b65ad63aff22cfd2-image.png" width="80% " />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c6b0cd3fd57d96262c2de8030343c3ddbfa00a97e5e7ad2b65ad63aff22cfd2-image.png" />
