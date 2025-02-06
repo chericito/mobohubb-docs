@@ -6,7 +6,7 @@ excerpt: >-
   history. These features are accessible only to organization administrators or
   users with billing permissions.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
