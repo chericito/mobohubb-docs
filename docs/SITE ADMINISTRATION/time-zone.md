@@ -9,13 +9,15 @@ hidden: false
 metadata:
   robots: index
 ---
-\<Cards columns=\{2}>
-&#x20; \<Card title="Administrator Permissions" icon="fa-user">
-\* \*\*Administrator permissions\*\*: You must have the ability to view, edit, modify, or delete portal user and configuration settings.  \</Card>
+<Cards columns={2}>
+  <Card title="Administrator Permissions" icon="fa-user">
+    * **Administrator permissions**: You must have the ability to view, edit, modify, or delete portal user and configuration settings.
+  </Card>
 
-&#x20; \<Card title="How to Give User Permissions" href="https\://mobohubb.readme.io/docs/security-groups#/" target="\_blank" icon="fa-user-shield">
-Learn how to assign roles and permissions in \*\*mobohubb\*\*.  \</Card>
-\</Cards>
+  <Card title="How to Give User Permissions" href="https://mobohubb.readme.io/docs/security-groups#/" target="_blank" icon="fa-user-shield">
+    Learn how to assign roles and permissions in **mobohubb**.
+  </Card>
+</Cards>
 
 ***In This Guide You'll Learn***
 
