@@ -96,20 +96,11 @@ metadata:
     **Remove Child**
 
     1. **Click** the **"Remove"** button on the child section you wish to delete.
+
+    <Image align="center" border={true} src="https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png" width="60%" />
+
     2. **Click** **"Delete"** to confirm the removal.
   </Tab>
 </Tabs>
 
-![](https://files.readme.io/a19b7c1603c30c426e4e19ea4d13414d0e1e4140905d77e244838b5ab6d8d929-image.png)
-
-[https://files.readme.io/a19b7c1603c30c426e4e19ea4d13414d0e1e4140905d77e244838b5ab6d8d929-image.png](https://files.readme.io/a19b7c1603c30c426e4e19ea4d13414d0e1e4140905d77e244838b5ab6d8d929-image.png)
-
-![](https://files.readme.io/3c1772fa55d9afbd63bb1cdab5fc29fd6942e2fee4b07ba3bdb7e09a08068833-image.png)
-
-![](https://files.readme.io/dd865067a0162791ba96f1762c3bd3ae3369d355fb0daba886d3b8b012614177-image.png)
-
-[https://files.readme.io/dd865067a0162791ba96f1762c3bd3ae3369d355fb0daba886d3b8b012614177-image.png](https://files.readme.io/dd865067a0162791ba96f1762c3bd3ae3369d355fb0daba886d3b8b012614177-image.png)
-
-![](https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png)
-
-[https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png](https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png)
+![](https://files.readme.io/d9a3b524c18a813875168c252fd67235b83ace36227ec08e57f0fd1f87a367f7-image.png)
