@@ -1,5 +1,5 @@
 ---
-title: Billing Settings
+title: Billing
 excerpt: >-
   Learn how to view and modify Billing Settings in mobohubb, including updating
   payment methods, upgrading or canceling subscriptions, and reviewing invoice
