@@ -30,7 +30,7 @@ next:
     * Quick start guides for new and existing users (migrating from the classic Mobohubb experience)
   </Card>
 
-  <Card title="Mobile App" href="https://mobohubb.readme.io/docs/logging-into-mobohubb-mobile-app#/" icon="fa-mobile" target="_blank">
+  <Card title="Mobile App" href="https://mobohubb.readme.io/v1.2/docs/mobohubb-mobile-app#/" icon="fa-mobile" target="_blank">
     Find out how to download and install the Mobohubb Mobile App on both Android and iOS devices, and learn how to log in using various methods.
 
     **In these sections you'll discover:**
