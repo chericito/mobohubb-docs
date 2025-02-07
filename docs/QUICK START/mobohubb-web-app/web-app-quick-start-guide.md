@@ -11,8 +11,9 @@ metadata:
 ---
 # Log in
 
-1. **Enter** the web app with your credentials.\
-   ![](https://files.readme.io/1b914f7e296fb01accbae435ef9bf9dc4c7bea16419597b6016f6daaa9d641b6-image.png)
+1. **Enter** the web app with your credentials.
+
+![](https://files.readme.io/1b914f7e296fb01accbae435ef9bf9dc4c7bea16419597b6016f6daaa9d641b6-image.png)
 
 ## Select Your Site
 
