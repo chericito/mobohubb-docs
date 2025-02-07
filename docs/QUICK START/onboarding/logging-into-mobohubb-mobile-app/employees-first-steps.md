@@ -6,7 +6,7 @@ excerpt: >-
   clock, completing tasks, and using forms or checklists—all from both mobile
   and web platforms.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
