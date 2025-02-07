@@ -74,8 +74,8 @@ You can upload up to **1 audio clip**, **10 images**, and **1 video file**, plus
 <Image align="center" width="80% " src="https://files.readme.io/37dbaac620984db884bda95619c14b272c248dddd4cf92254edc2065a2841ece-image.png" />
 
 3. **Save Draft or Submit**
-   * **Save Draft**: Provide a name to store it as a draft.
-   ![](https://files.readme.io/1dd886ca50410c9f1af7f920c61170f24b9cb043dbb1ab7b56c230767d7a1363-image.png)
+   * **Save Draft**: Provide a name to store it as a draft.\
+     ![](https://files.readme.io/1dd886ca50410c9f1af7f920c61170f24b9cb043dbb1ab7b56c230767d7a1363-image.png)
    * **Submit**: Sends the completed form to your supervisor or relevant contact.
 
 ***
@@ -84,19 +84,19 @@ You can upload up to **1 audio clip**, **10 images**, and **1 video file**, plus
 
 If you saved a draft instead of submitting, find it in the **3-dot menu** on the top-left of your screen:
 
-1. **Click** the **3 dots**.
+1. **Click** the **3 dots**. The left panel will appear.
 
-![](https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png)
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png" />
 
-1. **Select “Drafts.”**
+2. **Select “Drafts”.**
+3. **Choose** the draft you want to work on.
 
-2. **Choose** the draft you want to work on.\
-   ![](https://files.readme.io/138ea73e1b1d4c54dd7a8d772d5f746b6fa5c690a2bfb1a12fce412c812cf0c3-image.png)
+![](https://files.readme.io/138ea73e1b1d4c54dd7a8d772d5f746b6fa5c690a2bfb1a12fce412c812cf0c3-image.png)
 
-3. **Update** or complete any info, add media, etc.\
+1. **Update** or complete any info, add media, etc.\
    ![](https://files.readme.io/ab7c837c8bcc2822ac7d37b50048ffe7dca39ec4b0b60910ffd7408719d7b695-image.png)
 
-4. **Decide how to proceed**:
+2. **Decide how to proceed**:
    1. **Delete Draft**: Removes the draft entirely.
    2. **Update Draft**: Saves your new changes.
    3. **Submit**: Finalizes and sends the draft as a completed form.
