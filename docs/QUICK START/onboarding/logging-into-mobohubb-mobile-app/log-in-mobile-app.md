@@ -5,7 +5,7 @@ excerpt: >-
   covering how to access the app, new authentication methods, and site
   selection.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
