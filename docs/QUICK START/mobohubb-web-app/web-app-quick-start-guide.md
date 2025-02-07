@@ -95,11 +95,12 @@ If you saved a draft instead of submitting, find it in the **3-dot menu** on the
 
 4. **Update** or complete any info, add media, etc.
 
-![](https://files.readme.io/ab7c837c8bcc2822ac7d37b50048ffe7dca39ec4b0b60910ffd7408719d7b695-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ab7c837c8bcc2822ac7d37b50048ffe7dca39ec4b0b60910ffd7408719d7b695-image.png" />
 
-1. **Decide how to proceed**:
-   1. **Delete Draft**: Removes the draft entirely.
-   2. **Update Draft**: Saves your new changes.
-   3. **Submit**: Finalizes and sends the draft as a completed form.
+5. **Decide how to proceed**:
+
+* **Delete Draft**: Removes the draft entirely.
+* **Update Draft**: Saves your new changes.
+* **Submit**: Finalizes and sends the draft as a completed form.
 
 That’s it! You now know the basics of using **Forms** and **Drafts** in the **mobohubb** Web App.
