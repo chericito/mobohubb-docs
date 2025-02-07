@@ -41,7 +41,7 @@ mobohubb’s **Web App** is the central hub for configuring your organization. A
 
 The **Mobile App** connects administrators with their deskless workforce. Employees can scan QR or NFC codes, complete tasks, fill out forms, record hours, and share real-time updates, making it easy to stay productive on the go.
 
-> [Learn how to log in](https://mobohubb.readme.io/docs/log-in-mobile-app#/)
+> [Learn how to log in](https://mobohubb.readme.io/v1.2/update/docs/log-in-mobile-app#/)
 
 ***
 
