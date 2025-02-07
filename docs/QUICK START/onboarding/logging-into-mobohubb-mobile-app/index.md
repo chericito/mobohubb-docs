@@ -4,7 +4,7 @@ excerpt: >-
   This guide explains how to download and install the Mobohubb Mobile App on
   both Android and iOS devices.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
