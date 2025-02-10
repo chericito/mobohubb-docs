@@ -17,7 +17,7 @@ If you need to reach the user profile, follow these steps:
 
 2. In the current window, **check** the box for the user you wish to personalize.
 
-   **Note:** You can modify only one user at a time, so do not check more than one user's box.
+   > **Note:** You can modify only one user at a time, so do not check more than one user's box.
 
 3. On the right side of the interface, **click** on "Edit".
 
