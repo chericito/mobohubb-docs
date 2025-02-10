@@ -34,6 +34,6 @@ Follow these steps to access and modify a user's security settings:
 
 <br />
 
-* You can update the **Role**, **Security Groups**, **Device(s)** from which the user may access the platform, and set permissions for mobile and portal web access, among other settings.
+* You can update the **Role**, **Security Groups**, **Device(s)** from which the user may access the platform, and set **type** permissions for mobile and portal web forms completions, among other settings.
 
 5. **Click** the **"Save"** button to apply your changes.
