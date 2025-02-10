@@ -86,16 +86,16 @@ If you saved a draft instead of submitting, find it in the **3-dot menu** on the
 
 1. **Click** the **3 dots**. The left panel will appear.
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png" />
 
 2. **Select “Drafts”.**
 3. **Choose** the draft you want to work on.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/138ea73e1b1d4c54dd7a8d772d5f746b6fa5c690a2bfb1a12fce412c812cf0c3-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/138ea73e1b1d4c54dd7a8d772d5f746b6fa5c690a2bfb1a12fce412c812cf0c3-image.png" />
 
 4. **Update** or complete any info, add media, etc.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ab7c837c8bcc2822ac7d37b50048ffe7dca39ec4b0b60910ffd7408719d7b695-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/ab7c837c8bcc2822ac7d37b50048ffe7dca39ec4b0b60910ffd7408719d7b695-image.png" />
 
 5. **Decide how to proceed**:
 
