@@ -19,7 +19,7 @@ If you need to reach the user profile, follow these steps:
 
    **Note:** You can modify only one user at a time, so do not check more than one user's box.
 
-3. On the right side of the interface, **click** on "Edit."
+3. On the right side of the interface, **click** on "Edit".
 
 4. **Click** on the "Hourly pay" tab.
 
