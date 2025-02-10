@@ -27,7 +27,7 @@ If you need to access the user profile to update skills and certifications, foll
 
    **Note:** You can modify only one user at a time, so do not check more than one user's box.
 
-3. At the right side of the interface, **click** on "Edit."
+3. At the right side of the interface, **click** on "Edit".
 
 4. **Click** on the "Skill Certification" tab.
 
