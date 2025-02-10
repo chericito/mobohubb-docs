@@ -17,7 +17,7 @@ metadata:
 
 ## Select Your Site
 
-You may have permissions for one site or multiple sites. If you have access to multiple sites, the system will prompt you to select which site you’re currently working on or submitting a form for.
+You may have permissions for one site or multiple sites. If you can access various sites, the system will prompt you to select which site you’re currently working on or submit a form for.
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/2a540bdfa43e097ccc5b83653f93ce9fa0a1d74c9927233216df881c409aabbd-image.png" />
 
@@ -63,7 +63,9 @@ You can upload up to **1 audio clip**, **10 images**, and **1 video file**, plus
 
 ### Images
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/d75d7e965d82d377369a859e6cf4848755d94b3467cf4e4dc6b594349cb28169-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/fd83815fec9e22a8506a6cd06ce0d5a500545deddd2d66044977e8136c8f3624-image.png" />
+
+<br />
 
 ### Video
 
@@ -74,8 +76,8 @@ You can upload up to **1 audio clip**, **10 images**, and **1 video file**, plus
 <Image align="center" width="60% " src="https://files.readme.io/37dbaac620984db884bda95619c14b272c248dddd4cf92254edc2065a2841ece-image.png" />
 
 3. **Save Draft or Submit**
-   * **Save Draft**: Provide a name to store it as a draft.
-   ![](https://files.readme.io/1dd886ca50410c9f1af7f920c61170f24b9cb043dbb1ab7b56c230767d7a1363-image.png)
+   * **Save Draft**: Provide a name to store it as a draft.\
+     ![](https://files.readme.io/1dd886ca50410c9f1af7f920c61170f24b9cb043dbb1ab7b56c230767d7a1363-image.png)
    * **Submit**: Sends the completed form to your supervisor or relevant contact.
 
 ***
