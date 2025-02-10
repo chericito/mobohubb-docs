@@ -137,7 +137,7 @@ Follow these steps to create a new scan point associated with an **NFC tag**:
 
 11. **Mark as Active**
 
-* Check the box to make this scan point visible to users.
+* Check the box to make this scan point visible to mobile users.
 * Uncheck to **temporarily hide** it.\
   ![](https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png)
 
