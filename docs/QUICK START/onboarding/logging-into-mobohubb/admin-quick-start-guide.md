@@ -1,5 +1,5 @@
 ---
-title: 'Migrating from Classic Mobohubb: Admin Quick Start Guide'
+title: 'Migrating from Classic mobohubb: Admin Quick Start Guide'
 excerpt: >-
   This guide is designed for **existing admin users** transitioning from the
   classic portal. We’ll show you how to log in, update your organization’s
@@ -11,13 +11,13 @@ metadata:
 ---
 **In this guide you'll discover**
 
-* How to log in to the new Mobohubb portal with your existing credentials
+* How to log in to the new mobohubb portal with your existing credentials
 * How to update your organization’s branding
 * How to enable different login methods for your users (username/password, SMS code, email code)
 
 ***
 
-## Welcome to the New Mobohubb
+## Welcome to the New mobohubb
 
 We’ve introduced a fresh, modern interface aimed at streamlining your workflow and enhancing usability. While your favorite features remain, you’ll also find new ones to explore. You can continue using your **existing credentials** to access the updated portal.
 
