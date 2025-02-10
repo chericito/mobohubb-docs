@@ -9,7 +9,7 @@ hidden: false
 metadata:
   robots: index
 ---
-***In This Guide You'll Learn***
+***In this guide you'll learn***
 
 * How to **add new users** using the portal
 * How to **edit existing users** to update their personal information
@@ -53,7 +53,7 @@ To add a new user:
 
 <br />
 
-7. **Choose** the Security Group from the dropdown menu.
+7. **Choose** the [Security Group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9077a96ad97debe0131918d130b26c5e196863f25036809f85567ff4703babc4-image.png" />
 
@@ -87,33 +87,40 @@ To add a new user:
 
 To edit an existing user:
 
-1. **Navigate** to the portal’s top menu.\
-   ![](NV94.png)
+1. **Navigate** to the portal’s top menu.![](NV94.png)
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0868bad525a5345caba22115d8197fff8f766c69cad2b484c725b0d25f10273f-image.png" />
 
 2. **Go to "General Settings."**
-   * Click on **Settings** in the top menu (or use the side menu).\
-     ![](NV95.png)
+
+* In the top menu, click on **Settings**. This is where you will find various configuration options for your organization.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9274db15b3806405299632386234188a0e4b979ee9624835b1e040d106c5e6b3-image.png" />
 
 3. **Navigate to "Users."**
-   * Within the **Site Administration** area, click on the **Users** section.\
-     !\[]\(NV145 (2).png)
+
+* Within the **Site Administration** area, click on the **Users** section.
 
 4. **Check** the checkbox for the user you wish to update.
-   > **Note:** Only one user can be modified at a time. If more than one is selected, the edit option will not appear.\
-   > !\[]\(NV145 (1).png)
 
-5. **Click** the **Edit** button.\
-   ![](NV147.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e2c7f8bb591422340c15da28fac5cfca327397ec003652b65d7a09f9c7eb84e5-image.png" />
+
+> **Note:** Only one user can be modified at a time. If more than one is selected, the edit option will not appear.
+
+5. **Click** the **Edit** button.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/91f40ad436915862c6b9ae2db02b6761590485b257ef05dae6565b2c63378ce3-image.png" />
 
 6. **Fill in** the empty fields or modify existing information in each section.
-   > **Note:** There is a section with further details under User's Personalization.\
-   > !\[]\(NV146 (3).png)
 
-7. **Click** the **"Save"** button for each tab you want to modify.\
-   !\[]\(NV146 (2).png)
+> **Note:** There is a section with further details under User's Personalization.
 
-8. **Close** the window by clicking the **"Close"** button.\
-   !\[]\(NV146 (3) - copia.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/35b7b59c97caa5726ff1c0d055160e1bc9aa7089e77340189ba6458bc0e5d897-image.png" />
+
+<br />
+
+7. **Click** the **"Save"** button on **EACH** tab you want to modify. Tabs save information individually.
+8. **Close** the window by clicking the **"Close"** button.
 
 ***
 
@@ -121,30 +128,40 @@ To edit an existing user:
 
 To activate or deactivate an existing user:
 
-1. **Navigate** to the portal’s top menu.\
-   ![](NV94.png)
+1. **Navigate** to the portal’s top menu.![](NV94.png)
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0868bad525a5345caba22115d8197fff8f766c69cad2b484c725b0d25f10273f-image.png" />
 
 2. **Go to "General Settings."**
-   * Click on **Settings** in the top menu (or use the side menu).\
-     ![](NV95.png)
 
-3. **Navigate to "Users."**
-   * Within the **Site Administration** area, click on the **Users** section.\
-     !\[]\(NV145 (2).png)
+* In the top menu, click on **Settings**. This is where you will find various configuration options for your organization.
 
-4. **Check** the checkboxes for the users you want to modify.\
-   !\[]\(NV178 (4).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9274db15b3806405299632386234188a0e4b979ee9624835b1e040d106c5e6b3-image.png" />
 
-5. **Click** the three dots button.\
-   !\[]\(NV178 (5).png)
+3. **Navigate to "Users".**
 
-6. **Click** **"Activate"** or **"Deactivate"** depending on your needs.\
-   !\[]\(NV178 (3).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e9cc56b8eb6abcb54790c99b617dbc52489672a5570dc3e25e5ca4c790b317f2-image.png" />
+
+4. **Check** the checkboxes for the users you want to modify.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4fd0b24a721d7a6c97263008e51e99e9cccd7ee5e4d5f17a222de7a7061d43fa-image.png" />
+
+<br />
+
+5. **Click** the three dots button.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/edbc2c9a6bd10875797c891c6a0f194570e9d13f6d3d81753f449c11ce33f4dc-image.png" />
+
+6. **Click** **"Activate"** or **"Deactivate"** depending on your needs.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5607e54a696c37137a53518f99359a088f9d84adad1d46d1a7212c4691525597-image.png" />
 
 7. **Confirm** the activation or deactivation:
-   * For deactivation, a pop-up notification will appear; click **"Deactivate."**\
-     !\[]\(NV178 (2).png)
-   * For activation, a similar pop-up will appear; click **"Activate."**\
-     !\[]\(NV178 (6).png)
+
+* For deactivation, a pop-up notification will appear; click **"Deactivate".** For activation, a similar pop-up will appear; click **"Activate."**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0842474ccd6ab7608253b34a9bcd58934b02add9a4b4fe043a6623f5a02ded40-image.png" />
 
 8. **Check** the **user status** column to confirm the changes.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4eefc8f064a615207dea676fb88c5b7de47618abdd744b8001b96a2c6214771e-image.png" />
