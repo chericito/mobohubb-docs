@@ -5,7 +5,7 @@ excerpt: >-
   Hourly Pay tab in the user profile. This guide explains how to input position,
   pay rate, and overtime details that are unique to each user.
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
