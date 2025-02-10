@@ -17,9 +17,7 @@ The groups created in the "Certifications" area are used to organize certificati
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f6ad7136fe4fbd8a7a801fee25d8efa75bf1966732bbefbeb017466d4b2af802-2BDE38C9-60BC-4ACB-BC14-7D5A593FA8EF.png" />
 
-<br />
-
-You can add more than one certification by clicking the "+" button or remove one by clicking the "-" button. When adding a new certification, make sure to fill in all the required fields.
+You can add more than one certification or attachements by clicking the "+" button or remove one by clicking the "-" button. When adding a new certification, make sure to fill in all the required fields.
 
 If you need to access the user profile to update skills and certifications, follow these steps:
 
