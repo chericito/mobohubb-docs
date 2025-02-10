@@ -5,18 +5,34 @@ hidden: false
 metadata:
   robots: index
 ---
-You can assign to a user the skills that you have previously defined in the "Skills" section. A drop-down list with all the items created will be activated for each user, from which you can choose as many as necessary.
+### Metadata Description
 
-The groups created in the “Certifications” area can be used to organize certifications. Furthermore, the file must be uploaded in one of the following formats: doc, pdf, or docx.
+Assign skills and certifications to users in mobohubb by leveraging the previously defined Skills and Certifications sections. This guide shows you how to update a user's profile to add or modify their skills and certifications, including file uploads for certifications.
 
-If you need to reach the user profile, follow these steps:
+# User's Skills and Certifications
 
-1. Navigate to the “Users” section.
-2. In the current window, check the box of the user you wish to personalize.
+You can assign to a user the skills that you have previously defined in the "Skills" section. A drop-down list with all the created items will be available for each user, allowing you to choose as many as necessary.
 
-Note: You can modify only one user per time, so do not check more than one user’s box.
+The groups created in the "Certifications" area are used to organize certifications. Certification files must be uploaded in one of the following formats: **doc**, **pdf**, or **docx**.
 
-5. At the right side of the interface, click on “Edit.”
-6. Click on the “Skill Certification” tab.
-7. Fill in the empty fields or modify the existing information.
-8. Click the “Save” button to save your changes.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f6ad7136fe4fbd8a7a801fee25d8efa75bf1966732bbefbeb017466d4b2af802-2BDE38C9-60BC-4ACB-BC14-7D5A593FA8EF.png" />
+
+<br />
+
+You can add more than one certification by clicking the "+" button or remove one by clicking the "-" button. When adding a new certification, make sure to fill in all the required fields.
+
+If you need to access the user profile to update skills and certifications, follow these steps:
+
+1. **Navigate** to the "Users" section.
+
+2. In the current window, **check** the box next to the user you wish to personalize.
+
+   **Note:** You can modify only one user at a time, so do not check more than one user's box.
+
+3. At the right side of the interface, **click** on "Edit."
+
+4. **Click** on the "Skill Certification" tab.
+
+5. **Fill in** the empty fields or modify the existing information.
+
+6. **Click** the "Save" button to save your changes.
