@@ -13,7 +13,6 @@ metadata:
 
 * How to **create and trigger notifications** for users
 * How to **configure recipients** (individuals, all users, or specific devices)
-* How to **view and filter** notifications in mobohubb
 
 ***
 
