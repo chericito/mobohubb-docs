@@ -1,4 +1,5 @@
 - users
+- certifications
 - roles
 - scan-points
 - tags
@@ -8,4 +9,3 @@
 - dashboard
 - notifications
 - positions
-- certifications
