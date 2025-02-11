@@ -20,6 +20,10 @@ metadata:
 
 Site Management is divided into three main sections—**Site Information**, **Site Branding**, and **Mobile Configuration**—each accessible via a tab within the feature.
 
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/efd155f8866944201eea8a4ea966fdf8313f30bc62d6fac6f4b27e76b9c4190d-image.png" />
+
+<br />
+
 <Tabs>
   <Tab title="Site Information">
     Site Information enables you to create and manage sites within your organization. Each site can be configured according to several details. The Site Name is a unique identifier. The Site Path is the address or directory where the site is located on the server. The Type of Site can be security, facilities, janitorial, construction, restaurant, or “other.” The Site Address is where the site or target location is physically located. The Time Zone determines how dates and times are displayed and recorded. Enable Web App Access allows forms to be accessed through [https://mobile.mobohubb.com/](https://mobile.mobohubb.com/). You can activate or deactivate the site without deleting it, and you can select NFC tags or QR codes as the scanning method.
@@ -50,11 +54,15 @@ Site Management is divided into three main sections—**Site Information**, **Si
   </Card>
 </Cards>
 
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/fc6112f82295c5233077a06d7d41ba9a2818a9da0a960bb3e0d74bf14c3db5ac-image.png" />
+
 # Site Management Configuration
 
 ## Site Information
 
 The **Site Information** interface allows you to create and manage sites for your organization. Each site can be configured with the following details:
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/159405d0bba0b9b119d39c3b0450106a7de4e843682c5a518a78d5ca2032ae27-image.png" />
 
 * **Site Name**: A unique name to identify the site.
 * **Site Path**: The address or directory where the site is located on the server.
@@ -74,6 +82,8 @@ The **Site Information** interface allows you to create and manage sites for you
 ## Site Branding
 
 The **Site Branding** tab lets you determine whether to inherit the organization’s branding or customize your own. Disabling “Inherit Settings” allows further personalization of the site’s design:
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/e5a644d8985cd72fe3cc50a0091e9a20b091b24eea8506dbebecd4d54dee2c21-image.png" />
 
 * **Description**: A short text introducing the site’s purpose or value.
 * **Logo app mobile**: The graphic symbol shown in the mobile app.
@@ -97,6 +107,8 @@ The **Site Branding** tab lets you determine whether to inherit the organization
 ## Mobile Configuration
 
 The **Mobile Configuration** tab lets you configure technical aspects of the mobile application for each site, determining how users interact, view data, and manage tasks.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/1552b8d7251124dcbbc5c32a83767c8e416f1bd9b58a5a9f78b41ab31f375fd0-image.png" />
 
 * **GPS Polling**: Periodically queries a device’s GPS for user tracking or attendance. Set the interval in seconds.
 * **Security**: Allows users to stay logged in or requires them to log in each time they access mobohubb.
