@@ -47,25 +47,31 @@ metadata:
 
 ## **Accessing Mobile Configurations**
 
-1. **Navigate to the Portal’s Top Menu**\
-   ![](https://files.readme.io/ee03831bb7eae2477edc01ea182e6c3eaf283a8e547ccbb5058bd200159616ce-image.png)
+1. **Navigate to the Portal’s Top Menu**
 
 2. **Go to “General Settings”.**
    * In the top menu, click **Settings** for various configuration options.
-   * You can also use the side menu to reach **General Settings**.\
-     ![](https://files.readme.io/b74f73c7c9187a97016b1620b0dc98de24e6944a0b03acb29ea19690cff4658a-image.png)
+   * You can also use the side menu to reach **General Settings**.
 
 3. **Select “Site Management”** under the **“Site Administration”** section.\
    ![](https://files.readme.io/d8cea4f1dbe79bed97679c7a5508b24f9948822665b7a2ccc8f22902ef22b391-image.png)
 
 4. **Identify the Site** you wish to modify.
-   * Click on the **site name** to access its configuration.\
-     ![](https://files.readme.io/1048279e4d13ec101e3d5ef6e4774bcaa31ceec936c3313127d4eff4eee8e2a9-image.png)
 
-5. **Go to the “Mobile Configurations” Tab**\
-   ![](https://files.readme.io/02497c886ec52aaac856c406e4066a2540633eec62394be151eeaa426216499f-image.png)
+   * Click on the **site name** to access its configuration.
 
-6. **Customize Options** for Mobile Users\
-   ![](https://files.readme.io/9ab24ea1bad9a4e43f7fcd70a7838c72f1ce28e215471c1aacc3dc9afba9a759-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1048279e4d13ec101e3d5ef6e4774bcaa31ceec936c3313127d4eff4eee8e2a9-image.png" />
+
+   <br />
+
+5. **Go to the “Mobile Configurations” Tab**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/02497c886ec52aaac856c406e4066a2540633eec62394be151eeaa426216499f-image.png" />
+
+<br />
+
+6. **Customize Options** for Mobile Users.
+
+![](https://files.readme.io/9ab24ea1bad9a4e43f7fcd70a7838c72f1ce28e215471c1aacc3dc9afba9a759-image.png)
 
 > **Note:** Visit our **“Mobile Configuration”** section in **Site Management** for more details on applying these features.
