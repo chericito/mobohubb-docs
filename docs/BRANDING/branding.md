@@ -82,5 +82,5 @@ By default, the "Inherit Settings" option is activated (applying the organizatio
 ![](https://files.readme.io/2541d5af0de2a82d0c7b329e0ec3ed636b95bb74e52a5e464a02be997be5e606-image.png)
 
 7. Now, you can customize the site's branding by adding specific portal, web, and mobile logos and icons, modifying date and time formats, and changing the color theme.
-8. Optionally, check the **"New User Experience"** checkbox (this feature will be completed later).
+8. Optionally, check the **"New User Experience"**  to leverage the new reports format for each site, or leave it unchecked for the classic experience..
 9. **Press "Save"** to save your changes.
