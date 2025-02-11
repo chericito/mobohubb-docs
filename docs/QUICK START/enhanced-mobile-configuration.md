@@ -72,6 +72,6 @@ metadata:
 
 6. **Customize Options** for Mobile Users.
 
-![](https://files.readme.io/9ab24ea1bad9a4e43f7fcd70a7838c72f1ce28e215471c1aacc3dc9afba9a759-image.png)
+<Image align="center" width="80% " src="https://files.readme.io/9ab24ea1bad9a4e43f7fcd70a7838c72f1ce28e215471c1aacc3dc9afba9a759-image.png" />
 
 > **Note:** Visit our **“Mobile Configuration”** section in **Site Management** for more details on applying these features.
