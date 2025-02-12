@@ -46,7 +46,7 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
 
 <br />
 
-6.**Activate GPS** to create a Geo Task.
+6. **Activate GPS** to create a Geo Task.
 
 * This requires a **finished site**. Once activated, the **“task description”** field becomes **“Address”**, important for defining the GPS coordinates.
 
