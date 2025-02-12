@@ -20,9 +20,11 @@ metadata:
 
 A **report scheduler** automatically generates and sends reports based on your preferences and settings. Follow the steps below to create and customize a scheduled report:
 
-1. **Access the Report Scheduler**
+1. **Access the Report Scheduler**: Under **General Settings**, locate the **Report Scheduler** section.
 
-Under **General Settings**, locate the **Report Scheduler** section.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a9b6c3c854c5d92c05aa9d69c9500982059b0676866e36425974fc95942ccf9e-image.png" />
+
+<br />
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e7b1033655e35aef78e3882c67348762434347a99232dff6f3f408683e5fccd3-image.png" />
 
