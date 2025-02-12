@@ -10,24 +10,13 @@ hidden: false
 metadata:
   robots: index
 ---
-### Metadata Description
-
-Learn how to change the **administrator’s portal password** in **mobohubb**. This password is separate from mobile app credentials and differs from other users’ passwords, ensuring that only the administrator can update portal-level access.
-
-<br />
-
-### In This Guide You'll Learn
-
-<br />
+**In this guide you'll learn**
 
 * How to **access** the “Profile” section
-  * How to **navigate** to the Password Change option
-    * How to **update** your administrator portal password securely
-      <br />
+* How to **navigate** to the Password Change option
+* How to **update** your administrator portal password securely
 
-# Portal Password
-
-<br />
+***
 
 The **portal password** for the **mobohubb** site can be changed in this section. It is distinct from any user’s **mobile app** password or **other users’ portal passwords**, as it belongs solely to the administrator account.
 
