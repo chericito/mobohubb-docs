@@ -21,6 +21,26 @@ metadata:
 
 The **General Settings** interface is your centralized hub for configuring various aspects of **mobohubb**. Organized into categories, it helps you quickly locate the tools and settings you need.
 
+<Cards columns={4}>
+  <Card title="Branding" icon="fa-paint-brush">
+    Configure logos, icons, color themes, date/time settings, and time zones.
+  </Card>
+
+  <Card title="Site Administration" icon="fa-sitemap">
+    Create or edit sites, set branding inheritance, and customize mobile options.
+  </Card>
+
+  <Card title="Configuration" icon="fa-cogs">
+    Manage users, devices, skills, certifications, and more advanced features.
+  </Card>
+
+  <Card title="Report Configuration" icon="fa-file-alt">
+    Set up scheduled or summary reports, define recipients, and select data types.
+  </Card>
+</Cards>
+
+Use the **General Settings** menu to tailor **mobohubb** to your organization’s needs. Select a category that aligns with your current task, explore the relevant options, and check out the linked guides for detailed instructions.
+
 You can access **General Settings** using:
 
 * The **top menu bar**: Click the **Settings** dropdown.
@@ -43,25 +63,3 @@ You can access **General Settings** using:
 
 4. **Report Configuration**\
    Create and **[schedule reports](https://mobohubb.readme.io/docs/report-scheduler#/)** (including summary reports) to keep teams informed. Adjust frequency, recipients, and additional parameters for various data types.
-
-Below is a quick visual overview:
-
-<Cards columns={4}>
-  <Card title="Branding" icon="fa-paint-brush">
-    Configure logos, icons, color themes, date/time settings, and time zones.
-  </Card>
-
-  <Card title="Site Administration" icon="fa-sitemap">
-    Create or edit sites, set branding inheritance, and customize mobile options.
-  </Card>
-
-  <Card title="Configuration" icon="fa-cogs">
-    Manage users, devices, skills, certifications, and more advanced features.
-  </Card>
-
-  <Card title="Report Configuration" icon="fa-file-alt">
-    Set up scheduled or summary reports, define recipients, and select data types.
-  </Card>
-</Cards>
-
-Use the **General Settings** menu to tailor **mobohubb** to your organization’s needs. Select a category that aligns with your current task, explore the relevant options, and check out the linked guides for detailed instructions.
