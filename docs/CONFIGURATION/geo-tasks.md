@@ -52,8 +52,6 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/012b78181d5f3bdabd4fbe8a1e58c6bdad8de8aba1a1f2d4b84342f6784eb7c6-image.png" />
 
-<br />
-
 ## Configure the Geo Task
 
 1. **Fill in Fields**
