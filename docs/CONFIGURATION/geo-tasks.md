@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-**In This Guide You'll Learn**
+**In this guide you'll learn**
 
 * How to **set up** a Geo Task that uses GPS coordinates
 * How to **assign** users, tags, and meta data for each Geo Task
