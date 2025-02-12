@@ -1,41 +1,57 @@
 ---
 title: Summary Report
+excerpt: >-
+  Create a concise, high-level **Summary Report** in **mobohubb** to highlight
+  key findings and metrics on a daily or weekly basis. This guide shows you how
+  to schedule reports focusing on tasks, forms, or scan data, making it easy for
+  stakeholders to quickly grasp essential insights.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-This is a condensed version of a larger report that highlights key findings, insights, or metrics. Instead of presenting detailed data, a summary report provides a high-level overview, making it easier for stakeholders to grasp the most valuable information quickly. Summary reports are often used in presentations, executive summaries, or regular updates to management teams, allowing decision-makers to make informed decisions based on the most critical data points.
+**In this guide you'll learn**
 
-The reports can be daily or weekly and contain scan, task, or data forms. You can have only one daily report and one weekly report per site.
+* How to **access and configure** Summary Reports in mobohubb
+* How to **schedule** daily or weekly summaries for tasks, forms, or scans
+* How to **customize** report timing, recipients, and overall content
 
-To create a summary report, you must follow these steps:
+A **Summary Report** is a condensed version of a larger report, emphasizing key findings or metrics rather than detailed data. These high-level overviews are ideal for executive summaries, presentations, or regular updates, helping decision-makers quickly grasp the most critical information.
 
-1. **Access Summary Report**: Under **General Settings**, locate the **Summary Report** section.
+You can create **daily** or **weekly** Summary Reports containing **scan**, **task**, or **forms** data. Each site can have one daily summary report and one weekly summary report.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a9b6c3c854c5d92c05aa9d69c9500982059b0676866e36425974fc95942ccf9e-image.png" />
+## How to Create a Summary Report
 
-Click on the “Add new” button. This will open a new window where you can set up your summary report.
+1. **Access Summary Report**
 
-Select the recurrence in the dropdown menu. This can be weekly or daily.
-Select the “Summary” type in the dropdown menu. This can be task, forms or scans.
-Choose the report time zone. This is the time zone that your report will use to display the dates and times of the data. You can select the time zone that matches your location or the location of your receptors.
-Fill in the “Report to” field by typing in the email.
-Fill in the “Report CC” field by typing in the email.
-Fill in the “Subject” field.
-Fill in the “Send time” field.
-Fill in the Body” field.
-Select a start date.
-Select an end date.
-Click on “Active.”
-Click on “Scheduling report.”
+   * Under **General Settings**, locate the **Summary Report** section.
 
-![](https://files.readme.io/7429dcf987d2cacffc295324b7d0e1f7ab17ffa350f45236a7b4604aa3697435-image.png)
+   <br />
 
-![](https://files.readme.io/db3ec64ee405d0f281b865744cf3cd37d23219fe618b87f486360321adbddf95-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a9b6c3c854c5d92c05aa9d69c9500982059b0676866e36425974fc95942ccf9e-image.png" />
 
-![](https://files.readme.io/4f1c360a231c828570a7c8dd2a9e0e3f8e0076bfc6c15b62a3205c1200d20017-image.png)
+2. **Click “Add new”.**
 
-<br />
+   * A new window will open for configuring your summary report.
 
-Note: If you do not choose a time to send the report in the form, by default it will be sent at 12 AM.
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7429dcf987d2cacffc295324b7d0e1f7ab17ffa350f45236a7b4604aa3697435-image.png" />
+
+3. **Configure Basic Options**
+   * **Recurrence**: Select **daily** or **weekly**.
+   * **Summary Type**: Choose **task**, **forms**, or **scans**.
+   * **Time Zone**: Specify which time zone the report uses to display data.
+   * **Report To**: Enter recipient email address(es).
+   * **Report CC**: (Optional) Enter additional email addresses for copies.
+   * **Subject**: Enter the email subject line.
+   * **Send Time**: Specify the time to send the report (default is **12 AM** if left blank).
+   * **Body**: Provide any text or notes for the email body.
+   * **Start Date**: Set the date to begin sending summaries.
+   * **End Date**: (Optional) Set the date to stop sending summaries.
+   * **Active**: Check this box to enable the report.
+   * **Scheduling report**: Finalize and save your scheduling preferences.
+
+> **Note**: If you do not choose a time to send the report, it will **default to 12 AM**.
+
+Once all fields are filled, **click** **Save** to schedule your summary report. Your selected recipients will now receive high-level, concise updates at the specified intervals and times.
