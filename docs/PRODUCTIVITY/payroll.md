@@ -20,7 +20,7 @@ metadata:
 
 ***
 
-**Payroll** is a sub-feature of **Timesheet** that provides a detailed view of each user’s shifts—clock ins, clock outs, hours worked, overtime, hourly rate, and daily pay. If you’ve assigned recurrent or one-day shifts, Payroll can compare **planned** vs. **worked** hours for valuable insight into scheduling and costs. You can **adjust** hours worked, hourly pay rates, and more, filtering shifts by date or other criteria to streamline your process.
+**Payroll** is a sub-feature of **Timesheet** moduel that provides a detailed view of each user’s shifts—clock ins, clock outs, hours worked, overtime, hourly rate, and daily pay. If you’ve assigned recurrent or one-day shifts, Payroll can compare **planned** vs. **worked** hours for valuable insight into scheduling and costs. You can **adjust** hours worked, hourly pay rates, and more, filtering shifts by date or other criteria to streamline your process.
 
 <Cards columns={3}>
   <Card title="Granular Shift Details" icon="fa-list">
@@ -45,11 +45,11 @@ Using the **Payroll** feature, you can fine-tune every aspect of compensation to
 
 From the left panel, under the **Productivity** section, **select Timesheet**. Only **Site Administrators**, **Organization Managers**, or **Editors** can manage this tool.
 
-![](https://files.readme.io/d20cd6d091ab4618b9fc9e53c32bf7f2cb9063793c713409aeea5d2891e2ddc9-E0CF5EEF-9A71-4811-8DDE-6C4EDEEFC509.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/d20cd6d091ab4618b9fc9e53c32bf7f2cb9063793c713409aeea5d2891e2ddc9-E0CF5EEF-9A71-4811-8DDE-6C4EDEEFC509.png" />
 
 Make sure to **select a site** from the site selector:
 
-![](https://files.readme.io/10e2a33e8e1a6d9527120f765ec435acb7a4c2fadd43fd6f08aae62933846f72-4CF669AA-AF30-4827-924A-4B7711137EEE.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/10e2a33e8e1a6d9527120f765ec435acb7a4c2fadd43fd6f08aae62933846f72-4CF669AA-AF30-4827-924A-4B7711137EEE.png" />
 
 From here, you’ll see a general overview of people’s shifts and a **Clock In/Clock Out** breakdown for each user. Refer to our dedicated **Timesheet** guide for more info.
 
@@ -62,15 +62,15 @@ Two Payroll tabs are available:
 
 ## Payroll by User
 
-![](https://files.readme.io/bdfc43e5934ed9bf4f82863d5126edeac084848a9d884c9442dcf2fd5d5c626e-140D8F4C-ED67-45CE-940B-B7788A19D73A.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bdfc43e5934ed9bf4f82863d5126edeac084848a9d884c9442dcf2fd5d5c626e-140D8F4C-ED67-45CE-940B-B7788A19D73A.png" />
 
 **Payroll by User** provides a general overview of all your users’ payroll data. Use filters to select specific users and dates:
 
-![](https://files.readme.io/9133572c0b7d348df05f6c07c229c849e3bc70ff89785ab2e264c182ceb1cb66-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9133572c0b7d348df05f6c07c229c849e3bc70ff89785ab2e264c182ceb1cb66-image.png" />
 
 You can choose a pre-set or custom **date range**:
 
-![](https://files.readme.io/4a6af803a389d751d25a00d757f6254cdd5538531e89c8849f838797a5daa17c-826E0D5D-31FA-439C-AB4E-4FE715892B53.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4a6af803a389d751d25a00d757f6254cdd5538531e89c8849f838797a5daa17c-826E0D5D-31FA-439C-AB4E-4FE715892B53.png" />
 
 Press **“Apply”** to filter or **“Clear All”** to reset. At least a date range is needed to generate a report.
 
@@ -84,7 +84,7 @@ Click **“Export”** at the top of the report, then **“Export data”** to d
 
 **Payroll by Site** offers a more granular, shift-by-shift breakdown for each user:
 
-![](https://files.readme.io/be07bb709d4551eed1c6808ff3d276069a96e1919a6b939c25b8f5715181a665-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/be07bb709d4551eed1c6808ff3d276069a96e1919a6b939c25b8f5715181a665-image.png" />
 
 Filter by date range, schedule name, username, and approval status. At least a **date range** is required to see any data. You can also **show/hide** columns using the **“Columns”** button above the report.
 
@@ -100,7 +100,7 @@ If a shift was assigned, e.g., “cleaning bathrooms shift” with set hours, �
 
 Approval Status can be set to **Pending**, **Rejected**, or **Approved**:
 
-![](https://files.readme.io/25571dd6e0ebbf9c05cc68b8dc7ad0b7e469be9421f56bf0c6d6b6e7e21ae129-886431A1-DD0F-4A10-A43B-01D2E49C8F0C.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/25571dd6e0ebbf9c05cc68b8dc7ad0b7e469be9421f56bf0c6d6b6e7e21ae129-886431A1-DD0F-4A10-A43B-01D2E49C8F0C.png" />
 
 By default, only **pending** items appear. Change filters to see different statuses.
 
@@ -108,7 +108,7 @@ By default, only **pending** items appear. Change filters to see different statu
 
 Toggle **“Audit log”** in the **“Columns”** menu to track edits:
 
-![](https://files.readme.io/bbe629ad7496f6fec1d951d7214262961173b17e6b7beebfc022692d3317d9e1-44E644E9-9643-4FD5-86F2-1E32CCACD744.png)
+<Image align="center" width="30% " src="https://files.readme.io/bbe629ad7496f6fec1d951d7214262961173b17e6b7beebfc022692d3317d9e1-44E644E9-9643-4FD5-86F2-1E32CCACD744.png" />
 
 You’ll see what changed, who made it, and when:
 
