@@ -37,7 +37,13 @@ Each record is generated whenever a user clocks in or out in the mobile app—re
 
 ## Accessing and Navigating Timesheet
 
-To open Timesheet, click the **left-side menu**, select **“Productivity,”** then **“Timesheet.”** Only **Site Administrators**, **Organization Managers**, or **Editors** can access and manage it. You must also **select a site** at the top of the interface. Each record you see or edit pertains to that selected site.
+From the left-side menu, under the **Productivity** section, **select Timesheet**. Only **Site Administrators**, **Organization Managers**, or **Editors** can manage this tool.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/d20cd6d091ab4618b9fc9e53c32bf7f2cb9063793c713409aeea5d2891e2ddc9-E0CF5EEF-9A71-4811-8DDE-6C4EDEEFC509.png" />
+
+Make sure to **select a site** from the site selector:
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/928b813bfbbc56f3f771ebf38cdd71e732e60dfcd738e844490bd97eeea631e2-668173C0-C3BC-4A2C-B710-5F43546A631E.png" />
 
 Once inside, you’ll see:
 
@@ -51,6 +57,8 @@ Once inside, you’ll see:
 
 The tab bar lets you move between different sections:
 
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/2d0fe36e38835d066ff523ea49a72db60355b2705cd894381c0c98bf430901e7-69B80EEB-E53C-4AE0-8865-2020CB534EE1.png" />
+
 **Timesheets**: Displays all data in chronological order, including pay rates, hours worked, breaks, and site names.\
 **Clock In/Clock Out**: Focuses on times recorded, leaving out pay information.
 **Payroll by User**: Shows costs at the user level.
@@ -61,6 +69,8 @@ The tab bar lets you move between different sections:
 ## Tool Bar Functions
 
 Located at the top, the tool bar includes:
+
+<Image align="center" className="border" border={true} width="100% " src="https://files.readme.io/97b02a9f877d20c072eba16e6572718f3989bf7aa2ea41e51b9712d2a01d87d4-02E64E72-FC1B-4DAF-A488-53886443FCD5.png" />
 
 **Filter**: Choose quick or advanced filters to refine data by user, date, device, or tags.\
 **Search Bar**: Enter text to find records by name or description.
@@ -74,6 +84,8 @@ Located at the top, the tool bar includes:
 ## Timesheet Tab
 
 Upon opening Timesheet, you land on the **Timesheets** tab. This section merges all time logs:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a8cbd92af54a2ad19b6c2f8321bf504d2324916d02f54225ff7f10c77f39329c-EB1F0345-0F28-46DB-AA36-9C60AAE31F35.png" />
 
 It may show:
 
@@ -89,7 +101,7 @@ It may show:
 * **Audit Log** offering visibility into modifications.
 * **Site Name** indicating the location or project name.
 
-Click or hover over certain fields to view or edit data, provided your role permits it.
+Click or hover over colored fields to view or edit data.
 
 ***
 
