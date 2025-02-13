@@ -115,12 +115,19 @@ It typically contains the user’s name, device, site name, date, worked time, a
 
 ## Payroll by User and Payroll by Site
 
-These tabs extend time records into direct cost data:
+These tabs extend time records into direct cost data.
 
-**Payroll by User**: Organizes pay information per employee, showing hours worked, assigned hourly rates, and final pay within a chosen date range.\
-**Payroll by Site**: Summarizes how much time was logged across an entire location, multiple users, and their pay rates. You can edit clock in/out times, hourly rates, and approval statuses, with any changes documented in the audit log.
+* **Payroll by User**: Organizes pay information per employee, showing hours worked, assigned hourly rates, and final pay within a chosen date range.
 
-For deeper info on merging hours worked with pay details, refer to the dedicated **Payroll** guide.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2009ec405ada144588f5b86062c23fb87b5949202ad505199b10d73754ba6b01-image.png" />
+
+<br />
+
+* **Payroll by Site**: Summarizes how much time was logged across an entire location, multiple users, and their pay rates. You can edit clock in/out times, hourly rates, and approval statuses, with any changes documented in the audit log.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b08c5f9d9c801952002be450c34824cad85d897fb8b242ff6644200ccb82a1cc-image.png" />
+
+For deeper info on merging hours worked with pay details, refer to the dedicated **[Payroll](https://mobohubb.readme.io/docs/payroll#/)** guide.
 
 ***
 
@@ -128,21 +135,45 @@ For deeper info on merging hours worked with pay details, refer to the dedicated
 
 Refining your timesheet data often involves filtering or searching:
 
-**Quick Filters**: Provide straightforward segmentation (e.g., by specific user or device).\
-**Advanced Filters**: Let you build multi-logic conditions, combining multiple rules like “equals,” “not equals,” or “contains.”
-A **Search Bar** sits at the top for keyword-based record lookups.
+* **Quick Filters**: Provide straightforward segmentation (e.g., by specific user or device).
 
-***
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/662966f1d5da3b59468e09393417789d8cb4b79d53fe843396cd6b7fe277a078-2830B659-E8DD-4785-AC74-9F3C83DDFF6F.png" />
+
+* **Advanced Filters**: Let you build multi-logic conditions, combining multiple rules like “equals,” “not equals,” or “contains”.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0152c5eddb48458cd4d124b167e7ce2ca3ea0feb6a27fc4abce97ee757b7f454-539078C7-C336-4917-A6A5-F778A519A912.png" />
+
+* **Search Bar** sits at the top for keyword-based record lookups.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fe16acd4dba3b858216df94d331a8b63136e34c1144b4bc4f3bd1ebeae7b1a26-A4E7920C-81C6-4438-82F0-DFCBC6E0E7B2.png" />
+
+<br />
 
 ## Exporting, Column Customization, and Saving Views
 
-After adjusting filters or searching, you may export your refined dataset to **Excel** via the **Export** button. This allows you to share or review timesheet data offline. If you’d rather see fewer or more columns, open the **Columns** option to toggle each one. Meanwhile, the **Save View** button ensures you can easily return to a specific arrangement of filters and columns anytime.
+After adjusting filters or searching, you may export your refined dataset to **Excel** via the **Export** button.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/2dacd54c1e9b76e7ef85abaaf661913ed48c2779bc6d1c54dd9b1f064410ab14-D4B34B3D-5AE4-4647-9F9C-8E45B3D75C18.png" />
+
+This allows you to share or review timesheet data offline. If you’d rather see fewer or more columns, open the **Columns** option to toggle each one.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/5a601f7dabd9c8bbee0f67b4f392c91038af6b3b92698cd94b48d1297aa02cac-262286A3-575A-4C0B-8C18-02D815FDA907.png" />
 
 ***
 
 ## Editing Records and Using Audit Logs
 
-Certain fields are editable within Timesheet tabs, such as **total hours** or **break durations**. Changing these may affect computed pay. All user-driven changes appear in a different color or designated marker, and an **Audit Log** button indicates who made edits, the values changed, and the timestamp for each change, preserving data integrity.
+Certain fields are editable within Timesheet tabs, such as **worked time** or **break durations**. Changing these may affect computed pay.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/23872d3a5396f0726cc6d0f4f6370c22c09906b0848ab59d28e7a1a975fcd9a1-DB2604FD-6DDD-4571-83FF-3410F0F067B2.png" />
+
+Toggle **“Audit log”** in the **“Columns”** menu to track edits:
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/f49fab84475f8292c29b0e6f86b98e8f2b0702a0c03cb3d2d4abd9e39a820407-CB8737B5-9EDE-4D68-B2A2-BF8D05D2A9B3.png" />
+
+You’ll see what changed, who made it, and when.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/75aa048c17c00a174c98b8d4476a22a91f60508b583ac4bf7782b53c09d99ed5-ADCED031-14AD-469B-B0FC-F649974B7401.png" />
 
 ***
 
