@@ -49,7 +49,7 @@ From the left panel, under the **Productivity** section, **select Timesheet**. O
 
 Make sure to **select a site** from the site selector:
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/10e2a33e8e1a6d9527120f765ec435acb7a4c2fadd43fd6f08aae62933846f72-4CF669AA-AF30-4827-924A-4B7711137EEE.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/928b813bfbbc56f3f771ebf38cdd71e732e60dfcd738e844490bd97eeea631e2-668173C0-C3BC-4A2C-B710-5F43546A631E.png" />
 
 From here, you’ll see a general overview of people’s shifts and a **Clock In/Clock Out** breakdown for each user. Refer to our dedicated **Timesheet** guide for more info.
 
