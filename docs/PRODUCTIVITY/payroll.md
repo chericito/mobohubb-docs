@@ -102,7 +102,7 @@ Approval Status can be set to **Pending**, **Rejected**, or **Approved**:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/25571dd6e0ebbf9c05cc68b8dc7ad0b7e469be9421f56bf0c6d6b6e7e21ae129-886431A1-DD0F-4A10-A43B-01D2E49C8F0C.png" />
 
-By default, **pending** items appear first on the list. Change filters to all different statuses.
+By default, **pending** items appear first on the list. Change filters to see all different statuses.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7621a4f0c68334a04cba79cdbaa29451690dbfabc5b5c181cb19341f3890075b-464259CD-87F8-4EF5-852E-FB3C125BDED9.png" />
 
