@@ -104,6 +104,8 @@ Approval Status can be set to **Pending**, **Rejected**, or **Approved**:
 
 By default, **pending** items appear first on the list. Change filters to all different statuses.
 
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7621a4f0c68334a04cba79cdbaa29451690dbfabc5b5c181cb19341f3890075b-464259CD-87F8-4EF5-852E-FB3C125BDED9.png" />
+
 ### Audit Log
 
 Toggle **“Audit log”** in the **“Columns”** menu to track edits:
