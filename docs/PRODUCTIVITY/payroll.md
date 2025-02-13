@@ -108,11 +108,11 @@ By default, only **pending** items appear. Change filters to see different statu
 
 Toggle **“Audit log”** in the **“Columns”** menu to track edits:
 
-<Image align="center" width="30% " src="https://files.readme.io/bbe629ad7496f6fec1d951d7214262961173b17e6b7beebfc022692d3317d9e1-44E644E9-9643-4FD5-86F2-1E32CCACD744.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bbe629ad7496f6fec1d951d7214262961173b17e6b7beebfc022692d3317d9e1-44E644E9-9643-4FD5-86F2-1E32CCACD744.png" />
 
 You’ll see what changed, who made it, and when:
 
-![](https://files.readme.io/b03b6aa821d2a3c52c47c6e57e0f7ddc0593d906aa7893fcb1151843dc0256a8-D3EB3B04-3154-425B-8962-D86AE1A03CEF.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b03b6aa821d2a3c52c47c6e57e0f7ddc0593d906aa7893fcb1151843dc0256a8-D3EB3B04-3154-425B-8962-D86AE1A03CEF.png" />
 
 ### Export (Payroll by Site)
 
