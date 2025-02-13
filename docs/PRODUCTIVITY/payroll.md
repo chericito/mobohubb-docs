@@ -11,7 +11,7 @@ hidden: false
 metadata:
   robots: index
 ---
-**In This Guide You'll Learn**
+**In this guide you'll learn**
 
 * How **Payroll** extends Timesheet to show clock ins, clock outs, and user pay details
 * How to **filter and manage** planned vs. worked hours for easy payroll adjustments
