@@ -1,5 +1,5 @@
 ---
-title: Log in Kiosk App
+title: Log in Kiosk
 deprecated: false
 hidden: false
 metadata:
