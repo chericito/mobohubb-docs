@@ -43,4 +43,4 @@ metadata:
 5. **Click** on **“Export current view".**
 
 * An Excel file will be downloaded to your computer if the file size is within allowed limits.
-* If the report exceeds the allowed size, it will appear in the \**[Downloads](https://mobohubb.readme.io/docs/downloads#/) \*\* section on the platform.*
+* If the report exceeds the allowed size, it will appear in the [Downloads](https://mobohubb.readme.io/docs/downloads#/)section on the platform.
