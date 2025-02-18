@@ -1,5 +1,5 @@
 ---
-title: 'Web App: Quick Start Guide'
+title: 'Kiosk: Quick Start Guide'
 excerpt: >-
   Kickstart your **mobohubb** web app journey. Learn how to log in, select your
   site, navigate the interface, work with forms, and manage drafts, all from one
