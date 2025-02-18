@@ -42,4 +42,4 @@ metadata:
 
 3. **Select** **“Export current view”.**
    * If the file is within size limits, your **Excel** download starts automatically.
-   * If it exceeds limits, you’ll find the file in **“Downloads”** on the platform.
+   * If it exceeds limits, you’ll find the file in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform.
