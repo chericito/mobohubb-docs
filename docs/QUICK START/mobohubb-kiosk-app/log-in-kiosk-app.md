@@ -18,6 +18,8 @@ metadata:
 
 ***
 
+# Log in
+
 <Accordion title="Prerequisites" icon="fa-info-circle">
   The Kiosk login is intended for **Site Administrators** only.
 </Accordion>
