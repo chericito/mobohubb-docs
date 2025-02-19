@@ -83,7 +83,7 @@ The Kiosk login is designed for **Site Administrators** only. Ensure you have th
       Enter your <strong>Site Administrator</strong> credentials in the Kiosk app and press <em>“Login.”</em>
     </p>
 
-    <img src="https://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot_20250218_155732_mobohubb_kiosk.png" width="25%" />
+    <img src="https://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot_20250218_155732_mobohubb_kiosk.png" className="border" border={true} width="25%" />
   </Tab>
 
   <Tab title="Select Site">
@@ -91,7 +91,7 @@ The Kiosk login is designed for **Site Administrators** only. Ensure you have th
       After logging in, choose one of the <strong>sites</strong> you have enabled for Kiosk. If the list is long, use the search bar to find it quickly.
     </p>
 
-    <img src="https://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot_20250218_162126_mobohubb_kiosk.jpg" width="25%" />
+    <img src="https://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot_20250218_162126_mobohubb_kiosk.jpg" className="border" border={true} width="25%" />
   </Tab>
 
   <Tab title="Check-In">
@@ -99,7 +99,7 @@ The Kiosk login is designed for **Site Administrators** only. Ensure you have th
       Once a site is selected, employees can enter their <strong>PIN</strong> to clock in, clock out, and manage breaks.
     </p>
 
-    <img src="https://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot_20250218_162156_mobohubb_kiosk.jpg" width="25%" />
+    <img src="https://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot_20250218_162156_mobohubb_kiosk.jpg" className="border" border={true} width="25%" />
   </Tab>
 </Tabs>
 
@@ -113,6 +113,6 @@ To exit the current site and switch to another:
 
 Employees can continue to clock in/out under the newly selected site.
 
-<img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" width="50%" />
+<img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" className="border" border={true} width="50%" />
 
 By following these steps and configurations, you ensure a smooth, secure Kiosk setup for your organization, allowing employees to manage attendance and breaks under controlled, auditable conditions.
