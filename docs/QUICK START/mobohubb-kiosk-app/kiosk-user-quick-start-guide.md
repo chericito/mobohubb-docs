@@ -9,7 +9,13 @@ hidden: false
 metadata:
   robots: index
 ---
-## Clock In
+**In this guide you'll learn**
+
+* How to **clock in**, **clock out**, and **take breaks** using the kiosk interface.
+
+***
+
+# Clock In
 
 1. **Find** the designated tablet or iPad for checking in/out.
 
@@ -23,9 +29,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/02256e66c201d6d0208e8427d578aeb241859fe5feb8860ce9b00aa24548b164-Screenshot_20250218_162304_mobohubb_kiosk.jpg" />
 
-***
-
-## Clock Out
+# Clock Out
 
 1. **Find** the designated tablet or iPad.
 
@@ -37,9 +41,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/35dbf88225d98dfd5efbda57d4c9d2e39e8d68554d1b380f1d8984cf94752264-Screenshot_20250218_162544_mobohubb_kiosk.jpg" />
 
-***
-
-## Take a Break
+# Take a Break
 
 After you’ve clocked in, you may take a rest or lunch break:
 
