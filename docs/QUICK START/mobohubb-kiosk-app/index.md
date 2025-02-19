@@ -1,5 +1,11 @@
 ---
 title: mobohubb Kiosk App
+excerpt: >-
+  Discover how **mobohubb Kiosk** transforms a tablet or iPad into a physical
+  check-in station for employees, simplifying time tracking and break
+  management. This guide outlines kiosk setup, user PIN assignments, site
+  switching, and integration with **Timesheet** for complete attendance
+  oversight.
 deprecated: false
 hidden: false
 metadata:
