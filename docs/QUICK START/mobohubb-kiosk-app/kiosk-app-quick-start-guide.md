@@ -17,7 +17,7 @@ metadata:
 * How to **assign** user PINs and individual timers
 * How **Site Administrators** log in to the Kiosk and switch between sites
 
-# Kiosk: Site Administrator Quick Start Guide
+***
 
 The **Kiosk** app in **mobohubb** is used to create a physical check-in station, where employees can manually clock in, clock out, and manage their breaks using a dedicated tablet or iPad.
 
