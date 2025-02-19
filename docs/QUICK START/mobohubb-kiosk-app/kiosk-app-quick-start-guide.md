@@ -69,3 +69,19 @@ Save changes and repeat for each user.
 <Image align="center" className="border" border={true} src="https://files.readme.io/242cb51b42550aba352885c649b3161fe2efeadee91a73f6cbe2eb4d4fd2b7c9-3F05309C-314D-4252-9A4D-3A0DA47B63E2.png" />
 
 Use the Timesheet and all its tools to follow up on your team activity while using Kiosk. You can find a comprehensive guide on [Timesheet](https://mobohubb.readme.io/docs/timesheet#/) here.
+
+# Log in and Setup Your Site's Kiosk
+
+<Accordion title="Prerequisites" icon="fa-info-circle">
+  The Kiosk login is intended for **Site Administrators** only.
+</Accordion>
+
+To log in to the Kiosk, enter your Site Administrator credentials and press **"Login"**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot_20250218_155732_mobohubb_kiosk.png" />
+
+After logging in, select one of the sites. Only the sites that have been previously set as active for Kiosk by the Site Administrator will be available. Use the search bar if the list is long to find a specific site.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot_20250218_162126_mobohubb_kiosk.jpg" />
+
+Once a site is selected for the session, all employees/users can then enter their **PIN** to check in, check out, and manage break times.
