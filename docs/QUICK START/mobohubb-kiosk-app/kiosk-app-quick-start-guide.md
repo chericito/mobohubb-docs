@@ -52,8 +52,20 @@ To configure the pin and timer for each user, navigate to site administration an
 
 Select one user from the list and navigate to the Security screen.
 
-Under the User PIN section you can auto populate a pin for this specific user or manually write one.
+Under the User PIN section you can auto populate a PIN for this specific user or manually write one.
 
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/8a12dd1a7fe56f457f3c7f7354472a43ea4d0cc0f51107dfc59f98046f002cc5-Screenshot_2025-02-18_at_7.34.12_PM.png" />
 
+You can also easily find each user's PIN in the Users list.
+
+Similarly to the timer tool in Site Administration for each site, you can set a custom timer for each user.
+
+If enabled, you can set a specific timer for employees/user to fill in the required data (PIN and options selection) in the app. By default, the timer is set to 10 seconds, after which the process will be terminated and the employee/user must start again. If left unmarked, the timer will always be 10 seconds. If marked and set for a specific timer, e.g. 20 seconds, the timer will be 20 seconds. If you set it to 20 seconds, but you leave it unmarked, the timer will still be 10 seconds.
+
 Save changes and repeat for each user.
+
+## Timesheet & Activity Follow Up
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/242cb51b42550aba352885c649b3161fe2efeadee91a73f6cbe2eb4d4fd2b7c9-3F05309C-314D-4252-9A4D-3A0DA47B63E2.png" />
+
+Use the Timesheet and all its tools to follow up on your team activity while using Kiosk. You can find a comprehensive guide on [Timesheet](https://mobohubb.readme.io/docs/timesheet#/) here.
