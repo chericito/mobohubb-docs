@@ -1,13 +1,15 @@
 ---
 title: 'Kiosk: Site Administrator Quick Start Guide'
+excerpt: >-
+  Learn how to set up and manage the **Kiosk** feature in **mobohubb**, enabling
+  employees to clock in/out and manage breaks on a tablet or iPad. This guide
+  explains how to configure each site, assign user PINs/timers, and monitor
+  timesheets for comprehensive attendance management.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-````markdown
-### Metadata Description
-Learn how to set up and manage the **Kiosk** feature in **mobohubb**, enabling employees to clock in/out and manage breaks on a tablet or iPad. This guide explains how to configure each site, assign user PINs/timers, and monitor timesheets for comprehensive attendance management.
 
 **In this guide you'll learn**
 - How to **activate and configure** Kiosk for each site
@@ -38,17 +40,15 @@ Kiosk settings are **site-based**, so each site must be enabled separately:
 ### 2. Timesheet Config
 
 If you want the Kiosk to capture an **image** of each user at clock in/out or break, enable **“Activate personnel image in the timesheet”** under **Mobile Configuration** in **Site Management**:
-```html
+
 <img src="https://files.readme.io/642254e486c79122aef1a3163be4b51417abea7be0c02c9f53b8ce9363a15868-image.png" width="50%" />
-````
+
 
 ### 3. Breaks
 
 Enable manual breaks under **Mobile Configuration**, deciding if Rest/Lunch breaks are **paid or unpaid** and setting timers for each:
 
-```html
 <img src="https://files.readme.io/4afdd7cdd699c2623c7e063abc426077727a54128feccbcce47f7d43a0d4b5b0-image.png" width="50%" />
-```
 
 ***
 
@@ -74,7 +74,6 @@ Use **Timesheet** to monitor who clocked in/out and how breaks are used. For det
 
 The Kiosk login is designed for **Site Administrators** only. Ensure you have the proper credentials before proceeding.
 
-```html
 <Tabs>
   <Tab title="Login">
     <p>
@@ -97,7 +96,6 @@ The Kiosk login is designed for **Site Administrators** only. Ensure you have th
     <img src="https://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot_20250218_162156_mobohubb_kiosk.jpg" width="50%" />
   </Tab>
 </Tabs>
-```
 
 ## Changing Sites
 
@@ -109,9 +107,7 @@ To exit the current site and switch to another:
 
 Employees can continue to clock in/out under the newly selected site.
 
-```html
 <img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" width="50%" />
-```
 
 By following these steps and configurations, you ensure a smooth, secure Kiosk setup for your organization, allowing employees to manage attendance and breaks under controlled, auditable conditions.
 
