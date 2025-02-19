@@ -58,10 +58,24 @@ Enable manual breaks under **Mobile Configuration**, deciding if Rest/Lunch brea
 ## Configure PIN and Timer for Each User
 
 1. Navigate to **Site Administration**, then **Users**.
-2. Select a user and open **Security**.
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/27f8d63959e44db5e21d1695d84efccc37e821dbb88b177582429ee0620594c2-image.png" />
+
+2. **Select** a user from the list. **Notice** that there is a new column named "PIN". This column appears only when Kiosk is activated in this specific site.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/de4d7d7d5dce717f1f2f93e7afb7ede2bb18265ccfd3ca2c4741a655d3f31964-image.png" />
+
+3. From the user configuration menu, navigate to **Security**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/640e59f8700008445f3ed2211ee9b1e64242a03c6da695f150b4450ae54d89c5-image.png" />
+
 3. In **User PIN**, choose to auto-generate or enter a PIN manually.
-4. If you wish to override the default 10-second timer for that user, check the timer box and enter a value. If unmarked, the timer remains 10 seconds, ignoring any number you typed.
-5. Click **Save**. Repeat for additional users.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/21cf45361fde31487b6d8b3dae830bb2c6ab1a18c16c5e29e774b3c7c56837f7-image.png" />
+
+If you wish to override the default 10-second timer for that user, check the timer box and enter a value. If unmarked, the timer remains 10 seconds, ignoring any number you typed.
+
+3. Click **Save**. Repeat for additional users.
 
 ***
 
