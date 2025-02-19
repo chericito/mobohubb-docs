@@ -1,10 +1,10 @@
 ---
 title: Log in Kiosk
 excerpt: >-
-  Learn how to log in to the **mobohubb Kiosk** interface designed exclusively
-  for Site Administrators. This guide explains how to enter administrator
-  credentials, select an active site, and initiate a session where employees can
-  use their PINs to check in/out and manage break times.
+  Learn how to log in to the **mobohubb Kiosk** interface. This guide explains
+  how to enter administrator credentials, select an active site, and initiate a
+  session where employees can use their PINs to check in/out and manage break
+  times.
 deprecated: false
 hidden: false
 metadata:
