@@ -69,25 +69,25 @@ After configuring Kiosk, use the **Timesheet** feature to monitor employee activ
 
 To log in to the Kiosk, follow these steps:
 
-<Tabs>
-  <Tab title="Login">
-    Enter your **Site Administrator** credentials on the Kiosk login screen and press **"Login"**.
+\<Tabs>
+&#x20; \<Tab title="Login">
+&#x20;   Enter your \*\*Site Administrator\*\* credentials on the Kiosk login screen and press \*\*"Login"\*\*.
 
-    ![](https://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot_20250218_155732_mobohubb_kiosk.png)
-  </Tab>
+&#x20;   !\[]\(https\://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot\_20250218\_155732\_mobohubb\_kiosk.png)\{:width="50%"}
+&#x20; \</Tab>
 
-  <Tab title="Select Site">
-    After logging in, select the site you wish to manage. Only sites that have been set as active for Kiosk by the Site Administrator will appear. Use the search bar if the list is long.
+&#x20; \<Tab title="Select Site">
+&#x20;   After logging in, select the site you wish to manage. Only sites that have been set as active for Kiosk by the Site Administrator will appear. Use the search bar if the list is long.
 
-    ![](https://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot_20250218_162126_mobohubb_kiosk.jpg)
-  </Tab>
+&#x20;   !\[]\(https\://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot\_20250218\_162126\_mobohubb\_kiosk.jpg)\{:width="50%"}
+&#x20; \</Tab>
 
-  <Tab title="Check-In">
-    Once a site is selected, employees can enter their **PIN** to check in, check out, and manage break times.
+&#x20; \<Tab title="Check-In">
+&#x20;   Once a site is selected, employees can enter their \*\*PIN\*\* to check in, check out, and manage break times.
 
-    ![](https://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot_20250218_162156_mobohubb_kiosk.jpg)
-  </Tab>
-</Tabs>
+&#x20;   !\[]\(https\://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot\_20250218\_162156\_mobohubb\_kiosk.jpg)\{:width="50%"}
+&#x20; \</Tab>
+\</Tabs>
 
 ## Changing Sites
 
