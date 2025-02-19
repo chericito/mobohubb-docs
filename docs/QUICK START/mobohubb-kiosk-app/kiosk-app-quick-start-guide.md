@@ -113,6 +113,6 @@ To exit the current site and switch to another:
 
 Employees can continue to clock in/out under the newly selected site.
 
-<img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" className="border" border={true} width="50%" />
+<img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" className="border" border={true} width="25%" />
 
 By following these steps and configurations, you ensure a smooth, secure Kiosk setup for your organization, allowing employees to manage attendance and breaks under controlled, auditable conditions.
