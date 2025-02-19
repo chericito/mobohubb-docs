@@ -25,7 +25,7 @@ The **Kiosk** app in **mobohubb** is used to create a physical check-in station,
 
 ## Configuration
 
-### 1. Set Up the Feature
+### Set Up the Feature
 
 Kiosk settings are **site-based**, so each site must be enabled separately:
 
@@ -33,21 +33,21 @@ Kiosk settings are **site-based**, so each site must be enabled separately:
 2. Select the site to enable the Kiosk.
 3. On the **Site Information** screen, locate the **“Kiosk”** section:
 
-<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/681e83e0713496cf62313d4e68d9dae2f61678c62488c4dbeceefffa50556ad1-image.png" />
+<Image align="center" className="border" border={true} width="45% " src="https://files.readme.io/39411b3a1a1f63876b11890845d5ba6db82978792f8a593add35c6c8bba70a67-94C147D3-865A-4036-B251-D2453A36E882.png" />
 
 * **Enable Kiosk**: Activates the Kiosk for this site.
 * **Set the Kiosk Timer**: If checked, overrides the default 10-second timer. If unmarked, it remains 10 seconds no matter what you input.
 
 4. Click **Save** to finalize.
-5. Repeat for each site you want to use with Kiosk.
+5. **Repeat** for each site you want to use with Kiosk.
 
-### 2) Timesheet Config
+### Timesheet Config
 
 If you want the Kiosk to capture an **image** of each user at clock in/out or break, enable **“Activate personnel image in the timesheet”** under **Mobile Configuration** in **Site Management**:
 
 <img src="https://files.readme.io/642254e486c79122aef1a3163be4b51417abea7be0c02c9f53b8ce9363a15868-image.png" className="border" border={true} width="50%" />
 
-### 3. Breaks
+### Breaks
 
 Enable manual breaks under **Mobile Configuration**, deciding if Rest/Lunch breaks are **paid or unpaid** and setting timers for each:
 
