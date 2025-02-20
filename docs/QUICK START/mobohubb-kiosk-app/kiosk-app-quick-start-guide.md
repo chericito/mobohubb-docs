@@ -89,7 +89,7 @@ Use **Timesheet** to monitor who clocked in/out and how breaks are used. For det
 
 ### Prerequisites
 
-The Kiosk login is designed for **Site Administrators** only. Ensure you have the proper credentials before proceeding.
+The **Kiosk** login is intended for **Site Managers**, **Organization Managers**, and **Editors** only (Refer to our Security Groups management section).
 
 <Tabs>
   <Tab title="Login">
