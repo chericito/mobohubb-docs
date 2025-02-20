@@ -73,7 +73,7 @@ Enable manual breaks under **Mobile Configuration**, deciding if Rest/Lunch brea
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/21cf45361fde31487b6d8b3dae830bb2c6ab1a18c16c5e29e774b3c7c56837f7-image.png" />
 
-If you wish to override the default 10-second timer for that user, check the timer box and enter a value. If unmarked, the timer remains 10 seconds, ignoring any number you typed.
+If you wish to override the default timer for that user, check the timer box and enter a value. If unmarked, the timer remains the default set for this site, ignoring any number you typed.
 
 3. Click **Save**. Repeat for additional users.
 
