@@ -47,7 +47,7 @@ After you’ve clocked in, you may take a rest or lunch break:
 
 1. **Find** the kiosk tablet/iPad.
 
-2. **Enter** your PIN. If you’re already clocked in, the kiosk displays “Take a break” or “Clock out.”
+2. **Enter** your PIN. If you’re already clocked in, the kiosk displays “Take a rest” or “Clock out.”
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ea2e6a15ceeb1232c4380b2b8ab6bc9a3ccaf824b16060f6f7b57f97251f31be-Screenshot_20250218_162438_mobohubb_kiosk.jpg" />
 
