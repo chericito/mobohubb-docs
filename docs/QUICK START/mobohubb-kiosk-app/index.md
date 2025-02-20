@@ -21,4 +21,4 @@ Once enabled for a specific site, the kiosk displays a login screen reserved for
 
 Behind the scenes, all clock in/out events entered through the kiosk sync to the **mobohubb** portal, storing data in your timesheet.
 
-By dedicating a tablet or iPad to this single function, employees won’t need individual mobile devices to clock in and out. Instead, they approach the kiosk at the start or end of their shifts, enter a short PIN, and confirm any relevant break times—making it an accessible, low-barrier approach to comprehensive workforce management in **mobohubb**.
+By dedicating a tablet or iPad to this single function, employees won’t need individual mobile devices to clock in and out. Instead, they approach the Kiosk at the start, during, or at the end of their shifts, enter a short PIN, and confirm any relevant break times—making it an accessible, low-barrier approach to comprehensive workforce management in **mobohubb**.
