@@ -21,7 +21,7 @@ metadata:
 # Log in
 
 <Accordion title="Prerequisites" icon="fa-info-circle">
-  The Kiosk login is intended for Site Managers, Organization Managers and Editors only (Refer to our Security Groups management section.
+  The Kiosk login is intended for Site Managers, Organization Managers and Editors only (Refer to our Security Groups management section).
 </Accordion>
 
 To log in to the Kiosk, enter your Site Administrator credentials and press **"Login"**.
