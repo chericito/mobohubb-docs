@@ -23,7 +23,7 @@ metadata:
 
 2. **Enter** your PIN. Contact your Site Manager if you don't know it. Some sites may capture your photo automatically.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b388d3eb4f96f0886a60c02fd1cc7564de8e9a49f88c258113cf754acb28f5f-Screenshot_20250218_162212_mobohubb_kiosk.jpg" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/60b2f59addcbdf12f3a49b6160c5c8d96d7780957176c2f88210471d9ac414c5-Diseno_sin_titulo.png" />
 
 3. The system **checks you in**.
 
