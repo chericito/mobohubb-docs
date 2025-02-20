@@ -51,8 +51,8 @@ After you’ve clocked in, you may take a rest or lunch break:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ea2e6a15ceeb1232c4380b2b8ab6bc9a3ccaf824b16060f6f7b57f97251f31be-Screenshot_20250218_162438_mobohubb_kiosk.jpg" />
 
-3. **Select** **“Take a rest.”**
-4. **Choose** between **“Rest”** or **“Lunch.”**
+3. **Select** **“Take a rest”.**
+4. **Choose** between **“Rest”** or **“Lunch”.**
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b674d37a48999515abfbc245c9807d40d90fe7c2610ac36dc131b54b2d8b4e88-Screenshot_20250218_162444_mobohubb_kiosk_1.jpg" />
 
