@@ -33,7 +33,7 @@ metadata:
 
 1. **Find** the designated tablet or iPad.
 
-2. **Enter** your PIN. If you're currently clocked in, the kiosk will offer you a “Take a break” or “Clock out” option.
+2. **Enter** your PIN. If you're currently clocked in, the kiosk will offer you a “Take a rest” or “Clock out” option.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ea2e6a15ceeb1232c4380b2b8ab6bc9a3ccaf824b16060f6f7b57f97251f31be-Screenshot_20250218_162438_mobohubb_kiosk.jpg" />
 
