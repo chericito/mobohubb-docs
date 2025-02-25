@@ -25,19 +25,42 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 2. **Go** to **“General Settings.”**
    * Click **Settings** in the top menu to find various organization configuration options.
 3. **Locate** **“Schedule”.**
+
    * Within the **Configuration** area, select **“Schedule”.**
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b5836a1807fda89fdae9db1ed826e5cedd32a2677ac806884b1e046cfeda52d6-image.png" />
+
+   <br />
 4. **Click** **“Add new”.**
-   * You’ll see the **General**, **Mobile Settings**, **Default Values**, and **Notification** tabs.
+
+   * You’ll see the **General**, **Mobile Settings**, **Default Values**, **Notifications** and **Template Management** tabs.
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/f1bce6a9b90a052038f3536ee27197ff570a89e8a5cf981162cb07f546c566e6-image.png" />
+
+   <br />
 
 ### General Tab
 
 * **Name**: Specify the schedule’s name.
 * **Description**: Provide a brief overview of the schedule’s purpose.
-* **Users**: Add users by checking boxes in the **“Assign users”** tab.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8ffd922598667f1a0650bd44289fa72142e7df64b2bbb8aee03ade227f9a5188-image.png" />
+
+* **Users**: Add users by pressing the "**Add Users**" button, checking boxes in the **“Assign users”** window, and pressing "**Add**".
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7c13e02e19be26c4e21692a9a91210148fc4e1b2240351004fc9503c6be270a4-image.png" />
+
 * **Admin User**: Designate an administrator for this schedule.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/d21dc27428c7409b623f3ff0d8fc8dda9ed705cf8413ea29482a573e62312f11-image.png" />
+
 * **Location**: Pick a location using the interactive map or by typing an address.
-* **Active**: Check to mark the schedule as “activated.”
-* **Save** your changes.
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/ba9e466ddab5e222b29fad6d892edfa4defbbf6c4181f2a0c79e2442cfd33082-image.png" />
+
+* **Active**: Check to mark the schedule as “active".
 
 ### Mobile Settings Tab
 
