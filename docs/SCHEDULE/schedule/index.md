@@ -113,6 +113,8 @@ Configure how **portal users** (administrators) and **mobile users** (employees)
 
 #### Portal Users (Admins)
 
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/a3df013bd445323e3058a1531901ea604b2b068d527eace7d49980226989772f-image.png" />
+
 * User has accepted/declined a shift
 * User missed a shift
 * User claimed/unclaimed a shift
@@ -120,6 +122,8 @@ Configure how **portal users** (administrators) and **mobile users** (employees)
 * Reminders for users failing to accept shifts or check in on time
 
 #### Mobile Users
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b47767bb6a66b33f2bd7e9e052749cc42520de225170cc332840dfddaf416f91-image.png" />
 
 * Shift was published/removed/edited
 * Request approved/rejected
