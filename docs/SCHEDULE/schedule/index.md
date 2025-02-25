@@ -137,13 +137,11 @@ When done, **click** **“Save.”**
 
 ## Edit a Schedule
 
-1. **Open** the portal’s top menu, go to **“General Settings.”**
-2. In the **Configuration** area, select **“Scheduling.”**
-3. **Check** the schedule you want to modify; you can use filters to find it quickly.
-   * Note: Only one schedule can be edited at a time.
-4. **Click** **“Edit.”**
-5. **Modify** data in any of the tabs (General, Mobile Settings, Default Values, Notification).
-6. **Save** and **Close** when finished.
+1. From the Schedules list, **check** the schedule you want to modify; you can use filters to find it quickly.
+2. * Note: Only one schedule can be edited at a time.
+3. **Click** **“Edit.”**
+4. **Modify** data in any of the tabs (General, Mobile Settings, Default Values, Notification).
+5. **Save** and **Close** when finished.
 
 ***
 
@@ -151,11 +149,9 @@ When done, **click** **“Save.”**
 
 You can only delete schedules that have no data records. This prevents losing critical information.
 
-1. **Go** to **“General Settings.”**
-2. In the **Configuration** area, select **“Scheduling.”**
-3. **Check** the schedule(s) you want to remove.
-4. **Click** **“Delete.”**
-5. **Confirm** your choice. The schedule is discarded if it’s empty.
+1. From the Schedules list, **check** the schedule(s) you want to remove.
+2. **Click** **“Delete.”**
+3. **Confirm** your choice. The schedule is discarded if it’s empty.
 
 If the schedule contains records, the system won’t let you delete it. You can either modify or archive it to preserve essential data.
 
