@@ -77,7 +77,7 @@ Press "**Save**" to continue to the next tab.
   * **Request type**: A label for the request (e.g., “Vacation”).
   * **Category**: For instance, “Emergency” or “Regular Absence.”
   * **Report minimum**: Minimum notice before requesting.
-  * **Paid or Unpaid**: Determines compensation handling in cost calculations.
+  * **Paid or Unpaid**: Determines compensation.
   * **Requires admin approval**: If checked, an admin must confirm before the request is valid.
 * **Shift Replacement**:
   * **Enable** shift replacement request.
