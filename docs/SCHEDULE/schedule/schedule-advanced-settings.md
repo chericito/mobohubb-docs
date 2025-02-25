@@ -1,0 +1,136 @@
+---
+title: 'Schedule: Advanced Settings'
+excerpt: >-
+  Explore **Schedule Features** in **mobohubb**, where you can manage shift
+  assignments, configure notifications, add or remove unassigned shifts, and
+  ensure users maintain a smooth workflow. Learn how to handle filters, view
+  options, and actions within the scheduling interface for an efficient resource
+  allocation process.
+deprecated: false
+hidden: false
+metadata:
+  robots: index
+---
+**Scheduling** is a **mobohubb** tool that enables the assignment of jobs or shifts to each user while simplifying oversight. With a well-organized schedule, you can efficiently allocate resources, uphold high-quality customer service, and enhance overall productivity.
+
+## Manage the Schedule
+
+1. **Navigate** to the portal’s top menu.
+2. **Go to "General Settings".**
+
+* Click **Settings** in the top menu to access various organization configuration options.
+
+1. **Select "Schedule".**
+   * Within the **Configuration** area, click **"Scheduling."**
+2. **Click** directly on the **Schedule name** you want to open.
+   * You can use filters to find it quickly.
+3. **General schedule view** opens, typically in **week view** by default.
+
+### Schedule Overview
+
+A schedule is divided into the **toolbar**, **grid**, **users**, **unassigned shifts**, **schedule bar**, and **header**:
+
+* **Header**: Displays the schedule name.
+* **Tool Bar**: Contains filters, search bar, date selector, time selector, request button, actions button, publish button, the 3-dots menu, and the Add New button.
+* **Schedule Bar**: Displays the view, hours, total cost, and view options.
+* **Shift View**: Shows user columns, assigned shifts, hours, and total cost details.
+* **Unassigned Shift View**: Displays shifts available for users to claim.
+
+***
+
+## Tool Bar
+
+The toolbar includes functions to change how the schedule is displayed and to perform quick actions.
+
+### Filter
+
+You can apply **Quick** or **Advanced** filters by clicking the **“Filter”** button:
+
+* **Quick Filters**: By default, you see quick filters divided into categories: **User**, **Shift Title**, **Role**, **Work Status**, and **Shift Status**. Click items to create new filters, then press **“Apply”.**
+* **Advanced Filters**: Switch to advanced filters to define multiple logical conditions. Each filter is composed of **Label** (data categories), **Compare** (equals, not equals, contained in, etc.), and **Value** (the matching text). Press **“Apply”** once done.
+
+### Search Bar
+
+This is a graphical UI element that accepts keywords or phrases to quickly locate specific info—especially handy in list views.
+
+### Time Selector
+
+Choose between **day**, **week**, **month**, or **list** view:
+
+* **Week View**: The default balance of current day, past few days, and upcoming days.
+* **Day View**: Offers detailed, hour-by-hour visuals for a single day.
+* **Month View**: Provides a broader overview of shifts in a calendar-like format.
+* **List View**: Groups data by user with cost/hours info, and allows exporting as an Excel file.
+
+### Date Selector
+
+Select a specific date to view. This can open an interactive calendar, making it easy to pinpoint a day.
+
+### Requests
+
+Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Requests**) within the scheduling interface. Admins can accept, reject, or set them as pending.
+
+### Actions
+
+Within the scheduler, clicking **“Actions”** reveals various operations:
+
+* **Unpublish Week**: Converts published shifts to drafts, hiding them from mobile users.
+* **Copy Form Template**: Opens a window with ready-to-use templates.
+* **Clear Week**: Deletes all **not started** shifts in the current view.
+* **Remove Assignments**: Marks all shifts as unassigned, letting users claim them.
+* **Save as Week Template**: Saves the present week’s layout as a reusable template.
+* **Copy Previous Week**: Brings over last week’s shifts into the current week.
+* **Add or Edit Unavailability**: Manage the times users are marked as unavailable.
+* **View Conflict**: Highlights warning or alert messages for immediate attention (e.g., overlapping shifts or missing acceptances).
+* **Export PDF**: Downloads the current view as a PDF (appears in **“Downloads”** if it exceeds file size limits).
+
+### Publish
+
+The **Publish** button makes shifts visible to mobile users. Until published, shifts remain drafts and are hidden from employees. Confirm publishing after reviewing any alert messages to ensure correctness.
+
+### Add New Button
+
+The **Add New** button includes multiple scheduling features:
+
+* **Add New Shift** (see “Add New Shift” section)
+* **Add Shifts from Templates** (see “Add Shifts from Templates” section)
+* **Add Multiple Shifts** (see “Add Multiple Shifts” section)
+* **Add Users to the Schedule** (see “Add Users to the Schedule” section)
+
+***
+
+## Schedule Bar
+
+#### View Options
+
+In day, week, month, or list view, the **View Options** button can hide specific elements, like unassigned shifts or message icons. Any changes apply immediately and can be undone by toggling the same setting.
+
+#### Day Column
+
+Each day may display **alert messages** or **immediate attention** icons if conflicts arise (e.g., a not-accepted shift or missed shift). The schedule typically flags:
+
+* **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or not-accepted shifts.
+* **Alert (Yellow)**: Incomplete tasks, uncalculated cost (missing fee), or exceeding hour limits.
+
+#### Hours and Total Cost
+
+Mobohubb calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
+
+***
+
+## Shift View
+
+A **shift** is a specified time slot an employee is assigned to work. Administrators create these shifts in the scheduler, often linking them to tasks, scans, or forms if needed. Shifts are color-coded to differentiate them quickly. (See the **“Schedule Shifts”** section for details on creating/managing shifts.)
+
+***
+
+## User Column
+
+This column can also reflect conflict icons or alert messages for each user:
+
+* **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or unaccepted shifts.
+* **Alert (Yellow)**: Tasks incomplete, missing cost info, or hour limits exceeded.
+
+***
+
+By understanding the **Manage Schedule** interface—filters, actions, publish status, and additional functionalities—you can effectively organize shifts, track user acceptance, and monitor potential schedule conflicts. For deeper details on shift creation, templates, or user additions, see corresponding sections like **“Add New Shift,”** **“Add Multiple Shifts,”** or **“Add Users to the Schedule.”**
