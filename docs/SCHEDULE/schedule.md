@@ -130,5 +130,3 @@ You can only delete schedules that have no data records. This prevents losing cr
 If the schedule contains records, the system won’t let you delete it. You can either modify or archive it to preserve essential data.
 
 ***
-
-That’s how you **add**, **edit**, and **remove** schedules in mobohubb, allowing you to manage shifts, user acceptance, time-off requests, and notifications to ensure smooth operations.
