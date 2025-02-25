@@ -138,6 +138,28 @@ Configure how **portal users** (administrators) and **mobile users** (employees)
 
 When done, **click** **“Save.”**
 
+## Add Multiple Users
+
+In **mobohubb**, only users already associated with the schedule can be assigned shifts. If you need to include more individuals in a particular schedule, follow the steps below:
+
+1. **Open** the **scheduler**.
+
+2. **Click** the **“Add New”** button within the scheduler interface.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ce1d1f8697f6ff455d164f8b84a893f200d205fc3a30df81f183eaff138d4e1a-image.png" />
+
+3. **Select** **“Add Users to the Schedule.”**
+4. **Check** the users you want to include.
+
+![](https://files.readme.io/cbf7a55cf48e4b841fc46dbf586518ae9b588bb97aff58e6250b09500f353f57-Screenshot_2025-02-25_at_12.27.22_PM.png)
+
+<br />
+
+* Use the **search bar** to quickly locate specific names or roles.
+
+3. **Click** **“Add”** to confirm your choices.
+4. **Save** your changes to finalize the updated user list..
+
 ***
 
 ## Edit a Schedule
