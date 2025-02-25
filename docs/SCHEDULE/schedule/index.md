@@ -98,10 +98,8 @@ Press "**Save**" to continue to the next tab.
 
 ### Default Values Tab
 
-* **Time Settings**:
-  * **Week starts**: Choose the first day of your workweek.
-  * **Work hours (from/to)**: Specify the typical start/end times.
-  * **Default shift length**: How many hours per day.
+<Image align="center" className="border" border={true} src="https://files.readme.io/acfc7d4e2ad93a03d38e4e59b9ff9bd0bec428d1794a12be707da44ea22f58ea-image.png" />
+
 * **Work Schedule**:
   * **Max hours per user per week**: Enter a number to limit weekly hours.
   * **Max hours per user per day**: Limit daily hours.
