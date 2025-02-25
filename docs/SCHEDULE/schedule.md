@@ -1,5 +1,5 @@
 ---
-title: 'Schedule: Essentials'
+title: 'Schedule: Add, Edit and Delete Schedules'
 excerpt: >-
   Learn how to create, edit, and delete **Schedules** in **mobohubb**, enabling
   you to assign jobs or shifts to users, configure time-off requests, manage
