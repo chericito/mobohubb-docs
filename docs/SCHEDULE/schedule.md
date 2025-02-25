@@ -151,7 +151,7 @@ In **mobohubb**, only users already associated with the schedule can be assigned
 3. **Select** **“Add Users to the Schedule.”**
 4. **Check** the users you want to include.
 
-![](https://files.readme.io/cbf7a55cf48e4b841fc46dbf586518ae9b588bb97aff58e6250b09500f353f57-Screenshot_2025-02-25_at_12.27.22_PM.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cbf7a55cf48e4b841fc46dbf586518ae9b588bb97aff58e6250b09500f353f57-Screenshot_2025-02-25_at_12.27.22_PM.png" />
 
 <br />
 
