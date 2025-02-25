@@ -143,10 +143,17 @@ When done, **click** **“Save.”**
 ## Edit a Schedule
 
 1. From the Schedules list, **check** the schedule you want to modify; you can use filters to find it quickly.
-2. * Note: Only one schedule can be edited at a time.
-3. **Click** **“Edit.”**
-4. **Modify** data in any of the tabs (General, Mobile Settings, Default Values, Notification).
-5. **Save** and **Close** when finished.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f92bc381b7f2a5b9f216d51a42f30d2569268a4e286756ba7f95ac85db938a69-image.png" />
+
+> **Note:** Only one schedule can be edited at a time.
+
+2. **Click** **“Edit”.**
+3. **Modify** data in any of the tabs (General, Mobile Settings, Default Values, Notification).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/78a9089268e734d89dbb54ba901c37bfc6b98efa61d3eacde3a20b74b25e989f-image.png" />
+
+4. **Save** and **Close** when finished.
 
 ***
 
@@ -154,8 +161,12 @@ When done, **click** **“Save.”**
 
 You can only delete schedules that have no data records. This prevents losing critical information.
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/1c95b182238e292a219ce61eb6e1cf4be629fd04768a1b798321ad95cbe79bc7-image.png" />
+
+<br />
+
 1. From the Schedules list, **check** the schedule(s) you want to remove.
-2. **Click** **“Delete.”**
+2. **Click** **“Delete”**
 3. **Confirm** your choice. The schedule is discarded if it’s empty.
 
 If the schedule contains records, the system won’t let you delete it. You can either modify or archive it to preserve essential data.
