@@ -83,10 +83,15 @@ When viewing a schedule, administrators can create fresh shifts:
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/0b0233819fadc6cb71d6c1a1800c056f257c92a7f7b82c56b225d9e3d29aa81d-image.png" />
 
 * **Assignments**: Specific users assigned. Or leave unassigned if you plan to let employees claim it.
-* **Number of Spots**: If it’s an unassigned shift, specify how many people can claim.
-* **Tasks/Forms/Scans**: Attach relevant tasks or forms for employees to complete.
+* **Number of Spots**: Specify how many people can claim if it’s an unassigned shift.
+* **Tasks/Forms/Scans**: Attach relevant tasks or forms for employees to complete. Set it to "2" if you want two persons doing the same job, on that same shift.
 
 2. **Publish** the shift to make it visible. If you prefer employees can’t see it yet, **save as a draft**.
+3. You can **edit** a shift at any time by hovering over the shift, and then pressing the "Edit button".
+
+<Image align="center" width="60% " src="https://files.readme.io/3960b2a01b40f87cb5f6fab3f0aa9f3a42bdce483640428cf3c0b41f6b84a9b5-image.png" />
+
+<br />
 
 ***
 
@@ -103,13 +108,63 @@ When viewing a schedule, administrators can create fresh shifts:
 
 5. This shift appears in the schedule with a **faded background**, indicating a draft state.
 
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/a4c148f2ab1ae968059f37cca6b5874bf67d7be1818d369ef6913cf024f00fae-image.png" />
+
+<br />
+
 ***
 
 ## Add Multiple Shifts
 
-A **shortened form** lets you quickly create multiple shifts at once with minimal details (e.g., basic date/time, role). Publish them immediately or save them as drafts. See “Add Multiple Shifts” for further instructions.
+A **shortened form** lets you quickly create multiple shifts in bulk at once with minimal details (e.g., basic date/time, role).
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b32365fd16b916fd5120b0de517504ff4479baff628eaf358ff191a479b8b177-image.png" />
+
+1. **Open** the **scheduler** and **click** the **“Add new”** button.
+2. **Choose** **“Add Multiple Shifts”.**
+3. **Fill in** the necessary shift details:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b5a150d7d44983bec70fc2b489d1a287619218cf936251fde0f5acb2edfa3f93-image.png" />
+
+* **Start Date**: Select the date from the interactive calendar.
+* **Start Hour** and **End Hour**: Define when the shift begins and ends.
+* **Shift Title**: Provide a name your users will recognize.
+* **Role**: Assign a role (which determines shift color) from previously created roles.
+* **Assignments**: Pick which users will work these shifts. A pop-up lets you filter users by role, certification, or skills.
+
+4. **Add Another Row**:
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c2d412f1f4ed9deb877356421db74911f52f13672e2aa50fccbd5898f68b1b8c-image.png" />
+
+* Click the **add (+)** button to create as many shift rows as you need.
+* Click the **delete (-)** icon next to that entry to remove a row.
+
+5. **Publish** or **Save as Draft**:
+
+* **Publish** makes the shifts visible to your team on their mobile devices.
+* **Save as Draft** keeps them hidden until you’re ready to publish.
+
+> **Note**: You can revisit these shifts later to include more details (like location, tasks, forms, or scans) in the full shift editor if needed.
 
 ***
+
+Templates in **mobohubb** let you define reusable shift structures—such as standard roles, times, tasks, or forms—so you can create similar shifts more quickly in the future. Any shift you save as a template can be selected again in the scheduler.
+
+***
+
+## Save Shifts as Templates
+
+1. **Open** the scheduler, then **click** on a shift you'd like to convert into a template.
+
+2. **Edit** the shift if necessary:
+   * Shift times, roles, tasks, etc.
+   * Use the **Tool bar** in the shift’s detail popup to modify these items.
+
+3. **Scroll** down and **click** **“Save As Template.”**
+
+Once saved, the template will be available whenever you use **“Add New Shift from Template”** in the scheduler. This feature allows you to reproduce your most common shifts quickly, reducing the need to recreate details like roles and time periods.
+
+> **Note**: If the shift already exists as a template, you can overwrite or update it by repeating these steps and saving again.
 
 ## Add New Shifts from Templates
 
