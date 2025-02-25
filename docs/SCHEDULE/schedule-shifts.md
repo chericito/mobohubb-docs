@@ -20,18 +20,37 @@ metadata:
 
 Each shift can include various visual indicators, which help differentiate their statuses or key attributes:
 
-| Category                | Description                                                                                                                             |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Published**           | Visible to mobile users, allowing them to accept or reject. Published shifts have a **solid background color**.                         |
-| **Immediate Attention** | A **red alert icon** indicating high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.                        |
-| **Alert Messages**      | A **yellow alert icon** indicating potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits. |
-| **Completed**           | Once accepted, started, and finished, the shift text appears **crossed out** to signify completion.                                     |
-| **Missed**              | Accepted but not started in time; displayed with a **solid color** yet a **faded border**.                                              |
-| **Draft**               | Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.                             |
-| **Tasks Indicator**     | An **activity icon** showing associated tasks, scans, or forms for the shift.                                                           |
-| **Spots Indicator**     | Indicates how many slots are available (or claimed) for **unassigned** shifts.                                                          |
+#### Published
 
-***
+Visible to mobile users, allowing them to accept or reject. Published shifts have a **solid background color**.
+
+#### Immediate Attention
+
+A **red alert icon** indicating high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.
+
+#### Alert Messages
+
+A **yellow alert icon** indicating potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits.
+
+#### Completed
+
+Once accepted, started, and finished, the shift text appears **crossed out** to signify completion.
+
+#### Missed
+
+Accepted but not started in time; displayed with a **solid color** yet a **faded border**.
+
+#### Draft
+
+Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.
+
+#### Tasks Indicator
+
+An **activity icon** showing associated tasks, scans, or forms for the shift.
+
+#### Spots Indicator
+
+Indicates how many slots are available (or claimed) for **unassigned** shifts.
 
 ## Shift Details
 
@@ -42,19 +61,25 @@ No matter which scheduling view you’re in (day, week, month, or list), you can
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0061e50d87a0dcdc651e5e08973f7478b9894bf7bb1046af6d12a6165139d7c9-image.png" />
 
 2. **Click** on a shift to inspect.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/122780b2d2e9c594b3b445beed631c4d892e590b369c8339098b904257c0a537-image.png" />
+
+<br />
+
 3. A **popup** displays that shift’s core info:
 
-   * **Tool Bar**: Options to delete, edit, publish/unpublish, or duplicate the shift.
-   * **Shift General Information**:
-     * **Role**: Assigned to a particular role color or label.
-     * **Shift Status**: “Draft” or “Publish.”
-     * **Work Status**: “Not started” until a user checks in; then it becomes “Started.”
-     * **Location**: The defined work location.
-     * **Assigned Users**: Number of people assigned.
-     * **Attachments**: Files or images accessible to users (e.g., instructions).
-   * **Users’ Information**: Detailed acceptance status, work status, etc.
-   * **Tasks/Scan/Forms**: Activities linked to the shift and their progress.
-   * **Alert Messages**: Immediate attention issues or standard alerts. Click to view specific problems.
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/cf42e06de54653555f86877b905c99d68b478cea08e8127c5e3980375f82569b-image.png" />
+
+* **Tool Bar**: Options to delete, edit, publish/unpublish, duplicate, or exit the shift.
+* **Shift General Information**:
+  * **Shift Status**: “Draft” or “Publish.”
+  * **Work Status**: “Not started” until a user checks in; then it becomes “Started.”
+  * **Location**: The defined work location.
+  * **Assigned Users**: Number of people assigned.
+  * **Attachments**: Files or images accessible to users (e.g., instructions).
+* **Users’ Information**: Detailed acceptance status, work status, etc.
+* **Tasks/Scan/Forms**: Activities linked to the shift and their progress.
+* **Alert Messages**: Immediate attention issues or standard alerts. Click to view specific problems.
 
 ***
 
