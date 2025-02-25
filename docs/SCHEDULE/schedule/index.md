@@ -62,14 +62,15 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 
 * **Active**: Check to mark the schedule as “active".
 
+Press "**Save**" to continue to the next tab.
+
 ### Mobile Settings Tab
 
-* **Accept/Reject**: Configure the time window for users to accept or reject shifts.
-  * If users fail to accept or reject within this timeframe, alerts are generated for admins to find alternatives.
-* **Enable users to accept/reject shifts**: If checked, users can confirm or decline a shift in the app.
-* **Time Window**: Set days, hours, or minutes before the shift starts for acceptance or rejection.
-
 #### Requests (Time off, Claim shift, Replacement)
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cd0bfb3c479a2255e34931439908109fe9af556fb91907d8a6687365769a5486-image.png" />
+
+<br />
 
 * **Time off** requests:
   * Check/uncheck to enable users’ time-off requests.
@@ -85,9 +86,13 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
   * **Enable** users to claim shifts.
   * **Time window**: Days/hours/minutes before the shift when claims are no longer allowed.
   * **Claim requires admin approval**: If checked, admin must confirm claims.
-* **Check-in / Checkout**:
-  * **Allow** users to check in via clock in/out in the mobile app.
-  * Or **automatically** start/end the shift when the scheduled time arrives.
+
+#### Check-in / Checkout
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/39998c48d42cf5e9c104b6bb4c615cff1792c10ad46a7d6cb73ba01b2aaa5fd7-image.png" />
+
+* **Allow** users to check in via clock in/out in the mobile app.
+* Or **automatically** start/end the shift when the scheduled time arrives.
 
 **Save** your changes after setting these fields.
 
