@@ -94,10 +94,21 @@ Choose between **day**, **week**, **month**, or **list** view:
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/2448f6159650c9d91810e0578ae14f52233cc3ad4338d3a1713e9fadfa395d05-image.png" />
 
-* **Week View**: The default balance of current day, past few days, and upcoming days.
+* **Week View**: The default balance of the current day, past few days, and upcoming days.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/dc1c41500198f181e24e31e6bf30f02d71eb380e2193264ff31a5b877028fcae-image.png" />
+
 * **Day View**: Offers detailed, hour-by-hour visuals for a single day.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/e13d2bb01628cec29aea8a99df23ed945e80d57763e0231bb8d3ee513a7adcfd-image.png" />
+
 * **Month View**: Provides a broader overview of shifts in a calendar-like format.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c644d591ecf2d6244376dd7bbb43a7ff3f4c8a9660c366458bcf1dfcd4a8791d-image.png" />
+
 * **List View**: Groups data by user with cost/hours info, and allows exporting as an Excel file.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/14cc24e076a4b690934fa2bf9d1784137b0e094c2e458f21b644d88fff9cee8b-image.png" />
 
 ### Date Selector
 
