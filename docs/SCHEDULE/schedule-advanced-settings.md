@@ -128,7 +128,7 @@ Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Request
 
 ### Actions
 
-Within the scheduler, clicking **“Actions”** reveals various operations. Visit our dedicated guide on Actions.
+Within the scheduler, clicking **“Actions”** reveals various operations. Visit our dedicated guide on [Actions](https://mobohubb.readme.io/docs/schedule-actions#/).
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74dcb6cae3a4fd2cf7df22f7de297d51f98e9e04dd73e8763fa738104e0ae3e3-image.png" />
 
