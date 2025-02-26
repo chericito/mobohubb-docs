@@ -88,11 +88,11 @@ To **apply** a template to a future week/day:
 2. **Press** **Actions** → **Copy from Template**.
 3. **Confirm** to import the layout.
 
-![Save As Template](https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png)
+<Image align="center" alt="Save As Template" border={true} caption="Save as Template" src="https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png" width="50% " />
 
 <br />
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/aa832f677e32824f10a3bde3f30c166bfac0e1e1f96924bb1b9a2873e49636b3-image.png" />
+<Image align="center" border={true} caption="Copy from Template" src="https://files.readme.io/aa832f677e32824f10a3bde3f30c166bfac0e1e1f96924bb1b9a2873e49636b3-image.png" width="50% " />
 
 <br />
 
