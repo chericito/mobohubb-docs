@@ -114,6 +114,8 @@ Choose between **day**, **week**, **month**, or **list** view:
 
 Select a specific date to view. This can open an interactive calendar, making it easy to pinpoint a day.
 
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/2c5e329b877fc901395bbab53d1f6cc0a5d378488a68de1c345e7976c9f97877-image.png" />
+
 ### Requests
 
 Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Requests**) within the scheduling interface. Admins can accept, reject, or set them as pending.
