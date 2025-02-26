@@ -20,14 +20,21 @@ metadata:
 
 1. **Open** the scheduler and click **“Requests”**.
 
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/25b9130e418ac81266b152f1a34630d249788812ae9027dfdb29c315b0fff591-image.png" />
+
 2. A new window displays all **pending or existing requests**, with details such as category, user, date, and more.
 
-3. For each request, you can:
-   * **Accept**: Approve the user’s request.
-   * **Reject**: Deny the request.
-   * **Mark as Pending**: Keep the request open for further review.
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/32e819b1a16f142d8f5923695eb77b0b1f0418a25fe24e7fab46d537c03ccfdf-image.png" />
 
-Users receive notifications about your decision.
+3. For each request, you can:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" />
+
+* **Accept**: Approve the user’s request.
+* **Reject**: Deny the request.
+* **Mark as Pending**: Keep the request open for further review.
+
+**Users receive notifications about your decision**.
 
 ***
 
