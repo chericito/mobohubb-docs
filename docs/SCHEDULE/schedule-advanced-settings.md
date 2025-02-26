@@ -124,11 +124,13 @@ Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Request
 
 <br />
 
-<Image align="center" border={true} caption="General view" src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" width="80% " />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" />
 
 ### Actions
 
-Within the scheduler, clicking **“Actions”** reveals various operations:
+Within the scheduler, clicking **“Actions”** reveals various operations. Visit our dedicated guide on Actions.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74dcb6cae3a4fd2cf7df22f7de297d51f98e9e04dd73e8763fa738104e0ae3e3-image.png" />
 
 * **Unpublish Week**: Converts published shifts to drafts, hiding them from mobile users.
 * **Copy Form Template**: Opens a window with ready-to-use templates.
