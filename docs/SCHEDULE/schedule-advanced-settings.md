@@ -144,6 +144,8 @@ Within the scheduler, clicking **“Actions”** reveals various operations. Vis
 
 ### Publish
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/f110f8febab4226ea0baa8047ac00ef029e20762436f9f1947e8341dbe21ee5b-image.png" />
+
 The **Publish** button makes shifts visible to mobile users. Until published, shifts remain drafts and are hidden from employees. Confirm publishing after reviewing any alert messages to ensure correctness.
 
 ### Add New Button
