@@ -20,11 +20,17 @@ metadata:
 
 * Click **Settings** in the top menu to access various organization configuration options.
 
-1. **Select "Schedule".**
-   * Within the **Configuration** area, click **"Scheduling."**
-2. **Click** directly on the **Schedule name** you want to open.
-   * You can use filters to find it quickly.
-3. **General schedule view** opens, typically in **week view** by default.
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/c5d9e156147887b6174ae0caedda0978803db3129893210e819ae4b143c3ff1d-image.png" />
+
+3. Within the **Configuration** area, click **"Scheduling."**
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/aebcff11860782650df65c1f2ef3cb44e17657f675c1ba070d1a7e001c236ad2-image.png" />
+
+4. **Click** directly on the **Schedule name** you want to open.
+
+* You can use filters to find it quickly.
+
+4. **General schedule view** opens, typically in **week view** by default.
 
 ### Schedule Overview
 
