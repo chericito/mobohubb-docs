@@ -46,20 +46,27 @@ Time Off can be custom-defined for various scenarios—paid or unpaid, emergency
 
 ### Claim Shift
 
-Users can claim **unassigned** shifts (open shifts), which may require admin approval.
+Users can claim **unassigned** shifts ([open shifts](https://mobohubb.readme.io/docs/schedule-shifts#/add-new-shifts)), which may require admin approval.
 
 ### Replacement Request
 
 A user with an already-assigned shift requests a replacement before the shift starts. Another user may take that shift, subject to admin approval.
 
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/32e819b1a16f142d8f5923695eb77b0b1f0418a25fe24e7fab46d537c03ccfdf-image.png" />
+
 When reviewing requests, you’ll see:
 
 * **Tool Bar**: Includes filters, search bar, columns, and the three-dots menu (to restore view).
 * **Main View**: A list of requests, each showing:
+
   * **Date of Request**: When the user submitted it.
   * **User**: Who initiated the request.
   * **Request Type**: “Time off,” “Claim shift,” “Replacement request,” etc.
   * **Approval Status**: “Approved,” “Rejected,” or “Pending.”
+
+  <br />
+
+  <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" />
 
 Clicking on a request opens additional details—like the specific shift, the type of time off, or which users are involved in a replacement.
 
