@@ -84,14 +84,18 @@ Clicking on a request opens additional details—like the specific shift, the ty
 
 2. **Select** **"Settings".**
 
-3. Go to the **"Mobile Settings"** tab.
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/9038d413e55127afb6abb75ddde47c18b5730f2dd27c69a7050ffe4abd03133c-image.png" />
 
+3. Go to the **"Mobile Settings"** tab.
 4. Open the **"Requests"** section, where you can update:
-   * **Enable shift replacement request**: Toggle on/off for user replacements.
-   * **Replacement requires admin approval**: Force admin confirmation before a user can finalize a replacement.
-   * **Enable users to claim shifts**: Let employees pick open shifts.
-   * **Claim shifts require admin approval**: Choose if they need admin’s OK before a shift is fully claimed.
-   * **Time window** for claiming or declining shifts.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/89faf8c365c657a2b2dd396a289ef39426bfdcdb8e924e477781f1dd16704bd4-image.png" />
+
+* **Enable shift replacement request**: Toggle on/off for user replacements.
+* **Replacement requires admin approval**: Force admin confirmation before a user can finalize a replacement.
+* **Enable users to claim shifts**: Let employees pick open shifts.
+* **Claim shifts require admin approval**: Choose if they need admin’s OK before a shift is fully claimed.
+* **Time window** for claiming or declining shifts.
 
 5. **Save** and **close** to confirm your changes.
 
@@ -102,14 +106,19 @@ Clicking on a request opens additional details—like the specific shift, the ty
 1. In the scheduler, click the **three-dots** button.
 2. **Select** **"Settings".**
 3. In the **"Mobile Settings"** tab, open **"Requests".**
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/e45481907eba1a4b25b8c001c90b3a4bf723ab8c67fe4dd8c411c4334c5f1f18-image.png" />
+
 4. Within **Time off** requests, you can:
-   * **Check/uncheck** to allow time-off submissions.
-   * **Add** or **delete** as many request types as needed. Each request type may include:
-     * **Name** (e.g., “Vacation,” “Sick Leave”).
-     * **Category** (e.g., “Emergency,” “Regular absence”).
-     * **Report minimum** (minimum lead time for requesting).
-     * **Paid/Unpaid** status for cost calculation.
-     * **Requires admin approval** toggle.
+
+* **Check/uncheck** to allow time-off submissions.
+* **Add** or **delete** as many request types as needed. Each request type may include:
+  * **Name** (e.g., “Vacation,” “Sick Leave”).
+  * **Category** (e.g., “Emergency,” “Regular absence”).
+  * **Report minimum** (minimum lead time for requesting).
+  * **Paid/Unpaid** status for cost calculation.
+  * **Requires admin approval** toggle.
+
 5. **Save** and **close** to finalize your time-off request settings.
 
 ***
