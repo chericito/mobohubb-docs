@@ -15,7 +15,7 @@ metadata:
 
 Administrators can perform various actions in the schedule using the **Actions** menu. Access this menu via the toolbar within the scheduler.
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/dea88a20b474ea3c4c173c3e9b922e956649fb244b685457ca98bb5db0c52697-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dea88a20b474ea3c4c173c3e9b922e956649fb244b685457ca98bb5db0c52697-image.png" />
 
 **Menu Options:**
 
@@ -55,7 +55,7 @@ The **Clear Week** option removes all shiftsâ€”draft, published, or unassignedâ€
 3. **Choose** **Clear Week**.
 4. **Confirm** by clicking **Delete**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png" />
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png" />
 
 > **Note**: Shifts already started by a user (checked in) remain intact.
 
