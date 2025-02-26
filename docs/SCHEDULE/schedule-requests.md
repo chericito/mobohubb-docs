@@ -12,7 +12,7 @@ metadata:
 ---
 # Schedule: Requests
 
-“Scheduling” in **mobohubb** supports requests from mobile users for **Time off**, **Claim shift**, or **Replacement**, which admins can accept, reject, or mark as pending. By responding to these requests, you can keep your schedule updated and resolve potential coverage gaps or shift conflicts.
+“Scheduling” in **mobohubb** supports requests from mobile users for **Time off**, **Claim shift**, or **Replacement**, which admins can accept, reject, or mark as pending. Responding to these requests can keep your schedule updated and resolve potential coverage gaps or shift conflicts.
 
 ***
 
