@@ -70,6 +70,12 @@ No matter which scheduling view you’re in (day, week, month, or list), you can
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/cf42e06de54653555f86877b905c99d68b478cea08e8127c5e3980375f82569b-image.png" />
 
+* **Card Color**: Customized color based on user selection. When creating a shift, if the **Role** is specified, it will select the color associated with that role. You can configure the color of each role in the Role configuration menu.
+
+  <Image align="center" className="border" border={true} src="https://files.readme.io/88d9599961199b032481e9243681f5d782dc4a23c40aa946c0a0c69eccae605b-image.png" />
+
+<br />
+
 * **Tool Bar**: Options to delete, edit, publish/unpublish, duplicate, or exit the shift.
 * **Shift General Information**:
   * **Shift Status**: “Draft” or “Publish.”
