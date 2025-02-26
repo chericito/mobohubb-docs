@@ -70,7 +70,7 @@ No matter which scheduling view you’re in (day, week, month, or list), you can
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/cf42e06de54653555f86877b905c99d68b478cea08e8127c5e3980375f82569b-image.png" />
 
-* **Card Color**: When a shift is created, the **Role** setting determines its color by default—each role has its own color configuration. If needed, you can adjust each role’s color in the [Role configuration menu](https://mobohubb.readme.io/docs/roles#/). This color helps employees quickly recognize the nature of their shifts at a glance. You can also set a customized color for each shift.
+* **Card Color**: When a shift is created, the **Role** setting determines its color by default—each role has its own color configuration. If needed, you can adjust each role’s color in the [Role configuration menu](https://mobohubb.readme.io/docs/roles#/). This color helps employees quickly recognize the nature of their shifts at a glance. **You can also set a customized color for each shift.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/88d9599961199b032481e9243681f5d782dc4a23c40aa946c0a0c69eccae605b-image.png" />
 
