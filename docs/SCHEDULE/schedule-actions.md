@@ -1,18 +1,21 @@
 ---
 title: 'Schedule: Actions'
+excerpt: >-
+  Discover how to manage **Actions** in **mobohubb’s Scheduling** feature. This
+  guide explains the “Actions” menu, where you can unpublish or clear an entire
+  week, remove shift assignments, copy or save templates, and add/edit
+  unavailability. Learn to streamline schedule management and maintain accurate,
+  efficient planning.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-### Metadata Description
-Discover how to manage **Actions** in **mobohubb’s Scheduling** feature. This guide explains the “Actions” menu, where you can unpublish or clear an entire week, remove shift assignments, copy or save templates, and add/edit unavailability. Learn to streamline schedule management and maintain accurate, efficient planning.
-
 # Schedule: Actions
 
 Administrators can perform various actions in the schedule using the **Actions** menu. Access this menu via the toolbar within the scheduler.
 
-![Actions Menu Example](https://files.readme.io/dea88a20b474ea3c4c173c3e9b922e956649fb244b685457ca98bb5db0c52697-image.png)
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/dea88a20b474ea3c4c173c3e9b922e956649fb244b685457ca98bb5db0c52697-image.png" />
 
 **Menu Options:**
 
@@ -37,9 +40,9 @@ Turning a published week into a draft state hides all shifts from mobile app use
 3. **Select** **Unpublish Week**.
 4. **Confirm** to revert published shifts to drafts.
 
-![Published Shift](https://files.readme.io/348d1cde8c0f5af28e5039dda737913e1695f6d2911b486afc07bb445ecc591d-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/348d1cde8c0f5af28e5039dda737913e1695f6d2911b486afc07bb445ecc591d-image.png" />
 
-![Unpublished Shift](https://files.readme.io/cef0a23f67a5ed77db2c84173599fefba03957f437b6b5aa65270dcd0b24c110-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/cef0a23f67a5ed77db2c84173599fefba03957f437b6b5aa65270dcd0b24c110-image.png" />
 
 ***
 
@@ -52,7 +55,7 @@ The **Clear Week** option removes all shifts—draft, published, or unassigned�
 3. **Choose** **Clear Week**.
 4. **Confirm** by clicking **Delete**.
 
-![Clear Week Confirmation](https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png" />
 
 > **Note**: Shifts already started by a user (checked in) remain intact.
 
@@ -85,8 +88,10 @@ To **apply** a template to a future week/day:
 2. **Press** **Actions** → **Copy from Template**.
 3. **Confirm** to import the layout.
 
-![Save As Template](https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png)
+![Save As Template](https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png)\
 ![Copy from Template](https://files.readme.io/aa832f677e32824f10a3bde3f30c166bfac0e1e1f96924bb1b9a2873e49636b3-image.png)
+
+<br />
 
 ***
 
