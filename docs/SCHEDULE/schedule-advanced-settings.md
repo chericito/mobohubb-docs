@@ -70,18 +70,29 @@ The toolbar includes functions to change how the schedule is displayed and to pe
 
 ### Filter
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/4b8ef6ecb06beeaee9b5752576bf4e2034af459ca13db51d02c477f81077ac4d-image.png" />
+
 You can apply **Quick** or **Advanced** filters by clicking the **“Filter”** button:
 
-* **Quick Filters**: By default, you see quick filters divided into categories: **User**, **Shift Title**, **Role**, **Work Status**, and **Shift Status**. Click items to create new filters, then press **“Apply”.**
-* **Advanced Filters**: Switch to advanced filters to define multiple logical conditions. Each filter is composed of **Label** (data categories), **Compare** (equals, not equals, contained in, etc.), and **Value** (the matching text). Press **“Apply”** once done.
+**Quick Filters**: By default, you see quick filters divided into categories: **User**, **Shift Title**, **Role**, **Work Status**, and **Shift Status**. Click items to create new filters, then press **“Apply”.**
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/422925760c7c7d644d7d0ddd2fd7301cef1fedc97f52f2d07e00b42d8899f9b5-image.png" />
+
+**Advanced Filters**: Switch to advanced filters to define multiple logical conditions. Each filter is composed of **Label** (data categories), **Compare** (equals, not equals, contained in, etc.), and **Value** (the matching text). Press **“Apply”** once done.
+
+**You can return to Quick Filters by pressing "Switch to Quick Filters".**
 
 ### Search Bar
 
 This is a graphical UI element that accepts keywords or phrases to quickly locate specific info—especially handy in list views.
 
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b6fe728d76d5496099af2c45bd75bcd42cda491e2dc551f0509be45b010a2d37-image.png" />
+
 ### Time Selector
 
 Choose between **day**, **week**, **month**, or **list** view:
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/2448f6159650c9d91810e0578ae14f52233cc3ad4338d3a1713e9fadfa395d05-image.png" />
 
 * **Week View**: The default balance of current day, past few days, and upcoming days.
 * **Day View**: Offers detailed, hour-by-hour visuals for a single day.
