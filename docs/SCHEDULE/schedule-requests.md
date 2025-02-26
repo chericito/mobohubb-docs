@@ -66,7 +66,13 @@ When reviewing requests, you’ll see:
 
   <br />
 
-  <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" />
+  <Image align="center" border={true} caption="General view" src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" width="80% " />
+
+<Image align="center" border={true} caption="Claim Shift" src="https://files.readme.io/5efe1dcc6addb1409f06d03769db1e2810685c075cda19fe85dd0ae776c406ea-image.png" width="50% " />
+
+<Image align="center" border={true} caption="Replacement" src="https://files.readme.io/1213682890a7151d8d97f900e35aa9a3252a203b97bc6c363a53942aea895da9-image.png" width="50% " />
+
+<Image align="center" border={true} caption="Time off" src="https://files.readme.io/b0321cd14bb577c2ddba772047819a2f8c99c4b13b3bba43fc22d8d4d915dfc0-image.png" width="50% " />
 
 Clicking on a request opens additional details—like the specific shift, the type of time off, or which users are involved in a replacement.
 
@@ -76,7 +82,7 @@ Clicking on a request opens additional details—like the specific shift, the ty
 
 1. In the scheduler, **click** the three-dots button.
 
-2. **Select** **"Settings."**
+2. **Select** **"Settings".**
 
 3. Go to the **"Mobile Settings"** tab.
 
