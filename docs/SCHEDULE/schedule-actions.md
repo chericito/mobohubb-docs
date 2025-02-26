@@ -127,4 +127,17 @@ If you need to delete an unavailability:
 
 ***
 
-By mastering these **Actions**—unpublishing, clearing, removing assignments, saving/copying templates, and managing unavailability—you gain full control over your scheduling workflow, ensuring each week is precisely planned and easily updated.
+# Export PDF
+
+**Export PDF** allows you to download the currently displayed schedule, making it simple to print or share offline.
+
+1. **Open** the scheduler and use the **Date Selector** in the toolbar to pick the **week** you want to export.
+2. **Click** **Actions** in the schedule toolbar.
+3. **Choose** **“Export PDF”.**
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/a8a7a200816ba6503d6d4119866a1bc38d564ee8ba42c7fdefc403b62cccb439-image.png" />
+
+4. The PDF **downloads** to your device.
+5. **Open** the file locally to view or print the schedule.
+
+> **Note**: If the file size is large, the PDF might appear in **“Downloads”** on the platform instead of an immediate device download.
