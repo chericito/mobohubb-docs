@@ -28,9 +28,13 @@ metadata:
 
 4. **Click** directly on the **Schedule name** you want to open.
 
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/754f65322ba5ac861915bd8d75924b5d45efed987f6e89c74e3d8aa1e072f0b8-image.png" />
+
 * You can use filters to find it quickly.
 
 4. **General schedule view** opens, typically in **week view** by default.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/627b81df049da76e897becf01ce5231ef45502fb0fcf087d5a85f343b61f4ee3-image.png" />
 
 ### Schedule Overview
 
