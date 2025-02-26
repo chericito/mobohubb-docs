@@ -106,18 +106,24 @@ Unavailability marks specific times or dates when employees **can’t** take shi
 
 1. **In** the scheduler, **click** **Actions** → **Add or Edit Unavailability**.
 2. A popup lists current unavailabilities.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/53ce070987ffe205a81548ca8a9789c1264312ae1692eabdf19c495d174b8bae-image.png" />
+
 3. **Click** **ADD NEW** to create a new unavailability or **Edit** an existing one:
-   * **Unavailability name**: A descriptive label, e.g., “Saint Julius Day”
-   * **Holiday** (optional): Check if it’s a recognized holiday.
-   * **Start date** / **End date**: Use the interactive calendar; end date must not precede start date.
-   * **Save** changes.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/eb019df6faf8b9e459dcdca3b490070b43086c6b287f1f1362b93f132745902d-image.png" />
+
+* **Unavailability name**: A descriptive label, e.g., “Saint Julius Day”
+* **Holiday** (optional): Check if it’s a recognized holiday.
+* **Start date** / **End date**: Use the interactive calendar; end date must not precede start date.
+* **Save** changes.
 
 If you need to delete an unavailability:
 
 1. **Check** the item from the popup list.
 2. **Click** **Delete** and confirm.
 
-Employees marked unavailable cannot be scheduled for shifts during those times.
+<Image align="center" border={true} caption="Employees marked unavailable cannot be scheduled for shifts during those times." src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
 
 ***
 
