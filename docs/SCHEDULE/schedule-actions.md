@@ -39,9 +39,44 @@ The **Clear week** function lets you remove all shifts—draft, published, or un
 
 2. **Click** **“Actions”.**
 
-3. **Choose** **“Clear week.”**
+3. **Choose** **“Clear week”.**
 
-4. **Confirm** your choice by selecting **“Delete.”**
-   * All shifts in that week are discarded except those that have already started.
+4. **Confirm** your choice by selecting **“Delete”.**
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png" />
+
+All shifts in that week are discarded except those that have already started.
 
 > **Note:** Shifts that users have begun (checked in to) cannot be removed with **Clear week**.
+
+<br />
+
+# Remove Assignments
+
+Marks all shifts as unassigned, letting users claim them using the Mobile App.
+
+To clear the week, follow the steps bellow:
+
+Use the “Date selector” in the tool bar to navigate to the week you wish to clear.
+
+Note: Visit our Schedule features for more information about Date selector.
+
+In the scheduler, click on “Actions.”
+
+Note: To access the scheduler please check the “Manage the schedule” section.
+
+Click on “Remove Assignments.”
+
+Use the “Submit” button to confirm.
+
+The assignment shifts will be removed, but unassigned shifts will remain visible.
+
+# Save Templates and Copy From Templates
+
+You can save weeks and day schedules as templates. Use the time selector from the tool bar, and press Actions. According to your time selection, you will see a "Save as Week/Day Template". Give it a name and save it.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png" />
+
+Move to a future week, From the same menu, press "Actions" and select "Copy from Template". According, to the time selection (day or week) it will copy and apply it to the selected week/day.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/aa832f677e32824f10a3bde3f30c166bfac0e1e1f96924bb1b9a2873e49636b3-image.png" />
