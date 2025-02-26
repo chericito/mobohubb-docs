@@ -167,14 +167,24 @@ The **Add New** button includes multiple scheduling features:
 
 In day, week, month, or list view, the **View Options** button can hide specific elements, like unassigned shifts or message icons. Any changes apply immediately and can be undone by toggling the same setting.
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/0a8993f545dfd08976bbca3d7342638f1f61a28924f4ddf408b1ff058c42672f-image.png" />
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/93057c5fc564b015313ff87b52596aaad5ad958f09c29336f937d8d07fff7500-image.png" />
+
 #### Day Column
 
 Each day may display **alert messages** or **immediate attention** icons if conflicts arise (e.g., a not-accepted shift or missed shift). The schedule typically flags:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e186453b22d15e4bb892d06cb99ebda3772c5a0ba99f0cba22afaadb694877c-image.png" />
+
+<br />
 
 * **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or not-accepted shifts.
 * **Alert (Yellow)**: Incomplete tasks, uncalculated cost (missing fee), or exceeding hour limits.
 
 #### Hours and Total Cost
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/87d587627e48db98c7042702637e4273efe12788348b60320efa6018a02a96c1-image.png" />
 
 Mobohubb calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
 
@@ -182,11 +192,15 @@ Mobohubb calculates total labor costs based on shift assignments, recorded hours
 
 ## Shift View
 
-A **shift** is a specified time slot an employee is assigned to work. Administrators create these shifts in the scheduler, often linking them to tasks, scans, or forms if needed. Shifts are color-coded to differentiate them quickly. (See the **“Schedule Shifts”** section for details on creating/managing shifts.)
+![](https://files.readme.io/8088c22f2bbb9a125d0cab49c63833e3224be0be6ca1cd43ad79fc83e0f8bced-image.png)
+
+A **shift** is a specified time slot an employee is assigned to work. Administrators create these shifts in the scheduler, often linking them to tasks, scans, or forms if needed. Shifts are color-coded to differentiate them quickly. (See the **“[Schedule Shifts](https://mobohubb.readme.io/docs/schedule-shifts#/)”** section for details on creating/managing shifts.)
 
 ***
 
 ## User Column
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d65bc9fa0d6093a7fc5bde9e5535a65f2e5db4f6978cd00c77a87bac205877e9-image.png" />
 
 This column can also reflect conflict icons or alert messages for each user:
 
