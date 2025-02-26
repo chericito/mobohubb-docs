@@ -120,6 +120,12 @@ Select a specific date to view. This can open an interactive calendar, making it
 
 Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Requests**) within the scheduling interface. Admins can accept, reject, or set them as pending.
 
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/32e819b1a16f142d8f5923695eb77b0b1f0418a25fe24e7fab46d537c03ccfdf-image.png" />
+
+<br />
+
+<Image align="center" border={true} caption="General view" src="https://files.readme.io/eb2e8d42eddca37a0d4c753c4d70f17a4c539d631d3e40e7794b167f7795ec7c-image.png" width="80% " />
+
 ### Actions
 
 Within the scheduler, clicking **“Actions”** reveals various operations:
