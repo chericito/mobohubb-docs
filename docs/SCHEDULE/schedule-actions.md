@@ -5,7 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
-````markdown
 ### Metadata Description
 Discover how to manage **Actions** in **mobohubb’s Scheduling** feature. This guide explains the “Actions” menu, where you can unpublish or clear an entire week, remove shift assignments, copy or save templates, and add/edit unavailability. Learn to streamline schedule management and maintain accurate, efficient planning.
 
