@@ -152,6 +152,8 @@ The **Publish** button makes shifts visible to mobile users. Until published, sh
 
 The **Add New** button includes multiple scheduling features:
 
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/4d32a805dd8e0619ece549f97d61737a2fabe91b1750c96df97f20a6afd808ac-image.png" />
+
 * **Add New Shift** (see “Add New Shift” section)
 * **Add Shifts from Templates** (see “Add Shifts from Templates” section)
 * **Add Multiple Shifts** (see “Add Multiple Shifts” section)
