@@ -102,12 +102,12 @@ To **apply** a template to a future week/day:
 
 ## Add or Edit Unavailability
 
-Unavailability marks specific times or dates when employees **can’t** take shifts. Examples: personal commitments, holidays, or events.
+Unavailability marks specific times or dates when employees **can’t** take shifts. Examples: holidays, or events.
 
 1. **In** the scheduler, **click** **Actions** → **Add or Edit Unavailability**.
 2. A popup lists current unavailabilities.
 3. **Click** **ADD NEW** to create a new unavailability or **Edit** an existing one:
-   * **Unavailability name**: A descriptive label, e.g., “Doctor Appointment.”
+   * **Unavailability name**: A descriptive label, e.g., “Saint Julius Day”
    * **Holiday** (optional): Check if it’s a recognized holiday.
    * **Start date** / **End date**: Use the interactive calendar; end date must not precede start date.
    * **Save** changes.
