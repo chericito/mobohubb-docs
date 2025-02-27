@@ -233,4 +233,61 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 ***
 
+# Schedule: Unassigned Shifts
+
+**Unassigned Shifts** (open shifts) allow employees to **claim** spots themselves, rather than having administrators assign them. Shifts can have multiple spots, so multiple employees can claim until the quota is filled.
+
+## Unassigned Shift View
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/30607d48f3d30554f1cb85e2a50d0105f8ffa1184b1a36d72162e7664c74a803-image.png" />
+
+<br />
+
+The scheduling interface includes a special **Unassigned Shift** section showing hours, total cost, and a **spots indicator** (e.g., “3 of 5 spots claimed”). This helps track how many employees can still claim each open shift.
+
+***
+
+## Add New Unassigned Shifts
+
+1. **Open** the scheduler, then **click** **“Add new”**.
+   > Refer to **“Manage the schedule”** if you need help accessing the scheduler.
+
+2. **Select** **“New shift.”**
+
+3. **Enter** general shift information:
+   * **Shift Title\*:** The name employees see.
+   * **Color\*:** Defaults to the role’s color but can be changed.
+   * **Role:** Associates with a predefined role/color.
+   * **Date\*:** Select a specific time using the calendar.
+   * **Skills/Certifications/Location/Description/Notes/File attachment** (optional): Add clarifications or references.
+   * **Assignments:** Leave users **unassigned** so they can claim these spots.
+   * **Number of spots:** Set how many users can claim this shift.
+   * **Tasks/Forms/Scans:** Link existing tasks, forms, or scan points.
+
+4. **Click** **Publish** to make it visible in the schedule.
+
+> **Note:** As employees claim the shift, the spots indicator updates. If admin approval is required, see below for details on approving claims.
+
+***
+
+## How to Approve Claimed Shifts (If Admin Approval is Required)
+
+If you configure your schedule to require **admin approval** before employees can fully claim a shift:
+
+1. **Open** the scheduler and **click** **“Requests.”**
+2. A window shows all requests, including **Claim shift** types.
+3. **Review** the user, shift details, and request date.
+4. **Use** the decision buttons:
+   * **Accept:** The user is officially assigned, and the claimed spot is deducted.
+   * **Reject:** The user’s claim is denied; they get a rejection notification.
+   * **Pending:** Keeps the request unresolved until you decide.
+
+> **Note:** You can set up or change approval requirements in **“Edit Request Settings”** within the schedule’s Mobile Settings.
+
+***
+
+By utilizing **Unassigned Shifts**, you can let your team self-select shifts based on availability and interest, while retaining administrative oversight and final approval when necessary.
+
+***
+
 By following these guidelines, you can manage each **Shift**—from drafts to final publishing, from setting up tasks and forms to verifying user assignments. Each shift remains the core building block of the schedule, allowing employees to know precisely when and where they’re needed.
