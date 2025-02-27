@@ -241,32 +241,40 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/30607d48f3d30554f1cb85e2a50d0105f8ffa1184b1a36d72162e7664c74a803-image.png" />
 
-<br />
-
 The scheduling interface includes a special **Unassigned Shift** section showing hours, total cost, and a **spots indicator** (e.g., “3 of 5 spots claimed”). This helps track how many employees can still claim each open shift.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/36aaf0ea84f05f7f1efe8fd0e8e18e9c60532c4f7c3e6b83dd4a45364abcd72d-image.png" />
 
 ***
 
 ## Add New Unassigned Shifts
 
 1. **Open** the scheduler, then **click** **“Add new”**.
-   > Refer to **“Manage the schedule”** if you need help accessing the scheduler.
 
 2. **Select** **“New shift.”**
 
-3. **Enter** general shift information:
-   * **Shift Title\*:** The name employees see.
-   * **Color\*:** Defaults to the role’s color but can be changed.
-   * **Role:** Associates with a predefined role/color.
-   * **Date\*:** Select a specific time using the calendar.
-   * **Skills/Certifications/Location/Description/Notes/File attachment** (optional): Add clarifications or references.
-   * **Assignments:** Leave users **unassigned** so they can claim these spots.
-   * **Number of spots:** Set how many users can claim this shift.
-   * **Tasks/Forms/Scans:** Link existing tasks, forms, or scan points.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4463cc5ef7e8330459c7cac0dbc930faed152aed8d705d7af06721dc27f48690-image.png" />
 
-4. **Click** **Publish** to make it visible in the schedule.
+3. **Enter** general shift information:
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/c5c124ddddd9a988021ae984d8001ae28a7ae15f4950631e2e7231a8e99b95a1-image.png" />
+
+* **Shift Title\*:** The name employees see.
+* **Color\*:** Defaults to the role’s color but can be changed.
+* **Role:** Associates with a predefined role/color.
+* **Date\*:** Select a specific time using the calendar.
+* **Skills/Certifications/Location/Description/Notes/File attachment** (optional): Add clarifications or references.
+* **Assignments:** Leave users **unassigned** so they can claim these spots.
+* **Number of spots:** Set how many users can claim this shift.
+* **Tasks/Forms/Scans:** Link existing tasks, forms, or scan points.
+
+3. **Click** **Publish** to make it visible in the schedule.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/1db02f19e7094f581b460f95d0ead6652b5010bb4b3765745ebced2df0cf23a2-image.png" />
 
 > **Note:** As employees claim the shift, the spots indicator updates. If admin approval is required, see below for details on approving claims.
+>
+> <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/36aaf0ea84f05f7f1efe8fd0e8e18e9c60532c4f7c3e6b83dd4a45364abcd72d-image.png" />
 
 ***
 
@@ -276,17 +284,19 @@ If you configure your schedule to require **admin approval** before employees ca
 
 1. **Open** the scheduler and **click** **“Requests.”**
 2. A window shows all requests, including **Claim shift** types.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6fae5f6dfa37f45dd8cbd478e06c8edb9cc585750707dac660dba2abf79f24a-image.png" />
+
 3. **Review** the user, shift details, and request date.
 4. **Use** the decision buttons:
-   * **Accept:** The user is officially assigned, and the claimed spot is deducted.
-   * **Reject:** The user’s claim is denied; they get a rejection notification.
-   * **Pending:** Keeps the request unresolved until you decide.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/842c11bcd970524866505d179aeab16accc54099fff4346c07e9427bdde48508-image.png" />
+
+* **Accept:** The user is officially assigned and deducted the claimed spot.
+* **Reject:** The user’s claim is denied; they get a rejection notification.
+* **Pending:** Keeps the request unresolved until you decide.
 
 > **Note:** You can set up or change approval requirements in **“Edit Request Settings”** within the schedule’s Mobile Settings.
-
-***
-
-By utilizing **Unassigned Shifts**, you can let your team self-select shifts based on availability and interest, while retaining administrative oversight and final approval when necessary.
 
 ***
 
