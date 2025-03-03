@@ -29,7 +29,7 @@ metadata:
 
 The **Timesheet** feature in **mobohubb** monitors employee hours, including clock-ins, clock-outs, breaks, overtime, and pay.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/242cb51b42550aba352885c649b3161fe2efeadee91a73f6cbe2eb4d4fd2b7c9-3F05309C-314D-4252-9A4D-3A0DA47B63E2.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f3702f7355498f726391f00c10051b30811e962d1cc7855f1fff46de43fb974e-image.png" />
 
 Each record is generated whenever a user clocks in or out in the mobile app—regardless of scheduling. The web portal offers filtering, searching, exporting, and column adjustments, streamlining your capacity to oversee and audit employee time.
 
@@ -42,6 +42,10 @@ From the left-side menu, under the **Productivity** section, **select Timesheet*
 <Image align="center" className="border" border={true} src="https://files.readme.io/d20cd6d091ab4618b9fc9e53c32bf7f2cb9063793c713409aeea5d2891e2ddc9-E0CF5EEF-9A71-4811-8DDE-6C4EDEEFC509.png" />
 
 Make sure to **select a site** from the site selector:
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/ec5ab68428cd9b368713c2dfff674cb9f3687b81c086f1d9af22c3c67e32532a-image.png" />
+
+<br />
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/928b813bfbbc56f3f771ebf38cdd71e732e60dfcd738e844490bd97eeea631e2-668173C0-C3BC-4A2C-B710-5F43546A631E.png" />
 
@@ -57,7 +61,7 @@ Once inside, you’ll see:
 
 The tab bar lets you move between different sections:
 
-<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/2d0fe36e38835d066ff523ea49a72db60355b2705cd894381c0c98bf430901e7-69B80EEB-E53C-4AE0-8865-2020CB534EE1.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/b6689c8bf25c1a5851d2d6545b37da4c484e6aa8387cbb2804ea253506176c99-image.png" />
 
 **Timesheets**: Displays all data in chronological order, including pay rates, hours worked, breaks, and site names.\
 **Clock In/Clock Out**: Focuses on times recorded, leaving out pay information.
@@ -92,36 +96,22 @@ It may show:
 * A **checkbox** to select multiple rows.
 * **S/NO** for sequential indexing.
 * **User** for who logged the hours.
-* **Device Name** to identify hardware used.
+* **Device Name** to identify device used.
 * **Date** of the log.
-* **Pay Rate** as specified in the user’s profile.
+* **Pay Rate** as specified in the [roles configuration](https://mobohubb.readme.io/docs/roles#/add-roles).
 * **Pay Out** calculated from the rate and hours worked.
 * **Worked Time** minus unpaid breaks.
 * **Break Time** distinguishing paid and unpaid breaks.
 * **Audit Log** offering visibility into modifications.
-* **Site Name** indicating the location or project name.
+* **Site Name** indicating the site name.
 
-Click or hover over colored fields to view or edit data.
-
-***
-
-## Clock In/Clock Out Tab
-
-Whereas the Timesheets tab includes pay details, the **Clock In/Clock Out** tab centers on attendance:
-
-It typically contains the user’s name, device, site name, date, worked time, and total break duration. Selecting an entry might reveal additional data like selfies taken at clock in/out, notes, location validations, or a map view of the coordinates at clock in/out.
+**Click** or **hover** over colored fields to view or edit data.
 
 ***
 
-## Payroll by User and Payroll by Site
+## Payroll by Site
 
-These tabs extend time records into direct cost data.
-
-* **Payroll by User**: Organizes pay information per employee, showing hours worked, assigned hourly rates, and final pay within a chosen date range.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2009ec405ada144588f5b86062c23fb87b5949202ad505199b10d73754ba6b01-image.png" />
-
-<br />
+This tab extends time records into direct cost data.
 
 * **Payroll by Site**: Summarizes how much time was logged across an entire location, multiple users, and their pay rates. You can edit clock in/out times, hourly rates, and approval statuses, with any changes documented in the audit log.
 
@@ -163,9 +153,25 @@ This allows you to share or review timesheet data offline. If you’d rather see
 
 ## Editing Records and Using Audit Logs
 
-Certain fields are editable within Timesheet tabs, such as **worked time** or **break durations**. Changing these may affect computed pay.
+Certain fields are editable within Timesheet and Payroll by Site tabs, such as **worked time** or **break durations**. Changing these may affect computed pay.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/23872d3a5396f0726cc6d0f4f6370c22c09906b0848ab59d28e7a1a975fcd9a1-DB2604FD-6DDD-4571-83FF-3410F0F067B2.png" />
+
+### Changing Records
+
+From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/5ed09d9368ee7514729abc217559570ded1fb6d4aa3daa57b369a83bf0e37e20-image.png" />
+
+**Select** the record you want to edit. You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/78ed64e9660bcba77cf370bcffd145ac21d39cb3f6db060b6f4337b56a315e39-image.png" />
+
+**Modify** the fields as needed.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/67a9f19e94b0f5c123f1c9b9901b4741beb9b6e4de42717da2fcea3f23970423-image.png" />
+
+Press **Update** to save your changes.
 
 Toggle **“Audit log”** in the **“Columns”** menu to track edits:
 
