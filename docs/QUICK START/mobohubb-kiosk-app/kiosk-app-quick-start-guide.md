@@ -29,8 +29,14 @@ The **Kiosk** app in **mobohubb** is used to create a physical check-in station,
 
 Kiosk settings are **site-based**, so each site must be enabled separately:
 
-1. Go to **Site Administration** under **General Settings**.
+1. Go to **Site Administration** under **General Settings**, and select **Site Management**.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/234b2efc4b2d64dabf1ad620941ed2061d098cf9141679b606c54144e307feed-8C799BDC-0143-4BE5-A7C3-1DE1B81822AF.png" />
+
 2. Select the site to enable the Kiosk.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d0c819821d5ba0886fbf44f07aa7dc23422b3b929ed99639d7fb93932167ec4a-5EA6A014-730A-4BD9-86DE-1DFB7F0A2E83.png" />
+
 3. On the **Site Information** screen, locate the **“Kiosk”** section:
 
 <Image align="center" className="border" border={true} width="45% " src="https://files.readme.io/39411b3a1a1f63876b11890845d5ba6db82978792f8a593add35c6c8bba70a67-94C147D3-865A-4036-B251-D2453A36E882.png" />
