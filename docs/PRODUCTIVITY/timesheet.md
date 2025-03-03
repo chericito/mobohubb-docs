@@ -159,6 +159,8 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 ### Changing Records
 
+**Timesheets tab**
+
 From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/5ed09d9368ee7514729abc217559570ded1fb6d4aa3daa57b369a83bf0e37e20-image.png" />
@@ -172,6 +174,20 @@ From the **Timesheets** tab, you can easily modify the Worked time by clicking o
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/67a9f19e94b0f5c123f1c9b9901b4741beb9b6e4de42717da2fcea3f23970423-image.png" />
 
 Press **Update** to save your changes.
+
+**Payroll by Site**
+
+From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/061894ebfd0664c94900ecbb5c8d4f96993cc23a5e2a82545a553c3b09137d76-image.png" />
+
+You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
+
+<Image align="center" border={true} caption="Worked time" src="https://files.readme.io/cc1a42a7a834ec96aaba48887983d6fee256d236606dd5a254cb60c99f80bd71-image.png" width="60% " />
+
+<Image align="center" border={true} caption="Hourly Rate" src="https://files.readme.io/687bf24a41c0a6d4ebe52d65af68510f1bfafd9b7990b96628e34a09ade79adc-image.png" width="40% " />
+
+### Revising Audit Logs
 
 Toggle **“Audit log”** in the **“Columns”** menu to track edits:
 
