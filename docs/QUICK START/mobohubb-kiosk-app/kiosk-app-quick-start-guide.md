@@ -123,15 +123,16 @@ The **Kiosk** login is intended for **Site Managers**, **Organization Managers**
   </Tab>
 </Tabs>
 
-## Changing Sites
+# Changing Sites
 
-To exit the current site and switch to another:
+After configuring kiosk mode on your device, you may need to switch between sites quickly. mobohubb makes it easy to exit the current site and select a new one, ensuring seamless management across multiple work locations. This flexibility is especially useful when your organization operates in various sites or when shifts need to be managed differently.
 
-1. Enter **PIN 999999**.
-2. Confirm exit when prompted.
-3. Select a new site from the list.
+1. **Enter PIN 999999** on the kiosk to initiate the site exit process.
+2. **Confirm** the exit when prompted by the system.
+3. **Select** a new site from the displayed list.
+4. Employees can then continue to clock in, clock out, and manage breaks under the new site's configuration.
 
-Employees can continue to clock in/out under the newly selected site.
+By following these steps, you can easily switch between sites as your operational needs change.
 
 <img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" className="border" border={true} width="25%" />
 
