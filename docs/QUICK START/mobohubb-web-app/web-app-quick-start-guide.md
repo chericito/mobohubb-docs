@@ -1,7 +1,7 @@
 ---
 title: 'Web App: Quick Start Guide'
 excerpt: >-
-  Kickstart your **mobohubb** web app journey. Learn how to log in, select your
+  Kickstart your **mobohubb** Web App journey. Learn how to log in, select your
   site, navigate the interface, work with forms, and manage drafts, all from one
   convenient location.
 deprecated: false
@@ -27,17 +27,17 @@ You may have permissions for one site or multiple sites. If you can access vario
 
 After selecting your site, you’ll see the **Web App** overview:
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/9f0c73216c6ffc3aca035f32172faf8db345f0024fd6671147241180a369a75e-image.png" />
-
 * **Center**: Shows available forms plus a search bar to filter form names (if multiple forms are present).
 
-  <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/9f0c73216c6ffc3aca035f32172faf8db345f0024fd6671147241180a369a75e-image.png" />
 
 * **Left**: Click the **3 lines** to open the left panel. Here, you’ll find navigation for forms and drafts, user info, site selection (“Change Site”), and sign-out.
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/fef848c58d5d63ca9cf8f40222c068fba0c6606fd2efc4b55402e30d3009d25e-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5172f035b383d4e84b11021a723a178f72011abeb8c92fdff5294a405c699b9c-image.png" />
 
 * **Right**: A **Green button** showing your current site name. Click it to switch sites.
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/fef848c58d5d63ca9cf8f40222c068fba0c6606fd2efc4b55402e30d3009d25e-image.png" />
 
 ***
 
@@ -84,7 +84,7 @@ You can upload up to **1 audio clip**, **10 images**, and **1 video file**, plus
 
 # Drafts
 
-If you saved a draft instead of submitting, find it in the **3-dot menu** on the top-left of your screen:
+If you saved a draft instead of submitting, find it in the **menu** on the top-left of your screen:
 
 1. **Click** the **3 dots**. The left panel will appear.
 
@@ -104,5 +104,9 @@ If you saved a draft instead of submitting, find it in the **3-dot menu** on the
 * **Delete Draft**: Removes the draft entirely.
 * **Update Draft**: Saves your new changes.
 * **Submit**: Finalizes and sends the draft as a completed form.
+
+> 🚧 Media in Drafts
+>
+> The system will not save any media in the drafts.
 
 That’s it! You now know the basics of using **Forms** and **Drafts** in the **mobohubb** Web App.
