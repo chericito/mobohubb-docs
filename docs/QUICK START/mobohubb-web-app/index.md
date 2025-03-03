@@ -8,6 +8,11 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
+next:
+  pages:
+    - slug: web-app-quick-start-guide
+      title: 'Web App: Quick Start Guide'
+      type: basic
 ---
 The **mobohubb** Web App is your gateway to managing organizational tasks, submitting important forms, and staying connected with your team. Though initially focused on **forms** and **drafts**, the Web App will continue to evolve with additional features in the future.
 
