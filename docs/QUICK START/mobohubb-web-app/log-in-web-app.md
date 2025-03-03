@@ -1,9 +1,9 @@
 ---
 title: Log in Web App
 excerpt: >-
-  Understand how to log in to the **mobohubb** web application and recover your
-  password if needed. This guide covers the basic steps to access your account
-  and reset your credentials in just a few clicks.
+  Understand how to log in to the **mobohubb** Web App and recover your password
+  if needed. This guide covers the basic steps to access your account and reset
+  your credentials in just a few clicks.
 deprecated: false
 hidden: false
 metadata:
@@ -11,7 +11,7 @@ metadata:
 ---
 **In this guide you'll learn**
 
-* How to **sign in** to the **mobohubb** web application
+* How to **sign in** to the **mobohubb** Web App
 * How to **recover** your password if you forget it
 
 ***
