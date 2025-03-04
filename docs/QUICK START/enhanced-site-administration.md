@@ -6,7 +6,7 @@ excerpt: >-
   new sites if you have a legacy plan, and how subscription tiers affect the
   number of allowable sites.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
