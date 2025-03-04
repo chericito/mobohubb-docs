@@ -35,7 +35,7 @@ mobohubb is a platform to manage and support workers who do not have a fixed des
 
 mobohubb’s **Web Portal** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
 
-> [Learn how to log in](https://mobohubb.readme.io/update/docs/log-in-web-app#/)
+> [Learn how to log in](https://mobohubb.readme.io/docs/log-in-web-app#/)
 
 ### Mobile App
 
