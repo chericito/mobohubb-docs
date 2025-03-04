@@ -1,7 +1,7 @@
 ---
 title: New User Interface
 excerpt: >-
-  We have revamped Mobohubb’s graphical interface to make it more **modern**,
+  We have revamped mobohubb’s graphical interface to make it more **modern**,
   **intuitive**, and **customizable**. You’ll notice a refreshed color palette,
   reorganized layout, and new customization options to suit your preferences and
   needs.
@@ -14,6 +14,7 @@ metadata:
 
 > **Highlights**
 >
+> * **New Features** and current were ehnahced
 > * **Updated Color Palette** for a harmonious look
 > * **Reorganized Layout** for easier navigation
 > * **Customization Options** to modify design, organization, and color
@@ -43,7 +44,7 @@ metadata:
 
     The **Top Menu** displays:
 
-    * **Mobohubb News**: Alert messages and platform updates.
+    * **mobohubb News**: Alert messages and platform updates.
     * **User Dropdown**: Access your profile and log out of the portal.
     * **Subscription Alerts**: Notifies you when your subscription is due to expire.
   </Tab>
@@ -94,7 +95,7 @@ metadata:
 
 ## Customizable Views
 
-It is now possible to **modify views** in Mobohubb. You can change the displayed columns and hide any data you don’t need. Once customized, you can **save** and **retrieve** your [customizable views](https://mobohubb.zendesk.com/hc/en-us/articles/25663316351629-Customizable-views) later, avoiding repetitive setups. You can also apply **quick** or **advanced** filters to show only items meeting specific conditions.
+It is now possible to **modify views** in Mobohubb. You can change the displayed columns and hide any data you don’t need. Once customized, you can **save** and **retrieve** your [customizable views](https://mobohubb.readme.io/docs/customizable-views#/) later, avoiding repetitive setups. You can also apply **quick** or **advanced** filters to show only items meeting specific conditions.
 
 ## Automatic Pagination
 
@@ -102,4 +103,4 @@ We’ve replaced **traditional pagination** with **automatic pagination**. Simpl
 
 ***
 
-**Enjoy the new, improved Mobohubb interface!** If you have any questions or need assistance, please consult our help center or contact our support team.
+**Enjoy the new, improved Mobohubb interface!** If you have any questions or need assistance, please consult our help center or contact our [support team](https://mobohubb.zendesk.com/hc/en-us/requests/new).
