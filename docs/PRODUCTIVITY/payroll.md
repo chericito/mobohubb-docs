@@ -20,7 +20,7 @@ metadata:
 
 ***
 
-**Payroll** is a sub-feature of **Timesheet** moduel that provides a detailed view of each user’s shifts—clock ins, clock outs, hours worked, overtime, hourly rate, and daily pay. If you’ve assigned recurrent or one-day shifts, Payroll can compare **planned** vs. **worked** hours for valuable insight into scheduling and costs. You can **adjust** hours worked, hourly pay rates, and more, filtering shifts by date or other criteria to streamline your process.
+**Payroll** is a sub-feature of **Timesheet** module that provides a detailed view of each user’s shifts—clock ins, clock outs, hours worked, overtime, hourly rate, and daily pay. If you’ve assigned recurrent or one-day shifts, Payroll can compare **planned** vs. **worked** hours for valuable insight into scheduling and costs. You can **adjust** hours worked, hourly pay rates, and more, filtering shifts by date or other criteria to streamline your process.
 
 <Cards columns={3}>
   <Card title="Granular Shift Details" icon="fa-list">
