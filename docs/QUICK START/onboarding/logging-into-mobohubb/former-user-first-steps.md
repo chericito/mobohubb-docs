@@ -57,7 +57,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 <br />
 
-> **Note:** For more details on organization branding, see **Organization Branding**.
+> **Note:** For more details on organization branding, see **[Organization Branding](https://mobohubb.readme.io/docs/branding#/)**.
 
 ### Update Users
 
