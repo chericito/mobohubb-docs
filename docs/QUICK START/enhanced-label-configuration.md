@@ -13,9 +13,9 @@ next:
       title: Tags
       type: basic
 ---
-Tags are a very sophisticated aspect of the system and are used to segment data, help with searches, and apply specific actions and functionalities. They are applied when managing multiple customer sites under a single account and help our programmer send only the desired data.
+Tags segment data, help with searches, and apply specific actions and functionalities.
 
-The labels are now **color-coded**, which makes it much easier to differentiate and identify them quickly.
+Tags are now **color-coded**, which makes it much easier to differentiate and identify them quickly.
 
 <Image align="center" className="border" border={true} width="81% " src="https://files.readme.io/5e667db4f7cd3127d6534c19bbdb524a5f89f2ba1bc4627ce3a84e6d6ca1582f-image.png" />
 
@@ -25,7 +25,12 @@ To create a new tag, follow the steps below:
 
 1. **Go to General Settings.**
 2. **Navigate to the “Tags” section.**
+
    * In the **Configuration** area, click on **Tags** to view, add, edit, and delete tags.
+
+   <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/33f8d9c70c3ffd5481ac1a6791de3013482e6903109b4c83df9c9f589a08d829-image.png" />
+
+   <br />
 3. **Click on the “Add new” button.**
 4. **Choose a category** from our selection.
 5. **Fill in the text field** with the name of the tag.
