@@ -115,6 +115,6 @@ You’ll be redirected to the **“Security”** tab.
 
 <br />
 
-> **Note:** To add brand-new users, see the **Add New Users** section.
+> **Note:** To add new users, see the **Add New Users** section.
 
-**You’re all set!** Your organization is now configured, and your existing users can log in using any of the new authentication methods. If you have any questions, please visit our support resources or contact your Mobohubb representative.
+**You’re all set!** Your organization is now configured, and your existing users can log in using any of the new authentication methods. If you have any questions, please visit our support resources or [contact support](https://mobohubb.zendesk.com/hc/en-us/requests/new).
