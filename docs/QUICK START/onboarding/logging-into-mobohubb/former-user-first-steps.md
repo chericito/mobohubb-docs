@@ -2,10 +2,9 @@
 title: 'Existing Users: Quick Start Guide'
 excerpt: >-
   Welcome to the **new mobohubb experience**. This guide will help you
-  transition from the classic portal to the updated beta version. You’ll learn
-  how to log in with your current credentials, customize your branding, and
-  update user data so your team can take advantage of the improved login
-  methods.
+  transition from the classic portal to the updated version. You’ll learn how to
+  log in with your current credentials, customize your branding, and update user
+  data so your team can take advantage of the improved login methods.
 deprecated: false
 hidden: false
 metadata:
