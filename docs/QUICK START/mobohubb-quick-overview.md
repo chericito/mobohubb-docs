@@ -73,7 +73,7 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
 
 <Tabs>
   <Tab title="Mobile & UI Terms">
-    * **App mobile**\
+    * **Mobile App**\
       A software application developed specifically for smartphones or tablets.
 
     * **Dashboard**\
@@ -90,9 +90,6 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
 
     * **Scroll bar**\
       A horizontal or vertical bar that appears when you need to scroll through on-screen content.
-
-    * **User interface/UI**\
-      The bridge between users and computers, encompassing screens, sounds, and overall interactive design.
   </Tab>
 
   <Tab title="Security & Access Terms">
