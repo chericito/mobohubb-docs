@@ -59,11 +59,11 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 ### Update Users
 
-In the previous system, users confirmed their identity with a **domain and pin**. Now, **Mobohubb** offers **three** login options for the mobile app:
+In the previous system, users accessed the app with a **domain and pin**. Now, **Mobohubb** offers **three** login options for the mobile app:
 
 1. **SMS verification code**: Receives a code via text.
 2. **Email verification code**: Receives a code via email.
-3. **Username & password**: Credentials created for each user.
+3. **Email & password**: Credentials created for each user.
 
 <Image align="center" width="30% " src="https://files.readme.io/3233dadce55ad04b608bede6e17984a67ed03fa0c6118b4e9dbc53b3ebbfa4c5-image.png" />
 
@@ -91,7 +91,9 @@ In the previous system, users confirmed their identity with a **domain and pin**
 * **To allow email code login**: Update the **email address**.
 * **To allow username & password login**: Update the **email address** and then **reset the password**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f893e74b2bfa267e2bcfe0bda53e8bb561c13e077a5cb71d16144c952e9d3463-image.png" />
+<Image align="center" border={true} caption="Update the email in the **Profile** tab." src="https://files.readme.io/f893e74b2bfa267e2bcfe0bda53e8bb561c13e077a5cb71d16144c952e9d3463-image.png" width="80% " />
+
+<Image align="center" border={true} caption="Update the password in the **Settings** tab." src="https://files.readme.io/38d44469ded6b6cb7e4f38c15259e46efa35bee643f8169dbc4e8a9e6ce5351a-image.png" width="80% " />
 
 <br />
 
