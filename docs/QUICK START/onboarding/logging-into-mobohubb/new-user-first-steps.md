@@ -346,8 +346,10 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    >
    > ![Invite by Email or SMS](https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png)
 6. The user will receive an email or SMS with a link to confirm registration.
-7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
-   ![Save User](https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png)
+7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
+
+<Image align="center" className="border" border={true} width="78% " src="https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png" />
+
 8. **Repeat** these steps for each additional user.
 
 > Some organizations have employees at multiple sites. Assigning unique roles at each site helps segment and manage permissions securely.
