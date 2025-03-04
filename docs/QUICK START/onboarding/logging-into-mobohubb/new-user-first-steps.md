@@ -369,7 +369,13 @@ mobohubb offers several [security groups](https://mobohubb.readme.io/docs/securi
 
 ## Organizational Structure
 
-“Organizational structure” defines how tasks and responsibilities are assigned within your company. Mobohubb lets you easily manage roles, onboard staff quickly, and segment data across multiple sites.
+"Organizational structure" in mobohubb refers to the hierarchical (or tree) arrangement of your company’s sites. This structure is designed purely for grouping and visibility, allowing you to organize sites in a way that reflects your company’s operational divisions. It facilitates the easy management of roles, rapid onboarding of staff, and clear segmentation of data across multiple sites.
+
+You can configure your Organization Structure from **Settings** > **Sites Administration** > **Org Structure Management.**
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/dcd7fa83e319518dcf867dda3246be4f01189527fbdef70023ac66e13066b5f3-image.png" />
+
+<br />
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a3b0385ca01d963d2cb78f5af758d5abfd92db8980e46940e4eb75a984416848-image.png" />
 
