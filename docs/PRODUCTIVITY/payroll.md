@@ -60,26 +60,6 @@ Two Payroll tabs are available:
 
 ***
 
-## Payroll by User
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bdfc43e5934ed9bf4f82863d5126edeac084848a9d884c9442dcf2fd5d5c626e-140D8F4C-ED67-45CE-940B-B7788A19D73A.png" />
-
-**Payroll by User** provides a general overview of all your users’ payroll data. Use filters to select specific users and dates:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9133572c0b7d348df05f6c07c229c849e3bc70ff89785ab2e264c182ceb1cb66-image.png" />
-
-You can choose a pre-set or custom **date range**:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4a6af803a389d751d25a00d757f6254cdd5538531e89c8849f838797a5daa17c-826E0D5D-31FA-439C-AB4E-4FE715892B53.png" />
-
-Press **“Apply”** to filter or **“Clear All”** to reset. At least a date range is needed to generate a report.
-
-### Export (Payroll by User)
-
-Click **“Export”** at the top of the report, then **“Export data”** to download an Excel file reflecting your current filter setup. For a different export, adjust your filters accordingly.
-
-***
-
 ## Payroll by Site
 
 **Payroll by Site** offers a more granular, shift-by-shift breakdown for each user:
@@ -88,9 +68,21 @@ Click **“Export”** at the top of the report, then **“Export data”** to d
 
 Filter by date range, schedule name, username, and approval status. At least a **date range** is required to see any data. You can also **show/hide** columns using the **“Columns”** button above the report.
 
+### Filters (Payroll by Site)
+
+You can filter this view using **Quick Filters**.
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/151a834b3a572dd05a90a70c2bff5f6b040fba70d6023ae5034fb6295a3615a0-image.png" />
+
+You can also use **Advanced Filters**.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/070c70813f07584d2d6658bea22f48ea4bca1f0b0ffd70dda49e04de4659f8b4-image.png" />
+
 ### Modifications (Payroll by Site)
 
 You can edit **Clock In/Out**, **Hourly Rate**, and **Approval Status**:
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/2f2d9dc421ae481243c9d8cefd41dafe63bcaada8d53bd35c206bf4a9e7ea99f-image.png" />
 
 * **Clock In/Clock Out** changes recalculate **hours worked** and daily pay.
 * **Hourly Rate** changes directly affect the **daily pay**.
