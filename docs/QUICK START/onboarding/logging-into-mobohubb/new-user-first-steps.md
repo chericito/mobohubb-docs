@@ -187,7 +187,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * For the initial setup, you may skip this unless you’ve created tags (via the Tags Section).
 
 5. **Assign users**
-   * Select the individuals or groups who will perform this task.
+   * Select the individuals or groups who will perform this task. If left blank, the task will be available for all site users.
 
 6. **Task description**
 
@@ -200,19 +200,12 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <br />
    > **Note**: If using a Report task, make sure the form already exists so you can select it from the dropdown.
 
-8. **Add meta data** *(Optional)*
-   * This extra info appears to the user. Provide a **meta name** and **meta value** for each entry.
-
-9. **Activate GPS** *(Optional)*
+8. **Activate GPS** *(Optional)*
 
    * **Turn** tasks into **Geo tasks** by enabling GPS. **This requires a completed site.**
    * Once GPS is active, the “Task description” field changes to “Address” so you can define coordinates.
 
-10. **Show the task as active**
-
-* Check the box to enable the task in the system.
-
-11. **Save**
+9. **Save**
 
 * **Click** **"Save"** at the bottom of the form to finalize.
 
@@ -224,7 +217,9 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 # Create Forms and Checklists
 
-**Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. This ensures tasks are completed correctly, reducing errors or omissions. **Find a complete guide to create and manage tasks in our[dedicated guide](https://mobohubb.readme.io/docs/forms#/).**
+**Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. **Find a complete guide to create and manage tasks in our[dedicated guide](https://mobohubb.readme.io/docs/forms#/).**
+
+**Form Information**
 
 1. **Add** a new form
 
@@ -232,13 +227,12 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/d1ec2a6093d2811fa652442a324f453bbafe8199e49acb5cc7bf3449f70669b2-image.png" />
+   <Image align="center" className="border" border={true} src="https://files.readme.io/2561f39e4270e68a3be1c5737c7e2efc8faaa67c58151b673c7aecdf192f60e5-image.png" />
 
    <br />
 
 2. **Create** a prefix
    * **Assign** a short code to identify your form (letters, numbers, or symbols).
-   <br />
 
 3. **Name** the form
    * Provide a clear, concise title that describes its purpose.
@@ -247,76 +241,79 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * For initial setup, you can skip this if you haven’t defined tags yet.
 
 5. **Select** the users
-   * Assign individuals or groups who can access and fill out the form.\
-     ![](https://files.readme.io/d0d16ceb9cd35133dd09bd3e7584bb8f144113aa7aa6c38a092a8b8bce756a83-image.png)
+   * Assign individuals or groups who can access and fill out the form.
 
 6. **Choose** the form’s visibility
    * Pick **Web App**, **Mobile App**, or both.
 
-7. **Check** the activation box
-   * This enables or disables your form.
+7. **Use** the “Next” button to go to “Form Fields”
 
-8. **Use** the “Next” button to go to “Form Fields”
-   * Saves your changes and moves you to the **Form Fields** tab.\
-     ![](https://files.readme.io/034bc3670a188ac54fed9b1a35173c2512f08eabea07c531e6be90adc0b39d8c-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/71ddf2c01c090ef0ebab8059b107d0a984d25b584c97bd1f42298b395b30cfc0-image.png" />
 
-9. **Add** new fields
-   * By default, there is only one field. Click **“Add new”** at the top to include more.\
-     ![](https://files.readme.io/bb78af8eb1c92a6d2b773bc76a3e1b8ee0a52267552196f04415a77c381a258b-image.png)
+**Form Fields**
 
-10. **Configure** the type of field
+1. **Add** new fields
 
-* In the configuration area on the right, choose a field type (e.g., text, number, date, time, select, checkbox, radio, signature, scan).\
-  ![](https://files.readme.io/7b49443f26357577a8c1c9d7b1d914db1864fe84e4984d7929193ee995b24f6b-image.png)
+   * By default, there is only one field. Click **“Add new”** at the top to include more.
 
-11. **Configure** the name of the field
+   <br />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/e0ed25751b8f81ba9ee70275f461865186aafe6d61d58dc53aa65bf69673f21d-image.png" />
+
+2. **Configure** the type of field
+
+* In the configuration area on the right, choose a field type (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b2695ba2aa43006c4ececdc8245c75c7ea897e5091246ec9c5e554f1476da24-image.png" />
+
+3. **Configure** the name of the field
 
 * Enter a clear, concise label visible to users.
 
-12. **Configure** the mandatory setting
+4. **Configure** the mandatory setting
 
 * Decide if users **must** fill it out (required) or can skip it (optional).
 
-13. **Configure** conditional fields *(optional)*
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/af7a19c11a620ccaabb00b5527425e956c8fc256b85baaec2559a1d4e881938f-image.png" />
 
-* For fields like **Select** or **Radio**, you can activate a “conditional” option. This lets you show additional fields based on the user’s selection.\
-  ![](https://files.readme.io/e442dc5c8545997e8d1d5628a85278b9bc74aab6596efa7a836e0775026d9334-image.png)
+5. **Configure** conditional fields *(optional)*
 
-14. **Use** the “Next” button to go to “Advanced Options”
+* For fields like **Select** or **Radio**, you can activate a “conditional” option. This lets you show additional fields based on the user’s selection.
 
-* Saves your changes and moves you to the **Advanced Options** tab.\
-  ![](https://files.readme.io/ab4c6ca092cbedededee9a4fba8c4ef988fcde83aa9e258480b532b01f2ab917-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d61f9a50ea2071647dfa56b0cef1fbfa5c814af7141d390b1f10f945f8659eeb-image.png" />
 
-15. **Activate** or **deactivate** GPS coordinate
+5. **Use** the “Next” button to go to “Advanced Options”
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/109d925e8f4fdc865448bed9d2da23effab5fba450e6a13578dd1611542b08c0-image.png" />
+
+6. **Activate** or **deactivate** GPS coordinate
 
 * Decide if the form will record user latitude and longitude.
 
-16. **Set** a site map *(optional)*
-
-* Upload an image to appear at the top of your form, serving as a reference.\
-  ![](https://files.readme.io/96309833276472fbcadc7ba641af4d0537e55817dc153140486ccc282b12950e-image.png)
-
-17. **Allow** user access to media options
+7. **Set** a site map *(optional)*
+8. **Allow** user access to media options
 
 * Decide if users can add photos, audio, video, attachments, or scans.
 
-18. **Set aside** which media are mandatory
+8. **Set aside** which media are mandatory
 
 * Choose if photos, audio, or video must be included or can be skipped.
 
-19. **Allow** camera and gallery or camera only
+9. **Allow** camera and gallery or camera only
 
 * If **camera & gallery** is chosen, users can take new media or select existing files.
 
-20. **Activate** immediate notification of form execution *(optional)*
+10. **Activate** immediate notification of form execution *(optional)*
 
-* Send an email upon form submission. Specify recipients, subject, body, format (PDF, HTML, Excel), and attachment name.\
-  ![](https://files.readme.io/147c94910e0f277e48923f49f244fb1d7486d5b415842d3dcdaf865b417b383b-image.png)
+* Send an email to the upon form submission. Set this email in the "Report to" field. Specify recipients, subject, body, format (PDF, HTML, Excel), and attachment name.
 
-21. **Save** and **activate** the preview
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c778da90560c337f8827935833b94383d4a4f38f17e8792b724a2e4d5b1229c-image.png" />
 
-* See how your form looks before finalizing.\
-  ![](https://files.readme.io/6695dcd718768e586c48809ff4b7402f6bbab5ebec3db0aeb35d5745aaade291-image.png)
+<br />
+
+11. **Save** and **Preview**.
+
+<Image align="center" className="border" border={true} width="78% " src="https://files.readme.io/1696c351c46e8f8d03c684f5ada7de562277624dc8fe8068dc23af1c1294ca6f-image.png" />
 
 > **Note:** After creating your forms or checklists, mark the **fourth step** complete so the setup indicator shows **4/5**.
 
