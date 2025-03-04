@@ -5,7 +5,7 @@ excerpt: >-
   classic portal. We’ll show you how to log in, update your organization’s
   branding, and ensure your users are set up with new, flexible login methods.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
