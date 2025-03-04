@@ -14,12 +14,6 @@ metadata:
 
 ***
 
-<br />
-
-<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=d51188f9-d695-49f2-b62c-a556782e7498&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="853" height="480" frameborder="0" scrolling="no" allowfullscreen title="Log in existing users- Mobohubb.mp4" />
-
-<br />
-
 # Log in the Web App
 
 1. Navigate to [app.mobohubb.com](https://app.mobohubb.com/).
