@@ -68,6 +68,33 @@ Two Payroll tabs are available:
 
 Filter by date range, schedule name, username, and approval status. At least a **date range** is required to see any data. You can also **show/hide** columns using the **“Columns”** button above the report.
 
+* **Checkbox Selection:** Enables you to select one or more records for bulk actions.
+* **S.NO.:** A sequential number that uniquely identifies each record.
+* **Site Name:** The name of the site where the shift took place.
+* **Schedule Name:** The title of the schedule under which the shift is organized.
+* **Shift Title:** The specific name assigned to the shift, indicating its purpose.
+* **User Name:** The name or identifier of the employee assigned to the shift.
+* **Start Date:** The date on which the shift is scheduled to begin.
+* **Shift Start Time:** The planned start time for the shift.
+* **Shift End Time:** The planned end time for the shift.
+* **Clock In:** The actual time when the employee started the shift.
+* **Clock Out:** The actual time when the employee finished the shift.
+* **Breaks:** The total time taken for breaks during the shift.
+* **Paid Break:** The duration of breaks that are compensated.
+* **Unpaid Break:** The duration of breaks that are not compensated.
+* **Planned Regular Hours:** The expected regular working hours for the shift.
+* **Planned Overtime Hours:** The expected overtime hours planned for the shift.
+* **Regular Actuals:** The actual regular working hours logged.
+* **Overtime Actuals:** The actual overtime hours logged.
+* **Planned Hours:** The total expected hours (regular plus overtime).
+* **Actuals:** The total hours actually worked by the employee.
+* **Difference:** The variance between the planned hours and the actual hours worked.
+* **Hourly Rate:** The pay rate per hour assigned to the shift.
+* **Daily Pay:** The computed total pay for the shift based on the hours worked and hourly rate.
+* **Audit Log:** A record showing any modifications made to the shift data, including who made the change and when.
+* **Approval Status:** Indicates whether the shift’s pay has been approved, rejected, or remains pending.
+* **Comments:** Additional notes or remarks regarding the shift for further clarification.
+
 ### Filters (Payroll by Site)
 
 You can filter this view using **Quick Filters**.
