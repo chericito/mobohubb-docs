@@ -47,4 +47,4 @@ To create a new tag, follow the steps below:
 
 9. **Click the “Save” button** to save your changes.
 
-For more information, visit our **[dedicated page on Tags](https://mobohubb.readme.io/update/docs/tags#/)**.
+For more information, visit our **[dedicated page on Tags](https://mobohubb.readme.io/docs/tags#/)**.
