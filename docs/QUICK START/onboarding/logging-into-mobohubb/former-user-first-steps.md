@@ -16,11 +16,10 @@ metadata:
 * How to log in using your **classic mobohubb credentials**
 * How to update your **organization’s branding** in the new portal
 * How to update user data (phone number/email) to enable **SMS, email code,** or **username & password** logins
-* How to complete the **two-step setup** and confirm the configuration indicator shows **2/2**
 
 ## Log In
 
-1. **Go** to the [mobohubb Portal](https://beta.mobohubb.com)
+1. **Go** to the [mobohubb Portal](app.mobohubb.com)
 
 2. **Enter** your **username or email** and **password** (the same information you use on the classic mobohubb portal).
 
