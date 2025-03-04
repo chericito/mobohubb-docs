@@ -10,7 +10,7 @@ metadata:
 ---
 **In this guide you'll discover**
 
-* How to check your subscription and log in as an administrator
+* How to log in the Portal Web
 
 ***
 
