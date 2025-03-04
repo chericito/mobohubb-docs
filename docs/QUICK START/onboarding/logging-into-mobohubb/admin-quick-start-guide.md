@@ -36,7 +36,7 @@ When you log in, a **two-step walkthrough** will guide you through key configura
 
 ## Log in to the Portal (Admin Users)
 
-1. Go to the **Mobohubb Portal** at [https://beta.mobohubb.com](https://beta.mobohubb.com).
+1. Go to the **Mobohubb Portal** at [app.mobohubb.com](https://beta.mobohubb.com).
 2. Enter the **username/email and password** you used in the classic portal.
 3. Click **“Sign in.”**
 4. Once logged in, a **two-step walkthrough** will appear.
@@ -80,7 +80,7 @@ You can customize the new portal’s look and feel. The branding data from the c
 
 ## Step 2: Enable User Login Methods
 
-In the **Users** section, you’ll find all the users who were active in the classic portal. Each user can choose their preferred login method for the **Mobohubb mobile app** (Android/iOS). To facilitate each login method, you must **update the corresponding user information**—email address, phone number, or password.
+In the **Users** section, you’ll find all the users who were active in the classic portal. Each user can choose their preferred login method for the **mobohubb Mobile App** (Android/iOS). To facilitate each login method, you must **update the corresponding user information**—email address, phone number, or password.
 
 ### Allow Users to Log In with Username & Password
 
@@ -163,8 +163,8 @@ To enable **email verification** codes, ensure each user’s **email address** i
 
 ## Complete Your Setup
 
-After updating **Branding (1/2)** and **Users (2/2)**, your new Mobohubb environment is **ready to go**. Check the final step to confirm the configuration indicator shows **2/2**.
+After updating **Branding (1/2)** and **Users (2/2)**, your new mobohubb environment is **ready to go**. Check the final step to confirm the configuration indicator shows **2/2**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fc48f7c62c5e90e902a09cb16582888739f61b7ee0b59c490075d549976a1104-image.png" />
 
-You and your team can now log in and start exploring all the latest features and improvements of the new Mobohubb platform!
+You and your team can now log in and start exploring all the latest features and improvements of the new mobohubb platform!
