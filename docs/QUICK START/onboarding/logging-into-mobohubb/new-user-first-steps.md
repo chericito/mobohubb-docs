@@ -262,13 +262,13 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 2. **Configure** the type of field
 
-* In the configuration area on the right, choose a field type (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
+* In the configuration area on the right, choose a [field type](https://mobohubb.readme.io/docs/forms#/forms-field-descriptions) (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b2695ba2aa43006c4ececdc8245c75c7ea897e5091246ec9c5e554f1476da24-image.png" />
 
 3. **Configure** the name of the field
 
-* Enter a clear, concise label visible to users.
+* Enter a clear, concise name visible to users.
 
 4. **Configure** the mandatory setting
 
@@ -302,6 +302,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 9. **Allow** camera and gallery or camera only
 
 * If **camera & gallery** is chosen, users can take new media or select existing files.
+* If **camera only** is chosen, users will only be able to take new media.
 
 10. **Activate** immediate notification of form execution *(optional)*
 
@@ -327,27 +328,31 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 **Inviting users** is the final step in setting up your Mobohubb environment. By assigning roles and permissions, you can segment access across different sites and maintain an organized structure.
 
-1. **Go** to the Users section and **click** the **“New User”** button.\
-   ![New User Button](https://files.readme.io/4aca6cf483c1b8825ef1059d1db069c18a0c304d4df77e5eb742c14f4757ebf0-image.png)
+1. **Go** to the Users section and **click** the **“New User”** button.
 
-2. **Enter** the data of the new user and **fill in** the first name and last name fields.\
-   ![Enter User Data](https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png)
+<Image align="center" className="border" border={true} width="86% " src="https://files.readme.io/4aca6cf483c1b8825ef1059d1db069c18a0c304d4df77e5eb742c14f4757ebf0-image.png" />
 
-3. **Fill** in the phone number and email address fields.
+2. **Enter** the data of the new user and **fill in** the first name and last name fields.
+
+![Enter User Data](https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png)
+
+1.
+
+2. **Fill** in the phone number and email address fields.
    > **Note:** The user’s email address will be the username.
 
-4. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
+3. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
 
-5. **Choose** between invite by SMS or by email by checking the box.
+4. **Choose** between invite by SMS or by email by checking the box.
    > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.\
    > ![Invite by Email or SMS](https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png)
 
-6. The user will receive an email or SMS with a link to confirm registration.
+5. The user will receive an email or SMS with a link to confirm registration.
 
-7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
+6. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
    ![Save User](https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png)
 
-8. **Repeat** these steps for each additional user.
+7. **Repeat** these steps for each additional user.
 
 > Some organizations have employees at multiple sites. Assigning unique roles at each site helps segment and manage permissions securely.
 
