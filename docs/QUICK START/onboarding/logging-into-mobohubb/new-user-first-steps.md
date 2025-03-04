@@ -336,23 +336,19 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png" />
 
-<br />
+3. **Fill** in the phone number and email address fields.
 
-1. **Fill** in the phone number and email address fields.
-   > **Note:** The user’s email address will be the username.
+> **Note:** The user’s email address will be the username.
 
-2. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
-
-3. **Choose** between invite by SMS or by email by checking the box.
-   > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.\
+4. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
+5. **Choose** between invite by SMS or by email by checking the box.
+   > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.
+   >
    > ![Invite by Email or SMS](https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png)
-
-4. The user will receive an email or SMS with a link to confirm registration.
-
-5. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
+6. The user will receive an email or SMS with a link to confirm registration.
+7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.\
    ![Save User](https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png)
-
-6. **Repeat** these steps for each additional user.
+8. **Repeat** these steps for each additional user.
 
 > Some organizations have employees at multiple sites. Assigning unique roles at each site helps segment and manage permissions securely.
 
