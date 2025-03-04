@@ -12,23 +12,6 @@ metadata:
   robots: index
 ---
 <Cards columns={2}>
-  <Card title="SOS/Panic Button" icon="fa-exclamation-triangle">
-    Allows users to send an **emergency alert** to supervisors or colleagues when in risky situations.\
-    Pressing the button sends the user’s **location** and initiates a notification to the assigned contact.
-  </Card>
-
-  <Card title="Timesheet Image" icon="fa-clock">
-    Enables users to **clock in and out** using a built-in time clock. Records user location, schedules breaks, and tracks hours, all stored in Mobohubb’s **time sheet** for portal review.
-  </Card>
-
-  <Card title="Break Management" icon="fa-coffee">
-    Lets users rest or disconnect during work through **three** break options—inactive, manual, or automatic—based on organizational policies.
-  </Card>
-
-  <Card title="Stay Logged In" icon="fa-lock">
-    Offers a security tab option to keep users **logged in** for convenience, while maintaining necessary data protection protocols.
-  </Card>
-
   <Card title="Landing Screen Configuration" icon="fa-home">
     Customize the **footer menu** buttons and **default landing screen** for each site, optimizing user navigation in the mobile app.
   </Card>
@@ -40,6 +23,18 @@ metadata:
     * **Chat**: One-on-one communication
     * **Knowledge Base**: Guidelines and standards
     * **App Info**: Application details
+  </Card>
+
+  <Card title="Timesheet Config" icon="fa-clock">
+    Enables users to **clock in and out** using a built-in time clock. Records user location, schedules breaks, and tracks hours, all stored in mobohubb’s **time sheet** for portal review.
+  </Card>
+
+  <Card title="Break Management" icon="fa-coffee">
+    Lets users rest or disconnect during work through **three** break options—inactive, manual, or automatic—based on organizational policies.
+  </Card>
+
+  <Card title="Security Configuration" icon="fa-lock">
+    Offers a security tab option to keep users **logged in** for convenience while maintaining necessary data protection protocols.
   </Card>
 </Cards>
 
