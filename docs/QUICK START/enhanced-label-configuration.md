@@ -28,17 +28,23 @@ To create a new tag, follow the steps below:
 
    * In the **Configuration** area, click on **Tags** to view, add, edit, and delete tags.
 
+   <br />
+
    <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/33f8d9c70c3ffd5481ac1a6791de3013482e6903109b4c83df9c9f589a08d829-image.png" />
 
    <br />
 3. **Click on the “Add new” button.**
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c3468a6a49938b009c09a47679d47d0d2e8e0995941aeb459d982b676e3703b3-image.png" />
+
 4. **Choose a category** from our selection.
 5. **Fill in the text field** with the name of the tag.
 6. **Choose a color** from our color selection.
 7. **Check the “Activate” box.**
 8. **Optional:** Fill in additional details such as **city, state, zip code, and address.**
-9. **Click the “Save” button** to save your changes.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2cbbf096a71c82d09ebd2e6502d1fdf994cc24a9ea858ee946694fe48c2619e5-image.png" />
+
+9. **Click the “Save” button** to save your changes.
 
 For more information, visit our **[dedicated page on Tags](https://mobohubb.readme.io/update/docs/tags#/)**.
