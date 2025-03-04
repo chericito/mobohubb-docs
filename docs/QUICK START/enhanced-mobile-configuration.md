@@ -1,7 +1,7 @@
 ---
 title: Enhanced Mobile Configuration
 excerpt: >-
-  Configure the Mobohubb mobile app with enhanced features such as the SOS/Panic
+  Configure the mobohubb mobile app with enhanced features such as the SOS/Panic
   button, timesheet tracking, break management, persistent login, and customized
   landing screens. Modify the mobile side menu and enable key functionalities
   like My Activity, Chat, Knowledge Base, and App Info to optimize user
@@ -48,18 +48,19 @@ metadata:
    * In the top menu, click **Settings** for various configuration options.
    * You can also use the side menu to reach **General Settings**.
 
-3. **Select “Site Management”** under the **“Site Administration”** section.\
-   ![](https://files.readme.io/d8cea4f1dbe79bed97679c7a5508b24f9948822665b7a2ccc8f22902ef22b391-image.png)
+3. **Select “Site Management”** under the **“Site Administration”** section.
+
+![](https://files.readme.io/d8cea4f1dbe79bed97679c7a5508b24f9948822665b7a2ccc8f22902ef22b391-image.png)
 
 4. **Identify the Site** you wish to modify.
 
-   * Click on the **site name** to access its configuration.
+* Click on the **site name** to access its configuration.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1048279e4d13ec101e3d5ef6e4774bcaa31ceec936c3313127d4eff4eee8e2a9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1048279e4d13ec101e3d5ef6e4774bcaa31ceec936c3313127d4eff4eee8e2a9-image.png" />
 
-   <br />
+<br />
 
-5. **Go to the “Mobile Configurations” Tab**
+1. **Go to the “Mobile Configurations” Tab**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/02497c886ec52aaac856c406e4066a2540633eec62394be151eeaa426216499f-image.png" />
 
