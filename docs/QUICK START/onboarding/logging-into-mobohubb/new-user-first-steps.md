@@ -134,7 +134,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 4. **Time Interval**
 
-   * **Specify** how often you want users to scan this code (e.g., “01:00” = once per hour). This is required for Time Studies, see more.
+   * **Specify** how often you want users to scan this code (e.g., “01:00” = once per hour). This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
 
 5. **Associate Tag** (Optional)
    * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](https://mobohubb.readme.io/docs/tags#/).
@@ -164,6 +164,8 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    * **Click** the **“Add new”** button.
 
+   <br />
+
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/27e6769eae122d8ceb81f02b095fb596e385544995e5440e31a4133835452da3-image.png" />
 
    <br />
@@ -172,7 +174,9 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    * **Give** the task a descriptive name.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/546b3c32557f52dd1d7162f66323f66e2ffc038376be77f2e951f888c0692213-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dacc3e33612f8c35534993ce6d7ed5774f0538225d56e2a9bd2bc6f13f532284-image.png" />
 
    <br />
 
@@ -193,6 +197,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * **Scan**: Requires scanning a QR code or NFC tag.
    * **Report**: Links to an existing form (created beforehand) to gather data.
    * **Manual**: Appears as a simple checkbox in the app.
+   <br />
    > **Note**: If using a Report task, make sure the form already exists so you can select it from the dropdown.
 
 8. **Add meta data** *(Optional)*
@@ -201,11 +206,6 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 9. **Activate GPS** *(Optional)*
 
    * **Turn** tasks into **Geo tasks** by enabling GPS. **This requires a completed site.**
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7ed4b001c295d193d66479bd2cd9d0c97e6f3d43509a1d4f99892a601c37ece4-image.png" />
-
-   <br />
-
    * Once GPS is active, the “Task description” field changes to “Address” so you can define coordinates.
 
 10. **Show the task as active**
@@ -227,12 +227,18 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 **Forms** and **checklists** help collect and track information. A form is a digital document that gathers data in a structured way, while a checklist is a detailed sequence of tasks or items to check off. This ensures tasks are completed correctly, reducing errors or omissions. **Find a complete guide to create and manage tasks in our[dedicated guide](https://mobohubb.readme.io/docs/forms#/).**
 
 1. **Add** a new form
-   * **Click** the **“Add new”** button on the right side of the interface.\
-     ![](https://files.readme.io/d1ec2a6093d2811fa652442a324f453bbafe8199e49acb5cc7bf3449f70669b2-image.png)
+
+   * **Click** the **“Add new”** button on the right side of the interface.
+
+   <br />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/d1ec2a6093d2811fa652442a324f453bbafe8199e49acb5cc7bf3449f70669b2-image.png" />
+
+   <br />
 
 2. **Create** a prefix
-   * **Assign** a short code to identify your form (letters, numbers, or symbols).\
-     ![](https://files.readme.io/e99d031f44b5cc253c8aa58d3edbb491ef6a3b71ce217f8f2c6f5cea27634f28-image.png)
+   * **Assign** a short code to identify your form (letters, numbers, or symbols).
+   <br />
 
 3. **Name** the form
    * Provide a clear, concise title that describes its purpose.
