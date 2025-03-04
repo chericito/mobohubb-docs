@@ -28,13 +28,9 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8d4b847ddf6d7f104768632308bc16bd311a25e95045bb4cab9047f3ffedcdfd-image.png" />
 
-> **Note:** If this is not your first time logging in, the password may have been changed by the organization’s administrator.
-
-4. **Create a new password if prompted**: At your first login, you’ll be asked to change your password. It must have at least 6 characters.
+4. **Create a new password if prompted**: At your first login, you **may** be asked to change your password. It must have at least 6 characters.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b71fc921e921f540295ba781b2d61e539c826d9b35b589472166d987c78ad501-image.png" />
-
-> **Note:** Additional security protocols (e.g., MFA) may be enabled. For more information, visit [Multi-factor Authentication](https://mobohubb.readme.io/docs/multi-factor-authentication-mfa#/).
 
 5. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
