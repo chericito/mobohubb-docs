@@ -35,7 +35,7 @@ Below is an overview of available field types for forms. Each field type defines
 | **Hyperlink**    | Displays text that links to another web page or resource.                                           |
 | **Password**     | Masks user input for secure entry.                                                                  |
 | **Personnel**    | Shows a person’s name or role.                                                                      |
-| **Radius**       | A single-choice field (commonly known as “radio button”).                                           |
+| **Radio**        | A single-choice field (commonly known as “radio button”).                                           |
 | **Read-only**    | Displays text that cannot be edited by the user.                                                    |
 | **Scan**         | Allows the user to scan a QR code or NFC tag.                                                       |
 | **Select**       | Lets the user pick an option from a drop-down list.                                                 |
