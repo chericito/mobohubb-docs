@@ -50,7 +50,7 @@ metadata:
 
 3. **Select “Site Management”** under the **“Site Administration”** section.
 
-![](https://files.readme.io/d8cea4f1dbe79bed97679c7a5508b24f9948822665b7a2ccc8f22902ef22b391-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d8cea4f1dbe79bed97679c7a5508b24f9948822665b7a2ccc8f22902ef22b391-image.png" />
 
 4. **Identify the Site** you wish to modify.
 
