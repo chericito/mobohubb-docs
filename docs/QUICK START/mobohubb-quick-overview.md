@@ -72,7 +72,7 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
 This glossary provides quick definitions for commonly used mobohubb terms, ensuring you have the context needed to effectively navigate and utilize our platform.
 
 <Tabs>
-  <Tab title="Mobile & UI Terms">
+  <Tab title="Mobile & UI">
     * **Mobile App**\
       A software application developed specifically for smartphones or tablets.
     * **Dashboard**\
@@ -87,7 +87,7 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
       A horizontal or vertical bar that appears when you need to scroll through on-screen content.
   </Tab>
 
-  <Tab title="Security & Access Terms">
+  <Tab title="Security & Access">
     * **Log in/login**\
       The process of connecting to and starting use of a system or web platform.
     * **One-time password (OTP)**\
@@ -96,7 +96,7 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
       The action of logging out of an application.
   </Tab>
 
-  <Tab title="Portal & Application Terms">
+  <Tab title="Portal & Application">
     * **mobohubb Portal (Portal)**\
       The primary administrative interface for managing mobohubb settings and configurations.
     * **mobohubb Web App (Web App)**\
@@ -111,7 +111,7 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
       A generated document summarizing key data and metrics.
   </Tab>
 
-  <Tab title="Organization & Settings Terms">
+  <Tab title="Organization & Settings">
     * **Organization**\
       The overall entity or company using mobohubb, capable of managing multiple sites.
     * **Security Group**\
@@ -130,7 +130,7 @@ This glossary provides quick definitions for commonly used mobohubb terms, ensur
       The visual and design elements that represent an organization, including logos, colors, and themes.
   </Tab>
 
-  <Tab title="Support & Documentation Terms">
+  <Tab title="Support & Documentation">
     * **Knowledge Base**\
       A centralized repository for guidelines, policies, and documentation.
     * **Support ticket**\
