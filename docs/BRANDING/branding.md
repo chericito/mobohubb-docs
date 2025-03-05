@@ -27,26 +27,32 @@ To edit or update your branding, follow these steps:
 
 2. **Go to "General Settings"**
 
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/3562f14b6ebf3fa09d564e584f71203f8d1fcdfcebb33a6972d79bf16abe889f-image.png" />
+
 In the top menu, click on **Settings**. This is where various configuration options for your organization are available. You may also use the side menu to reach General Settings.
 
 3. **Navigate** to the **"Branding"** option in the Branding section.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/45dbccb4757b5a57086c410efa5f4ec2764095f8c2a219d21f83001c4474db90-image.png" />
+
 4. **Update your branding:**
 
-   * **Description:** Enter a brief text introducing the organization or site, explaining its purpose, value, or characteristics.
-   * **Logo app mobile:** Set the graphic symbol that represents the site or organization in the mobile app.
-   * **Icon:** Choose the graphic element that identifies a function, action, or category.
-   * **Main logo:** Update the primary graphic symbol for the organization on the web portal.
-   * **Date format:** Specify how dates are displayed (e.g., dd-mm-yyyy, yyyy-mm-dd, mm-dd-yyyy).
-   * **Time format:** Select the format for time display (12h or 24h).
-   * **Theme color:** Choose the main color that predominates in the branding interface.
-   * **Time zone:** Set the time zone used to display time information relative to the user’s location.
-5. **Click** the **"Save"** button to apply your changes.
+* **Description:** Enter a brief text introducing the organization or site, explaining its purpose, value, or characteristics.
+* **Logo app mobile:** Set the graphic symbol representing the site or organization in the mobile app.
+* **Icon:** Choose the graphic element that identifies a function, action, or category.
+* **Main logo:** Update the primary graphic symbol for the organization on the web portal.
+* **Date format:** Specify how dates are displayed (e.g., dd-mm-yyyy, yyyy-mm-dd, mm-dd-yyyy).
+* **Time format:** Select the format for time display (12h or 24h).
+* **Theme color:** Choose the main color that predominates in the branding interface.
+* **Time zone:** Set the time zone to display time information relative to the user’s location.
+
+3. **Click** the **"Save"** button to apply your changes.
 
 ***
 
 # Site Administration
 
-Each organization can have multiple sites. This process initiates the creation and development of a brand for each site or project managed from the platform, using the “Site Branding,” “Branding,” and “Mobile Configuration” tabs. It covers aspects related to creating and developing the brand, design, and style of the website.
+Each organization can have multiple sites. This process initiates the creation and development of a brand for each site in your organization, using the “Site Information,” “Branding,” and “Mobile Configuration” tabs. It covers aspects related to creating and developing the brand, design, and style of the website.
 
 The ability to create new sites depends on your subscription type:
 
@@ -63,7 +69,9 @@ By default, each site inherits the main organization's branding. However, you ha
 
 1. **Navigate** to the portal’s top menu.
 
-2. **Go to "General Settings".**
+2. **Go to "General Settings"**
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/3562f14b6ebf3fa09d564e584f71203f8d1fcdfcebb33a6972d79bf16abe889f-image.png" />
 
 In the top menu, click on **Settings** to access various configuration options for your organization. You may also use the side menu to reach General Settings.
 
@@ -74,13 +82,18 @@ In the top menu, click on **Settings** to access various configuration options f
 4. You will see a list of all the sites available in your organization. **Select** the site you wish to modify.
 5. In the site details, you can update the **Site Name**, **Site Type**, **Address**, and other related details.
 
-   ![](https://files.readme.io/5ef7074b2f1a97b6eb462c9621460158f9ce3efbfd6c303a39bec3f130761b70-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/5ef7074b2f1a97b6eb462c9621460158f9ce3efbfd6c303a39bec3f130761b70-image.png" />
 6. **Navigate** to the **Branding** option.
 
 By default, the "Inherit Settings" option is activated (applying the organization's branding to the site). To customize the site's branding, **deactivate** this option.
 
-![](https://files.readme.io/2541d5af0de2a82d0c7b329e0ec3ed636b95bb74e52a5e464a02be997be5e606-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/2541d5af0de2a82d0c7b329e0ec3ed636b95bb74e52a5e464a02be997be5e606-image.png" />
 
 7. Now, you can customize the site's branding by adding specific portal, web, and mobile logos and icons, modifying date and time formats, and changing the color theme.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/95093b77199b56083db3367755637c80ca6e8be8ba7b8425c9063764f6722c64-image.png" />
+
+<br />
+
 8. Optionally, check the **"New User Experience"**  to leverage the new reports format for each site, or leave it unchecked for the classic experience..
 9. **Press "Save"** to save your changes.
