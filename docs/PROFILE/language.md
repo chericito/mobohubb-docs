@@ -23,8 +23,12 @@ You can switch the portal’s language between **Spanish** and **English** to me
 
 1. **Go** to the portal’s top menu.
 2. **Find** and **click** on the **“Profile”** section.
-   * This is where you manage your personal information.
-3. **Click** the **“Edit”** button.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b6ccac6e51c7d3208f3c2686556c431acd205f9348c146837571cde60edfcb49-image.png" />
+
+* This is where you visualize your personal information.
+
+1. **Click** the **“Edit”** button.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/53ded067863e525d75729845298889ceaf563a54785f915c9185e178fa5618c1-image.png" />
 
