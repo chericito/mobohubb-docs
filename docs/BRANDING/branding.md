@@ -93,7 +93,4 @@ By default, the "Inherit Settings" option is activated (applying the organizatio
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/95093b77199b56083db3367755637c80ca6e8be8ba7b8425c9063764f6722c64-image.png" />
 
-<br />
-
-8. Optionally, check the **"New User Experience"**  to leverage the new reports format for each site, or leave it unchecked for the classic experience..
-9. **Press "Save"** to save your changes.
+8. **Press "Save"** to save your changes.
