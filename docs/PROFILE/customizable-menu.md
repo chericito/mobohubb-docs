@@ -1,7 +1,7 @@
 ---
 title: Customizable Menu
 excerpt: >-
-  Learn how to fully customize and manage Mobohubb’s left-hand sidebar
+  Learn how to fully customize and manage mobohubb’s left-hand sidebar
   menu—create and edit sections, add tools or custom links, organize favorites,
   and reset or collapse the menu to streamline your workflow.
 deprecated: false
@@ -11,8 +11,8 @@ metadata:
 ---
 **In this guide you'll learn**
 
-* **How to Edit or Create Sections** and rearrange them
-* **How to Add, Remove, or Configure Tools** (including icons and colors)
+* **How to Edit Sections** and rearrange them
+* **How to Add, Remove, or Configure** icons and colors
 * **How to Use Favorites** for quick access to frequently used features
 * **How to Reset the Menu** to default if needed
 * **How to Collapse the Entire Menu** or individual sections to save screen space
@@ -22,7 +22,7 @@ metadata:
 <Accordion title="Overview & Notes">
   **Key Points**
 
-  * **Drag & Drop**: Reorder tools or entire sections by clicking and dragging them to a new position.
+  * **Drag & Drop**: Reorder options or entire sections by clicking and dragging them to a new position.
   * **Custom Items**: Add your own links using the “custom” feature, which redirects users to any URL.
   * **Save**: Always click **“Save changes”** at the bottom of the menu settings when done.
 </Accordion>
@@ -61,7 +61,7 @@ metadata:
 
 **Add Options**
 
-* **Feature**: Choose a Mobohubb tool or **Custom** URL.
+* **Feature**: Choose a mobohubb tool or **Custom** URL.
 
 * **Icon** and **Color**: Select from the available icon set and color palette.
 
@@ -131,7 +131,7 @@ After customizing sections and tools, **click “Save changes”** at the bottom
 
 ## Final Result
 
-Once saved, your left-hand menu reflects the **new arrangement**, section names, tools, and **Favorites**. You can quickly jump to **frequently used items** from the Favorites area or any section you created.
+Once saved, your left-hand menu reflects the **new arrangement**, section names, tools, and **Favorites**.
 
 ***
 
