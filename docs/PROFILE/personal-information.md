@@ -25,5 +25,5 @@ You can update your personal information in the portal, modifying your **email**
 1. **Go** to the portal’s top menu.
 2. **Find** and **click** on the **“Profile”** section.
    * This is where you visualize your personal information.
-3. **Click** the **“Edit”** button.
+3. **Click** the **“Edit”** button to change the language.
 4. **Edit** your personal information and **click** **“Save”** to confirm the changes.
