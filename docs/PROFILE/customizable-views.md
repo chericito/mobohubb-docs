@@ -23,59 +23,48 @@ metadata:
 1. **Open** a feature
    * In the **side menu**, **select** a feature to modify (e.g., **“Tasks”**).
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/c79a617ab021b8c6e0dc41efafb61dd97f30746eb15d26ca649eca87a25c6891-image.png" />
+
 2. **Locate** the columns option
 
-   * Below the **header block**, a menu will appear.
-   * **Click** on **“Columns”.**
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/59762b29ce56d251e39657c90d111183f8fe25a51edd2a9505cb733eb007833b-image.png" />
+* Below the **header block**, a menu will appear.
+* **Click** on **“Columns”.**
 
 3. **Choose** which columns to display
 
-   * **Check** the boxes for columns you want visible.
-   * Some columns are **essential** and cannot be hidden.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e3e48e3c2c6aa99a855a88ec85d07c24503529ac095da05821941c39141d8a53-image.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f05fc8d314868ce78b9fc5e3e06b3839bc7c42915e3725d3aeee283006f54d4e-image.png" />
+* **Check** the boxes for columns you want visible.
+* Some columns are **essential** and cannot be hidden.
 
-4. **Validate** how your view looks
+4. **Validate** how your view looks.
+5. **Click** **“Save View”.**
 
-   * Preview the layout to confirm the changes.
-   * **Click** **“Update View”.**
+* A form will open if you’re **creating** a brand-new view.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/09a1f874a23226488a83d6fa634224c051b923a944f70569460ac6ca4eec7173-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/39a192d3453147cbe1caed4db97364adc77e49e2e717c898b8edf007c5535c7c-image.png" />
 
-5. **Save** the new view
+* **Give** the view a **name**.
+* **Choose** an **icon** and **color** to represent it.
 
-   * A form will open if you’re **creating** a brand-new view.
-   * **Give** the view a **name**.
-   * **Choose** an **icon** and **color** to represent it.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7b0a616ca6f63f77bb14fcf44c9a13295804e334b52535e9d6a3f11df8716db7-image.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0c62fe776e8fa3c5f55a5e3144f5852f9eb43f5abd7f24d7144dd2ebe17fcde8-image.png" />
+<br />
 
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4637e44ceb56a7ff8edcef8a80746a396903b14e6b6c9e02a07652b6b6723db8-image.png" />
-
-   <br />
-
-   <Image align="center" width="80% " src="https://files.readme.io/935b17c2a5052174bc18932dea915b244866e1561d253acff90fefa0c300490d-image.png" />
-
-   <br />
-
-   > **Note:** If you **update** a view you’ve already built, this form won’t appear—the view updates automatically.
+> **Note:** If you **update** a view you’ve already built, this form won’t appear—the view updates automatically.
 
 6. **Confirm** and **finish**
 
-   * **Click** **“Save”.**
-   * The new view is **automatically** added under your **“Favorites”** tab.
+* **Click** **“Save”.**
+* The new view is **automatically** added under your **“Favorites”** tab.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6160b908ea8e33983a38ae5ab82960b3ecee5cf4b48e25f140e49c8260216b48-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9482ae2fc72fa9d9fe66ef1b65c30099073a432fb9bfd17faea24b7dadd1e21b-image.png" />
 
 7. **Optionally edit** the menu
 
-   * **Modify** the view’s **position**, **section**, or **name** if desired.
+* **Modify** the view’s **position**, **section**, or **name** if desired.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a97ba9a6ce6719ecc37ecc2cac8e3bf8dee2d9965b91637061055cb67193068b-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a97ba9a6ce6719ecc37ecc2cac8e3bf8dee2d9965b91637061055cb67193068b-image.png" />
 
 ***
 
