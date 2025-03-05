@@ -20,9 +20,7 @@ metadata:
 
 You can recover your **mobohubb** portal password via the **“Sign in”** section by clicking **“Forgot Password?”**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/970b76455cb70bb14720a9aeafd44c793179dc638c045f4e4d7e109ba2330577-image.png" />
-
-![](NV119%20\(2\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/06e5d5e499ed48ff937947ed9b2690c8e467722d6eae51b80ace93b75daca6b5-image.png" />
 
 After clicking **“Forgot Password?”**, provide the **email** address registered with **mobohubb**. Make sure you can access this email account to receive your verification code.
 
