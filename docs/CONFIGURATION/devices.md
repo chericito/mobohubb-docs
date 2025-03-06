@@ -39,7 +39,7 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 5. **Edit** the relevant data.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/d2fcee7da2660bfaed197d0a957af0db3dacecf08a48612eb8350e5eadaf1bb7-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/963ce7573454dbe27a17453615e5b2f41684c6c03e2f3ee6b5f20a3153182dd9-image.png" />
 
 * You can modify the **phone number**, **email**, **device type**, **device brand**, **tags**, and **description**.
 * **Cannot Edit**: device name or ID, as these link directly to the physical device upon login.
@@ -51,35 +51,21 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 ## **Delete Devices**
 
-1. **Navigate** to the portal’s top menu.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
-
-2. **Go** to **“General Settings”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
-
-![](NV94%20\(1\).png)
-
-3. **Select “Devices”.**
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
-
 ![](Devices%20\(12\).png)
 
-4. **Check** the devices to remove.
+1. **Check** the devices to remove.
 
 * You can select multiple devices.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5801623b1bf6007ea92ec36bf6efd46f68d03c6c713910749de50df8a7efe540-image.png" />
 
-5. **Click “Delete”.**
+2. **Click “Delete”.**
 
 * All checked devices will be discarded.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/07369850fd734f26acef8306f4692429536120caeaeaa62da3f2d6ee28392a3f-image.png" />
 
-6. **Confirm** your action.
+3. **Confirm** your action.
 
 * Verify the number of devices to remove, then click **Delete**.
 
@@ -89,22 +75,11 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 ## **Export Devices**
 
-1. **Navigate** to the portal’s top menu.
+1. From the **Devices** menu, **click** on "**Export**".
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0a76337cf699f924d20ca9e3212936638e557258a224802aaca5a26c15e8fe83-image.png" />
 
-2. **Go** to **“General Settings”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
-
-3. **Select “Devices”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
-
-4. **Click “Export”.**
-5. **Export** the Excel file.
-
-* Choose **all information** or **current window** only.
+2. Choose **all information** or **current window** only.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a99a65d70620bedfc5ae4ad404d30f7a18292fc042e8f244197cbb22d1c9e601-image.png" />
 
