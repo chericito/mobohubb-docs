@@ -262,7 +262,7 @@ Exporting scan points to an **Excel file** can help you manage data offline or s
 
 2. **Export** the Excel file. Choose **all data** or only the **current view**.
 
-![](https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png" />
 
 > **Note:**
 >
@@ -273,37 +273,30 @@ Exporting scan points to an **Excel file** can help you manage data offline or s
 
 If you have **multiple scan points** to add at once, you can **import** them from an Excel template. Follow these steps to speed up your setup process:
 
-1. **Navigate** to the portal’s top menu\
-   ![](https://files.readme.io/4e2351313c7f65fe1ec581a71960647331269fbb5dcde4658ef022d34af6b7d4-image.png)
+1. **Click** the **“Import”** button.
 
-2. **Go** to **“General Settings.”**
-   * Click **Settings** in the top menu (or find **General Settings** in the side menu).\
-     ![](https://files.readme.io/043f796be5211222567c80076d6bbd00d2bfa76fd9b1cf26209ff10f8b4fd835-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d4b945de4e1f651cadedb44bea1dc18d4c390da1b5382d429b79b23785150710-image.png" />
 
-3. **Select “Scan-Points Management.”**
-   * Within **Configuration**, click **Scan-Points Management**.\
-     ![](https://files.readme.io/cfd078718dbbd9cc4b974ed31447caf778fc154f8dfeda7a8568fbb9e05d0d9d-image.png)
+2. **Upload the File**
 
-4. **Click “Import.”**\
-   ![](https://files.readme.io/d4b945de4e1f651cadedb44bea1dc18d4c390da1b5382d429b79b23785150710-image.png)
+* If you have a **prepared spreadsheet**, upload it directly.
+* If not, **download the template** to fill in your scan point data. (Each row represents one scan point.)
 
-5. **Upload the File**
+<Image align="center" border={true} caption="Download Template" src="https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png" width="80% " />
 
-   * If you have a **prepared spreadsheet**, upload it directly.
-   * If not, **download the template** to fill in your scan point data. (Each row represents one scan point.)\
-     ![](https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png)
+<Image align="center" border={true} caption="Template" src="https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png" width="80% " />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png" />
+* **Upload** the completed file in the form.
 
-   * **Upload** the completed file in the form.\
-     ![](https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png)
+![](https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png)
 
-   * **Click** **“Save.”**\
-     ![](https://files.readme.io/13be90ab5ed34de92216ec521b6a60bfe1b71b8afad4fdba6f304361fdeb9a43-image.png)
+*
 
-6. **Wait** for the import
+* **Click** **“Save.”**\
+  ![](https://files.readme.io/13be90ab5ed34de92216ec521b6a60bfe1b71b8afad4fdba6f304361fdeb9a43-image.png)
+
+2. **Wait** for the import
    * Depending on the **size** of your data, the import may take some time.\
      ![](https://files.readme.io/277cf2d0926efe09b5ed2924f47fa1b0722e9aa1958158dbed4e2a77b2354510-image.png)
-
-7. **Confirm** new scan points
+3. **Confirm** new scan points
    * Once complete, the **new scan points** will appear in your **Scan-Points Management** list.
