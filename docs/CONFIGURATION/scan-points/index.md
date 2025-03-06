@@ -221,7 +221,7 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 * **Task/Form Association**: Choose whether to link the scan point to an existing **task** or **form** (must be **active**).
 * **Active Box**: If checked, makes the scan point visible to users.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
 
 4. **Save and Close**.
 
