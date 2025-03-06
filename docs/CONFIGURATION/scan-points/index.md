@@ -87,28 +87,26 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 6. **Choose a Time Interval**
 
-* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.
-
-<br />
+* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is used for [Time Studies](https://mobohubb.zendesk.com/hc/en-us/articles/25750186845325-Time-studies).
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png" />
 
 7. **Associate a Predefined Tag** *(Optional)*
 
-* If you’ve created tags beforehand, select one in the dropdown.
+* If you’ve created [tags](https://mobohubb.readme.io/update/docs/tags#/) beforehand, select one in the dropdown.
 * **Tags** help segment data and simplify searches.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png" />
 
 8. **Link to a Task or Form** *(Optional)*
 
-* To associate this QR code with an **existing** task or form, select it from the dropdown menu.
+* To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
 * Tasks/forms must be **active** to appear here.
 * If you do not wish to associate anything, simply proceed to step 11.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png" />
 
-11. **Mark as Active**
+11. **Mark as Active** (active by default)
 
 * Check the box to make this scan point visible to other users.
 * If unchecked, it remains hidden but can be activated later.
