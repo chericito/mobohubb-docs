@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Mobohubb provides a central repository where users can upload and access all relevant **documents**, **policies**, and **articles**. The Knowledge Base is divided into **folders** (for organization) and **articles** (for specific content). You can add, edit, or remove these items as needed if you have the right permissions.
+**mobohubb** provides a central repository where users can upload and access all relevant **documents**, **policies**, and **articles**. The Knowledge Base is divided into **folders** (for organization) and **articles** (for specific content). You can add, edit, or remove these items as needed if you have the right permissions.
 
 ***
 
@@ -77,7 +77,7 @@ Before adding an article, you must have at least one folder.
 <Image align="center" width="80% " src="https://files.readme.io/1be0548a7e7c207e0c414c08ec9011028f93d21e801ceff3137b4494ffb00b7b-image.png" />
 
 * **Name** the article
-* **Body** text (using the built-in style editor)
+* **Body** text (using the built-in rich text editor)
 * **Images** can be inserted into the article
 * **PDF files** (up to 25MB) can be uploaded for download using the "Select File" button.
 
