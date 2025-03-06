@@ -40,40 +40,59 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 <br />
 
-1. **Go to “General Settings”**
-   * In the top menu, click **Settings** (or use the **side menu** to find the **General Settings** option).
-   ![](https://files.readme.io/5d5d2925ad1d70a55100292938684e9c22a423d62a9049dd327324f456705e8e-image.png)
+2. **Go to “General Settings”**
 
-2. **Select “Scan-Points Management”**
-   * Within **Configuration**, click on **Scan-Points Management**.\
-     ![](https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png)
+* In the top menu, click **Settings** (or use the **side menu** to find the **General Settings** option).
 
-3. **Click “Add New”**\
-   ![](https://files.readme.io/342fddd36289e74c1519f50a65489c3e9b6ec371a178536c7916693422efa24e-image.png)
+<br />
 
-4. **Fill in the QR Code ID**
-   * Use a unique, sequential identifier (e.g., `Location001`, `Location016`). This ID will help you organize and differentiate scan points.
-   * Refer to **[How to create a QR code](#)** for details on generating the actual QR image.\
-     ![](https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5d5d2925ad1d70a55100292938684e9c22a423d62a9049dd327324f456705e8e-image.png" />
 
-5. **Add a Name**
-   * Provide a clear name (e.g., “Security Camera Room”) to quickly locate the scan point.\
-     ![](https://files.readme.io/f1af3e37760526881563cb81233fe42143ca2afd7af19ddc2d1254d30f61015f-image.png)
+<br />
 
-6. **Add a Description**
-   * Include room numbers, distinctive features, or exact locations to help users find it easily.\
-     ![](https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png)
+1. **Select “Scan-Points Management”**
 
-7. **Choose a Time Interval**
+   * Within **Configuration**, click on **Scan-Points**.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
+
+   <br />
+
+2. **Click “Add New”**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/342fddd36289e74c1519f50a65489c3e9b6ec371a178536c7916693422efa24e-image.png" />
+
+<br />
+
+3. **Fill in the QR Code ID**
+
+* Use a unique, sequential identifier (e.g., `Location001`, `Location016`). This ID will help you organize and differentiate scan points.
+* Refer to **[How to create a QR code](#)** for details on generating the actual QR image.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png" />
+
+4. **Add a Name**
+
+Provide a clear name (e.g., “Security Camera Room”) to quickly locate the scan point.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f1af3e37760526881563cb81233fe42143ca2afd7af19ddc2d1254d30f61015f-image.png" />
+
+5. **Add a Description**
+
+* Include room numbers, distinctive features, or exact locations to help users find it easily.
+
+![](https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png)
+
+4. **Choose a Time Interval**
    * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.\
      ![](https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png)
-
-8. **Associate a Predefined Tag** *(Optional)*
+5. **Associate a Predefined Tag** *(Optional)*
    * If you’ve created tags beforehand, select one in the dropdown.
    * **Tags** help segment data and simplify searches.\
      ![](https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png)
-
-9. **Link to a Task or Form** *(Optional)*
+6. **Link to a Task or Form** *(Optional)*
 
 * To associate this QR code with an **existing** task or form, select it from the dropdown menu.
 * Tasks/forms must be **active** to appear here.
