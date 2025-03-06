@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Mobohubb provides a central repository where users can upload and access all relevant **documents**, **policies**, and **articles**. The Knowledge Base is divided into **folders** (for organization) and **articles** (for specific content). You can add, edit, or remove these items as needed.
+Mobohubb provides a central repository where users can upload and access all relevant **documents**, **policies**, and **articles**. The Knowledge Base is divided into **folders** (for organization) and **articles** (for specific content). You can add, edit, or remove these items as needed if you have the right permissions.
 
 ***
 
