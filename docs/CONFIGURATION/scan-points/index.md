@@ -221,31 +221,36 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
 ## Delete Scan Points
 
-Follow these steps to **remove** existing scan points (QR codes or NFC tags):
+1. **Check** the scan point(s) you wish to remove
 
-1. **Navigate** to the portal’s top menu\
-   ![](https://files.readme.io/3fe63e789b6cc5dd80d82911c9abb6c77fac93f41ad980c17b8983565a8edd88-image.png)
+   * You can select **multiple** scan points at once.
 
-2. **Go** to **“General Settings.”**
-   * In the top menu, click **Settings** (or use the side menu to access **General Settings**).\
-     ![](https://files.readme.io/238d3df470d68c7c3696f26d2d9ae8693cd067196121674486c0fc7e5a3870dc-image.png)
+   <br />
 
-3. **Select “Scan-Points Management.”**
-   * Within **Configuration**, click **Scan-Points Management**.\
-     ![](https://files.readme.io/f7e6d66e609b16c2ad19ce377d5481a64e300d7b12e536304e4ca923e5face9c-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c99688a7db9130eb1604dd327872a6f3a18c543c80325b1b9a5dccbb3d36ddc3-image.png" />
 
-4. **Check** the scan point(s) you wish to remove
-   * You can select **multiple** scan points at once.\
-     ![](https://files.readme.io/c99688a7db9130eb1604dd327872a6f3a18c543c80325b1b9a5dccbb3d36ddc3-image.png)
+   <br />
 
-5. **Click “Delete.”**
-   * All selected scan points will be discarded.\
-     ![](https://files.readme.io/6d35f9516e10060fa9ac261d6a93ad572cf77db888b2df7f26827eced3da36d7-image.png)
+2. **Click “Delete.”**
 
-6. **Confirm** and **close**
+   * All selected scan points will be discarded.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6d35f9516e10060fa9ac261d6a93ad572cf77db888b2df7f26827eced3da36d7-image.png" />
+
+   <br />
+
+3. **Confirm** and **close**
+
    * Verify the count of selected scan points matches what you intend to remove.
-   * Click **Delete** to finalize.\
-     ![](https://files.readme.io/8779cf3ff836c906c74b4254df7a7c3ace4e39c8217467dd26d1f68f6370a19a-image.png)
+   * Click **Delete** to finalize.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8779cf3ff836c906c74b4254df7a7c3ace4e39c8217467dd26d1f68f6370a19a-image.png" />
+
+   <br />
 
 ## Export Scan Points
 
