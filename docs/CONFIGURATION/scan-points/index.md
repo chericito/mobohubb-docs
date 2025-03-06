@@ -145,8 +145,14 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
    <br />
 4. **Add a Description**
-   * Include any relevant details such as room number or distinctive features.\
-     ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
+
+   * Include any relevant details such as room number or distinctive features.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png" />
+
+   <br />
 5. **Choose a Time Interval**
 
 * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
