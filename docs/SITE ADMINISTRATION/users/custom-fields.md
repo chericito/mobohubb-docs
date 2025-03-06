@@ -5,7 +5,7 @@ excerpt: >-
   user-specific data to profiles, enabling a more personalized information
   management system.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
