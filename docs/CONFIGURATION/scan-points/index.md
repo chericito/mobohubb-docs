@@ -195,26 +195,29 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
 1. **Check** the box next to the scan point you wish to modify.
 
-* Only **one** scan point can be edited at a time.\
-  ![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
+* Only **one** scan point can be edited at a time.
 
-1. **Click “Edit.”**\
-   ![](https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png" />
 
-2. **Modify the Current Data**
+<br />
 
-   * **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC).
-   * **Name**: A quick identifier to help locate it.
-   * **Description**: Extra details (location, room number, distinctive features).
-   * **Time Interval**: E.g., “once per hour,” prompting periodic scans.
-   * **Predefined Tag**: Associate an existing tag to assist with segmentation or searches.
-   * **Task/Form Association**: Choose whether to link the scan point to an existing **task** or **form** (must be **active**).
-   * **Active Box**: If checked, makes the scan point visible to users.
+2. **Click “Edit.”**
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png" />
 
-3. **Save and Close**\
-   ![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
+3. **Modify the Current Data**
+
+* **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC).
+* **Name**: A quick identifier to help locate it.
+* **Description**: Extra details (location, room number, distinctive features).
+* **Time Interval**: E.g., “once per hour,” prompting periodic scans.
+* **Predefined Tag**: Associate an existing tag to assist with segmentation or searches.
+* **Task/Form Association**: Choose whether to link the scan point to an existing **task** or **form** (must be **active**).
+* **Active Box**: If checked, makes the scan point visible to users.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
+
+4. **Save and Close**.
 
 ## Delete Scan Points
 
