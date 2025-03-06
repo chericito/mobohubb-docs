@@ -121,7 +121,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 ## Add an NFC Tag Scan Point
 
-1. **Click** **“Add New”**
+1. First, configure the NFC using the Mobile App.
 2. **Fill in the NFC Code ID**
 
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
