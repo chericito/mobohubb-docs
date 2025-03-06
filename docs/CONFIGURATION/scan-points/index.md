@@ -288,15 +288,15 @@ If you have **multiple scan points** to add at once, you can **import** them fro
 
 * **Upload** the completed file in the form.
 
-![](https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png" />
 
-*
+* **Click** **“Save.”**
 
-* **Click** **“Save.”**\
-  ![](https://files.readme.io/13be90ab5ed34de92216ec521b6a60bfe1b71b8afad4fdba6f304361fdeb9a43-image.png)
+3. **Wait** for the import to finish.
 
-2. **Wait** for the import
-   * Depending on the **size** of your data, the import may take some time.\
-     ![](https://files.readme.io/277cf2d0926efe09b5ed2924f47fa1b0722e9aa1958158dbed4e2a77b2354510-image.png)
-3. **Confirm** new scan points
-   * Once complete, the **new scan points** will appear in your **Scan-Points Management** list.
+* Depending on the **size** of your data, the import may take some time.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/277cf2d0926efe09b5ed2924f47fa1b0722e9aa1958158dbed4e2a77b2354510-image.png" />
+
+4. **Confirm** new scan points
+5. Once complete, the **new scan points** will appear in your **Scan-Points Management** list.
