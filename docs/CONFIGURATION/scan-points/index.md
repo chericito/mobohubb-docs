@@ -112,32 +112,48 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
    <br />
 4. **Add a Description**
-   * Include any relevant details such as room number or distinctive features.
-   ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
+   * Include any relevant details such as room number or distinctive features.\
+     ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
 5. **Choose a Time Interval**
 
 * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
 
-![](https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png" />
 
-1. **Associate a Predefined Tag** *(Optional)*
-   * If you have previously created tags, assign one here to **segment data** and simplify searches.\
-     ![](https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png)
-2. **Link to a Task or Form** *(Optional)*
+6. **Associate a Predefined Tag** *(Optional)*
+
+* If you have previously created tags, assign one here to **segment data** and simplify searches.
+
+<br />
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png" />
+
+<br />
+
+7. **Link to a Task or Form** *(Optional)*
 
 * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
-* If you don’t wish to link anything, go to step 11.\
-  ![](https://files.readme.io/b1e723a8fa4ccd74139b1b364391f6fb19e5fb079a6e9cc17f069c9c0759a726-image.png)
-  ![](https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png)
+* If you don’t wish to link anything, go to step 11.
 
-11. **Mark as Active**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b1e723a8fa4ccd74139b1b364391f6fb19e5fb079a6e9cc17f069c9c0759a726-image.png" />
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png" />
+
+&#x20;&#x20;
+
+
+8. **Mark as Active**
 
 * Check the box to make this scan point visible to mobile users.
-* Uncheck to **temporarily hide** it.\
-  ![](https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png)
+* Uncheck to **temporarily hide** it.
 
-12. **Save and Close**\
-    ![](https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png" />
+
+<br />
+
+12. **Save and Close**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png" />
 
 > **Note:** **Repeat** the procedure for each NFC tag scan point you need to create.
 
@@ -145,26 +161,15 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
-1. **Navigate to the Portal’s Top Menu**\
-   ![](https://files.readme.io/8bda85c12c17f8b02227d3ca2ae76457af9ea33dbc13c555c73b72cefbd9edba-image.png)
+1. **Check** the box next to the scan point you wish to modify.
 
-2. **Go to “General Settings”**
-   * Click **Settings** in the top menu (or find **General Settings** in the side menu).\
-     ![](https://files.readme.io/cb5e45dd5a54e7480af1ef99d49ddc54354be32eb5076196c5ef2ab51ba3abed-image.png)
+* Only **one** scan point can be edited at a time.\
+  ![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
 
-3. **Select “Scan-Points Management”**
-   * Within **Configuration**, click **Scan-Points Management**.\
-     ![](https://files.readme.io/eda238a99007696c54f377adbf4e416d2d238229b596e58a2a70142bc4aa8a4c-image.png)
-
-4. **Choose the Scan Point to Edit**
-   * **Check** the box next to the scan point you wish to modify.
-   * Only **one** scan point can be edited at a time.\
-     ![](https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png)
-
-5. **Click “Edit.”**\
+1. **Click “Edit.”**\
    ![](https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png)
 
-6. **Modify the Current Data**
+2. **Modify the Current Data**
 
    * **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC).
    * **Name**: A quick identifier to help locate it.
@@ -176,7 +181,7 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
    <Image align="center" className="border" border={true} src="https://files.readme.io/ebdd9352df59d5f3a21235f97aad51942372ec1a9d438d8ebdf0f0c95ffcd278-image.png" />
 
-7. **Save and Close**\
+3. **Save and Close**\
    ![](https://files.readme.io/4292e681750762acdd68ca5e4200f5ee4e1efd11b5467cdbe5948ce24e0915af-image.png)
 
 ## Delete Scan Points
