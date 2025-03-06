@@ -106,16 +106,18 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 * Tasks/forms must be **active** to appear here.
 * If you do not wish to associate anything, simply proceed to step 11.
 
-![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png" />
 
 11. **Mark as Active**
 
 * Check the box to make this scan point visible to other users.
-* If unchecked, it remains hidden but can be activated later.\
-  ![](https://files.readme.io/4aa677d41faddf691c661084b009da437a714c9be35900baae075a59d0d2b126-image.png)
+* If unchecked, it remains hidden but can be activated later.
 
-12. **Save and Close**\
-    ![](https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4aa677d41faddf691c661084b009da437a714c9be35900baae075a59d0d2b126-image.png" />
+
+12. **Save and Close**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png" />
 
 > **Note:** **Repeat** these steps for each scan point you need to create.
 
