@@ -85,25 +85,28 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png" />
 
-4. **Choose a Time Interval**
+6. **Choose a Time Interval**
 
-   * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.
+* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.
 
-   <br />
+<br />
 
-   ![](https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png" />
 
-   <br />
-5. **Associate a Predefined Tag** *(Optional)*
-   * If you’ve created tags beforehand, select one in the dropdown.
-   * **Tags** help segment data and simplify searches.\
-     ![](https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png)
-6. **Link to a Task or Form** *(Optional)*
+7. **Associate a Predefined Tag** *(Optional)*
+
+* If you’ve created tags beforehand, select one in the dropdown.
+* **Tags** help segment data and simplify searches.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png" />
+
+8. **Link to a Task or Form** *(Optional)*
 
 * To associate this QR code with an **existing** task or form, select it from the dropdown menu.
 * Tasks/forms must be **active** to appear here.
-* If you do not wish to associate anything, simply proceed to step 11.\
-  ![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
+* If you do not wish to associate anything, simply proceed to step 11.
+
+![](https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png)
 
 11. **Mark as Active**
 
