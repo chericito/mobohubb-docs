@@ -121,11 +121,11 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 ## Add an NFC Tag Scan Point
 
-1. First, configure the NFC using the Mobile App.
+1. **Configure** the [NFC using the Mobile App](https://mobohubb.readme.io/v1.2/update/docs/nfc-mobile#/).
 2. **Fill in the NFC Code ID**
 
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
-   * If you already have **configured** NFC tags, assign a **unique, sequential** ID (e.g., `Location001`, `Location016`), aligning them with other scan points.
+   * If you already have **configured** NFC tags, assign a **unique, sequential** ID (e.g., `NFCID001`, `ID001`), aligning them with other scan points.
    * Alternatively, **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
 
    <br />
@@ -264,7 +264,7 @@ Exporting scan points to an **Excel file** can help you manage data offline or s
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/179f0399a76b5afcefd8768bfe473d83bd13edb70518733a897f5372b3cc902e-image.png" />
 
-2. **Export** the Excel file. Choose **all data** or only the **current view**.
+2. **Export** the Excel file. Choose **all data** or only the **current view**. Export **All Data** exports all the required information in the format necessary for importing, including every column needed for the process. In contrast, **Export Current View** exports the data exactly as the user has configured it, preserving the applied filters, sorting, and the order of columns as seen in the current view.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png" />
 
