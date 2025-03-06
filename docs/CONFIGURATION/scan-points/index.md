@@ -115,12 +115,15 @@ Follow these steps to create a new scan point associated with a **QR code**:
    * Include any relevant details such as room number or distinctive features.
    ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
 5. **Choose a Time Interval**
-   * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
-   ![](https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png)
-6. **Associate a Predefined Tag** *(Optional)*
+
+* Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
+
+![](https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png)
+
+1. **Associate a Predefined Tag** *(Optional)*
    * If you have previously created tags, assign one here to **segment data** and simplify searches.\
      ![](https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png)
-7. **Link to a Task or Form** *(Optional)*
+2. **Link to a Task or Form** *(Optional)*
 
 * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
 * If you don’t wish to link anything, go to step 11.\
