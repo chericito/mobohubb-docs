@@ -256,23 +256,13 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
 Exporting scan points to an **Excel file** can help you manage data offline or share with others.
 
-1. **Navigate** to the portal’s top menu\
-   ![](https://files.readme.io/8448a833bbd1c3c9e5321fedb48c730c2f2651c5149d6208561beff8a2f87b6e-image.png)
+1. **Click** the **“Export"** button.
 
-2. **Go** to **“General Settings.”**
-   * In the top menu, click **Settings** (or use the side menu to access **General Settings**).\
-     ![](https://files.readme.io/f2d57f77380f7e6dbc932d7ed3c4918dc14471f962eb5ae9c6b1368378f140c0-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/179f0399a76b5afcefd8768bfe473d83bd13edb70518733a897f5372b3cc902e-image.png" />
 
-3. **Select “Scan-Points Management.”**
-   * Within **Configuration**, click **Scan-Points Management**.\
-     ![](https://files.readme.io/0e6f7993ff7879ce8b4fd43f34973e3b83f86a00cdad6832f09e689d18d92159-image.png)
+2. **Export** the Excel file. Choose **all data** or only the **current view**.
 
-4. **Click “Export.”**\
-   ![](https://files.readme.io/179f0399a76b5afcefd8768bfe473d83bd13edb70518733a897f5372b3cc902e-image.png)
-
-5. **Export** the Excel file
-   * Choose **all data** or only the **current view**.\
-     ![](https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png)
+![](https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png)
 
 > **Note:**
 >
