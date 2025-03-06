@@ -95,19 +95,17 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e5a4c75e65ef774dd8a99809173977e5fbdde16b3371d930be7f607d57a3db6-image.png" />
 
-2. **Click** the **3-dot button**.
+2. **Click** the **Deactivate** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1924cb62a388b354199629d124e07d103c56c893bbbc59d9062c8a88d1fd2402-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3090187038f77acbce9603bd6612f9ebe9a8b29fe07d92d0f29c6e09b61fda78-image.png" />
 
-3. **Choose “Activate” or “Deactivate”.**
+3. **Confirm** your action.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fa984fc98a9f5a080e2465c4891d78fb18cd6c5e7892324f892f994c93867fa8-image.png" />
-
-4. **Confirm** your action.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f0c571ba14e12895cb1a4b878588e5fd944b3fd71fc67e4e064419363fcb29d2-image.png" />
 
 * For deactivation, click **Deactivate** in the pop-up.
-* For activation, click **Activate** in the pop-up.
+* You can also activate a deactivated device.  For activation, follow the same steps and click **Activate** in the pop-up.
 
-5. **Check** the **Device Status** column to confirm changes.
+4. **Check** the **Device Status** column to confirm changes.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e878e62dce4fa03c07d09f5453b2098be3ad3b02bc84b37292dd1167d51c1b3-image.png" />
