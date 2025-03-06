@@ -89,41 +89,25 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 ## **Activate or Deactivate Devices**
 
-1. **Navigate** to the portal’s top menu.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a850ccaa74086475dbe8ae26b072ac4001a0fe928b386bd034f574461d4f1f5-image.png" />
-
-2. **Go** to **“General Settings”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5bd90835137212538b68227d17a2b2a77b62816f9d6786e7baed4902e068f6bd-image.png" />
-
-![](NV94%20\(1\).png)
-
-3. **Select “Devices”.**
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7064351e1edea9ced1463421b06c0f2ef8f8a0fa91a0ffc35951d7e1826ecb1a-image.png" />
-
-![](Devices%20\(12\).png)
-
-4. **Check** the devices to modify.
+1. **Check** the devices to modify.
 
 * You can select multiple devices.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e5a4c75e65ef774dd8a99809173977e5fbdde16b3371d930be7f607d57a3db6-image.png" />
 
-5. **Click** the **3-dot button**.
+2. **Click** the **3-dot button**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1924cb62a388b354199629d124e07d103c56c893bbbc59d9062c8a88d1fd2402-image.png" />
 
-6. **Choose “Activate” or “Deactivate”.**
+3. **Choose “Activate” or “Deactivate”.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fa984fc98a9f5a080e2465c4891d78fb18cd6c5e7892324f892f994c93867fa8-image.png" />
 
-7. **Confirm** your action.
+4. **Confirm** your action.
 
 * For deactivation, click **Deactivate** in the pop-up.
 * For activation, click **Activate** in the pop-up.
 
-6. **Check** the **Device Status** column to confirm changes.
+5. **Check** the **Device Status** column to confirm changes.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e878e62dce4fa03c07d09f5453b2098be3ad3b02bc84b37292dd1167d51c1b3-image.png" />
