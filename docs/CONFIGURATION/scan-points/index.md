@@ -83,11 +83,17 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 * Include room numbers, distinctive features, or exact locations to help users find it easily.
 
-![](https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png" />
 
 4. **Choose a Time Interval**
-   * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.\
-     ![](https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png)
+
+   * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons.
+
+   <br />
+
+   ![](https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png)
+
+   <br />
 5. **Associate a Predefined Tag** *(Optional)*
    * If you’ve created tags beforehand, select one in the dropdown.
    * **Tags** help segment data and simplify searches.\
