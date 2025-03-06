@@ -9,7 +9,7 @@ hidden: false
 metadata:
   robots: index
 ---
-A **scan point** is an element that can be read with a mobile device to obtain information. Mobohubb supports two types of scan points: **QR codes** and **NFC tags**. These allow you to manage your locations—such as **sites, zones, or checkpoints**—in a structured way. For each site you create, decide whether you'll use **QR codes** or **NFC tags** so employees can easily scan them in the field.
+A **scan point** is an element that can be read with a mobile device. **mobohubb** supports two types of scan points: **QR codes** and **NFC tags**. These allow you to manage your locations—such as **sites, zones, or checkpoints**—in a structured way. For each site you create, decide whether you'll use **QR codes** or **NFC tags** so employees can easily scan them in the field.
 
 * **Tip:** Make sure you’ve identified your **places of interest** before defining any scan points.
 
@@ -90,45 +90,37 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 ## Add an NFC Tag Scan Point
 
-Follow these steps to create a new scan point associated with an **NFC tag**:
+1. **Click** **“Add New”**
+2. **Fill in the NFC Code ID**
 
-1. **Navigate to the Portal’s Top Menu**\
-   ![](https://files.readme.io/f0ad9f10a15a691cb8b1e75313f9602c21955e6418003d0f66193cec06d7c223-image.png)
-
-2. **Go to “General Settings”**
-   * In the top menu, **click** **Settings** (or use the **side menu** to find the **General Settings** option).\
-     ![](https://files.readme.io/03e5c9995a1e496ce44eb663904db9da8d87bf9bf2462c0237bf1642e5c8e920-image.png)
-
-3. **Select “Scan-Points Management”**
-   * Within **Configuration**, **click** on **Scan-Points Management**.\
-     ![](https://files.readme.io/baf85da3bd651b42e1de2bcada425e52f4f0d0166c82625e83eb83166ff2de2f-image.png)
-
-4. **Click “Add New”**\
-   ![](https://files.readme.io/79840a40c1d29a79398427ee944a88e32311de21dd0bc5af3fb40143fd67dc40-image.png)
-
-5. **Fill in the NFC Code ID**
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
    * If you already have **configured** NFC tags, assign a **unique, sequential** ID (e.g., `Location001`, `Location016`), aligning them with other scan points.
-   * Alternatively, **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.\
-     ![](https://files.readme.io/fed242b601c6513ddf85b0f89a79db12088c3ccb960d3a736c34ef7b837842bf-image.png)
+   * Alternatively, **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
 
-6. **Add a Name**
-   * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.\
-     ![](https://files.readme.io/55feacf0361054cf96b11f8decf94565bbe5b009b5467399f53e77ecf5eb6e2d-image.png)
+   <br />
 
-7. **Add a Description**
-   * Include any relevant details such as room number or distinctive features.\
-     ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fed242b601c6513ddf85b0f89a79db12088c3ccb960d3a736c34ef7b837842bf-image.png" />
 
-8. **Choose a Time Interval**
+   <br />
+3. **Add a Name**
+
+   * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/55feacf0361054cf96b11f8decf94565bbe5b009b5467399f53e77ecf5eb6e2d-image.png" />
+
+   <br />
+4. **Add a Description**
+   * Include any relevant details such as room number or distinctive features.
+   ![](https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png)
+5. **Choose a Time Interval**
    * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.\
      ![](https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png)
-
-9. **Associate a Predefined Tag** *(Optional)*
+6. **Associate a Predefined Tag** *(Optional)*
    * If you have previously created tags, assign one here to **segment data** and simplify searches.\
      ![](https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png)
-
-10. **Link to a Task or Form** *(Optional)*
+7. **Link to a Task or Form** *(Optional)*
 
 * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
 * If you don’t wish to link anything, go to step 11.\
