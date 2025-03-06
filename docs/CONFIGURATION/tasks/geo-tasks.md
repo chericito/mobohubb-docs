@@ -36,11 +36,11 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2bc9f6ae3928b0ed88dd60fbf68efad01af08fd7ccfac884db649808f27f0254-image.png" />
 
    <br />
-4. **Click** the **“Add new”** button at the right side of the interface.
+4. **Click** the **“Add new”** button.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b0af263ee2f3d63820b941e56e542c187ea9c3140d4025ce7eaddacfdeaf4901-image.png" />
 
-5. **Select** a site to continue.
+5. **Select** a site to continue (*only prompted if you manage multiple sites*).
 
 <Image align="center" width="60% " src="https://files.readme.io/9eaa17d13b7be38801402d93e93111091a431d04252e785976180e4d0f057269-image.png" />
 
@@ -48,7 +48,7 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
 
 6. **Activate GPS** to create a Geo Task.
 
-* This requires a **finished site**. Once activated, the **“task description”** field becomes **“Address”**, important for defining the GPS coordinates.
+* Once activated, the **“task description”** field becomes **“Address”**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/012b78181d5f3bdabd4fbe8a1e58c6bdad8de8aba1a1f2d4b84342f6784eb7c6-image.png" />
 
