@@ -125,8 +125,8 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 2. **Fill in the NFC Code ID**
 
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
-   * If you already have **configured** NFC tags, assign a **unique, sequential** ID (e.g., `NFCID001`, `ID001`), aligning them with other scan points.
-   * Alternatively, **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
+   * You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
+   * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC useless.
 
    <br />
 
