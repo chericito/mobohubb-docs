@@ -17,18 +17,12 @@ A **scan point** is an element that can be read with a mobile device. **mobohubb
 
 **In this guide you'll learn**
 
-* **Add QR Code Scan Points**\
-  Learn how to create and configure new QR codes to identify specific locations or checkpoints.
-* **Add NFC Tag Scan Points**\
-  Discover how to set up and manage NFC-enabled locations for swift, contactless scanning.
-* **Edit Existing Scan Points**\
-  Update names, IDs, intervals, and other details as your operations evolve.
-* **Delete Scan Points**\
-  Remove outdated or unused scan points to keep your data clean and relevant.
-* **Export Scan Points**\
-  Generate an Excel file for off-platform analysis or archiving.
-* **Import Multiple Scan Points**\
-  Use an Excel template to quickly upload a batch of scan points, saving time and effort.
+* **Add QR Code Scan Points**: Learn how to create and configure new QR codes to identify specific locations or checkpoints.
+* **Add NFC Tag Scan Points**: Discover how to set up and manage NFC-enabled locations for swift, contactless scanning.
+* **Edit Existing Scan Points**: Update names, IDs, intervals, and other details as your operations evolve.
+* **Delete Scan Points**: Remove outdated or unused scan points to keep your data clean and relevant.
+* **Export Scan Points**: Generate an Excel file for off-platform analysis or archiving.
+* **Import Multiple Scan Points**: Use an Excel template to quickly upload a batch of scan points, saving time and effort.
 
 ## Add a QR Code Scan Point
 
