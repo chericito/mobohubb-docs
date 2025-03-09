@@ -72,15 +72,25 @@ You can attach any **pre-created certifications** to a user’s profile in their
 ## Delete Certifications
 
 1. **Select** one or more certifications from the list.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4cef858ccbe1081022bf64b28da08fe53a7438d4da3de715ae8d1823c953f70b-5F4C8312-4116-4743-9CD7-4035AB60F7EF.png" />
+
 2. **Press** the **Delete** button in the toolbar.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/8c5cab1cd3f3f20e4a6357d5dc369f24e222c3d9449184aba03f794e70a393c9-0787283F-EB43-478A-98A5-FB0946F73948.png" />
+
 3. **Confirm** the deletion when prompted.
 
 ## Export Certifications
 
 1. **Press** **“Export.”**
 2. **Choose** between:
-   * **Export Data**: Downloads **all** certification records.
-   * **Export Current View**: Downloads only the records shown in your current filtered view and column arrangement.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/55ab7d61de2aaaccc379a4c9fc376ff16b9b4238da0b494f324d2c293adbfda1-0FEF6A84-6F1B-42F7-B39A-2FFC47A67A4B.png" />
+
+* **Export Data**: Downloads **all** certification records.
+* **Export Current View**: Downloads only the records shown in your current filtered view and column arrangement.
+
 3. **Confirm** your choice to download the **Excel** file.
 
 > **Note:** Large files may be routed to your **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** section on the platform.
