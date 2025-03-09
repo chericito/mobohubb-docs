@@ -19,21 +19,20 @@ metadata:
 
 Certifications are specialized credentials or qualifications that demonstrate an individual's proficiency in a specific activity. They validate a person’s knowledge and skills related to a particular field. The portal administrator can create distinct categories to group employee certifications by topic.
 
-## Creating a New Certification Category
+## Creating a New Certification
 
-1. **Go** to **General Settings.**
+1. **Go** to **Settings** → **Configuration** → **Certifications**.
 
-2. In the **“Configuration”** area, **click** on the **“Certifications”** section.
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/aa7010a1241912df20771c92c201fdb3a7303e33addc8ed33fc4147ba3c0260a-37F3CBCC-AB4D-4D41-8148-78090BD69A89.png" />
 
-3. **Locate** the **“Add new”** button to the right of the interface.
-
-4. **Fill in** the details by specifying the **name** of the certification.
+2. **Locate** the **“Add new”** button to the right of the interface.
+3. **Fill in** the details by specifying the **name** of the certification.
 
 <Image align="center" className="border" border={true} width="76% " src="https://files.readme.io/e2e7e6495b64b1a2a2b1f5a25ac3c869e4f39fe36809d2add9557b4806c2a110-image.png" />
 
-5. **Provide** a brief **description** of the certification.
-6. **Check** the **“Activate”** box.
-7. **Click** the **“Save”** button to confirm your changes.
+4. **Provide** a brief **description** of the certification.
+5. **Check** the **“Activate”** box.
+6. **Click** the **“Save”** button to confirm your changes.
 
 ### Add Skill Certifications to Users
 
