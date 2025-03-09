@@ -246,7 +246,7 @@ A **multi-line** text box for longer input.
 
 **How to set up:**
 
-1. **Field Name** – Provide a label for your text area.
+1. **Field Name** – Provide a title for your text area.
 
 ***
 
