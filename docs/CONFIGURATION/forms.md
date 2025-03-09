@@ -173,17 +173,20 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/64d50f5b4e8c92912fa845384d628f1c313a1d0f1aa8cffc190448119b892634-image.png" />
 
-*
+4. **Save and Preview**
 
-1. **Save and Preview**
-   * When you click **“Save,”** you’ll automatically see a **smartphone preview** of how the form/checklist looks on mobile.
-   * **Close** the preview to return to **Forms/Checklists Management**.\
-     ![](https://files.readme.io/6b06f804e42a89c6d3fdc6d2d9be843fcbde461c4b3a0a34262e4986c343274f-image.png)
+* When you click **“Save,”** you’ll automatically see a **smartphone preview** of how the form/checklist looks on mobile.
+* **Close** the preview to return to **Forms/Checklists Management**.
 
-> **Note:** The preview reflects the mobile app layout for the form or checklist.\
-> ![](https://files.readme.io/bc5d0d5e7bad7a609d60c72a9393e3cccf4a2d7dc504c1b27ca4a997cab316cd-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6b06f804e42a89c6d3fdc6d2d9be843fcbde461c4b3a0a34262e4986c343274f-image.png" />
 
-***
+<br />
+
+> **Note:** The preview reflects the mobile app layout for the form or checklist.
+>
+> <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bc5d0d5e7bad7a609d60c72a9393e3cccf4a2d7dc504c1b27ca4a997cab316cd-image.png" />
+>
+> <br />
 
 ## Delete Forms or Checklists
 
