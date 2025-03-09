@@ -42,16 +42,29 @@ You can attach any **pre-created certifications** to a user’s profile in their
 
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/1d35927ae9ebac220429bf95a5dedb2d59b338dee6104384bc0965a6a1dca8da-A2222419-37CE-4AA5-9668-977937CB6741.png" />
 
-1. **Click** on the **user’s name** to open their configuration menu.
+2. **Click** on the **user’s name** to open their configuration menu.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/428809f903051498f5a3f2d011982d5d1a22f32a7eb6b134a1f031615ce06092-EAD1D54A-11B2-4765-BE70-D7AC8628F1C3.png" />
 
-1. **Navigate** to **Skills Certifications** and **select** a certification from the dropdown list.
+3. **Navigate** to **Skills Certifications** and **select** a certification from the dropdown list.
 
-   * You can add multiple certifications if needed.
+* You can add multiple certifications if needed.
 
-   <br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a30c038388b97787f0430779244eb77cc954c0d61ad11d1709e9b0b3138ad59e-CABB206E-9A1C-434B-8CD4-6B51BA2765CE.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a30c038388b97787f0430779244eb77cc954c0d61ad11d1709e9b0b3138ad59e-CABB206E-9A1C-434B-8CD4-6B51BA2765CE.png" />
+4. **Save** your changes to confirm the updated certifications for that user.
 
-2. **Save** your changes to confirm the updated certifications for that user.
+## Edit a Certification
+
+1. Select one certification from the list. It's not possible to select more than one.
+2. Press the Edit button from the tool bar.
+3. Make any changes needed.
+4. Save your changes.
+
+## Delete Certifications
+
+1. Select one or more certifications from the list.
+2. Press the Delete button from the tool bar.
+3. Confirm.
+
+## Export Certifications
