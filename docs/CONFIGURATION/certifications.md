@@ -68,3 +68,13 @@ You can attach any **pre-created certifications** to a user’s profile in their
 3. Confirm.
 
 ## Export Certifications
+
+1. **Press** **"Export".**
+2. **Choose** between:
+
+* **Export Data**: Downloads **all** certifications records in the system.
+* **Export Current View**: Downloads **only** the filtered and column arrangement you currently see.
+
+3. **Confirm** your choice to download the Excel file. If the file is large, it may appear in your **[Downloads](https://mobohubb.readme.io/docs/downloads#/)**.
+
+## Import
