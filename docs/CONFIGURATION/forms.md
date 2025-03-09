@@ -60,11 +60,19 @@ Below is an overview of available field types for forms. Each field type defines
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2854be5e03f267054deac41012b3fc16d2a2f55209de2f1e18b525705d7e6903-image.png" />
 
 2. **Select “Forms/Checklists”.**
+
    * Within **Configuration**, click **Forms/Checklists**.
-   ![](https://files.readme.io/76cf06273a528befb56196cfb14c886d88d4504ab7c6d2860096c5cd2f1da24b-image.png)
-3. **Click “Add New”.**\
-   ![](https://files.readme.io/fa419ada315e0908048636b1e2a17f33ef616884f23bd04f353a3e4d9d1b4b65-image.png)
-4. **Fill in the Form Information**
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/76cf06273a528befb56196cfb14c886d88d4504ab7c6d2860096c5cd2f1da24b-image.png" />
+
+   <br />
+3. **Click “Add New”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fa419ada315e0908048636b1e2a17f33ef616884f23bd04f353a3e4d9d1b4b65-image.png" />
+
+**Fill in the Form Information**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cd31e73981119942ee43cf5344937b20eb9c6b4d16e20c69aacbccfb1d46028-D0CE6BE8-7889-45D3-BF7A-3B66F2FD88C4.png" />
 
