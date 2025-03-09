@@ -202,13 +202,25 @@ Once complete, your **form or checklist** can be accessed by the selected users,
    <br />
 
 2. **Click “Delete.”**
-   * All selected forms/checklists will be discarded.\
-     ![](https://files.readme.io/953dbed0f7ae271e113d3bbeb01e6229c4d41708d0e8f82a0f70bbe28156bb76-image.png)
+
+   * All selected forms/checklists will be discarded.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/953dbed0f7ae271e113d3bbeb01e6229c4d41708d0e8f82a0f70bbe28156bb76-image.png" />
+
+   <br />
 
 3. **Confirm and Close**
+
    * Verify the count of forms/checklists matches what you intend to remove.
-   * Click **Delete** to finalize.\
-     ![](https://files.readme.io/9eb7cb591342b69bb354501bc932ccaf1aad10838373f1185df17d4dcf0e5398-image.png)
+   * Click **Delete** to finalize.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9eb7cb591342b69bb354501bc932ccaf1aad10838373f1185df17d4dcf0e5398-image.png" />
+
+   <br />
 
 ***
 
