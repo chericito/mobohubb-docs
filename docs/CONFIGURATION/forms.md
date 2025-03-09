@@ -228,14 +228,17 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 To export forms/checklists (e.g., for archiving or analysis):
 
-1. **Click “Export.”**\
-   ![](https://files.readme.io/c22864de96e4856d5d9de8ef3382cd1eee07d1dcd24d8eab9bbc892c0a5329c9-image.png)
+1. **Click “Export”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c22864de96e4856d5d9de8ef3382cd1eee07d1dcd24d8eab9bbc892c0a5329c9-image.png" />
 
 2. **Choose** which data to export
-   * You can typically export **All** information from the current view.
-   * If the file is within size limits, it will **download** to your computer in Excel format.
-   * If it exceeds size limits, check the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option in the platform.\
-     ![](https://files.readme.io/fd4774fb2bf5eb163345201bffe5e167caa8c4d7ebb0d03209a30aa08ceea520-image.png)
+
+* You can typically export **All** information from the current view.
+* If the file is within size limits, it will **download** to your computer in Excel format.
+* If it exceeds size limits, check the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option in the platform.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fd4774fb2bf5eb163345201bffe5e167caa8c4d7ebb0d03209a30aa08ceea520-image.png" />
 
 Once complete, you’ll have an Excel file containing all relevant data for your forms or checklists.
 
