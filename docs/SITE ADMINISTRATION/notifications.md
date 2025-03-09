@@ -16,8 +16,6 @@ metadata:
 
 ***
 
-## Overview
-
 Notifications in mobohubb are text messages that can include alerts, reminders, or status updates. They are triggered by clicking on **"Publish Notification"** and then sent to the users' devices or platforms, appearing as pop-ups, banners, or icons. This feature enhances user engagement by keeping users informed in real time.
 
 In the **Notifications** area, you can also view all received notifications, apply filters, or sort by columns to manage your notification data effectively.
