@@ -159,15 +159,23 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b4f598273f33b184f11826cdcd2572d56c635888c1e338e8b6a6099706b0cfe3-image.png" />
 
-1. **Modify** the current data
-   * **Form Information**: Update prefix, name, tags, visibility, or assigned users.\
-     ![](https://files.readme.io/420a42bbd4821b182f6842909e9cdf555bf56f0c0c7e15b34c268148dfdefe7f-image.png)
-   * **Form Fields**: Add or remove fields, change field types, names, mandatory status, or conditional settings.\
-     ![](https://files.readme.io/cbc58a3fba1157143542aa2a84081f798cc5ca72ddb9878e6a7e1489c340d8ea-image.png)
-   * **Advanced Options**: Adjust GPS usage, site map, media settings, or immediate notification preferences.\
-     ![](https://files.readme.io/64d50f5b4e8c92912fa845384d628f1c313a1d0f1aa8cffc190448119b892634-image.png)
+3. **Modify** the current data
 
-2. **Save and Preview**
+* **Form Information**: Update prefix, name, tags, visibility, or assigned users.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/420a42bbd4821b182f6842909e9cdf555bf56f0c0c7e15b34c268148dfdefe7f-image.png" />
+
+* **Form Fields**: Add or remove fields, change field types, names, mandatory status, or conditional settings.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cbc58a3fba1157143542aa2a84081f798cc5ca72ddb9878e6a7e1489c340d8ea-image.png" />
+
+* **Advanced Options**: Adjust GPS usage, site map, media settings, or immediate notification preferences.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/64d50f5b4e8c92912fa845384d628f1c313a1d0f1aa8cffc190448119b892634-image.png" />
+
+*
+
+1. **Save and Preview**
    * When you click **“Save,”** you’ll automatically see a **smartphone preview** of how the form/checklist looks on mobile.
    * **Close** the preview to return to **Forms/Checklists Management**.\
      ![](https://files.readme.io/6b06f804e42a89c6d3fdc6d2d9be843fcbde461c4b3a0a34262e4986c343274f-image.png)
