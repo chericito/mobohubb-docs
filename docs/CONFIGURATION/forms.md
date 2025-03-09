@@ -19,7 +19,7 @@ metadata:
 * **How to Add New Forms/Checklists** with custom fields and user assignments
 * **How to Edit Existing Forms/Checklists** and preview them on a mobile-like interface
 * **How to Delete Multiple Items** at once to keep your workspace clean and organized
-* **How to Export Your Data** in Excel format for offline analysis or record-keeping
+* **How to Export and Import Your Data** in Excel format for offline analysis or record-keeping
 
 ## Forms Field Descriptions
 
