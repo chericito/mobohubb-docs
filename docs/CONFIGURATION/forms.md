@@ -138,7 +138,7 @@ Below is an overview of available field types for forms. Each field type defines
 
 > **Note:** The preview reflects how your form or checklist will appear in the **mobile application**.
 >
-> ![](https://files.readme.io/c7313f74f2b1d550297ccd5f6a76bd7991b62cf9d3030ebe96b0c6958cfcce8b-image.png)
+> > <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c7313f74f2b1d550297ccd5f6a76bd7991b62cf9d3030ebe96b0c6958cfcce8b-image.png" />
 
 Once complete, your **form or checklist** can be accessed by the selected users, who can fill it out according to its defined rules and constraints.
 
