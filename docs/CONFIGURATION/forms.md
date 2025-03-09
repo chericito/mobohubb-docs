@@ -21,7 +21,7 @@ metadata:
 * **How to Delete Multiple Items** at once to keep your workspace clean and organized
 * **How to Export and Import Your Data** in Excel format for offline analysis or record-keeping
 
-## Forms Field Descriptions
+# Forms Field Type Descriptions
 
 Below is an overview of available field types for forms. Each field type defines the **format** and **input** of data you can collect:
 
@@ -30,11 +30,11 @@ Below is an overview of available field types for forms. Each field type defines
 | **Checkbox**     | Allows the user to select or deselect an option. There’s no limit on how many boxes can be checked. |
 | **Colored Text** | Displays text in a specific color for emphasis.                                                     |
 | **Date**         | Lets the user pick a date via an interactive calendar.                                              |
-| **Device**       | Displays the device name or type being used.                                                        |
+| **Device**       | Displays a devices list.                                                                            |
 | **Email**        | Restricts input to a valid email format.                                                            |
 | **Hyperlink**    | Displays text that links to another web page or resource.                                           |
 | **Password**     | Masks user input for secure entry.                                                                  |
-| **Personnel**    | Shows a person’s name.                                                                              |
+| **Personnel**    | Shows a list of users.                                                                              |
 | **Radio**        | A single-choice field (commonly known as “radio button”).                                           |
 | **Read-only**    | Displays text that cannot be edited by the user.                                                    |
 | **Scan**         | Allows the user to scan a QR code or NFC tag.                                                       |
@@ -44,6 +44,110 @@ Below is an overview of available field types for forms. Each field type defines
 | **Text**         | A single-line free text input.                                                                      |
 | **Text area**    | A multi-line text field for longer inputs.                                                          |
 | **Time**         | Lets the user pick a time via an interactive clock.                                                 |
+
+### Checkbox
+
+Allows the user to select or deselect an option. There’s no limit on how many boxes can be checked.
+
+![](https://files.readme.io/e9af6aef7fbd4f9e240072bd2132ff5413c5d9cbba359f180361beeb38c614b8-6126613B-DEA2-4878-BB17-293C71B06B68.png)
+
+<br />
+
+How to setup: Put a Field Name (Title) and add Values (Comma separated value)
+
+### Colored Text
+
+Displays text in a specific color for emphasis.
+
+![](https://files.readme.io/bc4762624d54fbafbc02b3fbbdd6b0750a15a090dab424729033542bc67cdd30-78524EB1-E1EA-46C4-A078-9009DB110E50.png)
+
+How to setup: in Field Name put the text you want to highlight, and select a color from the Font Color menu.
+
+### Date
+
+Lets the user pick a date via an interactive calendar.
+
+![](https://files.readme.io/6b1821703badec4806f14983c0e9f58b32e3cf9561499c9677d8bd55f0b7bd94-B6F711CD-C6F7-4720-8D32-E41087A1841D.png)
+
+How to setup: Write a title for it in Field Name.
+
+### Device
+
+Displays a devices list.
+
+![](https://files.readme.io/067d536f8df3cddd2c892f5c57a5cf36dc6c9d9d2970e7052787641fd9daf987-BFE63471-B3F3-4AA8-AAFA-07D2B12346F0.png)
+
+How to setup: Write a title for it in Field Name.
+
+### Email
+
+Restricts input to a valid email format.
+
+![](https://files.readme.io/8a3b97a5d2f87c99ec7261498bcde4973bc68282702428146a805a2c8f24ff4d-116C1341-F485-4400-8EDA-3A4856D54780.png)
+
+<br />
+
+How to setup: Write a title for it in Field Name.
+
+### Hyperlink
+
+Displays text that links to another web page or resource.
+
+![](https://files.readme.io/a6ed70cab2fcf2a8c5e91908d11f21ec8a63cbcbcdbb99174c69afa2e068c54e-69A0A8DC-4269-4740-8CC0-D969CDCAEA7F.png)
+
+How to setup: Write a title for it in Field Name, and add a URL in the Values field.
+
+### Password
+
+Masks user input for secure entry.
+
+![](https://files.readme.io/fc5ea8d786c1288bba9327bb830fe26efd3e4c5a6cb2adcd5f5ec2c147914d30-0464FFAF-EAE0-459B-A680-175D89B8E2B2.png)
+
+### Personnel
+
+Shows a list of users. They can be associated to a tag.
+
+![](https://files.readme.io/939a56c87e0823da922dff5b228ab47fcf7b7cd00b45df474713cdaf3d49bad0-8B3EC2E2-AABD-48B2-A4A0-57D6ED4D5116.png)
+
+<br />
+
+How to setup: Write a title for it in Field Name, and associate it to a tag if needed.
+
+### Radio
+
+A single-choice field (commonly known as “radio button”). For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
+
+![](https://files.readme.io/9324e15cd3ed883a10133f86b54f5d2783696fc12e18abf54b59d9d48d81bc8c-162A8953-417B-47CD-AF9A-98340E362379.png)
+
+How to setup: Write a title for it in the Field Name, and add comma separated values in Values.
+
+![](https://files.readme.io/fc993f0be8af548c3d78ec78fe357816e332f22457278a4aea332f0501c2eb2b-9193E42B-0AAF-4950-A5B8-0B0AC270EB70.png)
+
+Also, you can activate the "conditional" option to display additional fields based on previous user choices in other sections of the form. \[Please explain use cases\[
+
+### Read-only
+
+Displays text that cannot be edited by the user.
+
+![](https://files.readme.io/894938c771351f46a40720c8b61512614b408225462fe2f9984d55cafbe29bdf-49DFF148-B714-405F-8A35-EA35551DE400.png)
+
+How to setup: Write a name in the "Field name" field and add the text in "Values". Mark the "include" value if you want it to be visible in the forms.
+
+### Scan
+
+Allows the user to scan a QR code or NFC tag.
+
+![](https://files.readme.io/883d60265bb006cc65d837c7c65b25bf5a7fac32e7731d4f6ce7d3779829e486-8D75C50B-51DA-4C95-AC29-494BCA97DFF9.png)
+
+How to setup: Write a title for it in Field Name.
+
+### Select
+
+Lets the user pick an option from a drop-down list. For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
+
+![](https://files.readme.io/00ed5510f4593ac56daa72fb6d24b570ad4eeb5750a7139b108315211f6fe2ff-2A66DBE8-CC71-4ED4-8FBE-0FBC5A5BEF94.png)
+
+Also, you can activate the "conditional" option to display additional fields based on previous user choices in other sections of the form. \[Please explain use cases\[
 
 ***
 
