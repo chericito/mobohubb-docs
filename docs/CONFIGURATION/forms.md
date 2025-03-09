@@ -149,14 +149,17 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 ## Edit Forms or Checklists
 
 1. **Select** the form(s) or checklist(s) to modify
+
    * You can use filters to locate the one you want.
-   * **Note:** Only one form/checklist can be edited at a time.\
-     ![](https://files.readme.io/a7505a5122393d4ab5428b54f22a02ea69facb4a1f50d7d10242b30000f8ee52-image.png)
+   * **Note:** Only one form/checklist can be edited at a time.
 
-2. **Click** **“Edit.”**\
-   ![](https://files.readme.io/b4f598273f33b184f11826cdcd2572d56c635888c1e338e8b6a6099706b0cfe3-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7505a5122393d4ab5428b54f22a02ea69facb4a1f50d7d10242b30000f8ee52-image.png" />
 
-3. **Modify** the current data
+2. **Click** **“Edit.”**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b4f598273f33b184f11826cdcd2572d56c635888c1e338e8b6a6099706b0cfe3-image.png" />
+
+1. **Modify** the current data
    * **Form Information**: Update prefix, name, tags, visibility, or assigned users.\
      ![](https://files.readme.io/420a42bbd4821b182f6842909e9cdf555bf56f0c0c7e15b34c268148dfdefe7f-image.png)
    * **Form Fields**: Add or remove fields, change field types, names, mandatory status, or conditional settings.\
@@ -164,7 +167,7 @@ Once complete, your **form or checklist** can be accessed by the selected users,
    * **Advanced Options**: Adjust GPS usage, site map, media settings, or immediate notification preferences.\
      ![](https://files.readme.io/64d50f5b4e8c92912fa845384d628f1c313a1d0f1aa8cffc190448119b892634-image.png)
 
-4. **Save and Preview**
+2. **Save and Preview**
    * When you click **“Save,”** you’ll automatically see a **smartphone preview** of how the form/checklist looks on mobile.
    * **Close** the preview to return to **Forms/Checklists Management**.\
      ![](https://files.readme.io/6b06f804e42a89c6d3fdc6d2d9be843fcbde461c4b3a0a34262e4986c343274f-image.png)
