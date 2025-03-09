@@ -90,27 +90,38 @@ Below is an overview of available field types for forms. Each field type defines
 
 * **Add New Fields**: By default, one field exists. Click **“Add new”** to add more.
 * **Configure Field Type**: Choose from text, date, time, select, checkbox, radio, signature, scan, etc.
-* **Name of the Field**: The label visible to users (e.g., “Employee ID,” “Comments”).
-* **Mandatory**: Mark fields as required (checkbox) or optional.
+* **Field Name**: The label visible to users (e.g., “Employee ID,” “Comments”).
+* **Required**: Mark fields as required (checkbox) or optional.
 * **Conditional Fields**: For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5160de7263bc5b3ffcacc5fd90fbea329d904b93712c8e47ca42876f3d5fe110-image.png" />
 
 5. **Click “Next”** to Go to “Advanced Options”
-   * Again, saves your changes and moves to the final **Advanced Options** tab.\
-     ![](https://files.readme.io/d7dec0b236911a4f7e9a0322471e86def43ce5aeb1c155c636ee13703981319b-image.png)
-6. **Fill In Advanced Options**\
-   ![](https://files.readme.io/5479781d7bd9ebc94c5a9c43e22eec6b642f9a4d47f1576441ed206713c9ef48-image.png)
 
-   * **GPS Coordinate**: Enable or disable geolocation for your form.
-   * **Site Map**: Upload an image as a reference at the top of the form.
-   * **Media Options**: Allow photos, audio, video, attachments, or scans.
-     * **Mandatory Media**: Check if a photo/audio/video is required or optional.
-     * **Camera/Gallery**: Let users capture media with their device or choose from gallery (or camera-only mode).
+   * Again, saves your changes and moves to the final **Advanced Options** tab.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/77e73fffeda7d853bd9df571213ddb0a3cfe4492a77348883e69e52951237b7c-image.png" />
-7. **Immediate Notification** *(Optional)*\
-   ![](https://files.readme.io/8c18184d76bbfa6272f3c8dcd6c8d79da7137ff87b77e0d5f600b382eb3100b5-image.png)
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d7dec0b236911a4f7e9a0322471e86def43ce5aeb1c155c636ee13703981319b-image.png" />
+
+   <br />
+6. **Fill In Advanced Options**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5479781d7bd9ebc94c5a9c43e22eec6b642f9a4d47f1576441ed206713c9ef48-image.png" />
+
+<br />
+
+* **GPS Coordinate**: Enable or disable geolocation for your form.
+* **Site Map**: Upload an image as a reference at the top of the form.
+* **Media Options**: Allow photos, audio, video, attachments, or scans.
+  * **Mandatory Media**: Check if a photo/audio/video is required or optional.
+  * **Camera/Gallery**: Let users capture media with their device or choose from gallery (or camera-only mode).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/77e73fffeda7d853bd9df571213ddb0a3cfe4492a77348883e69e52951237b7c-image.png" />
+
+5. **Immediate Notification** *(Optional)*
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c18184d76bbfa6272f3c8dcd6c8d79da7137ff87b77e0d5f600b382eb3100b5-image.png" />
 
 * Sends an **email alert** upon form submission.
 * Specify **recipients**, **subject**, **body**, **format** (PDF, HTML, Excel), and **attachment name**.
@@ -119,10 +130,14 @@ Below is an overview of available field types for forms. Each field type defines
 
 11. **Save** and **Activate Preview**
 
-* Finalize your form settings and see how it **looks** (especially on mobile).\
-  ![](https://files.readme.io/819c942cc0cd7dfd6686ad85666ddcb734083933b9dfedc5d7e20523edb53328-image.png)
+* Finalize your form settings and see how it **looks** (especially on mobile).
 
-> **Note:** The preview reflects how your form or checklist will appear in the **mobile application**.\
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/819c942cc0cd7dfd6686ad85666ddcb734083933b9dfedc5d7e20523edb53328-image.png" />
+
+<br />
+
+> **Note:** The preview reflects how your form or checklist will appear in the **mobile application**.
+>
 > ![](https://files.readme.io/c7313f74f2b1d550297ccd5f6a76bd7991b62cf9d3030ebe96b0c6958cfcce8b-image.png)
 
 Once complete, your **form or checklist** can be accessed by the selected users, who can fill it out according to its defined rules and constraints.
