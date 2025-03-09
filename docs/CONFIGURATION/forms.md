@@ -191,9 +191,15 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 ## Delete Forms or Checklists
 
 1. **Select** the items to remove
+
    * Use filters to find them easily.
-   * You can select **multiple** forms/checklists at once.\
-     ![](https://files.readme.io/ada95498d2eb7901d0f653b134024a24269b6a471e5cb7885012d227b24fda8b-image.png)
+   * You can select **multiple** forms/checklists at once.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ada95498d2eb7901d0f653b134024a24269b6a471e5cb7885012d227b24fda8b-image.png" />
+
+   <br />
 
 2. **Click “Delete.”**
    * All selected forms/checklists will be discarded.\
