@@ -186,3 +186,23 @@ To export forms/checklists (e.g., for archiving or analysis):
      ![](https://files.readme.io/fd4774fb2bf5eb163345201bffe5e167caa8c4d7ebb0d03209a30aa08ceea520-image.png)
 
 Once complete, you’ll have an Excel file containing all relevant data for your forms or checklists.
+
+## Import Forms and Checklists
+
+1. **Click** the "Import" button.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f8d134ccc7b2a3b329cff6675186eeb9e4279c50a1a73f05e33ed70276dfe1f5-FBD2CFA2-D598-4586-AC7B-2F745688CDD2.png" />
+
+2. **Press** "Download Template".
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/24c0f991b7e956102ba80f1afe574d149c6b606047d3cd082269f01d2a582077-88479D85-361C-4701-B98D-4BB10E2D2771.png" />
+
+3. **Fill** in the template.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e99e91eecbf9d90713b331f8107227866c7db7ac25b04e6324503a38d9a16163-6BD67DA0-4B7C-449A-B2C9-328ACFC466D7.png" />
+
+4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
+
+5. **Press** 'Save'.
