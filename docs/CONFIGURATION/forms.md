@@ -34,51 +34,53 @@ Below is an overview of available field types for forms. Each field type defines
 | **Email**        | Restricts input to a valid email format.                                                            |
 | **Hyperlink**    | Displays text that links to another web page or resource.                                           |
 | **Password**     | Masks user input for secure entry.                                                                  |
-| **Personnel**    | Shows a person’s name or role.                                                                      |
+| **Personnel**    | Shows a person’s name.                                                                              |
 | **Radio**        | A single-choice field (commonly known as “radio button”).                                           |
 | **Read-only**    | Displays text that cannot be edited by the user.                                                    |
 | **Scan**         | Allows the user to scan a QR code or NFC tag.                                                       |
 | **Select**       | Lets the user pick an option from a drop-down list.                                                 |
-| **Signature**    | Enables the user to draw or upload a signature.                                                     |
-| **Tags**         | Lets the user enter or select one or more tags or keywords.                                         |
+| **Signature**    | Enables the user to draw a signature.                                                               |
+| **Tags**         | Lets the user select one or more tags.                                                              |
 | **Text**         | A single-line free text input.                                                                      |
 | **Text area**    | A multi-line text field for longer inputs.                                                          |
 | **Time**         | Lets the user pick a time via an interactive clock.                                                 |
-| **User**         | Displays a username in a drop-down menu.                                                            |
 
 ***
 
 ## Add Forms or Checklists
 
-1. **Navigate to the Portal’s Top Menu**\
-   ![](https://files.readme.io/7bb76818925ec19d8c5ee4be1858c617c9891ea0df7c31fec25af5d756f0a697-image.png)
+1. **Navigate to the Portal’s Top Menu**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7bb76818925ec19d8c5ee4be1858c617c9891ea0df7c31fec25af5d756f0a697-image.png" />
 
 2. **Go to “General Settings”.**
-   * Click **Settings** (top menu) or use the side menu.\
-     ![](https://files.readme.io/2854be5e03f267054deac41012b3fc16d2a2f55209de2f1e18b525705d7e6903-image.png)
 
-3. **Select “Forms/Checklists”.**
+* Click **Settings** (top menu) or use the side menu.
+
+![](https://files.readme.io/2854be5e03f267054deac41012b3fc16d2a2f55209de2f1e18b525705d7e6903-image.png)
+
+2. **Select “Forms/Checklists”.**
    * Within **Configuration**, click **Forms/Checklists**.\
      ![](https://files.readme.io/76cf06273a528befb56196cfb14c886d88d4504ab7c6d2860096c5cd2f1da24b-image.png)
-
-4. **Click “Add New”.**\
+3. **Click “Add New”.**\
    ![](https://files.readme.io/fa419ada315e0908048636b1e2a17f33ef616884f23bd04f353a3e4d9d1b4b65-image.png)
+4. **Fill in the Form Information**
 
-5. **Fill in the Form Information**\
-   ![](https://files.readme.io/c4ad8226d197442dc503eb522e1a7a063f195d5a770d7667afad6778c46a3a74-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cd31e73981119942ee43cf5344937b20eb9c6b4d16e20c69aacbccfb1d46028-D0CE6BE8-7889-45D3-BF7A-3B66F2FD88C4.png" />
 
-   * **Prefix**: A short, unique code (letters, numbers, symbols).
-   * **Name**: The form’s title—clear and descriptive.
-   * **Tag**: Select a predefined tag if needed.
-   * **Visibility**: Choose **web app**, **mobile app**, or both.
-   * **Assign Users**: Decide who can fill out this form (individuals or groups).
-   * **Activate**: Check the box to enable the form immediately or leave it unchecked to hide it.
+* **Prefix**: A short, unique code (letters, numbers, symbols).
+* **Name**: The form’s title—clear and descriptive.
+* **Tag**: Select a predefined tag if needed.
+* **Visibility**: Choose **web app**, **mobile app**, or both.
+* **Assign Users**: Decide who can fill out this form (individuals or groups).
+* **Activate**: Check the box to enable the form immediately or leave it unchecked to hide it.
 
 6. **Click “Next”** to Go to “Form Fields”
-   * Saves your changes and moves you to the **Form Fields** tab.\
-     ![](https://files.readme.io/f47816874addb5432123e5e81a0aa20538d9cc333efcad74b70527e0b4ab9f5a-image.png)
 
-7. **Fill In the Form Fields**\
+* Saves your changes and moves you to the **Form Fields** tab.\
+  ![](https://files.readme.io/f47816874addb5432123e5e81a0aa20538d9cc333efcad74b70527e0b4ab9f5a-image.png)
+
+1. **Fill In the Form Fields**\
    ![](https://files.readme.io/bbb7f9908bd5b73e91aa5cc0d250022de564496116516f0ec3214e4b5069fd9f-image.png)
 
    * **Add New Fields**: By default, one field exists. Click **“Add new”** to add more.
@@ -89,11 +91,11 @@ Below is an overview of available field types for forms. Each field type defines
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5160de7263bc5b3ffcacc5fd90fbea329d904b93712c8e47ca42876f3d5fe110-image.png" />
 
-8. **Click “Next”** to Go to “Advanced Options”
+2. **Click “Next”** to Go to “Advanced Options”
    * Again, saves your changes and moves to the final **Advanced Options** tab.\
      ![](https://files.readme.io/d7dec0b236911a4f7e9a0322471e86def43ce5aeb1c155c636ee13703981319b-image.png)
 
-9. **Fill In Advanced Options**\
+3. **Fill In Advanced Options**\
    ![](https://files.readme.io/5479781d7bd9ebc94c5a9c43e22eec6b642f9a4d47f1576441ed206713c9ef48-image.png)
 
    * **GPS Coordinate**: Enable or disable geolocation for your form.
@@ -104,8 +106,8 @@ Below is an overview of available field types for forms. Each field type defines
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/77e73fffeda7d853bd9df571213ddb0a3cfe4492a77348883e69e52951237b7c-image.png" />
 
-10. **Immediate Notification** *(Optional)*\
-    ![](https://files.readme.io/8c18184d76bbfa6272f3c8dcd6c8d79da7137ff87b77e0d5f600b382eb3100b5-image.png)
+4. **Immediate Notification** *(Optional)*\
+   ![](https://files.readme.io/8c18184d76bbfa6272f3c8dcd6c8d79da7137ff87b77e0d5f600b382eb3100b5-image.png)
 
 * Sends an **email alert** upon form submission.
 * Specify **recipients**, **subject**, **body**, **format** (PDF, HTML, Excel), and **attachment name**.
