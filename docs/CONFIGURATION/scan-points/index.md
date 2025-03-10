@@ -120,7 +120,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
    * You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
-   * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC useless.
+   * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC configuration useless.
 
    <br />
 
