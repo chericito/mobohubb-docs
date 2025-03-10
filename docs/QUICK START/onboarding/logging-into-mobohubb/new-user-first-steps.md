@@ -65,7 +65,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
 
 # Setting up Your mobohubb
 
-When you first log in, you’ll see a setup walkthrough in the top menu. Each of the **5 steps** must be completed before asking mobile users to access the app. Select the green check circle on the left side as you finish each step to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your mobohubb menu will be fully set up.
+When you first log in, you’ll see a setup walkthrough in the top menu. Each of the **5 steps** should be completed before asking mobile users to access the app. The prompt will disappear when these steps are completed. Select the green check circle on the left side as you finish each step to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your mobohubb menu will be fully set up.
 
 ## Customize Your Brand
 
