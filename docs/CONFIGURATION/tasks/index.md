@@ -116,12 +116,18 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 ## Delete Tasks
 
 1. **Check** the Task(s) to Remove
-   * You can select **multiple** tasks at once.\
-     ![](https://files.readme.io/b37ee96235fe174913f67d25ad2436bd744f6934343bbf3e83bd854774ff849d-image.png)
+
+   * You can select **multiple** tasks at once.
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b37ee96235fe174913f67d25ad2436bd744f6934343bbf3e83bd854774ff849d-image.png" />
 
 2. **Click “Delete”.**
-   * All checked tasks will be discarded.\
-     ![](https://files.readme.io/18e517c4eae71e500e1a3283315a730f37389e68fbf3153794cbd5f0555ef9d4-image.png)
+
+   * All checked tasks will be discarded.
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/18e517c4eae71e500e1a3283315a730f37389e68fbf3153794cbd5f0555ef9d4-image.png" />
+
+   <br />
 
 3. **Confirm and Close**
    * Verify the count of tasks matches what you intend to remove.
