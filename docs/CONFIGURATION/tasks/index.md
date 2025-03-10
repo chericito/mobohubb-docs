@@ -93,31 +93,25 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 ## Edit a Task
 
-1. **Navigate** to the Portal’s Top Menu\
-   ![](https://files.readme.io/e3eb21c0e672aa46b6ea885ba9a62ce70b6a4079be0efae679388cce0c599162-image.png)
+1. **Check** the Task to Edit
 
-2. **Go** to **“General Settings.”**
-   * Click **Settings** in the top menu (or use the side menu).\
-     ![](https://files.readme.io/2e8847c41a97b779efec80eae6c348a0f1f936e9592f16c9154c198fd8a17332-image.png)
+   * Only **one** task can be edited at a time.
 
-3. **Select “Task”.**
-   * Within **Configuration**, click **Task**.\
-     ![](https://files.readme.io/bb809679162de7a767948b27d360520f3a0788a4ba8ef83fd6417856d86c53a0-image.png)
+   <br />
 
-4. **Check** the Task to Edit
-   * Only **one** task can be edited at a time.\
-     ![](https://files.readme.io/a7baf812c53ce309651f2d0d658df12a7ab325da9a90a66ff8e204d1c6629b13-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7baf812c53ce309651f2d0d658df12a7ab325da9a90a66ff8e204d1c6629b13-image.png" />
 
-5. **Click “Edit”.**\
-   ![](https://files.readme.io/5c79a86c9d3e3ad9d3da0a46e0f616b23015e79df3500b63b090dd818a1a4af8-image.png)
+2. **Click “Edit”.**
 
-6. **Modify** the Task Data
+![](https://files.readme.io/5c79a86c9d3e3ad9d3da0a46e0f616b23015e79df3500b63b090dd818a1a4af8-image.png)
+
+1. **Modify** the Task Data
 
    * Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/09a04f7f170f5bc06b8c523c752f859ee574eeec3b77f4643beb86620f57f31c-image.png" />
 
-7. **Save and Close**\
+2. **Save and Close**\
    ![](https://files.readme.io/61ccf5c52dcb02853473791dca45438109b040a5f5d5f551c334771fdbe486f9-image.png)
 
 ***
