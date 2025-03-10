@@ -95,7 +95,7 @@ You can attach any **pre-created certifications** to a user’s profile in their
 
 > **Note:** Large files may be routed to your **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** section on the platform.
 
-## Import
+## Import Certifications
 
 1. **Click** the "Import" button.
 
