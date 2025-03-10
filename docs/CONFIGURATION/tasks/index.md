@@ -87,10 +87,9 @@ Tasks are goals or actions that employees carry out as part of their job duties.
    <Image align="center" className="border" border={true} src="https://files.readme.io/d97f18a0592e4c5ed98b59dc7d441d7cc6fa12b3ffa6ac358e8ab46eec268ad9-image.png" />
 
    <br />
-4. **Save and Close**\
-   ![](https://files.readme.io/497748ced41cfba3c0a0382de345666b6260d5e0f751b41e22ab028ecb71edad-image.png)
+4. **Save and Close**
 
-***
+<Image align="center" className="border" border={true} src="https://files.readme.io/497748ced41cfba3c0a0382de345666b6260d5e0f751b41e22ab028ecb71edad-image.png" />
 
 ## Edit a Task
 
