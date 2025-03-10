@@ -166,8 +166,6 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
 * If you don’t wish to link anything, go to step 11.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b1e723a8fa4ccd74139b1b364391f6fb19e5fb079a6e9cc17f069c9c0759a726-image.png" />
-
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png" />
 
 &#x20;&#x20;
