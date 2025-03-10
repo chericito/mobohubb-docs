@@ -18,16 +18,14 @@ metadata:
 
 ## Using NFC Tags in mobohubb
 
-1. **Create or Update an NFC Tag**\
-   Treat your NFC tag as a **scan point** within mobohubb. Assign it a sequence or unique identifier (e.g., Location001, Location016) that aligns with your organization's numbering system. The factory ID remains unchanged.
+1. **Create or Update an NFC Tag**: Treat your NFC tag as a **scan point** within mobohubb. Assign it a sequence or unique identifier (e.g., Location001, Location016) that aligns with your organization's numbering system. The factory ID can not be changed.
 
-2. **Configure Unassigned Tags**\
-   If you have NFC tags that are not yet configured, simply **scan** them using the mobohubb mobile app. Then, **edit** the scan point’s name, description, and any other necessary details in the portal to ensure it is easily identifiable.
+2. **Configure Unassigned Tags**: If you have NFC tags that are not yet configured, simply **scan** them using the mobohubb mobile app. Then, **edit** the scan point’s name, description, and any other necessary details in the portal to ensure it is easily identifiable.
 
-   > **Example:**\
-   > **Scan-Point ID:** Location016
-   > **Description:** Lobby Entrance Tag
-   > **Coordinates:** Optional, if adding a GPS-based task
+> **Example:**\
+> **Scan-Point ID:** Location016
+> **Description:** Lobby Entrance Tag
+> **Coordinates:** Optional, if adding a GPS-based task
 
 ***
 
