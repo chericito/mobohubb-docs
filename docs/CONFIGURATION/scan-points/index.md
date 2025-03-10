@@ -263,7 +263,7 @@ Exporting scan points to an **Excel file** can help you manage data offline or s
 > **Note:**
 >
 > * If the file is **within size limits**, it will download directly to your computer.
-> * If it **exceeds size limits**, it will appear in the **“Downloads”** section on the platform.
+> * If it **exceeds size limits**, it will appear in the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** section on the platform.
 
 ## Import Scan Points
 
