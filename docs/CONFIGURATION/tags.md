@@ -40,16 +40,21 @@ Follow the steps below to **create** a new tag:
 
 2. **Go to “Settings”**
 
-* Click **Settings** in the top menu or use the **side menu**.\
-  ![](https://files.readme.io/3a5e8357a5b4bb4fdbc8bc23c5b71fe39678f00d016191e88c69d5212419c8f2-image.png)
+* Click **Settings** in the top menu.
 
-1. **Select “Tags”**
-   * Within **Configuration**, click **Tags**.\
-     ![](https://files.readme.io/3e57d93a2ad8145a5dd9be4088ad5eddccb305ee5a32c6e9ccafef94b8a25348-image.png)
-2. **Click “Add New.”**
-   * You’ll find this button below the site administration menu.\
-     ![](https://files.readme.io/8f1c89ca02b42a68802e3644539f6e54d75226873de1f4e0267c5793827934a5-image.png)
-3. **Fill in the Fields**\
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3a5e8357a5b4bb4fdbc8bc23c5b71fe39678f00d016191e88c69d5212419c8f2-image.png" />
+
+3. **Select “Tags”**
+
+* Within **Configuration**, click **Tags**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3e57d93a2ad8145a5dd9be4088ad5eddccb305ee5a32c6e9ccafef94b8a25348-image.png" />
+
+4. **Click “Add New”.**
+
+![](https://files.readme.io/8f1c89ca02b42a68802e3644539f6e54d75226873de1f4e0267c5793827934a5-image.png)
+
+4. **Fill in the Fields**\
    ![](https://files.readme.io/dda5c3282cf729059a2bd4b027de164ff913955289df36d361e02193529b37c3-image.png)
 
    * **Category**: Determines where the tag can be applied. “Normal” means it can be used with any feature.
@@ -58,7 +63,7 @@ Follow the steps below to **create** a new tag:
    * **Activate**: Check the box to enable the tag.
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/54c2ab7d7ddfe8e539aabefb6f95f0e315fee6f821a1002375bbd51eb8a74e8f-image.png" />
-4. **Fill Optional Information** *(Optional)*
+5. **Fill Optional Information** *(Optional)*
 
    * **Click** the **(+)** button in the tags interface to expand optional fields:
      * **City**
@@ -68,7 +73,7 @@ Follow the steps below to **create** a new tag:
 
    ![](https://files.readme.io/34a193a052ce59022610cd71366c600e8e14eb192ab27a116a7f02fd11d42ab3-image.png)\
    ![](https://files.readme.io/794f33e288ac9bc70a4edb1d5fba1424389ea2c59571472b7206c356d21b8249-image.png)
-5. **Save and Close**\
+6. **Save and Close**\
    ![](https://files.readme.io/50355a47b3e4cf3b6c4867d88ac8d2395d11337d7ae78f7c5c373a6893d44172-image.png)
 
    > **Note:** When adding optional info, the **Save** button will appear below that section.\
