@@ -231,7 +231,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-2. **Create** a prefix
+2. **Create** a prefix *(Optional)*
    * **Assign** a short code to identify your form (letters, numbers, or symbols).
 
 3. **Name** the form
