@@ -125,12 +125,15 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
 To export existing tags in **Excel format**:
 
-1. **Click “Export.”**\
-   ![](https://files.readme.io/064672e9eb12aaf34bf06c370af3dc1937973a5326acab959d57e2aa77157786-image.png)
+1. **Click “Export”.**
 
-2. **Choose** which data to export
-   * **All Information** or **Only Current View**.\
-     ![](https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/064672e9eb12aaf34bf06c370af3dc1937973a5326acab959d57e2aa77157786-image.png" />
+
+2. **Choose** which data to export.
+
+* **Export Data** or **Export Current View**.
+
+![](https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png)
 
 A file in Excel format will be downloaded if it’s within the **size limit**.
 
