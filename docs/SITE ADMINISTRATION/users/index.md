@@ -77,7 +77,7 @@ To add a new user:
 
 10. The person will receive an email or SMS (depending on their chosen method) with a link to confirm their registration.
 
-<Image align="center" width="60% " src="https://files.readme.io/c8bd9dc30747d536f6056eab277864def8646a46f5304e8fca051a101cc3e649-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/c8bd9dc30747d536f6056eab277864def8646a46f5304e8fca051a101cc3e649-image.png" />
 
 <br />
 
