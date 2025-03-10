@@ -52,7 +52,23 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/012b78181d5f3bdabd4fbe8a1e58c6bdad8de8aba1a1f2d4b84342f6784eb7c6-image.png" />
 
-## Configure the Geo Task
+<br />
+
+## Coordinates and Addresses
+
+You can easily enter a complete address (for example, "123 Creed Avenue, 11809") or use coordinates for precision. The system supports both standard mailing addresses and Google Maps addresses, as well as coordinates with longitude and latitude separated by commas.
+
+**Addresses:**
+
+Input the full address in the designated field. This can be a standard mailing address or one obtained from Google Maps.
+
+**Coordinates:**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/256ff2a55a3ce1c6ecb8767ec7cd8f3606567726c01ef99a9fe2bb6d3ef5ef36-Screenshot_2025-03-05_at_10.23.15_PM.png" />
+
+Enter coordinates as two numbers (longitude, latitude) separated by a comma. You can obtain these coordinates by using a map service like Google Maps—simply select a location and copy the provided coordinates.
+
+# Configure the Geo Task
 
 1. **Fill in Fields**
    * **Name**: A descriptive title for the task.
