@@ -107,9 +107,15 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
    <br />
 
-2. **Click “Delete.”**
-   * All selected tags will be discarded.\
-     ![](https://files.readme.io/70edcc6d07b72f396a4b4363452f3a35985417bccdd19d56e4d69020a7ef6b7d-image.png)
+2. **Click “Delete”.**
+
+   * All selected tags will be discarded.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/70edcc6d07b72f396a4b4363452f3a35985417bccdd19d56e4d69020a7ef6b7d-image.png" />
+
+   <br />
 
 3. **Confirm**
    * Verify the count of tags to be deleted.
