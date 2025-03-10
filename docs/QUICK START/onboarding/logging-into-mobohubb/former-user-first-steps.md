@@ -98,13 +98,6 @@ In the previous system, users accessed the app with a **domain and pin**. Now, *
 <br />
 
 4. **Click** **"Save".**
-
-You’ll be redirected to the **“Security”** tab.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1f0194c7f06d80b8792c7c957706742de9a20232a91d776a7d35b1fd6dc64586-image.png" />
-
-<br />
-
 5. **Close** when finished.
 
 > **Note:** Repeat for each user until all data is updated.
