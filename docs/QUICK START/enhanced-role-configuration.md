@@ -5,7 +5,7 @@ excerpt: >-
   configuration system. Learn how to create, customize, and assign roles with
   color-coded identification.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
