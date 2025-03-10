@@ -138,14 +138,21 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 ## Export Tasks
 
 1. **Go** to “Task”
-   * Within **Configuration**, click **Task**.\
-     ![](https://files.readme.io/20343e267e33b9b8ca9fbcbf82ddf8438f48021af47832643d42670016fab324-image.png)
 
-2. **Click “Export”.**\
-   ![](https://files.readme.io/62c244019626a8ce5f23b3fd2a5aa0feb514302bf1f523e2cd954fbe437112af-image.png)
+   * Within **Configuration**, click **Task**.
 
-3. **Choose** Which Data to Export
-   * **All Information** or only the **Current View**.\
-     ![](https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/20343e267e33b9b8ca9fbcbf82ddf8438f48021af47832643d42670016fab324-image.png" />
+
+   <br />
+
+2. **Click “Export”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/62c244019626a8ce5f23b3fd2a5aa0feb514302bf1f523e2cd954fbe437112af-image.png" />
+
+3. **Choose** Which Data to Export.
+
+* **Export Data** or **Export Current View**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png" />
 
 > **Note:** An Excel file will download if it’s **within size limits**. If it exceeds the limit, it appears in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform.
