@@ -27,7 +27,7 @@ Tags are powerful labels that help you organize and filter data in the Mobohubb 
 
 * **How to create new tags** with names, colors, and optional location information
 * **How to edit and delete** existing tags to keep your workspace tidy
-* **How to export tags** for reporting or sharing purposes
+* **How to export and import tags** for reporting or sharing purposes
 * **How to associate tags** with different features (tasks, scan points, forms) to enhance your data organization
 
 ## Add New Tags
@@ -99,26 +99,19 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
 ## Delete Tags
 
-1. **Navigate** to the Portal’s Top Menu\
-   ![](https://files.readme.io/3418b0a619e33d8346d7eff40880078a107fdb986bb9433238e6092bc032c4cc-image.png)
+1. **Check** the tags you wish to remove
 
-2. **Go to “General Settings.”**
-   * Click **Settings** in the top menu (or use the **side menu**).\
-     ![](https://files.readme.io/99374847375322ce1913d54c271cfdde15791fd709bb44ad733a97f50bb614e9-image.png)
+   * You can select **multiple** tags at once.
 
-3. **Select “Tags.”**
-   * Within **Configuration**, click **Tags**.\
-     ![](https://files.readme.io/bbec2ae2c22adb6a469fc6df590a8cc0a709d54ec74b6e2a0432422d6c98adcc-image.png)
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4786754748855630def757faf1056a0f140a0585a6b21276b2aa02bcaf27d439-image.png" />
 
-4. **Check** the tags you wish to remove
-   * You can select **multiple** tags at once.\
-     ![](https://files.readme.io/4786754748855630def757faf1056a0f140a0585a6b21276b2aa02bcaf27d439-image.png)
+   <br />
 
-5. **Click “Delete.”**
+2. **Click “Delete.”**
    * All selected tags will be discarded.\
      ![](https://files.readme.io/70edcc6d07b72f396a4b4363452f3a35985417bccdd19d56e4d69020a7ef6b7d-image.png)
 
-6. **Confirm**
+3. **Confirm**
    * Verify the count of tags to be deleted.
    * Click **Delete** to finalize.
 
