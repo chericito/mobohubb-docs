@@ -7,7 +7,7 @@ excerpt: >-
   like My Activity, Chat, Knowledge Base, and App Info to optimize user
   experience.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
