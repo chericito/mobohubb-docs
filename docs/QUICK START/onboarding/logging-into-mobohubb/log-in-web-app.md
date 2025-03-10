@@ -34,4 +34,4 @@ metadata:
 
 5. **Complete the login**: If this is your first time logging in, you will see a Set-up Wizard. Otherwise, you will access the web portal directly.
 
-> **Note:** The login window also includes a **Recover your password** feature if you need to reset your credentials.
+> **Note:** The login window also includes a **[Recover your password](https://mobohubb.readme.io/docs/recover-password#/)** feature if you need to reset your credentials.
