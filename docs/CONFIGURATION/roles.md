@@ -310,13 +310,12 @@ To bulk upload roles:
 
 ***
 
-## **Activate or Deactivate Roles**
+## Activate or Deactivate Roles
 
 To enable or disable existing roles:
 
-1. **Go to "Roles" in General Settings.**
-2. **Select the roles you wish to modify.**
-3. **Choose "Activate" or "Deactivate".**
+1. **Select the roles you wish to modify.**
+2. **Choose "Activate" or "Deactivate".**
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/741d4f9fb8cd0b5991cd293fb4c4d2cbe44bd69e50a0eb209d4a75ffa901daa2-image.png" />
 
