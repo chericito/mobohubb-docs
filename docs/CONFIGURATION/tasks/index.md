@@ -156,3 +156,25 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png" />
 
 > **Note:** An Excel file will download if it’s **within size limits**. If it exceeds the limit, it appears in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform.
+
+***
+
+## Import Tasks
+
+1. **Click** the "Import" button.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6c951c1ddf22f2c96c203f6acbd2a0e6a105978be63761100ac224d040636810-2F31FFD4-FB40-460E-8E12-403F1DDFD8B1.png" />
+
+2. **Press** "Download Template".
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/24c0f991b7e956102ba80f1afe574d149c6b606047d3cd082269f01d2a582077-88479D85-361C-4701-B98D-4BB10E2D2771.png" />
+
+3. **Fill** in the template.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/1bc4c0218b85157544748509bf47a93b720d213035c01a0677000b6013b261f4-D268B588-B228-44EB-8422-BF7B272D5EC4.png" />
+
+4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
+
+5. **Press** 'Save'.
