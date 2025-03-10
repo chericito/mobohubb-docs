@@ -151,7 +151,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 3. **Choose** Which Data to Export.
 
-* **Export Data** or **Export Current View**.
+* **Export Data** or **Export Current View**. You can also export a selection by checking their box.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png" />
 
