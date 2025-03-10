@@ -336,7 +336,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png" />
 
-3. **Fill** in the phone number and email address fields.
+3. **Fill** in the phone number and email address fields. The phone
 
 > **Note:** The user’s email address will be the username.
 
