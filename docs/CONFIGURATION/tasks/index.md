@@ -163,7 +163,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 1. **Click** the "Import" button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6c951c1ddf22f2c96c203f6acbd2a0e6a105978be63761100ac224d040636810-2F31FFD4-FB40-460E-8E12-403F1DDFD8B1.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8150282dc7db9845cea59034c56ad1739b1ec88330952c1421f37b2ac32905cc-3573BEC8-405C-45B2-9CCD-A288B7C819B1.png" />
 
 2. **Press** "Download Template".
 
@@ -171,7 +171,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 3. **Fill** in the template.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/1bc4c0218b85157544748509bf47a93b720d213035c01a0677000b6013b261f4-D268B588-B228-44EB-8422-BF7B272D5EC4.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e8a6e9b26c2f6b4a0d7b96e4b5dfceb5b728f4f074dc32ca45946e1f4f215476-40D270E1-EB52-471F-868D-0CF71EAFEBA6.png" />
 
 4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
 
