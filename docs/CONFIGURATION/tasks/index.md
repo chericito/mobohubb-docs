@@ -73,7 +73,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6aed08f3f34fe6d270eeca26481e43d3768520166acdb6ec70083c6ae16f9526-image.png" />
 2. **Activate GPS** *(Optional)*
 
-   * Checking this box makes it a **Geo-task**, requiring a completed site and specifying **GPS coordinates**.
+   * Checking this box makes it a **[Geo-task](https://mobohubb.readme.io/docs/geo-tasks#/)**, requiring a completed site and specifying **GPS coordinates**.
 
    <br />
 
