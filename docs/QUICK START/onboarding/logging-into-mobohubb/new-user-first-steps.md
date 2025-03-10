@@ -260,7 +260,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <Image align="center" className="border" border={true} src="https://files.readme.io/e0ed25751b8f81ba9ee70275f461865186aafe6d61d58dc53aa65bf69673f21d-image.png" />
 
-2. **Configure** the type of field
+2. **Configure** the [type of field](https://mobohubb.readme.io/docs/forms#/field-types-setup)
 
 * In the configuration area on the right, choose a [field type](https://mobohubb.readme.io/docs/forms#/forms-field-descriptions) (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
 
