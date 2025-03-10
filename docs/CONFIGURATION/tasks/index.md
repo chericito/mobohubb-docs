@@ -178,3 +178,15 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
 
 5. **Press** 'Save'.
+
+## Activate or Deactivate Tasks
+
+1. **Select** one or more tasks that share the **same status** (either all active or all inactive).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6bfa5c43473b3d47d18f789786d15e012576479ba6e724558dda28165080c7b3-24939E70-525E-4316-B356-718C0760789F.png" />
+
+> **Note:** You cannot modify multiple tasks at once if they have different statuses.
+
+2. **Press** the **Deactivate** button if the selection is currently active, or **Activate** if the selection is inactive.
+
+This approach keeps skill records consistent and makes it easier to manage employee abilities in **mobohubb**.
