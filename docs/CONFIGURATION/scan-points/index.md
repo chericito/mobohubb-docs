@@ -62,7 +62,7 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 3. **Fill in the QR Code ID**
 
-* Use a unique, sequential identifier (e.g., `Location001`, `Location016`). This ID will help you organize and differentiate scan points.
+* Use a unique, sequential identifier that matches the QR. (e.g., `Location001`, `Location016`). This ID will help you organize and differentiate scan points.
 * Refer to **[How to create a QR code](#)** for details on generating the actual QR image.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png" />
