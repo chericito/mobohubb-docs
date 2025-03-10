@@ -27,31 +27,36 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 1. **Navigate** to the Portal’s Top Menu.
 
-![](https://files.readme.io/501f0c70541c3c40aa347d3dda3b514c095fc3fbb6a238da1ebcbaa82f158f9d-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/501f0c70541c3c40aa347d3dda3b514c095fc3fbb6a238da1ebcbaa82f158f9d-image.png" />
 
-1. **Go** to **“General Settings”.**
-   * Click **Settings** in the top menu (or use the side menu).\
-     ![](https://files.readme.io/5e979b5cdb3f482de8e35cc422f8be622901fbbfbf2cd927365df1bb24a66cb9-image.png)
+2. **Go** to **“General Settings”.**
 
-2. **Select “Tasks”.**
-   * Within **Configuration**, click **Tasks**.\
-     ![](https://files.readme.io/81094794c2ce8fa4a5084a6cf86564cb1bbfe972f6900978603694905c903a5a-image.png)
+* Click **Settings** in the top menu (or use the side menu).
 
-3. **Click “Add New”.**\
-   ![](https://files.readme.io/7190cb1164a2898be2ab360016aefa7fe98ddc70f45aed14be96107b180e4c12-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e979b5cdb3f482de8e35cc422f8be622901fbbfbf2cd927365df1bb24a66cb9-image.png" />
 
-4. **Fill** in the Task Form
+3. **Select “Tasks”.**
 
-   * **Name**: Provide a descriptive name.
-   * **Sequence**: Assign a unique, sequential number to order tasks.
-   * **Tag**: Select a predefined tag from the [Tags](https://mobohubb.readme.io/docs/tags#/) section (optional).
-   * **Assign Users**: Choose the individuals or groups responsible for the task.
-   * **Description**: Include details like location or instructions.
-   * **Meta Data**: Add any extra info by specifying a **meta name** (label) and **meta value** (content).
+* Within **Configuration**, click **Tasks**.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/144c4d1209cc64e75088a3e92fe17aafb29ed6ed92d63002f5178320dd431c41-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/81094794c2ce8fa4a5084a6cf86564cb1bbfe972f6900978603694905c903a5a-image.png" />
 
-5. **Set** the Task Type
+4. **Click “Add New”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7190cb1164a2898be2ab360016aefa7fe98ddc70f45aed14be96107b180e4c12-image.png" />
+
+5. **Fill** in the Task Form
+
+* **Name**: Provide a descriptive name.
+* **Sequence**: Assign a unique, sequential number to order tasks.
+* **Tag**: Select a predefined tag from the [Tags](https://mobohubb.readme.io/docs/tags#/) section (optional).
+* **Assign Users**: Choose the individuals or groups responsible for the task. If left blank, it will be available for everyone.
+* **Description**: Include details like location or instructions.
+* **Meta Data**: Add any extra info by specifying a **meta name** (label) and **meta value** (content).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/144c4d1209cc64e75088a3e92fe17aafb29ed6ed92d63002f5178320dd431c41-image.png" />
+
+1. **Set** the Task Type
 
    * **Scan**: Requires scanning a QR/NFC to complete.
 
@@ -61,19 +66,28 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
    * **Manual**: Appears as a checkbox in the app.
 
+   <br />
+
    > **Note**: For a **Report** task, you must have an **active** form created beforehand.
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6aed08f3f34fe6d270eeca26481e43d3768520166acdb6ec70083c6ae16f9526-image.png" />
+2. **Activate GPS** *(Optional)*
 
-6. **Activate GPS** *(Optional)*
-   * Checking this box makes it a **Geo-task**, requiring a completed site and specifying **GPS coordinates**.\
-     ![](https://files.readme.io/53aeb7a964ca0c00c3186baaab91618537181af7d622144024ee72fc4866a7ca-image.png)
+   * Checking this box makes it a **Geo-task**, requiring a completed site and specifying **GPS coordinates**.
 
-7. **Show the Task as Active**
-   * Check this box to enable the task. Uncheck to hide it temporarily.\
-     ![](https://files.readme.io/d97f18a0592e4c5ed98b59dc7d441d7cc6fa12b3ffa6ac358e8ab46eec268ad9-image.png)
+   <br />
 
-8. **Save and Close**\
+   <Image align="center" className="border" border={true} src="https://files.readme.io/53aeb7a964ca0c00c3186baaab91618537181af7d622144024ee72fc4866a7ca-image.png" />
+
+   <br />
+3. **Show the Task as Active**
+
+   * Check this box to enable the task. Uncheck to hide it temporarily.
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/d97f18a0592e4c5ed98b59dc7d441d7cc6fa12b3ffa6ac358e8ab46eec268ad9-image.png" />
+
+   <br />
+4. **Save and Close**\
    ![](https://files.readme.io/497748ced41cfba3c0a0382de345666b6260d5e0f751b41e22ab028ecb71edad-image.png)
 
 ***
