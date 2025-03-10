@@ -130,9 +130,8 @@ Tasks are goals or actions that employees carry out as part of their job duties.
    <br />
 
 3. **Confirm and Close**
-   * Verify the count of tasks matches what you intend to remove.
-   * Click **Delete** to finalize.\
-     ![](https://files.readme.io/90b2f0923d46864a606aadfbbe64d8ea6760c36144481a5bbb24003e52a477c5-image.png)
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/90b2f0923d46864a606aadfbbe64d8ea6760c36144481a5bbb24003e52a477c5-image.png" />
 
 ***
 
