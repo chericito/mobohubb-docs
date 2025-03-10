@@ -158,3 +158,13 @@ A file in Excel format will be downloaded if it’s within the **size limit**.
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
 
 5. **Press** 'Save'.
+
+## Activate or Deactivate Tags
+
+1. **Select** one or more tags that share the **same status** (either all active or all inactive).
+
+> **Note:** You cannot modify multiple Tags at once if they have different statuses.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/bd9a9a713abc8a6842d59aaa2cb9178708c016be572271273b87d1edc37e2d3e-5E234385-D4D1-4D91-942E-7BAEE791D14B.png" />
+
+2. **Press** the **Deactivate** button if the selection is currently active, or **Activate** if the selection is inactive.
