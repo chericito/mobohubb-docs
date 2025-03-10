@@ -105,14 +105,13 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c79a86c9d3e3ad9d3da0a46e0f616b23015e79df3500b63b090dd818a1a4af8-image.png" />
 
-1. **Modify** the Task Data
+3. **Modify** the Task Data
 
-   * Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
+* Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/09a04f7f170f5bc06b8c523c752f859ee574eeec3b77f4643beb86620f57f31c-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/09a04f7f170f5bc06b8c523c752f859ee574eeec3b77f4643beb86620f57f31c-image.png" />
 
-2. **Save and Close**\
-   ![](https://files.readme.io/61ccf5c52dcb02853473791dca45438109b040a5f5d5f551c334771fdbe486f9-image.png)
+4. **Save your changes**
 
 ***
 
