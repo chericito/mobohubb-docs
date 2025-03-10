@@ -11,7 +11,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Tags are powerful labels that help you organize and filter data in the Mobohubb portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, apply unique actions, and simplify how you handle multiple sites or projects under a single account.
+Tags are powerful labels that help you organize and filter data in the Mobohubb portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, and apply unique actions.
 
 ***
 
@@ -73,7 +73,7 @@ Follow the steps below to **create** a new tag:
      * **Zip code**
      * **Address**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/a0e73b628dd43a1c85b4b6ae467c9b723bdb32dab76ed60cfced0c7c659d58b3-983D0C82-AC49-4658-9BE7-0EDBF5A4DB45.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a0e73b628dd43a1c85b4b6ae467c9b723bdb32dab76ed60cfced0c7c659d58b3-983D0C82-AC49-4658-9BE7-0EDBF5A4DB45.png" />
 
 4. **Save and Close**
 
@@ -81,28 +81,21 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
 ## Edit a Tag
 
-1. **Navigate** to the Portal’s Top Menu\
-   ![](https://files.readme.io/95a4332135d75ce8a674b7ca2c112a0cae4ab0e8d47e895e5d90d03773e7b952-image.png)
+1. **Check** the tag you wish to modify
 
-2. **Go to “General Settings”.**
-   * Click **Settings** in the top menu (or use the **side menu**).\
-     ![](https://files.readme.io/62f1e972f99b9d541eab4359d03e54483f9486b2e12d820be66e420742378a01-image.png)
+> **Note:** Only one tag can be edited at a time.
 
-3. **Select “Tags”.**
-   * Within **Configuration**, click **Tags**.\
-     ![](https://files.readme.io/ad270d6aacfe25ff3dcf8cc2ecaa123f7d012b594d7ae735796c8f7380d6af96-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b4348e54279883592a63f10843bd705687e69e50f719eadac642d3c5cc9ed94f-image.png" />
 
-4. **Check** the tag you wish to modify
-   * **Note:** Only one tag can be edited at a time.\
-     ![](https://files.readme.io/b4348e54279883592a63f10843bd705687e69e50f719eadac642d3c5cc9ed94f-image.png)
+2. **Click “Edit”.**
 
-5. **Click “Edit.”**\
-   ![](https://files.readme.io/a6d971d6cc3f4bba15883aa67f69bfe286f06cbfc493e7103b748e02fdfa49e4-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6d971d6cc3f4bba15883aa67f69bfe286f06cbfc493e7103b748e02fdfa49e4-image.png" />
 
-6. **Update** the relevant data
-   * Change **category**, **name**, **color**, or optional details like **city**, **state**, **zip code**, and **address**.
+3. **Update** the relevant data.
 
-7. **Save** and **close**
+* Change **category**, **name**, **color**, or optional details like **city**, **state**, **zip code**, and **address**.
+
+4. **Save** and **close**
 
 ## Delete Tags
 
