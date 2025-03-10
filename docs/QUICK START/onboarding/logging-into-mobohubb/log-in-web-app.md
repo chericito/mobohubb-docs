@@ -1,5 +1,5 @@
 ---
-title: Log in Portal Web
+title: Log in Web Portal
 excerpt: >-
   Learn how to access the Mobohubb Portal for the first time, set up your
   credentials, and customize your environment.
@@ -14,13 +14,13 @@ metadata:
 
 ***
 
-# Log in the Web App
+# Log in the Web Portal
 
 1. Navigate to [app.mobohubb.com](https://app.mobohubb.com/).
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e2e033648945fdfabf4cb7243a8a1ee48e83e3a40137eebe6b6a66fca715cdf-image.png" />
 
-2. **Enter the portal user’s email**: Use the email with which you were registered or the email from which the subscription was made.
+2. **Enter the portal username**: Use the username with which you were registered or the email from which the subscription was made.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b50418a91c70356d07bf9328c4fe731e0263b9156a600793fdaae09dc5c13001-image.png" />
 
