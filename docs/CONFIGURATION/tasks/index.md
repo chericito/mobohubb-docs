@@ -93,7 +93,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 ## Edit a Task
 
-1. **Check** the Task to Edit
+1. **Check** the Task or **Click** the Task Name to Edit.
 
    * Only **one** task can be edited at a time.
 
