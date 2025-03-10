@@ -4,7 +4,7 @@ excerpt: >-
   Discover how to configure and manage color-coded tags in mobohubb for better
   data segmentation, easier searches, and efficient site management.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 next:
