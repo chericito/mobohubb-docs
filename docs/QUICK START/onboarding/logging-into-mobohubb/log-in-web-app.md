@@ -24,7 +24,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b50418a91c70356d07bf9328c4fe731e0263b9156a600793fdaae09dc5c13001-image.png" />
 
-3. **Use the current password**: This password was sent to the administrator’s email when the subscription was created.
+3. **Use the temporary password**: This password was sent to the administrator’s email when the subscription was created. If you didn't receive this email, please contact [support](https://mobohubb.zendesk.com/hc/en-us/requests/new).
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8d4b847ddf6d7f104768632308bc16bd311a25e95045bb4cab9047f3ffedcdfd-image.png" />
 
