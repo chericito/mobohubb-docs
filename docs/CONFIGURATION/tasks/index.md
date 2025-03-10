@@ -107,7 +107,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 * Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/09a04f7f170f5bc06b8c523c752f859ee574eeec3b77f4643beb86620f57f31c-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e74a8a85975aa750820e46796b07e9915c13736f08e1681e64582dcbd9ce464-9BB384EF-DBF2-47BA-B527-6B1F9E4E961B.png" />
 
 4. **Save your changes**
 
