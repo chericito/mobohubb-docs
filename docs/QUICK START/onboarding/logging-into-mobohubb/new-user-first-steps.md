@@ -202,7 +202,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 8. **Activate GPS** *(Optional)*
 
-   * **Turn** tasks into **Geo tasks** by enabling GPS. **This requires a completed site.**
+   * **Turn** tasks into **Geo tasks** by enabling GPS.
    * Once GPS is active, the “Task description” field changes to “Address” so you can define coordinates.
 
 9. **Save**
