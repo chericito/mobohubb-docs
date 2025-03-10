@@ -97,8 +97,6 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
    * Only **one** task can be edited at a time.
 
-   <br />
-
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7baf812c53ce309651f2d0d658df12a7ab325da9a90a66ff8e204d1c6629b13-image.png" />
 
 2. **Click “Edit”.**
