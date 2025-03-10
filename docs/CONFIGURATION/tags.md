@@ -133,7 +133,7 @@ To export existing tags in **Excel format**:
 
 * **Export Data** or **Export Current View**.
 
-![](https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png" />
 
 A file in Excel format will be downloaded if it’s within the **size limit**.
 
