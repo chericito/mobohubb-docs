@@ -62,25 +62,25 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 <br />
 
-1. **Select “Scan-Points Management”**
+3. **Select “Scan-Points Management”**
 
-   * Within **Configuration**, click on **Scan-Points**.
+* Within **Configuration**, click on **Scan-Points**.
 
-   <br />
+<br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
 
-   <br />
+<br />
 
-2. **Click “Add New”**
+4. **Click “Add New”**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/342fddd36289e74c1519f50a65489c3e9b6ec371a178536c7916693422efa24e-image.png" />
 
 <br />
 
-3. **Fill in the QR Code ID**
+5. **Fill in the QR Code ID**
 
-* Use a unique, sequential identifier that matches the QR. (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.
+* Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.
 * Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR image.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png" />
@@ -99,7 +99,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 6. **Choose a Time Interval**
 
-* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is used for [Time Studies](https://mobohubb.zendesk.com/hc/en-us/articles/25750186845325-Time-studies).
+* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png" />
 
