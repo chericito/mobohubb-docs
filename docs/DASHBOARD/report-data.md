@@ -1,9 +1,6 @@
 ---
 title: Report Data
-excerpt: >-
-  Explore how to view, filter, and export **Report Data** in **mobohubb**,
-  focusing on titles, summaries, graphs, tables, citations, and any other
-  components in generated reports.
+excerpt: Explore how to view, filter, and export **Report Data** in **mobohubb**.
 deprecated: false
 hidden: false
 metadata:
