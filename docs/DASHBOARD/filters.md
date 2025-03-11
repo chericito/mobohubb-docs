@@ -26,7 +26,7 @@ You can **filter** your data using **Quick** or **Advanced** filters. These filt
 
 ## Quick Filters
 
-**Quick Filters** let you segment data through simple clicks. They appear by default when you click **“filter.”** Divided into **5 categories** (Date, Task Name, Device, User, and Tags), they offer relevant options for each category.
+**Quick Filters** let you segment data through simple clicks. They appear by default when you click **“filter.”**
 
 **How to Create a Quick Filter**
 
