@@ -110,7 +110,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png" />
 
-8. **Link to a Task or Form** *(Optional)*
+8. **Link to a Task or Form** *(Optional)*. You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
 
 * To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
 * Tasks/forms must be **active** to appear here.
