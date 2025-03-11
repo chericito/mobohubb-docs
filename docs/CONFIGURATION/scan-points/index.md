@@ -114,18 +114,17 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 * To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
 * Tasks/forms must be **active** to appear here.
-* If you do not wish to associate anything, simply proceed to step 11.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png" />
 
-11. **Mark as Active** (active by default)
+9. **Mark as Active** (active by default)
 
-* Check the box to make this scan point visible to other users.
+* **Check** the box to make this scan point visible to other users.
 * If unchecked, it remains hidden but can be activated later.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4aa677d41faddf691c661084b009da437a714c9be35900baae075a59d0d2b126-image.png" />
 
-12. **Save and Close**
+10. **Save and Close**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png" />
 
