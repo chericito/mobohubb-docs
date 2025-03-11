@@ -45,8 +45,8 @@ A new window will open for setting up your report scheduler.
 * **Start Date (required)**: The date when the scheduler begins generating reports.\*
 * **End Date (required)**: The date when the scheduler stops generating reports (or leave blank to run indefinitely).\*
 * **Tag**: (Optional) A label or keyword to categorize your report.
-* **Scan Point**: (Optional) Filter the report by a specific location.
-* **Work Shift**: (Optional) Filter the report by a particular schedule.
+* **Scan Point**: (Optional) Generate the report exclusively using data from a specific scan point or multiple scan points.
+* **Work Shift**: (Optional) Generate the report exclusively using data from a specific work shift or multiple work shifts.
 
 4. **Proceed to Advanced Options**
 
