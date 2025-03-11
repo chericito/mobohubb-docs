@@ -153,11 +153,7 @@ A file in Excel format will be downloaded if it’s within the **size limit**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c88cd91303da4b433c4730ebd2e6eac75db8bf47143359531127bc464bc627a-2DB5EA8C-FE28-4329-865C-ECBEFB13FE90.png" />
 
-3. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
-
-5. **Press** 'Save'.
+4. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
 ## Activate or Deactivate Tags
 
