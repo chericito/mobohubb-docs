@@ -24,6 +24,24 @@ A **scan point** is an element that can be read with a mobile device. **mobohubb
 * **Export Scan Points**: Generate an Excel file for off-platform analysis or archiving.
 * **Import Multiple Scan Points**: Use an Excel template to quickly upload a batch of scan points, saving time and effort.
 
+## Choose QR or NFCs
+
+Each site can be configured to use **either QR codes or NFC tags**, but not both at once. To specify which scan point type a site should use, follow these steps:
+
+1. **Navigate** to **Settings** → **Site Management**.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/15e880921891b7d52c30b7ed81b352c61cb79d921d9eb123a566dad1bbf8889d-06C62B98-9B3E-46A4-8CBB-B952FF054AD9.png" />
+
+2. **Select** the **site** you wish to configure from the list.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/2314ec1f55a0e34fe4ccf397af1dbaad08ee9492c780e8f22b8092be3586d327-9B192797-48D7-4287-A6DC-FF33A270F221.png" />
+
+3. In the **Site Information** section, **choose** either **QR Codes** or **NFC Tags** as the scan type.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bd2470343f809e55eba36a5a4cfc1c44bb3e20872cb1ba9359a41074f7c3dbd8-C596D59F-73A3-4705-B690-4994AB9FA1D5.png" />
+
+4. **Save** your changes to finalize the site’s configuration.
+
 ## Add a QR Code Scan Point
 
 Follow these steps to create a new scan point associated with a **QR code**:
