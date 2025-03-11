@@ -140,7 +140,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](https://mobohubb.readme.io/docs/tags#/).
 
 6. **Link to a Task or Form** (Optional)
-   * You can associate the scan point with an existing task or form (created in later steps). **For the task or form to be marked as complete, the scan must happen.**
+   * You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
    * For initial setup, you may choose **None** until tasks/forms are ready.
 
 7. **Activate the Scan Point**
