@@ -28,13 +28,20 @@ metadata:
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9d8a2b0d9a29fb1c06d8d2f8a3659d7df991d001e3311107b90274b950815df4-image.png" />
 
 2. **Filter** your records using **quick** or **advanced** filters.
-3. * You can create as many logical rules as necessary by clicking **“Add New Filter.”**
-   * Press **“Apply”** to confirm your selections.
-   * Refer to your **Filters** guide for in-depth instructions on advanced filtering.
-4. **Review** the relevant alert information in the main table.
-   * Checking the **upper checkbox** selects all displayed records.
-5. **Click** **“Export.”**
-   * Make sure you’ve **selected** the rows you want to include.
-6. **Choose** **“Export current view.”**
-   * If the file is within the size limit, an **Excel** file downloads immediately.
-   * If it exceeds the limit, you’ll find the file under **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** on the platform.
+
+* You can create as many logical rules as necessary by clicking **“Add New Filter.”**
+* Press **“Apply”** to confirm your selections.
+* Refer to your **Filters** guide for in-depth instructions on advanced filtering.
+
+3. **Review** the relevant alert information in the main table.
+
+* Checking the **upper checkbox** selects all displayed records.
+
+4. **Click** **“Export.”**
+
+* Make sure you’ve **selected** the rows you want to include.
+
+5. **Choose** **“Export current view.”**
+
+* If the file is within the size limit, an **Excel** file downloads immediately.
+* If it exceeds the limit, you’ll find the file under **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** on the platform.
