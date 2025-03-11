@@ -12,6 +12,10 @@ metadata:
 ---
 Tasks are goals or actions that employees carry out as part of their job duties. Each task can be **associated** with one or more people, a location, or even a category—like **scan**, which requires scanning a QR code or NFC tag; **report**, which requires filling out a form; or **manual**, which is simply checked off by the user. Tasks can also be configured as **Geo-tasks** if you need to capture or require location coordinates.
 
+> 👍 Important:
+>
+> Tasks are automatically associated with a day or a [shift](https://mobohubb.readme.io/docs/schedule-shifts#/). Once completed, tasks will be available again on the next day based on your Time Zone configuration. If a task is associated with a shift, it will reappear on the following shift.
+
 ***
 
 **In this guide you'll learn**
@@ -99,6 +103,10 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 ***
 
 ## Delete Tasks
+
+> 📘 Important:
+>
+> **Deleting a task can disrupt the system** and affect any linked checklists, forms, or shifts. Before deleting a task, ensure you have removed it from any associated checklist, form, or shift. We strongly recommend deactivating tasks instead of deleting them. Deactivation preserves the integrity of existing checklists, forms, and shifts, while preventing new associations with that task.
 
 1. **Check** the Task(s) to Remove
 
