@@ -57,7 +57,7 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
    <br />
 
    * **Site name**: **Enter** a name that identifies your <Glossary>site</Glossary>.
-   * **Site type**: **Select** from security, facilities, cleaning, construction, restaurant, or choose **Other** if none matches.
+   * **Site type**: **Select** from security, facilities, cleaning, construction, restaurant, or choose **Other** if none matches. This will prepare your site with some pre-defined configurations according to your selection.
    * **Site address**: **Enter** the physical or virtual address where your main activities occur.
    * **Click** **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the mobohubb portal.
 
