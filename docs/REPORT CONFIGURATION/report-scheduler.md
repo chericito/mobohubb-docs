@@ -42,8 +42,8 @@ A new window will open for setting up your report scheduler.
 * **Report Format**: Select HTML or PDF.
 * **Report Period**: Specify up to seven days.
 * **Report Time Zone**: Choose the time zone to display dates/times. This will be used when sending out the report.
-* **Start Date**: The date when the scheduler begins generating reports.
-* **End Date**: The date when the scheduler stops generating reports (or leave blank to run indefinitely).
+* **Start Date (required)**: The date when the scheduler begins generating reports.\*
+* **End Date (required)**: The date when the scheduler stops generating reports (or leave blank to run indefinitely).\*
 * **Tag**: (Optional) A label or keyword to categorize your report.
 * **Scan Point**: (Optional) Filter the report by a specific location.
 * **Work Shift**: (Optional) Filter the report by a particular schedule.
