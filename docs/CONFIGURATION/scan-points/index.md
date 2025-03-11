@@ -290,26 +290,10 @@ If you have **multiple scan points** to add at once, you can **import** them fro
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d4b945de4e1f651cadedb44bea1dc18d4c390da1b5382d429b79b23785150710-image.png" />
 
-2. **Upload the File**
-
-* If you have a **prepared spreadsheet**, upload it directly.
-* If not, **download the template** to fill in your scan point data. (Each row represents one scan point.)
+2. **Download the template** to fill in your scan point data. (Each row represents one scan point.)
 
 <Image align="center" border={true} caption="Download Template" src="https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png" width="80% " />
 
 <Image align="center" border={true} caption="Template" src="https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png" width="80% " />
 
-* **Upload** the completed file in the form.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3434cf341530adf539a6d08f050650b76c26859b88cecd80bc21c6ec14fe74c3-image.png" />
-
-* **Click** **“Save.”**
-
-3. **Wait** for the import to finish.
-
-* Depending on the **size** of your data, the import may take some time.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/277cf2d0926efe09b5ed2924f47fa1b0722e9aa1958158dbed4e2a77b2354510-image.png" />
-
-4. **Confirm** new scan points
-5. Once complete, the **new scan points** will appear in your **Scan-Points Management** list.
+3. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
