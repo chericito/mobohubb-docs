@@ -20,7 +20,7 @@ metadata:
 
 1. **Go** to the [mobohubb portal](app.mobohubb.com).
 
-2. **Enter** your **username or email** and **password** (the same information you use on the classic mobohubb portal).
+2. **Enter** your **username** and **password** (the same information you use on the classic **mobohubb** portal).
 
 3. **Click** **“Sign in.”**
 
