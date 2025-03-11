@@ -21,9 +21,6 @@ metadata:
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e2e033648945fdfabf4cb7243a8a1ee48e83e3a40137eebe6b6a66fca715cdf-image.png" />
 
 2. **Enter the portal username**: Use the username with which you were registered or the email from which the subscription was made.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b50418a91c70356d07bf9328c4fe731e0263b9156a600793fdaae09dc5c13001-image.png" />
-
 3. **Use the temporary password**: This password was sent to the administrator’s email when the subscription was created. If you didn't receive this email, please contact [support](https://mobohubb.zendesk.com/hc/en-us/requests/new).
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8d4b847ddf6d7f104768632308bc16bd311a25e95045bb4cab9047f3ffedcdfd-image.png" />
