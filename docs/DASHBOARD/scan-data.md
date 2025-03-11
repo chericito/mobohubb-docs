@@ -40,7 +40,7 @@ Each scan record generally shows:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/edfe6da672a41d8dbed778c456607742a2e32023ec2142019051f23d475785d9-image.png" />
 
-2. **Filter** data using either **quick** or **advanced** filters:
+2. **Filter** data using either **quick** or **advanced** [filters](https://mobohubb.readme.io/docs/filters#/):
 
 * **Quick Filters**: Basic parameters like user or date.
 * **Advanced Filters**: Multiple logical conditions (equals, not equals, contained in, etc.).\
