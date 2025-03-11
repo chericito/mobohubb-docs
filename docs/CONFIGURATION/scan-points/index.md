@@ -24,7 +24,7 @@ A **scan point** is an element that can be read with a mobile device. **mobohubb
 * **Export Scan Points**: Generate an Excel file for off-platform analysis or archiving.
 * **Import Multiple Scan Points**: Use an Excel template to quickly upload a batch of scan points, saving time and effort.
 
-## Choose QR or NFCs
+## Choose QRs or NFCs
 
 Each site can be configured to use **either QR codes or NFC tags**, but not both at once. To specify which scan point type a site should use, follow these steps:
 
