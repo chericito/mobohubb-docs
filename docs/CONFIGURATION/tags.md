@@ -131,7 +131,7 @@ To export existing tags in **Excel format**:
 
 2. **Choose** which data to export.
 
-* **Export Data** or **Export Current View**.
+* **Export Data** or **Export Current View**. **Export Data** will export all the data available, and **Export Current View** will only export either the selection or a customized view.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png" />
 
