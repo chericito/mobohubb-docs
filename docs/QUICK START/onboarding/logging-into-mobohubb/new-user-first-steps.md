@@ -88,7 +88,7 @@ The first step assigns logos, icons, and other branding details to your organiza
 * **Date format**: Choose how dates are displayed (e.g., **dd-mm-yyyy**, **mm-dd-yyyy**).
 * **Time format**: Select **12h** or **24h** format for time logs.
 * **Theme color**: Set the main color for your portal’s interface.
-* **Time zone**: Specify the time zone for displaying time-based information.
+* **Time zone**: Specify the time zone for displaying time-based information. This will affect the way data and other elements such as date and time is showed in the **mobohubb** applications. Time zone may affect administrative tasks, so it is recommended to plan accordingly.
 
 3. **Click “Save".**
 4. **Mark** the Branding step complete (1/5).
