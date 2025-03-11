@@ -28,7 +28,7 @@ You can **filter** your data using **Quick** or **Advanced** filters. These filt
 
 **Quick Filters** let you segment data through simple clicks. They appear by default when you click **“filter.”**
 
-**How to Create a Quick Filter**
+**How to Use a Quick Filter**
 
 1. **Click** the **“filter”** button (found in all data visualization features).
 
@@ -54,7 +54,7 @@ If you don’t want to filter a particular category, just **don’t click** any 
 
 **Advanced Filters** let you build more detailed conditions, using logical connectors and multiple rules.
 
-**How to Create an Advanced Filter**
+**How to Use an Advanced Filter**
 
 1. **Click** the **“filter”** button.![](NV137%20\(5\).png)
 
