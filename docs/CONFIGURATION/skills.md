@@ -83,11 +83,7 @@ To create a **new skills category**, follow these steps:
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/1bc4c0218b85157544748509bf47a93b720d213035c01a0677000b6013b261f4-D268B588-B228-44EB-8422-BF7B272D5EC4.png" />
 
-4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
-
-5. **Press** 'Save'.
+4. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
 ## Export Skills
 
