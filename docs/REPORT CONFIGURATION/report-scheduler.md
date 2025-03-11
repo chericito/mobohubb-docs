@@ -56,31 +56,18 @@ Click **Next** or **Advanced Options** to configure additional settings.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/98f793c3ce10d7fe1e0b63f27af6ac52056c2b40e1129bf1ca30442efcee30b6-image.png" />
 
-* **Notify if No Records Were Found**\
-  Enable or disable an email notification when no data is present in the report.
-* **Custom Logo**\
-  Upload an image file to display in the report header.
-* **Group by Device**\
-  Organize the report by the devices that collected the data.
-* **Order**\
-  Choose ascending or descending order based on the date/time of data.
-* **Order by**\
-  Select **Upload Time** or **Submit Time** for data sorting criteria.
-* **Recurrence**\
-  Pick once, daily, or weekly for how often the report should be generated.
-* **Report Creation Time**\
-  Set the time of day for generating and sending reports.
-* **Start Time**\
-  Choose the beginning time of the report period.
-* **End Time**\
-  Choose the finishing time of the report period.
-* **Report to Email Address**\
-  Specify the email address(es) to receive the report.
-* **Send a Copy**\
-  Enter additional email address(es) to receive copies.
-* **Email Subject**\
-  Provide the subject line for the email carrying the report.
-* **Email Body**\
-  Provide the body text for the email.
+* **Notify if No Records Were Found**: Enable or disable an email notification when no data is present in the report.
+* **Custom Logo**: Upload an image file to display in the report header.
+* **Group by Device**: Organize the report by the devices that collected the data.
+* **Order**: Choose ascending or descending order based on the date/time of data.
+* **Order by**: Select **Upload Time** or **Submit Time** for data sorting criteria.
+* **Recurrence**: Pick once, daily, or weekly for how often the report should be generated.
+* **Report Creation Time**: Set the time of day for generating and sending reports.
+* **Start Time**: Choose the beginning time of the report period.
+* **End Time**: Choose the finishing time of the report period.
+* **Report to Email Address**: Specify the email address(es) to receive the report.
+* **Send a Copy**: Enter additional email address(es) to receive copies.
+* **Email Subject**: Provide the subject line for the email carrying the report.
+* **Email Body**: Provide the body text for the email.
 
 When you have completed these steps and settings, **click “Save”** to create your scheduled report. The system will then automatically generate and send the report according to your defined parameters.
