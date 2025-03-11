@@ -231,16 +231,16 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-2. **Create** a prefix *(Optional)*
+2. **Create** a prefix *(Optional)*. These prefixes can be identifiers for administrative reasons.
    * **Assign** a short code to identify your form (letters, numbers, or symbols).
 
-3. **Name** the form
+3. **Name** the form.
    * Provide a clear, concise title that describes its purpose.
 
-4. **Associate** it with a predefined tag *(optional)*
+4. **Associate** it with a predefined tag *(optional)*.
    * For initial setup, you can skip this if you haven’t defined tags yet.
 
-5. **Select** the users
+5. **Select** the users.
    * Assign individuals or groups who can access and fill out the form. If left blank, it will be visible for everyone to complete.
 
 6. **Choose** the form’s visibility to choose where the form will be available.
