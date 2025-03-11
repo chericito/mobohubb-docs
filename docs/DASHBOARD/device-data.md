@@ -20,7 +20,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/43e624ab559ab863cc0e2c99ab63d6bd65e4bf684dd5cdaecc7a69d8d19f81c2-image.png" />
 
-**Device Data** refers to the information stored on a mobile device when using the mobohubb application. This includes details such as the device model, brand, operating system, version, and user permissions and preferences. You can access these details via the **Settings** menu by selecting the **Device Info** option.
+**Device Data** refers to devices used in the **mobohubb** Mobile App. This includes details such as the device model, brand, operating system, and version. You can access these details via the **Settings** menu by selecting the **Device Info** option.
 
 ## Export and Manage Device Data
 
