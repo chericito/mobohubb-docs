@@ -457,11 +457,7 @@ To bulk upload roles:
 <Image align="center" className="border" border={true} src="https://files.readme.io/49ee0faad6ef2095ba7a27398227e50654e1966826d51a1cd9755621a059bfbb-image.png" />
 
 4. **Fill in the template with role details.**
-5. **Upload the completed file.**
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/ff959386c0dc58c772f67cf6833b15dfdb159c1cb83773c2d816d9be7b2ff8ac-image.png" />
-
-6. **Confirm import.**
+5. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
 > **Note:** Processing time depends on the amount of data in the file.
 
