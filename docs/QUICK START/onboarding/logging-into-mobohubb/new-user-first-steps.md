@@ -125,7 +125,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
      <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9f7c89224978483d49ba77614668990a4a9fd3e7f14638f28f29fcc066f66f53-image.png" />
 
 2. **Scan Point ID**
-   * Assign a unique ID for each scan point. This should follow a logical sequence (e.g., sequential numbers) to keep them organized.
+   * Assign a unique ID for each scan point that matches a specific QR. This should follow a logical sequence (e.g., sequential numbers) to keep them organized.
    * Visit our [QR Codes Section](https://mobohubb.readme.io/docs/qr-codes#/) for details on generating QR codes.
 
 3. **Name & Description**
@@ -140,7 +140,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * If needed, **attach** a predefined tag. You can create or manage tags in our [Tags Section](https://mobohubb.readme.io/docs/tags#/).
 
 6. **Link to a Task or Form** (Optional)
-   * You can associate the scan point with an existing task or form (created in later steps).
+   * You can associate the scan point with an existing task or form (created in later steps). **For the task or form to be marked as complete, the scan must happen.**
    * For initial setup, you may choose **None** until tasks/forms are ready.
 
 7. **Activate the Scan Point**
@@ -181,7 +181,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <br />
 
 3. **Add a sequence**
-   * Use a unique, sequential number to order and identify the task.
+   * Use a unique, sequential number to order and identify the task. This will affect the order of appereance in the Mobile App; if left blank, tasks appear in alphabetical order.
 
 4. **Associate a predefined tag** *(Optional)*
    * For the initial setup, you may skip this unless you’ve created tags (via the Tags Section).
@@ -241,14 +241,14 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    * For initial setup, you can skip this if you haven’t defined tags yet.
 
 5. **Select** the users
-   * Assign individuals or groups who can access and fill out the form.
+   * Assign individuals or groups who can access and fill out the form. If left blank, it will be visible for everyone to complete.
 
-6. **Choose** the form’s visibility
+6. **Choose** the form’s visibility to choose where the form will be available.
    * Pick **Web App**, **Mobile App**, or both.
 
 7. **Use** the “Next” button to go to “Form Fields”
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/71ddf2c01c090ef0ebab8059b107d0a984d25b584c97bd1f42298b395b30cfc0-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71ddf2c01c090ef0ebab8059b107d0a984d25b584c97bd1f42298b395b30cfc0-image.png" />
 
 **Form Fields**
 
@@ -258,7 +258,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/e0ed25751b8f81ba9ee70275f461865186aafe6d61d58dc53aa65bf69673f21d-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e0ed25751b8f81ba9ee70275f461865186aafe6d61d58dc53aa65bf69673f21d-image.png" />
 
 2. **Configure** the [type of field](https://mobohubb.readme.io/docs/forms#/field-types-setup)
 
@@ -336,7 +336,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png" />
 
-3. **Fill** in the phone number and email address fields. The phone
+3. **Fill** in the phone number and email address fields. The phone number will be used to receive SMS.
 
 > **Note:** The user’s email address will be the username.
 
@@ -344,7 +344,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 5. **Choose** between invite by SMS or by email by checking the box.
    > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.
    >
-   > ![Invite by Email or SMS](https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png)
+   > <Image align="center" className="border" border={true} src="https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png" />
 6. The user will receive an email or SMS with a link to confirm registration.
 7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
 
