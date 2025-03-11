@@ -39,16 +39,16 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7429dcf987d2cacffc295324b7d0e1f7ab17ffa350f45236a7b4604aa3697435-image.png" />
 
 3. **Configure Basic Options**
-   * **Recurrence**: Select **daily** or **weekly**.
-   * **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.
-   * **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.
+   * **Recurrence**: Select **daily** or **weekly**.\*
+   * **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.\*
+   * **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.\*
    * **Report To**: Enter recipient email address(es).
    * **Report CC**: (Optional) Enter additional email addresses for copies.
-   * **Subject**: Enter the email subject line.
+   * **Subject**: Enter the email subject line.\*
    * **Send Time**: Specify the time to send the report (default is **12 AM** if left blank).
-   * **Body**: Provide any text or notes for the email body.
-   * **Start Date**: Set the date to begin sending summaries.
-   * **End Date**: (Optional) Set the date to stop sending summaries.
+   * **Body**: Provide any text or notes for the email body.\*
+   * **Start Date**: Set the date to begin sending summaries.\*
+   * **End Date**: (Optional) Set the date to stop sending summaries.\*
    * **Active**: Check this box to enable the report.
    * **Scheduling report**: Finalize and save your scheduling preferences.
 
