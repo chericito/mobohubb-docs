@@ -475,8 +475,4 @@ Once complete, you’ll have an Excel file containing all relevant data for your
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e99e91eecbf9d90713b331f8107227866c7db7ac25b04e6324503a38d9a16163-6BD67DA0-4B7C-449A-B2C9-328ACFC466D7.png" />
 
-4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
-
-5. **Press** 'Save'.
+4. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
