@@ -220,7 +220,7 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
 3. **Modify the Current Data**
 
-* **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC).
+* **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC) and once configured **can not be modified.**
 * **Name**: A quick identifier to help locate it.
 * **Description**: Extra details (location, room number, distinctive features).
 * **Time Interval**: E.g., “once per hour,” prompting periodic scans.
