@@ -49,9 +49,47 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
    * **Body**: Provide any text or notes for the email body.\*
    * **Start Date**: Set the date to begin sending summaries.\*
    * **End Date**: (Optional) Set the date to stop sending summaries.\*
-   * **Active**: Check this box to enable the report.
+   * **Active**: Check this box to enable the report. If left unmarked, the report will be deactivated.
    * **Scheduling report**: Finalize and save your scheduling preferences.
 
 > **Note**: If you do not choose a time to send the report, it will **default to 12 AM**.
 
 Once all fields are filled, **click** **Save** to schedule your summary report. Your selected recipients will now receive high-level, concise updates at the specified intervals and times.
+
+## Edit Summary Reports
+
+1. **Click** on the report you want to edit.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2b1676365e2c1f3ddbdfad19c91d206cb7e3ea5182d7caa975d17353530e4142-1F381ACA-ECCE-4F72-9788-F1BA2CEABBA4.png" />
+
+2. **Make** any necessary changes to the fields.
+
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/748a60226838b1b570b3e719b288278f55b6c639836f6b18c90496963786c271-7B383F8F-4C0C-4DB2-8B36-1DCD1F5E0DF2.png" />
+
+<br />
+
+2. **Save** your changes.
+
+## Delete Summary Reports
+
+1. **Select** the checkbox for each report you want to delete.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8e8944f2c36437514b0cae5f4a28606c76ecee203439e3430d10ea9933bbc2bb-F30AF0E5-D05B-41FF-86DB-477065CB8A81.png" />
+
+2. Press the **Delete** button from the toolbar.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/3520997b59130619b77ecee076246c7d4f2605b700ebdae3b303bbfef378255e-AF93E36C-56F2-491E-A260-4F5B655A6096.png" />
+
+3. **Confirm** the deletion when prompted.
+
+## Export Summary Reports
+
+1. **Select** the checkbox for each report you want to export.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8e8944f2c36437514b0cae5f4a28606c76ecee203439e3430d10ea9933bbc2bb-F30AF0E5-D05B-41FF-86DB-477065CB8A81.png" />
+
+2. **Press** the **Export** button from the toolbar.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ac6bd4cb7c4f8d9d4e4b39a2353c1f64052ae6d52e269d45fb829602806c1d44-6FE287C2-A819-4EA4-907D-91FC798CFF3E.png" />
+
+3. An Excel file will be downloaded containing the selected report data.
