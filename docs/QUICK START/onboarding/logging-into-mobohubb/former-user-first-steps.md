@@ -84,6 +84,7 @@ In the previous system, users accessed the app with a **domain and pin**. Now, *
 * **To allow SMS login**: Update the **phone number**.
 * **To allow email code login**: Update the **email address**.
 * **To allow username & password login**: Update the **email address** and then **reset the password**.
+* **To upload a profile picture for each user**: Use the **photo** field to upload a picture.
 
 <Image align="center" border={true} caption="Update the email in the **Profile** tab." src="https://files.readme.io/f893e74b2bfa267e2bcfe0bda53e8bb561c13e077a5cb71d16144c952e9d3463-image.png" width="80% " />
 
