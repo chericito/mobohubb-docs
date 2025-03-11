@@ -40,8 +40,8 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
 
 3. **Configure Basic Options**
    * **Recurrence**: Select **daily** or **weekly**.
-   * **Summary Type**: Choose **task**, **forms**, or **scans**.
-   * **Time Zone**: Specify which time zone the report uses to display data.
+   * **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.
+   * **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.
    * **Report To**: Enter recipient email address(es).
    * **Report CC**: (Optional) Enter additional email addresses for copies.
    * **Subject**: Enter the email subject line.
