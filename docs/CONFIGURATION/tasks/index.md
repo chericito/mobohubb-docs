@@ -158,11 +158,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e8a6e9b26c2f6b4a0d7b96e4b5dfceb5b728f4f074dc32ca45946e1f4f215476-40D270E1-EB52-471F-868D-0CF71EAFEBA6.png" />
 
-4. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
-
-5. **Press** 'Save'.
+4. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
 ## Activate or Deactivate Tasks
 
