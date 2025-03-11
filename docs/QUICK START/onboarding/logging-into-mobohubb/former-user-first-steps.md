@@ -43,17 +43,11 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 <br />
 
 2. **Review** and **fill** in the required fields (e.g., logos, color theme, date/time format).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/229084d90625ceb5a1024ae4279f8f172d7c047abbae557abf8d656cefa31707-image.png" />
+
 3. **Click** **“Save”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/86cfac4b00e986f411b59cf5a9f09d4ded72766579381f7ba25c363b9dcc2cc9-image.png" />
-
-<br />
-
 4. **Check** the **“Branding”** step so the configuration indicator shows **1/2**.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2f6211b46ddabb24ee3511bc3403966b04e52cf8e8090fb07b4e8338bf234ae3-image.png" />
-
-<br />
 
 > **Note:** For more details on organization branding, see **[Organization Branding](https://mobohubb.readme.io/docs/branding#/)**.
 
@@ -81,7 +75,7 @@ In the previous system, users accessed the app with a **domain and pin**. Now, *
 
 2. Under the **“User Name”** column, **click** the user you want to edit.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f00ea7357cca0f173722b83f30546a65d93567f8dee0323288373b3ef82da2aa-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/102c64573fae619b590836c673f8a316c65105a968db3fa5d50980e37b9c4c92-image.png" />
 
 <br />
 
