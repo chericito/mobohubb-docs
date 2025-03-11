@@ -53,11 +53,6 @@ Make sure to **select a site** from the site selector:
 
 From here, you’ll see a general overview of people’s shifts and a **Clock In/Clock Out** breakdown for each user. Refer to our dedicated **Timesheet** guide for more info.
 
-Two Payroll tabs are available:
-
-1. **Payroll by User**
-2. **Payroll by Site**
-
 ***
 
 ## Payroll by Site
