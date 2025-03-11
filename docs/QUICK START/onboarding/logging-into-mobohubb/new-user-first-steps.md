@@ -358,7 +358,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f87e952ed98e2759e2be5474478bc1c2c5a1cd0254854798b8337e789dbb27a8-image.png" />
 
-mobohubb offers several [security groups](https://mobohubb.readme.io/docs/security-groups#/) to define user roles:
+**mobohubb** offers several [security groups](https://mobohubb.readme.io/docs/security-groups#/) to define user roles:
 
 * **Organization Administrator**: Has full access to the organization and all its sites.
 * **Site Administrator**: Manages all settings for a specific site but cannot alter other sites.
@@ -371,7 +371,7 @@ mobohubb offers several [security groups](https://mobohubb.readme.io/docs/securi
 
 "Organizational structure" in mobohubb refers to the hierarchical (or tree) arrangement of your company’s sites. This structure is designed purely for grouping and visibility, allowing you to organize sites in a way that reflects your company’s operational divisions. It facilitates the easy management of roles, rapid onboarding of staff, and clear segmentation of data across multiple sites.
 
-You can configure your Organization Structure from **Settings** > **Sites Administration** > **Org Structure Management.**
+You can configure your Organization Structure from **Settings**→ **Sites Administration** → **Org Structure Management.**
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/dcd7fa83e319518dcf867dda3246be4f01189527fbdef70023ac66e13066b5f3-image.png" />
 
