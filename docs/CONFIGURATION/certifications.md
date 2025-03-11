@@ -109,8 +109,4 @@ You can attach any **pre-created certifications** to a user’s profile in their
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/f7f940f8de4a40b70e11da1e25f2abf5da14de64580779f5b81de6185cb3ec69-23482F4F-94E8-4331-A5BD-09E2072A8BE8.png" />
 
-3. **Go back** to the **mobohubb** Web Portal. In the Import menu, **press** "Upload File", and **select** the template with the information.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c406e0e5c2b550227a8cb2300c6c85842d7c136e3d688e99c1d687c2aeb51e0-EA07C6BD-B535-4705-9B55-9649B368318A.png" />
-
-5. **Press** 'Save'.
+3. Send the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
