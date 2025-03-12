@@ -18,6 +18,14 @@ metadata:
 
 ***
 
+**Navigate** to **Settings** → **General Settings** → **Site Management**
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/0af4f4561cbc3fe2db96c149951dfafee6e72f390e11f1e8c798982dbcf3a0b4-43814F16-0A24-4209-96CC-62DB79C3E7E4.png" />
+
+**Select** a **Site** from the list.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/57defea36f372fdce65ac41055860d759abc28e8f8f3470dd40adba8c1923dfd-183E27B7-AFD6-408E-9FFA-241432BA8120.png" />
+
 Site Management is divided into three main sections—**Site Information**, **Site Branding**, and **Mobile Configuration**—each accessible via a tab within the feature.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/efd155f8866944201eea8a4ea966fdf8313f30bc62d6fac6f4b27e76b9c4190d-image.png" />
@@ -39,22 +47,6 @@ Site Management is divided into three main sections—**Site Information**, **Si
     Mobile Configuration customizes user interaction with the mobohubb app at each site. GPS Polling periodically queries device GPS for attendance or tracking. Security controls whether users stay logged in or must log in again. Timesheet Configuration records and manages work time, possibly auto clocking out users. Landing Screen Configuration selects a default screen (dashboard, timeclock, tasks, forms, schedule, or scan/NFC), with up to four items in the navbar and the rest under “Additional apps menu.” The More Menu Configuration lets you show or hide items like My Activity, Chat, Knowledge Base, App Info, Support, Offline Work, Map, and Request in the side menu. Panic Configuration activates or deactivates a panic button for emergencies by email, SMS, or call. Sitemap Configuration uploads an image with site details. Breaks define rest intervals and can be automatic, manual, or inactive. To access Mobile Configuration, choose the site in Site Management, open Mobile Configuration, and customize your preferred options. Save any changes.
   </Tab>
 </Tabs>
-
-# Accessing Site Management
-
-<Cards columns={2}>
-  <Card title="Step 1" icon="fa-cogs">
-    **Go to General Settings**\
-    Find "Site Management" under "Site Administration."
-  </Card>
-
-  <Card title="Step 2" icon="fa-search">
-    **Choose a Site**\
-    Select your site from the list or use the search bar to find it.
-  </Card>
-</Cards>
-
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/fc6112f82295c5233077a06d7d41ba9a2818a9da0a960bb3e0d74bf14c3db5ac-image.png" />
 
 # Site Management Configuration
 
