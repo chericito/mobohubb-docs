@@ -41,10 +41,13 @@ The **General Settings** interface is your centralized hub for configuring vario
 
 Use the **General Settings** menu to tailor **mobohubb** to your organization’s needs. Select a category that aligns with your current task, explore the relevant options, and check out the linked guides for detailed instructions.
 
-You can access **General Settings** using:
+**Navigate** to the top bar and click **Settings** in the dropdown.
 
-* The **top menu bar**: Click the **Settings** dropdown.
-* The **side menu**: Select **Configuration**, then **General Settings**.
+<Image align="center" className="border" border={true} src="https://files.readme.io/81685f934972cc59be2da48194dd42f89192a8f215345baa218db16833c92a3d-3D0C9346-2B8A-4190-B127-C2C499F11422.png" />
+
+**View**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/17e7f9fd50a3e89193cbfc0846867d926c0ecdf02b1f6484704fdf87a2e0c8a3-4BA866F1-19B1-4F2E-9A75-54BF4BAB1BD8.png" />
 
 ## Categories
 
