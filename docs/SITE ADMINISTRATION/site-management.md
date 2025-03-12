@@ -39,7 +39,7 @@ The **Site Information** interface allows you to manage sites for your organizat
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/730285c06de8d58bd99fd2de26f7b292276e45863ee4de5550a1ed89b35a59a6-593F2136-23D5-4ED5-A983-F6E393D50D71.png" />
 
 * **Site Name**: A unique name to identify the site.
-* **Site Path**: The address or directory where the site is located on the server.
+* **Site Path**: The site path represents the hierarchical position of the site within the organizational structure. Instead of indicating a physical address or directory on the server, it shows the level of the site and its relationship to other sites or child sites within the organization.
 * **Type of Site**: Security, facilities, janitorial, construction, restaurant, “other,” etc.
 * **Site Address**: The geographical location of the site or target audience.
 * **Time Zone**: Sets the display and record times for activities on the site.
@@ -116,10 +116,3 @@ The **Mobile Configuration** tab lets you configure technical aspects of the mob
 ***
 
 **That’s it!** You’ve now explored the **Site Information**, **Site Branding**, and **Mobile Configuration** sections within **Site Management**, giving you a complete overview of how to set up and tailor each site in **mobohubb** to fit your organization’s needs.
-
-## Subscription Types & Site Creation
-
-* **Legacy Subscriptions**: Must request new site creation through mobohubb support.
-* **New Subscriptions**: The number of sites you can manage is based on how many mobile app users you have.
-
-Site management helps **onboard staff** and **segment data** across multiple locations, improving organizational structure and efficiency.
