@@ -1,18 +1,16 @@
 ---
 title: Security Groups
 excerpt: >-
-  Learn how to manage Security Groups in Mobohubb—an essential feature for
-  assigning user roles, permissions, and site access. This guide covers the
-  available groups, how to view and edit them, and how to add or remove users
-  within each group for optimal security control.
+  Learn how to manage Security Groups in mobohubb—an essential feature for
+  assigning permissions, and site access. This guide covers the available
+  groups, how to view and how to add or remove users within each group for
+  optimal security control.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-**Users** are individuals who can access the portal and perform actions based on their **role** and **permissions**. **Security Groups** define these roles and permissions, ensuring each user has the appropriate level of access. Previously, users were added by email only; now it’s crucial to assign a **Security Group** for each user, which may vary by site.
-
-> **Note:** In this new version, “People” and “Portal users” are now simply called **Users**. Updating security groups helps distinguish **mobile app** users from those with **portal access**.
+Users are individuals who can access the portal and perform actions based on their role and permissions. Security Groups define these roles and permissions, ensuring that each user has the appropriate level of access. In mobohubb, pre-established security groups are fixed—they cannot be modified or deleted; you can only add or remove users from them. Furthermore, security groups are configured on a per-site basis, meaning the same group (often named with the site included) will appear across different sites within your organization. This site-specific configuration helps distinguish between mobile app users and portal users. In this new version, "People" and "Portal users" are simply referred to as Users. Updating security groups appropriately is crucial to ensure that each user is granted the correct permissions for the specific site they belong to.
 
 ***
 
@@ -34,7 +32,7 @@ metadata:
   </Card>
 
   <Card title="Editor" icon="fa-edit">
-    Can edit most **site settings** in the Mobohubb portal, but does not have full administrative privileges.
+    Can edit most **site settings** in the mobohubb portal, but does not have full administrative privileges.
   </Card>
 
   <Card title="Read-only" icon="fa-eye">
@@ -42,11 +40,15 @@ metadata:
   </Card>
 
   <Card title="Mobile" icon="fa-mobile-alt">
-    Uses the **mobile app** for tasks (e.g., scanning QR codes, filling out reports). Cannot access the web portal or modify portal elements.
+    Uses the **mobile app** for tasks (e.g., scanning QR codes, filling out reports). Cannot access the web portal or modify portal elements. This security group also grants access to the Web App.
   </Card>
 </Cards>
 
-You can view the specifics for each group—name, description, permissions, and site associations—in the **General Settings** > **Security Groups** area.
+You can view the specifics for each group—name, description, permissions, and site associations—in the **General Settings** → **Security Groups** area.
+
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/469c67e94d0e87e58b2db5e0b066231afbcf95f1212696a7cea35aa1bbe7c6a7-206E4F70-E9AC-4764-A5D4-82695B93289D.png" />
+
+<br />
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/3e890c2a7d09c845fc7501e8b973df14a03ede8bed214cb8c936602f46c00506-image.png" />
 
