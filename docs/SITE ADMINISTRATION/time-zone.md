@@ -37,7 +37,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/990bb103b8945a0c7175abc04f604e52e18625df837b9c664c35bae2427297d1-5EFA2C8D-3965-4882-A5B8-4B0149A95CF3.png" />
 
-3. Choose the **desired site** whose time zone you want to update. Click on the site's name.
+3. Choose the **desired site** whose time zone you want to update. **Click**on the site's name.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cfdc67cd5ce4dc0dba271651beb8197f4cd143a818b190d656b2cab0d10fce39-6E4E9AC3-7FAD-4BEC-855B-6EBB900A31B1.png" />
 
