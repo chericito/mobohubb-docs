@@ -29,23 +29,22 @@ metadata:
 
 ## **How to Change the Time Zone**
 
-1. **Go to “General Settings”**
-   * Located in the top-right corner of the dashboard. Click it to access portal-wide configurations.
+1. Navigate to the top bar and press**Settings** from the dropdown.
 
-2. **Navigate to “Site Management.”**
+<Image align="center" className="border" border={true} src="https://files.readme.io/3e022fbe33f3ffb03f3e256811f38e2a7addb6f54bc95d448e1b29f58843e30c-F0788D73-C1BD-4F00-97FE-4B4B9A66C293.png" />
 
-   * Choose the **desired site** whose time zone you want to update.
+2. **Navigate** to **Site Administration** → **Site Management**.
 
-   <Image align="center" className="border" border={true} width="80%" src="https://files.readme.io/4aed97d204b2dc776945aaa20f76561604d470e20488fa300430c6d4ae69fd64-0C77D835-7E2B-4D77-8C47-A6CB764C41C5.png" />
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/990bb103b8945a0c7175abc04f604e52e18625df837b9c664c35bae2427297d1-5EFA2C8D-3965-4882-A5B8-4B0149A95CF3.png" />
 
-3. **Open Site Settings**
-   * From the list of sites, **click** on one to access its settings.\
-     ![](https://files.readme.io/7d3b1179d20454ef7ed4dde73f70f3111ff51727f733e0cd1a3dbfde81168c10-A4296669-3392-49D6-9F14-314188241907.png)
+3. Choose the **desired site** whose time zone you want to update. Click on the site's name.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cfdc67cd5ce4dc0dba271651beb8197f4cd143a818b190d656b2cab0d10fce39-6E4E9AC3-7FAD-4BEC-855B-6EBB900A31B1.png" />
 
 4. **Update the Time Zone**
 
-   * In **Site Settings**, locate the **“Time Zone”** dropdown.
-   * **Type or select** the appropriate time zone.
+* In **Site Settings**, locate the **“Time Zone”** dropdown.
+* **Type or select** the appropriate time zone.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/359c255f3ae28d2c3f9ef3ef4f267dbd7dc97f1f04d73396bea37ad649f13b2d-05D34A3A-30E6-4F36-ACF5-7B94BF1BC97B.png" />
 
