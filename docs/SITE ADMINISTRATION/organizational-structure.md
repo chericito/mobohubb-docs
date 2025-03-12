@@ -18,7 +18,7 @@ metadata:
 
 ***
 
-**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using Site Branding, Branding, and Mobile Configuration tabs. The ability to create new sites depends on your subscription—legacy users must request site creation through support, while newer subscriptions allow site management based on the number of mobile app users. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining the onboarding of staff and segmentation of data across different sites.
+**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using Site Branding, Branding, and Mobile Configuration tabs. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining the onboarding of staff and segmentation of data across different sites.
 
 ## Accessing Organizational Structure Management
 
@@ -43,6 +43,8 @@ metadata:
 4. **Click** on the **three-dot button** (vertical dots) next to the site parent you wish to manage. This will open a menu with several options:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/772271970e41907c4a95b84e4c784b8d8e0ea48034cf73f2a9e0fc21fe99bf3e-image.png" />
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/56f4a0891cdb885bce2ef9249b4d7c86a1da907c4f54f4ae0668e25d28de4ddc-72F41829-D7FE-4F0D-9A18-948A0477A3A4.png" />
 
 * **Add Site:** Create a new site associated with a physical or virtual location.
 * **Add Child:** Create a new section (child) within the selected organizational unit.
