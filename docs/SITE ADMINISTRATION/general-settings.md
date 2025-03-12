@@ -51,18 +51,14 @@ Use the **General Settings** menu to tailor **mobohubb** to your organization’
 
 ## Categories
 
-1. **Branding**\
-   Manage your organization’s visual identity, including logos, icons, and color themes. You can also set date/time formats and time zone preferences for the portal or its sites.
+1. **Branding**: Manage your organization’s visual identity, including logos, icons, and color themes. You can also set date/time formats and time zone preferences for the portal or its sites.\
    [Learn more about Branding »](https://mobohubb.readme.io/docs/branding#/)
 
-2. **Site Administration**\
-   Create, organize, and customize the sites you manage. Each site can inherit overall branding or implement its own style, plus additional configuration for mobile features.
+2. **Site Administration**: Create, organize, and customize the sites you manage. Each site can inherit overall branding or implement its own style, plus additional configuration for mobile features.\
    [Explore Organizational Structure »](https://mobohubb.readme.io/docs/organizational-structure#/)
    [Dive into Site Management »](https://mobohubb.readme.io/docs/site-management#/)
    [Discover Mobile Configuration »](https://mobohubb.readme.io/docs/site-management#/mobile-configuration)
 
-3. **Configuration**\
-   Access specialized sections like **[Tasks](https://mobohubb.readme.io/docs/tasks#/)**, **[Forms and Checklist](https://mobohubb.readme.io/docs/forms#/)**, **[Devices](https://mobohubb.readme.io/docs/devices#/)**, **[Roles](https://mobohubb.readme.io/docs/roles#/)**, and more. This area lets you define user permissions, manage device data, and control advanced options like QR vs. NFC scans.
+3. **Configuration**: Access specialized sections like **[Tasks](https://mobohubb.readme.io/docs/tasks#/)**, **[Forms and Checklist](https://mobohubb.readme.io/docs/forms#/)**, **[Devices](https://mobohubb.readme.io/docs/devices#/)**, **[Roles](https://mobohubb.readme.io/docs/roles#/)**, and more. This area lets you define user permissions, manage device data, and control advanced options like QR vs. NFC scans.
 
-4. **Report Configuration**\
-   Create and **[schedule reports](https://mobohubb.readme.io/docs/report-scheduler#/)** (including summary reports) to keep teams informed. Adjust frequency, recipients, and additional parameters for various data types.
+4. **Report Configuration**: Create and **[schedule reports](https://mobohubb.readme.io/docs/report-scheduler#/)** (including summary reports) to keep teams informed. Adjust frequency, recipients, and additional parameters for various data types.
