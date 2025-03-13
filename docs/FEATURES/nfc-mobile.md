@@ -15,6 +15,12 @@ metadata:
 * How to position your device correctly to scan an NFC tag
 * How to submit the NFC tag and complete the validation process
 
+***
+
+<br />
+
+<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=80bd8f53-ecca-4212-bfed-7539546c1ba8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Scan NFC tags - Mobohubb ‐ Hecho con Clipchamp.mp4" />
+
 # How to Scan NFC
 
 A scan can be associated with a task or a form. The scan must be performed for the task/form to be completed. When you complete the scan, you will be redirected to finish the task or form as needed.
