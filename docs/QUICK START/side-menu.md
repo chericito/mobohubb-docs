@@ -23,6 +23,12 @@ The side menu in the mobohubb mobile app provides quick access to various config
 
 To open the side menu:
 
+<br />
+
+![](https://files.readme.io/1bb2d4d6115ab316184e431b704f6b78ad3e15592b096c534707610e23134da1-image.png)
+
+<br />
+
 * Use the **hamburger button** located at the upper left corner of the app.
 * Alternatively, swipe the home interface to the left.
 * The menu includes a **logout button** at the bottom left, allowing you to close your session.
@@ -60,5 +66,3 @@ The side menu offers a variety of features:
 Site administrators can customize the side menu to display only the options relevant to their site. As a result, you might not see every function listed here if your site’s configuration does not include it.
 
 > **Note:** For additional details on customizing the side menu, please visit our dedicated guide on [mobile configuration](https://mobohubb.readme.io/docs/site-management#/mobile-configuration).
-
-![](https://files.readme.io/1bb2d4d6115ab316184e431b704f6b78ad3e15592b096c534707610e23134da1-image.png)
