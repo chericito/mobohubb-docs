@@ -25,41 +25,31 @@ To open the side menu:
 
 <br />
 
-![](https://files.readme.io/1bb2d4d6115ab316184e431b704f6b78ad3e15592b096c534707610e23134da1-image.png)
-
-<br />
+<Image align="center" width="30% " src="https://files.readme.io/1bb2d4d6115ab316184e431b704f6b78ad3e15592b096c534707610e23134da1-image.png" />
 
 * Use the **hamburger button** located at the upper left corner of the app.
 * Alternatively, swipe the home interface to the left.
-* The menu includes a **logout button** at the bottom left, allowing you to close your session.
+* The menu includes a **Sign Out button** at the bottom left, allowing you to close your session.
 
 ## Available Functions
 
 The side menu offers a variety of features:
 
-* **My Activity**\
-  Displays a log of all actions and records you have registered in the app.
+* **My Activity**: Displays a log of all actions and records you have registered in the app.
 
-* **Chat**\
-  Enables one-on-one communication with an administrator or supervisor.
+* **Chat**: Enables one-on-one communication with an administrator or supervisor.
 
-* **Knowledge Base**\
-  Provides access to guidelines, directives, and standards within the organization.
+* **Knowledge Base**: Provides access to guidelines, directives, and standards within the organization.
 
-* **App Info**\
-  Shows details about the app, including version information and updates.
+* **App Info**: Shows details about the app, including version information and updates.
 
-* **Map**\
-  Displays geo-task type shifts; these shifts are not visible in the main task view and are exclusive to this section.
+* **Map**: Displays geo-task type shifts; these shifts are not visible in the main task view and are exclusive to this section.
 
-* **Support**\
-  Allows you to contact mobohubb support for assistance.
+* **Support**: Allows you to contact mobohubb support for assistance.
 
-* **Request**\
-  Lets you submit emergency or permit requests. This section shows the status of your requests (pending, approved, or rejected) and any permissions or responses associated with them.
+* **Request**: Lets you submit emergency or permit requests. This section shows the status of your requests (pending, approved, or rejected) and any permissions or responses associated with them.
 
-* **Offline Work**\
-  Enables you to continue working without an internet connection. Data such as hours worked, tasks performed, forms completed, and scan records are stored on your device and synchronized once connectivity is restored.
+* **Offline Work**: Enables you to continue working without an internet connection. Data such as hours worked, tasks performed, forms completed, and scan records are stored on your device and synchronized once connectivity is restored.
 
 ## Customization
 
