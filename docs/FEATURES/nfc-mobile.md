@@ -9,8 +9,6 @@ hidden: false
 metadata:
   robots: index
 ---
-***
-
 **In this guide you'll learn**
 
 * How to locate and use the landing screen and footer menu for scanning
