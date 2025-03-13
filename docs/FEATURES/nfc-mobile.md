@@ -5,7 +5,7 @@ excerpt: >-
   the process of scanning an NFC tag, verifying the scan point, and triggering
   associated actions like completing a task or form.
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
