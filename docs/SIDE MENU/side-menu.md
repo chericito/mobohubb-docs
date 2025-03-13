@@ -23,8 +23,6 @@ The side menu in the mobohubb mobile app provides quick access to various config
 
 To open the side menu:
 
-<br />
-
 <Image align="center" width="30% " src="https://files.readme.io/1bb2d4d6115ab316184e431b704f6b78ad3e15592b096c534707610e23134da1-image.png" />
 
 * Use the **hamburger button** located at the upper left corner of the app.
