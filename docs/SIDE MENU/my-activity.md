@@ -40,7 +40,9 @@ Learn how to view and filter your activity logs in the mobohubb mobile app. This
    * Activities are grouped by Task, Forms, Scans, and Timesheet.
    * Each entry shows the name of the activity and the date/time you submitted it.
 
-   ![](https://files.readme.io/ed2903f4ca60300c5ea045f949bb0bd748c7bfb6e4e9e67fe2623c078f0a155b-image.png)![](https://files.readme.io/ba9ed5ddac99cf96aad7f6c2e473139ba383593137f7224e02c5d80e8ed22b91-image.png)
+   ![](https://files.readme.io/ed2903f4ca60300c5ea045f949bb0bd748c7bfb6e4e9e67fe2623c078f0a155b-image.png)
+
+   ![](https://files.readme.io/ba9ed5ddac99cf96aad7f6c2e473139ba383593137f7224e02c5d80e8ed22b91-image.png)
 
 ***
 
@@ -73,6 +75,8 @@ To see more information about a specific activity:
    * Exact date/time of the action vs. the submission time (especially relevant if you used **offline functions** and synced later).
    * A map location for the log, if provided.
 
-   ![](https://files.readme.io/ead305b2f7e4e519273e2b5f379c1b2d53da0275040b5a454f0a13d6ccd9dcc6-image.png)![](https://files.readme.io/cb0966f9abf9256362838c91975cea4f6b53569eb2288011138175d868d0176b-image.png)
+   ![](https://files.readme.io/ead305b2f7e4e519273e2b5f379c1b2d53da0275040b5a454f0a13d6ccd9dcc6-image.png)
+
+   ![](https://files.readme.io/cb0966f9abf9256362838c91975cea4f6b53569eb2288011138175d868d0176b-image.png)
 
 By checking **My Activity**, you can quickly confirm that your tasks, forms, scans, and timesheet entries have been properly recorded.
