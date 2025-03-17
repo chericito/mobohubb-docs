@@ -94,7 +94,7 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <br />
 
-4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **Form Field Descriptions** for details on how each field type works (e.g., date, time, scan).
+4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **[Form Field Descriptions](https://mobohubb.readme.io/v1.2/docs/forms-and-checklist-mobile#form-field-descriptions)** for details on how each field type works (e.g., date, time, scan).
 
 <Image align="center" width="30% " src="https://files.readme.io/81cd2669a1f8245841728e5e49f6b4aa6975c991ca6901719745e27c734a66fe-blobid4.png" />
 
@@ -146,7 +146,7 @@ When you can’t finish a form immediately, you can **create a draft**:
 
 <br />
 
-3. **Fill In the Form**: Remember to review **Form Field Descriptions** for details on each field type.
+3. **Fill In the Form**: Remember to review **[Form Field Descriptions](https://mobohubb.readme.io/v1.2/docs/forms-and-checklist-mobile#form-field-descriptions)** for details on each field type.
 
 ![](https://files.readme.io/970eacbe4d20102e0e83b5878f4407cda9499be13ae053c69e1ed8decc8846e9-blobid4.png)
 
