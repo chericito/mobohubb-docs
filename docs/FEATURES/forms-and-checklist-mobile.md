@@ -13,7 +13,7 @@ metadata:
 **In this guide you'll learn**
 
 * How forms differ from checklists and how each is used
-* What field types are available in Table 1
+* What field types are available.
 * How to fill out, submit, or save a form as a draft
 * How to return to and complete a draft at a later time
 
