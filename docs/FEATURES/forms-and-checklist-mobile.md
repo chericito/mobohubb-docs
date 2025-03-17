@@ -54,6 +54,7 @@ Forms and checklists are essential tools for collecting and managing data:
 ## Sending Forms or Checklists
 
 1. **Locate the Landing Screen**: The portal administrator may customize the landing screen differently for each site. Available landing screens include:
+
    * Scan/NFC
 
    * Dashboard
@@ -65,17 +66,26 @@ Forms and checklists are essential tools for collecting and managing data:
    * Time clock
 
    * Schedule
+
+   <Image align="center" width="30% " src="https://files.readme.io/a38842bb52e54a87f47c7b50fce3d90d701ba944073e0774e34f8ef8a5c8923c-blobid1.png" />
+
    <br />
+
    > **Note:** Even if your landing screen differs from the example below, the steps remain the same.
 
 2. **Use the Footer Menu**: The footer menu contains six options, which lead you to key app features:
+
    * **Scan/NFC**
    * **Dashboard**
    * **Forms**
    * **Tasks**
    * **Time clock**
    * **Schedule**: Tap on **Forms / Checklist**.
+
+   <Image align="center" width="30% " src="https://files.readme.io/f4d3c7a9237284946d3416f6f59cac1971afcd1d13c8a737dc6545eafd7fe2b2-blobid2.png" />
+
    <br />
+
    > **Tip:** Only up to four icons appear directly. Additional icons may be in the **“more menu apps”** section.
 
 3. **Select the Form or Checklist**: Use the **search bar** at the top to locate the correct form or checklist.
