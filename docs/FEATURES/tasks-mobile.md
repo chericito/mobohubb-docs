@@ -74,12 +74,22 @@ Tap on **Tasks**. If you don’t see the icon directly, you can access it via **
 
 <br />
 
-3. **Confirm** the Completion
-   * **Scan Task**: You’ll be asked to scan a QR code or an NFC tag.
-   * **Report Task**: You’ll open and fill out a form.
-   * **Manual Task**: A simple checkbox marks it as done—no redirection to another feature.
-4. **Close** the Task Interface: Tapping **“Close”** finalizes your action.
+3. **Confirm** the Completion.
 
 <Image align="center" width="30% " src="https://files.readme.io/6375f09286d9362df7f7c853b809ed201408dc034b73b340546bd0c021b88fa0-blobid3.png" />
+
+<br />
+
+* **Scan Task**: You’ll be asked to scan a QR code or an NFC tag.
+* **Report Task**: You’ll open and fill out a form.
+* **Manual Task**: A simple checkbox marks it as done—no redirection to another feature.
+
+> **Note:** Some tasks might require a scan, such as scanning a QR code or NFC tag, or completing a form/checklist. If the necessary scan or form is **not** completed, the task **cannot** be marked as done. Users must finish these steps before fully submitting or completing the task.
+
+3. **Close** the Task Interface: Tapping **“Close”** finalizes your action.
+
+<Image align="center" width="30% " src="https://files.readme.io/6d9d974b9ac4ac5d038085a5de9b62ff64aa05965ff8c2f8aac7bdc23882d5f8-blobid4.png" />
+
+<br />
 
 > **Note:** Repeat these steps for each task until all assigned tasks are completed.
