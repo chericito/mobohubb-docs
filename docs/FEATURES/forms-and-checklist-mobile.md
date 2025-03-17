@@ -94,7 +94,7 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <br />
 
-4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **Table 1** for details on how each field type works (e.g., date, time, scan).
+4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **Form Field Descriptions** for details on how each field type works (e.g., date, time, scan).
 
 <Image align="center" width="30% " src="https://files.readme.io/81cd2669a1f8245841728e5e49f6b4aa6975c991ca6901719745e27c734a66fe-blobid4.png" />
 
@@ -116,7 +116,7 @@ Forms and checklists are essential tools for collecting and managing data:
 
 7. **Close** and **Confirm**. You can **track your logs** in “My Activity”.
 
-![](https://files.readme.io/ef106b575b996f294ed74db23ed26bc25ecd24657c9fb830eff635e6cf9ece5e-blobid8.png)
+<Image align="center" width="30% " src="https://files.readme.io/ef106b575b996f294ed74db23ed26bc25ecd24657c9fb830eff635e6cf9ece5e-blobid8.png" />
 
 <br />
 
@@ -128,19 +128,48 @@ When you can’t finish a form immediately, you can **create a draft**:
 
 1. **Locate the Landing Screen**: As explained above, the portal administrator can customize this screen differently for each site.
 
+<Image align="center" width="30% " src="https://files.readme.io/6c96882e2b4a91b43670893c8fc4a5cda8e3d2532ed0c2938e8892298f18d788-blobid1.png" />
+
+<br />
+
 2. **Use the Footer Menu**: Select **Forms / Checklist** from among the app’s six main features.
+
+<Image align="center" width="30% " src="https://files.readme.io/ced5caef62b0441af68c47776114aa00dd55a10ed3ae533a3de9bd32a9b92bba-blobid2.png" />
+
+<br />
 
 > **Tip:** The last two icons may be in **“more menu apps.”**
 
 3. **Select the Form or Checklist**: Use the **search bar** to find it.
-4. **Fill In the Form**: Remember to review **Table 1** for details on each field type.
+
+<Image align="center" width="30% " src="https://files.readme.io/766f2b111d1ec68c62db450bc5465913ca3da1035bd18a37b88789f1bfb71a17-blobid3.png" />
+
+<br />
+
+3. **Fill In the Form**: Remember to review **Form Field Descriptions** for details on each field type.
+
+![](https://files.readme.io/970eacbe4d20102e0e83b5878f4407cda9499be13ae053c69e1ed8decc8846e9-blobid4.png)
+
+<br />
 
 > **Note:** The bottom menu allows for file attachments like images, videos, or audio notes.
 
 5. **Tap** the dropdown menu.
-6. **Select** **“Save Draft.”**
-7. **Wait** for the validation process.
-8. **Close** and **Confirm**.
+
+<Image align="center" width="30% " src="https://files.readme.io/2836ae05aeb350cc608281cdcfe39fe191e610920cede46cd26d4ac2168e153b-image.png" />
+
+<br />
+
+5. **Select** **“Save Draft”.**
+6. **Wait** for the validation process.
+
+<Image align="center" width="30% " src="https://files.readme.io/c282e3533983b1c3e0a1cbddcf24e7aa3fe5933da8ea1afaa0e9ffa8e57c1918-blobid7.png" />
+
+7. **Close** and **Confirm**.
+
+<Image align="center" width="30% " src="https://files.readme.io/41583f729b48b7e9a9ac67c555a1aa79c3fd39a98ed954d1350df975634987d9-blobid8.png" />
+
+<br />
 
 ***
 
