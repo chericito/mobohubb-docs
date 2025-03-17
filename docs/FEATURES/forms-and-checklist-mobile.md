@@ -96,11 +96,29 @@ Forms and checklists are essential tools for collecting and managing data:
 
 4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **Table 1** for details on how each field type works (e.g., date, time, scan).
 
+<Image align="center" width="30% " src="https://files.readme.io/81cd2669a1f8245841728e5e49f6b4aa6975c991ca6901719745e27c734a66fe-blobid4.png" />
+
+<Image align="center" border={false} caption="Time" src="https://files.readme.io/3e71f0e808afa63302998c0527bd308ace46e34927b4a4a1c806b531347c38ae-blobid5.png" width="30% " />
+
+<br />
+
 > **Note:** A menu at the bottom allows you to **attach images, videos, audio notes, or scans**. A red indicator means a field is mandatory.
 
 5. **Submit the Form or Checklist**: Alternatively, you can **save it as a draft** to finish later.
+
+<Image align="center" width="30% " src="https://files.readme.io/abcbe4a6061db98e7f8482babc0cc38d77cfa8f759d586faca5cca1bb2744664-blobid6.png" />
+
+<br />
+
 6. **Wait** for the validation process to complete.
-7. **Close** and **Confirm**. You can **track your logs** in “My Activity.”
+
+<Image align="center" width="30% " src="https://files.readme.io/837ad4375865ff6a7efdfeb5d7e9e81d296c2b3155474b0c4881d591f1883c67-blobid7.png" />
+
+7. **Close** and **Confirm**. You can **track your logs** in “My Activity”.
+
+![](https://files.readme.io/ef106b575b996f294ed74db23ed26bc25ecd24657c9fb830eff635e6cf9ece5e-blobid8.png)
+
+<br />
 
 ***
 
