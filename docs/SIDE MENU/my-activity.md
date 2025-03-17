@@ -50,16 +50,17 @@ Learn how to view and filter your activity logs in the mobohubb mobile app. This
 
 You can filter your logs by date to find specific records more easily:
 
-1. **Tap** the calendar icon in **My Activity.**\
-   ![](https://files.readme.io/ba7beeec1f5531127d694739c9f3cd55f2ab673c7c28989d0cf7d00a0c802203-image.png)
+1. **Tap** the calendar icon in **My Activity.**
+
+![](https://files.readme.io/ba7beeec1f5531127d694739c9f3cd55f2ab673c7c28989d0cf7d00a0c802203-image.png)
 
 2. **Select** the date using the interactive calendar.
 
-   * Activities from that day will be displayed.
+* Activities from that day will be displayed.
 
-   ![](https://files.readme.io/ed47bc38eb1c474a10859170955012d0870965da4083573c83d3f40b704f2bc0-image.png)
+![](https://files.readme.io/ed47bc38eb1c474a10859170955012d0870965da4083573c83d3f40b704f2bc0-image.png)
 
-3. **Review** the filtered results.
+1. **Review** the filtered results.
    * If no activities exist on the selected date, you’ll see “There are no activities registered on the selected date.”
    * Tap **“Delete filter”** to remove the filter and view all logs again.
 
