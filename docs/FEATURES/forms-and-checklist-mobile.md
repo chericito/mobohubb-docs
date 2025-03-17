@@ -177,18 +177,35 @@ When you can’t finish a form immediately, you can **create a draft**:
 
 1. **Locate the Landing Screen**: The choices remain consistent: Scan/NFC, Dashboard, Forms, Tasks, Time clock, Schedule.
 
-2. **Use the Footer Menu**: Go to **Forms / Checklist**.
+<Image align="center" width="30% " src="https://files.readme.io/ef96aeeaa2b67a08eea820492b995a01916e5fa701d3d98d6d593a2e853d8d8d-blobid1.png" />
 
-3. **Tap** the **“Saved Drafts”** button.
+<br />
 
-4. **Select** the draft form
-   * The **search bar** helps find it quickly.
-   * The **form’s** original name appears beneath your assigned draft name.
+1. **Use the Footer Menu**: Go to **Forms / Checklist**.
 
-5. **Fill In** the form to pick up where you left off.
+![](https://files.readme.io/4f4e10d49f3db0d5e8bc685c396f1c126755f244692803735791ee6335eb759b-blobid2.png)
 
-6. **Submit** the form or checklist.
+<br />
 
-7. **Wait** for the validation process.
+1. **Tap** the **“Saved Drafts”** button.
 
-8. **Close** and **Confirm**. You can **track your logs** in **“My Activity.”**
+![](https://files.readme.io/6922b50580b1c4430fc57e477b6762d4ebcadd09897b15b2cc8f185dc8e7cb2f-blobid16.png)
+
+<br />
+
+1. **Select** the draft form
+
+<Image align="center" src="https://files.readme.io/6634ab89ab373fa8e39aea472e698b7476094fc856a7df170c79488dd502210d-blobid17.png" />
+
+<br />
+
+* The **search bar** helps find it quickly.
+* The **form’s** original name appears beneath your assigned draft name.
+
+1. **Fill In** the form to pick up where you left off.
+
+2. **Submit** the form or checklist.
+
+3. **Wait** for the validation process.
+
+4. **Close** and **Confirm**. You can **track your logs** in **“My Activity.”**
