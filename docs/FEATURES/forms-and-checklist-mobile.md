@@ -181,31 +181,37 @@ When you can’t finish a form immediately, you can **create a draft**:
 
 <br />
 
-1. **Use the Footer Menu**: Go to **Forms / Checklist**.
+2. **Use the Footer Menu**: Go to **Forms / Checklist**.
 
-![](https://files.readme.io/4f4e10d49f3db0d5e8bc685c396f1c126755f244692803735791ee6335eb759b-blobid2.png)
-
-<br />
-
-1. **Tap** the **“Saved Drafts”** button.
-
-![](https://files.readme.io/6922b50580b1c4430fc57e477b6762d4ebcadd09897b15b2cc8f185dc8e7cb2f-blobid16.png)
+<Image align="center" width="30% " src="https://files.readme.io/4f4e10d49f3db0d5e8bc685c396f1c126755f244692803735791ee6335eb759b-blobid2.png" />
 
 <br />
 
-1. **Select** the draft form
+3. **Tap** the **“Saved Drafts”** button.
 
-<Image align="center" src="https://files.readme.io/6634ab89ab373fa8e39aea472e698b7476094fc856a7df170c79488dd502210d-blobid17.png" />
+<Image align="center" width="30% " src="https://files.readme.io/6922b50580b1c4430fc57e477b6762d4ebcadd09897b15b2cc8f185dc8e7cb2f-blobid16.png" />
 
 <br />
+
+4. **Select** the draft form
+
+<Image align="center" width="30% " src="https://files.readme.io/6634ab89ab373fa8e39aea472e698b7476094fc856a7df170c79488dd502210d-blobid17.png" />
 
 * The **search bar** helps find it quickly.
 * The **form’s** original name appears beneath your assigned draft name.
 
-1. **Fill In** the form to pick up where you left off.
+5. **Fill In** the form to pick up where you left off.
 
-2. **Submit** the form or checklist.
+<Image align="center" width="30% " src="https://files.readme.io/603db8bf081f91d97adac0ea40e5c32e95c3345e4726c84ce0f1e75f3b27a414-blobid18.png" />
 
-3. **Wait** for the validation process.
+6. **Submit** the form or checklist.
 
-4. **Close** and **Confirm**. You can **track your logs** in **“My Activity.”**
+<Image align="center" width="30% " src="https://files.readme.io/6538eafa95c1ecb3764746251572f7d097346c5a72c698cec1e47a4a2f3b89ed-blobid19.png" />
+
+7. **Wait** for the validation process.
+
+<Image align="center" width="30% " src="https://files.readme.io/ae21e3d4efc7a31f8077a7f108fe6313c37dd6194e15422f14d55455feeec842-blobid7.png" />
+
+8. **Close** and **Confirm**. You can **track your logs** in **“My Activity.”**
+
+<Image align="center" width="30% " src="https://files.readme.io/064d1a21b89c029d3dcef0399827fb63fa3502ccc804a602365a600c9d44c292-blobid8.png" />
