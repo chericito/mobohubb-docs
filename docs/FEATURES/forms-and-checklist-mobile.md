@@ -90,6 +90,10 @@ Forms and checklists are essential tools for collecting and managing data:
 
 3. **Select the Form or Checklist**: Use the **search bar** at the top to locate the correct form or checklist.
 
+<Image align="center" width="30% " src="https://files.readme.io/826ef84650e2439857e53d228ff635bef318221c7c16bae6ef195637ad012daa-blobid3.png" />
+
+<br />
+
 4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **Table 1** for details on how each field type works (e.g., date, time, scan).
 
 > **Note:** A menu at the bottom allows you to **attach images, videos, audio notes, or scans**. A red indicator means a field is mandatory.
