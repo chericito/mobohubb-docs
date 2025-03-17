@@ -1,13 +1,18 @@
 ---
 title: My Activity
+excerpt: >-
+  Learn how to view and filter your activity logs in the mobohubb mobile app.
+  This guide explains how to navigate to **My Activity**, apply date filters,
+  and view detailed information about each activity across tasks, forms, scans,
+  and the timesheet.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-### Metadata Description
-
 Learn how to view and filter your activity logs in the mobohubb mobile app. This guide explains how to navigate to **My Activity**, apply date filters, and view detailed information about each activity across tasks, forms, scans, and the timesheet.
+
+***
 
 **In this guide you'll learn**
 
