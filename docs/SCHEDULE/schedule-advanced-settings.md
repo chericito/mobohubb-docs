@@ -11,7 +11,15 @@ hidden: false
 metadata:
   robots: index
 ---
-**Scheduling** is a **mobohubb** tool that enables the assignment of jobs or shifts to each user while simplifying oversight. With a well-organized schedule, you can efficiently allocate resources, uphold high-quality customer service, and enhance overall productivity.
+**Scheduling** is a **mobohubb** tool that enables assigning jobs or shifts to each user while simplifying oversight. With a well-organized schedule, you can efficiently allocate resources, uphold high-quality customer service, and enhance productivity.
+
+## Pay Rate Calculation
+
+**mobohubb** calculates a user’s pay rate based on **two different settings**:
+
+1. **Role Assigned to the Shift**: If a shift is linked to a specific role, mobohubb uses the pay rate from that role. You can view or modify these rates in the [Roles configuration menu](https://mobohubb.readme.io/docs/roles#edit-roles).
+
+2. **User Configuration**: If the shift **has no role**, the system automatically pulls the pay rate set in the [User configuration menu](https://mobohubb.readme.io/docs/users#edit-users).
 
 ## Manage the Schedule
 
