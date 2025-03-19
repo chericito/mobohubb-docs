@@ -1,5 +1,5 @@
 ---
-title: 'Schedule: Advanced Settings'
+title: 'Schedule: Overview'
 excerpt: >-
   Explore **Schedule Features** in **mobohubb**, where you can manage shift
   assignments, configure notifications, add or remove unassigned shifts, and
