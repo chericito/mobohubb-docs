@@ -16,6 +16,14 @@ metadata:
 
 ***
 
+## Pay Rate Calculation
+
+**mobohubb** calculates a user’s pay rate based on **two different settings**:
+
+1. **Role Assigned to the Shift**: If a shift is linked to a specific role, mobohubb uses the pay rate from that role. You can view or modify these rates in the [Roles configuration menu](https://mobohubb.readme.io/docs/roles#edit-roles).
+
+2. **User Configuration**: If the shift **has no role**, the system automatically pulls the pay rate set in the [User configuration menu](https://mobohubb.readme.io/docs/users#edit-users).
+
 ## Shifts Indicators
 
 Each shift can include various visual indicators, which help differentiate their statuses or key attributes:
