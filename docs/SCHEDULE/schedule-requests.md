@@ -46,7 +46,7 @@ Time Off can be custom-defined for various scenarios—paid or unpaid, emergency
 
 ### Claim Shift
 
-Users can claim **unassigned** shifts ([open shifts](https://mobohubb.readme.io/docs/schedule-shifts#/add-new-shifts)), which may require admin approval.
+Users can claim **unassigned** shifts ([open shifts](https://mobohubb.readme.io/docs/schedule-shifts#add-new-shifts)), which may require admin approval.
 
 ### Replacement Request
 
