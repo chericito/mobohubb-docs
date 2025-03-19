@@ -237,6 +237,8 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 **Unassigned Shifts** (open shifts) allow employees to **claim** spots themselves, rather than having administrators assign them. Shifts can have multiple spots, so multiple employees can claim until the quota is filled.
 
+> **Note**: To be able to publish unassigned shifts, please make sure to have at least set up a Role.
+
 ## Unassigned Shift View
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/30607d48f3d30554f1cb85e2a50d0105f8ffa1184b1a36d72162e7664c74a803-image.png" />
