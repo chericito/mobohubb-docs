@@ -18,7 +18,7 @@ metadata:
 
 ## Manage Request
 
-1. **Open** the scheduler and click **“Requests”**.
+1. **Open** the schedule and click **“Requests”**.
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/25b9130e418ac81266b152f1a34630d249788812ae9027dfdb29c315b0fff591-image.png" />
 
