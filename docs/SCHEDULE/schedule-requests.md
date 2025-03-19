@@ -18,7 +18,13 @@ metadata:
 
 ## Manage Request
 
-1. **Open** the schedule and click **“Requests”**.
+From the Schedule.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/0281ce50dea57955acecb5ef6c5ae6e6bf01fa9903b97cea41fa049943d746c8-image.png" />
+
+<br />
+
+1. **Click “Requests”**.
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/25b9130e418ac81266b152f1a34630d249788812ae9027dfdb29c315b0fff591-image.png" />
 
