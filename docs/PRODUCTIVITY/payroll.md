@@ -112,6 +112,14 @@ You can edit **Clock In/Out**, **Hourly Rate**, and **Approval Status**:
 
 If a shift was assigned, e.g., “cleaning bathrooms shift” with set hours, “Planned hours” will show. The system calculates overtime and final daily pay automatically based on the assigned rate. You can assign hourly pay rates and overtime via **[Roles configuration feature](https://mobohubb.readme.io/docs/roles#/add-roles)** and **[Users role assignment](https://mobohubb.readme.io/docs/users#/edit-users)**.
 
+## Pay Rate Calculation
+
+**mobohubb** calculates a user’s pay rate based on **two different settings**:
+
+1. **Role Assigned to the Shift**: If a shift is linked to a specific role, mobohubb uses the pay rate from that role. You can view or modify these rates in the [Roles configuration menu](https://mobohubb.readme.io/docs/roles#edit-roles).
+
+2. **User Configuration**: If the shift **has no role**, the system automatically pulls the pay rate set in the [User configuration menu](https://mobohubb.readme.io/docs/users#edit-users).
+
 Approval Status can be set to **Pending**, **Rejected**, or **Approved**:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/25571dd6e0ebbf9c05cc68b8dc7ad0b7e469be9421f56bf0c6d6b6e7e21ae129-886431A1-DD0F-4A10-A43B-01D2E49C8F0C.png" />
