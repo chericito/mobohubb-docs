@@ -33,6 +33,6 @@ metadata:
 
 4. **Triggering an SOS Alert**: Tapping the SOS button **immediately** sends the assigned function (e.g., audio message, text, or call) to your designated emergency contact(s).
 
-![SOS Button](https://files.readme.io/91c53cb0eedec1bd0ffd5538889295613c872839c35b6f6634c1fd81548417a1-image.png)
+<Image align="center" src="https://files.readme.io/91c53cb0eedec1bd0ffd5538889295613c872839c35b6f6634c1fd81548417a1-image.png" />
 
 > **Note:** If you need to update or change your emergency contact details or alert methods, speak with your administrator. They can modify these settings in the portal.
