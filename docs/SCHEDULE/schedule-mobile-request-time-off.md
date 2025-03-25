@@ -1,102 +1,90 @@
 ---
 title: 'Schedule Mobile: Request Time Off'
+excerpt: >-
+  Learn how to **request time off** through the mobohubb mobile app. This guide
+  explains how to submit a new time off request, manage pending requests, and
+  review completed (approved or rejected) requests. You’ll also discover how to
+  attach documents and provide reasons for your absence.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-​​
+**In this guide you'll learn**
 
-Request time off, these are diverse types of requests, emergency situations, vacations, etc. You can request different “Time off” requests according to your needs. You can see the completed request, pending and make a new time off request. Pending requests can be edited or deleted, while completed ones can only be reviewed.
+* How to **create** a time off request for various reasons (vacations, emergencies, etc.)
+* How to **manage** pending requests and **attach** supporting documents
+* Where to view **completed** requests and their approval status
 
-Submit Time off request.
+***
 
-You can create new requests, to indicate emergency situations, vacations, etc. These request types are created by the administrator. Time off requests must be made before the time stipulated by the administrator:
+Mobohubb enables you to submit **time off requests** for different schedules, specifying the start and end times, reason, and any required documentation. These requests await administrator review and can be approved or denied based on your organization’s policies.
 
-To use the “Request” function, to make a new request:
+***
 
-Open the side menu, which you can open using the hamburger menu located in the upper left corner.
+## Submit a Time Off Request
+
+1. **Open** the side menu:
+   * Tap the **hamburger button** in the upper-left corner of the screen.
+
+2. **Tap** **“Request.”**
 
 ![](https://files.readme.io/7f156ea4dcbcd1e0c133d2d00761a43350e5646a70f670ce86f505aaa52cb9e5-605FA896-89BE-4D1D-90CE-9319C352AC37.png)
 
-<br />
+1. **Add a new request**:
+   * Tap the **(+)** button.![](https://files.readme.io/8bd5eedfcd2fc99508ab38dabe8116dea0fa434d87261a0539c7c64004409ffe-96BD30E7-6C1A-484A-B05E-E652F1748743.png)
+   > **Note:** If you’re not part of any schedule, the button won’t be enabled.
 
-Go to the “Request” function.
+2. **Select** the schedule (if prompted) and fill out the form:
 
-![](https://files.readme.io/93b1b879dacdc81097a0bd0904476a12f81bb00c0c70d5beda220346408a87f5-5188CBF8-1BA0-4CA4-BBEA-D64D4F876FBF.png)
+   * **Request Type**: (e.g., vacation, emergency leave, etc.)
+   * **Start Date/Time** & **End Date/Time**: Use the interactive calendar.
+   * **Description**: Provide more context about your request.
+   * **Attachments**: Tap the **attach** icon to include files in PDF format.
 
-<br />
+   ![](https://files.readme.io/04d9dafa6fe16f5428fba99617ab2ad60c33a1aa0752a7816d0b64adea3393a4-9DC3F558-24D1-40B0-849B-D0F4F1F3A2FB.png)
 
-Go to the + button to add a new one.
+3. **Submit** your request:![](https://files.readme.io/a0e9a5a6c25503ab13e45d037eb836bcbb9c9e4a4c903757ec4d362f78ce2313-1060CD75-E385-4C0A-A813-758379341A66.png)
+   * You’ll return to the main **Request** screen, where the request now appears as **Pending**.
 
-![](https://files.readme.io/8bd5eedfcd2fc99508ab38dabe8116dea0fa434d87261a0539c7c64004409ffe-96BD30E7-6C1A-484A-B05E-E652F1748743.png)
+***
 
-<br />
+## Pending Requests
 
-Note: This button won't be able if you don't belong to a schedule, so you cannot request for time off.
+Requests that haven’t been **approved** or **rejected** yet are listed as **Pending**.
 
-Select the schedule in which the request is made.
+1. **Open** the side menu → **“Request.”**
+2. **View** the **Pending Requests** tab:![](https://files.readme.io/be64b4d7cef8082190cedecaf1ad2529967810b858671233cb0eda12979025f6-A0F2A41B-7858-4232-9C8B-A3F0FF1534F9.png)
 
-![](https://files.readme.io/7918fae6323c4056ff908834d2042ca65d2e96348f3408e6943341948e0f4103-A7613213-9515-4108-889B-E3040432568C.png)
+   * The pending requests are summarized, showing date, description, and status.
+   * A **“Pending Requests” counter** in orange indicates how many are awaiting admin decision.
 
-<br />
+   ![](https://files.readme.io/9d8cd6c91fa5f20eaa8678939c7bda36486a735449e0c61aacdf7f1d033e9392-3EAFB664-76DC-4588-B717-ED680630D673.png)
 
-Note: When you only belong to one schedule there will be no need to choose, and the option “Site schedule” will be disabled.
+> **Note:** Pending requests can often be edited or deleted until they’re processed.
 
-Fill in the required fields.
+***
 
-Select the type of request.
+## Completed Requests
 
-Select the start date/time using the interactive calendar.
+Once your time off request is **approved** or **rejected**, it moves to the **Completed** section. This is where you can see the final status of past requests.
 
-Select the end date/time using the interactive calendar.
+1. **Open** the side menu → **“Request.”**
+2. **View** the **Completed Requests** tab:![](https://files.readme.io/1a1f8a060c3c5b3139ba528e7082c897e0a6a4f431d5a2caa7c26c634da0b525-36310726-DCC4-4F2F-AE69-0D0462E56DAE.png)
 
-Provide a description.
+   * A **“Completed Requests”** counter in black shows how many requests have a final outcome.
 
-Attach the supports as files in pdf format.
+   ![](https://files.readme.io/bea3c3af7e4f7c336a99e47eeac38102416368dcbc505de20208bf1c6e5cf125-6CB76165-2137-41A0-A017-AB6CDA0063B8.png)
 
-![](https://files.readme.io/04d9dafa6fe16f5428fba99617ab2ad60c33a1aa0752a7816d0b64adea3393a4-9DC3F558-24D1-40B0-849B-D0F4F1F3A2FB.png)
+> **Note:** Completed requests can be **viewed** but not **edited** anymore.
 
-<br />
+***
 
-5. Click on submit.
+### Key Takeaways
 
-![](https://files.readme.io/a0e9a5a6c25503ab13e45d037eb836bcbb9c9e4a4c903757ec4d362f78ce2313-1060CD75-E385-4C0A-A813-758379341A66.png)
-
-You will return to the main interface of “request.”
-
-## Pending Request
-
-Requests that have not yet been approved or rejected by the administrator are shown in the pending section, waiting to be resolved. You can see the details such as the description, date, and status of the pending requests for time off.
-
-Open the side menu, which you can open using the hamburger menu located in the upper left corner.
-
-Go to the “Request” function.
-
-You can access the pending requests window to confirm the registration.
-
-![](https://files.readme.io/be64b4d7cef8082190cedecaf1ad2529967810b858671233cb0eda12979025f6-A0F2A41B-7858-4232-9C8B-A3F0FF1534F9.png)
-
-Pending requests will be displayed in summary on the screen. In addition, they will have a “Pending requests” counter that will appear in orange.
-
-![](https://files.readme.io/9d8cd6c91fa5f20eaa8678939c7bda36486a735449e0c61aacdf7f1d033e9392-3EAFB664-76DC-4588-B717-ED680630D673.png)
-
-<br />
-
-## Completed requests
-
-To see the requests that have been solved, they are shown in the “completed requests” section. This section shows the responses of “Time off” request. You can see the details such as the description, date, and status of the completed requests for time off.
-
-Open the side menu, which you can open using the hamburger menu located in the upper left corner.
-
-Go to the “Request” function.
-
-You can access the completed requests window to see the responses.
-
-![](https://files.readme.io/1a1f8a060c3c5b3139ba528e7082c897e0a6a4f431d5a2caa7c26c634da0b525-36310726-DCC4-4F2F-AE69-0D0462E56DAE.png)
-
-<br />
-
-Completed requests will be displayed in summary on the screen. In addition, they will have a “Completed request” counter that will appear in black.
+* **Time off requests** must be submitted before the admin’s set cutoff time.
+* **Pending requests** can often be changed or withdrawn until a decision is made.
+* **Completed requests** are final and cannot be modified.
+* Always attach necessary **documents** if required by your organization’s policies.
 
 ![](https://files.readme.io/bea3c3af7e4f7c336a99e47eeac38102416368dcbc505de20208bf1c6e5cf125-6CB76165-2137-41A0-A017-AB6CDA0063B8.png)
