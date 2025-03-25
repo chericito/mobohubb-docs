@@ -29,7 +29,7 @@ The **mobohubb** schedule helps deskless workers track when and where they work.
 
 You can see an overview of your scheduled shifts in the **Upcoming Shifts** section on the **dashboard**. If you have no shifts assigned, the message **“There are no scheduled shifts”** will appear. Tapping on this section takes you directly to the **Schedule** feature.
 
-![](https://files.readme.io/38e00f746f687b23f80e53ff9eb0b5427390f5d8bb34672dc7a228759ca643cd-EB7C3F35-D2E2-464F-BA4F-C3F042D2E4A1.png)
+<Image align="center" width="30% " src="https://files.readme.io/38e00f746f687b23f80e53ff9eb0b5427390f5d8bb34672dc7a228759ca643cd-EB7C3F35-D2E2-464F-BA4F-C3F042D2E4A1.png" />
 
 ***
 
@@ -75,13 +75,47 @@ By default, it might say **“All Schedules.”** Tap it to switch between diffe
 
 ### 2. Date Selector
 
-An **interactive calendar** helps you navigate to future or past days. You can:
-
-* Use **left/right arrows** to move day-by-day.
-* Tap and **slide** through dates along a horizontal bar.
-* **Open** the advanced date selector by tapping the **grey bar**, letting you jump by day, month, or year.
+This **interactive calendar** helps you quickly navigate through days, months, or even years to find and manage your scheduled shifts. The current calendar displays shifts by day, while additional navigation tools allow you to look at past or future schedules:
 
 <Image align="center" width="30% " src="https://files.readme.io/6e05a410de1fb04bdf039d7d52002d0ecf52da9ce5a12d94441294978171a77f-83ADFA20-9BB9-4F40-9562-E48015F8FE09.png" />
+
+#### Navigate Day-by-Day
+
+Use the **left** and **right** arrows to move to the previous or next day:
+
+<Image align="center" width="30% " src="https://files.readme.io/0d8e9c1ccf5693c96d04860d59b0d1ecd589f6eb538f1e47cd6d1aed710715bf-89A60A20-7291-42A0-9CE9-FEE4E5C66B67.png" />
+
+#### Day Selector
+
+Tap and **slide** horizontally through the day selector to jump to a specific date:
+
+<Image align="center" width="30% " src="https://files.readme.io/fe9b52faa86dc445604be3ecdb406f3577d612e9191f2566f2fdb6244e714541-386D93DD-091A-4F55-8CDD-55D51AA8006D.png" />
+
+#### Advanced Date Selector
+
+Tap the **grey bar** at the top of the calendar to open a **pop-up** with more detailed navigation options for days, months, or years:
+
+<Image align="center" width="30% " src="https://files.readme.io/68b82892c9a08d7eff45aafd6e7f49efe7995fbfd0e6f3beccafc3f075ec5a50-CD369138-3D86-4C74-A9AF-E5EC4476DE79.png" />
+
+#### By Day
+
+Choose a **day** on the interactive calendar:
+
+<Image align="center" width="30% " src="https://files.readme.io/ab301d5e66c54d905e693c3285f0a6bea2efa4dac0ae858b6b6d9a53927262ee-C4972174-BC18-437C-8FE8-55F71BECE242.png" />
+
+#### By Month
+
+Tap on the current month, then select the **month** you wish to view:
+
+<Image align="center" width="50% " src="https://files.readme.io/dbf67d941502685c5753659a7e32dc19966da472894bd6c0d056adb3fd36805c-3914A24C-B2B4-445C-A945-110EB149A5F7.png" />
+
+#### By Year
+
+Tap on the current year, then pick the **year** you want to consult:
+
+<Image align="center" width="50% " src="https://files.readme.io/046a159181752b98430581d08aa75b47c2119d009bd464b17807a2d9bec54733-5B57B697-265F-41A6-BA97-E332655AC428.png" />
+
+<br />
 
 ### 3. Unassigned Shifts
 
