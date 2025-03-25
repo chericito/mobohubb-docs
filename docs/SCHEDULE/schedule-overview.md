@@ -1,180 +1,119 @@
 ---
 title: 'Schedule: Overview'
+excerpt: >-
+  Learn how to manage and view your schedule in the mobohubb mobile app. This
+  guide explains how to access upcoming shifts, navigate the Schedule feature
+  via the footer menu or dashboard sliders, and use advanced date selectors. It
+  also covers unassigned shifts, replacement requests, and how to view shift
+  details in the Planner.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-Manage the schedule 
+**In this guide you'll learn**
 
-Upcoming shifts 
+* How to check **upcoming shifts** from the dashboard
+* Where to find the **Schedule** feature in the **footer menu**
+* How to **navigate** through days, months, and years using the **advanced date selector**
+* How to manage **unassigned shifts** and **replacement requests**
+* How to view detailed shift information in the **Planner**
 
- 
+***
+
+The **mobohubb** schedule helps deskless workers track when and where they work. You can access your upcoming shifts, claim unassigned shifts, handle replacement requests, and review each shift’s details.
+
+***
+
+## Upcoming Shifts
+
+You can see an overview of your scheduled shifts in the **Upcoming Shifts** section on the **dashboard**. If you have no shifts assigned, the message **“There are no scheduled shifts”** will appear. Tapping on this section takes you directly to the **Schedule** feature.
 
 ![](https://files.readme.io/38e00f746f687b23f80e53ff9eb0b5427390f5d8bb34672dc7a228759ca643cd-EB7C3F35-D2E2-464F-BA4F-C3F042D2E4A1.png)
 
-You can see the Upcoming shifts section on the dashboard, this is a short overview of the schedule feature that shows the upcoming assigned shifts. If there are no assigned shifts, the message "There are no scheduled shifts" will be displayed. You can also access the schedule feature by tapping this section.
+***
 
-Interfaz de usuario gráfica, Aplicación
+## Accessing the Schedule
 
-Descripción generada automáticamente
+### Schedule in the Footer Menu
 
-Schedule in the footer menu
+1. **Open** the footer menu:![](https://files.readme.io/2c18b34f5dbf990f18cd38a85fbd0550dbfdc7bcbffadb77ed4c3ad7bc92989f-86B9C126-C96B-4388-9745-9F4BA6EC1937.png)
 
-You can access the Schedule using the footer menu, the footer menu is always visible in all mobohubb features: 
+2. **Tap** the **Schedule** icon.![](https://files.readme.io/24341696acadd215c565ba75050b78254d25c2f4fd827904b21cbce6eccd40dc-3685961F-6D08-47B1-A5F7-C746BBC0FD35.png)
 
-1. Navigate to the footer menu. 
+   > **Note:** If the icon isn’t visible, look for it under **“additional apps menu”**.
 
-![](https://files.readme.io/2c18b34f5dbf990f18cd38a85fbd0550dbfdc7bcbffadb77ed4c3ad7bc92989f-86B9C126-C96B-4388-9745-9F4BA6EC1937.png)
+### Schedule in the Dashboard Sliders
 
-<br />
-
-2. Tap on the schedule feature. 
-
- 
-
-![](https://files.readme.io/24341696acadd215c565ba75050b78254d25c2f4fd827904b21cbce6eccd40dc-3685961F-6D08-47B1-A5F7-C746BBC0FD35.png)
-
-This may be in the “additional apps menu” button according to the disposition of the footer menu.  You should look for the schedule icon.
-
-![](https://files.readme.io/1e5934521aaf3b7693c2ed4f281784d91630e396599d3b006a8fdb01911dea0b-95B8D78F-BCE8-4680-BE9A-C252B26092A9.png)
-
-<br />
-
-Schedule in the Dashboard
-
-You can see the “Sliders” section on the dashboard, the sliders contain features, including the Schedule feature. You can access the schedule feature by slide to the “Schedule” and tapping this section.
+In the **dashboard**, you’ll see **sliders** that include different features. One of these is **Schedule**. Swipe to reach the **Schedule** slider and tap it to open.
 
 ![](https://files.readme.io/53446d40c131e543c816acfd56ee0426c9aee1c8edb3a617d221c9d42de78913-D3D5751E-A39F-46FF-BB9C-A22355D6625C.png)
 
-<br />
+***
 
-Schedule details 
+## Schedule Details
 
-Schedule are divided into, Schedule selector, Date selector, unassigned shifts, replacement request and planner. 
+The schedule is divided into several sections:
+
+1. **Schedule Selector**
+2. **Date Selector**
+3. **Unassigned Shifts**
+4. **Replacement Request**
+5. **Planner**
 
 ![](https://files.readme.io/75ecdea5752ac05f61d369fe7ced2d89e223ccf6fb20c4017f4ff74844d79e98-E904B060-2780-4A28-9B93-12B33431E5AC.png)
 
-<br />
+### 1. Schedule Selector
 
-<br />
-
-Schedule selector.
-
-Here you can see the Schedule name in which you can see its shifts, it can be marked as “all schedules” to show it all, or with a specific schedule name.
-
-The first time you use the schedule feature, by default you will have marked “all schedules.”
+By default, it might say **“All Schedules.”** Tap it to switch between different schedules if your organization has more than one configured.
 
 ![](https://files.readme.io/150a708a471ca2726ab2a133a868acadfecf0b91d63e943682232a0dfe901441-8BA176AB-4603-408B-A5C2-91FAFC902BFA.png)
 
-<br />
+### 2. Date Selector
 
-Use this selector to change the scheduler.
+An **interactive calendar** helps you navigate to future or past days. You can:
 
- 
-
-![](https://files.readme.io/f8bb88d3eacb83c248acf66cb419a044756adae341520fb0cb17c3a2765034e8-00D82CBC-D1E7-4B32-A3AC-99D899B8B43F.png)
-
-Date selector.
-
-This is an interactive calendar in which you can navigate to future days, or past days. The current calendar will show the shifts by day.
+* Use **left/right arrows** to move day-by-day.
+* Tap and **slide** through dates along a horizontal bar.
+* **Open** the advanced date selector by tapping the **grey bar**, letting you jump by day, month, or year.
 
 ![](https://files.readme.io/6e05a410de1fb04bdf039d7d52002d0ecf52da9ce5a12d94441294978171a77f-83ADFA20-9BB9-4F40-9562-E48015F8FE09.png)
 
-<br />
+### 3. Unassigned Shifts
 
-Use the left and right arrows to navigate to the previous and next days.
-
-![](https://files.readme.io/0d8e9c1ccf5693c96d04860d59b0d1ecd589f6eb538f1e47cd6d1aed710715bf-89A60A20-7291-42A0-9CE9-FEE4E5C66B67.png)
-
-<br />
-
-Use the day selector to navigate to the day you wish to. You can tap and slide to the day you wish to easily navigate.
-
-![](https://files.readme.io/fe9b52faa86dc445604be3ecdb406f3577d612e9191f2566f2fdb6244e714541-386D93DD-091A-4F55-8CDD-55D51AA8006D.png)
-
-<br />
-
-Use the advance date selector to navigate by day, months or years. This will open a new popup with an interactive calendar in which you can easily navigate through different months, years or days. Tap on the grey bar to use the advance date selector.
-
-![](https://files.readme.io/68b82892c9a08d7eff45aafd6e7f49efe7995fbfd0e6f3beccafc3f075ec5a50-CD369138-3D86-4C74-A9AF-E5EC4476DE79.png)
-
-<br />
-
-Use the advance selector to navigate by day using the interactive calendar. Tap on the day you wish consult.
-
-![](https://files.readme.io/ab301d5e66c54d905e693c3285f0a6bea2efa4dac0ae858b6b6d9a53927262ee-C4972174-BC18-437C-8FE8-55F71BECE242.png)
-
-<br />
-
-Use the advance selector to navigate by month by tapping on the current month, then tap on the month you wish consult.
-
-![](https://files.readme.io/dbf67d941502685c5753659a7e32dc19966da472894bd6c0d056adb3fd36805c-3914A24C-B2B4-445C-A945-110EB149A5F7.png)
-
-<br />
-
-Use the advance selector to navigate by year by tapping on the current year then tap on the year you wish consult.
-
-![](https://files.readme.io/046a159181752b98430581d08aa75b47c2119d009bd464b17807a2d9bec54733-5B57B697-265F-41A6-BA97-E332655AC428.png)
-
-<br />
-
-Unassigned shifts.
-
-This section shows the total number of unassigned shifts you can claim. This will redirect you to the unassigned shifts feature to see shifts you can claim.
-
-This option won't be visible if you don't have unassigned shifts able to claim.
-
-Note: Visit our “Unassigned shifts” section to claim shifts.
+If you see a section labeled **Unassigned Shifts**, it indicates how many open shifts you can claim. Tapping it directs you to the **Unassigned Shifts** feature. If you don’t have unassigned shifts to claim, this section may not appear.
 
 ![](https://files.readme.io/c8b5106c4a08d3be9ac9f1703a0c7198893933d95e7295adf262a958dc8cb82a-C3BD10D8-3F5D-43D2-8037-AE73D1CECA44.png)
 
-<br />
+> **Note:** Visit **Unassigned Shifts** for details on how to claim them.
 
-<br />
+### 4. Replacement Request
 
-Replacement request
-
-This section shows the total number of replacements shifts you can accept or reject. This will redirect you to the replacement request feature.
+Shows the total number of shifts where others have asked you to replace them. Tapping this section opens the **Replacement Request** feature, where you can **accept** or **reject** these requests.
 
 ![](https://files.readme.io/edb9c57d428a8097b750bedc97289b06632dae6ab8ef0c4eea2e0497a81b29e0-75D0CAE9-026A-40BE-B8E6-AF574E057201.png)
 
-<br />
+> **Note:** See **Replacement Request** for more information.
 
-Replacement is the section that shows the shifts where other users are asking you to make a replacement for their shift.  You can review the shift details and decide whether to accept the request or not.
+### 5. Planner
 
-Note: Visit our “Replacement request” section to accept or reject a replacement.
+The **Planner** section displays shifts in a list format with details such as:
 
-Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente
-
-Planner
-
-Here you can see the details of each shift, show as a list with the relevant information:
-
-Start hour: you can see the starting hour of the shift.
-
-Total hours: you can see the total hours of the shift.
-
-Shift name: you can see the shift name; this may describe the activities.
-
-Role: you can see the role assigned to the shifts.
-
-Number of Task/Scan/forms associated: Task, scan, and forms associated with the shifts.
-
-Location: you can see the location where the shifts may be performed.
-
-Attachments: you can see file attachments.
-
-Shift status: this will show you if you haven't accepted the shift.
+* **Start Hour**: The shift’s beginning time.
+* **Total Hours**: How long the shift lasts.
+* **Shift Name**: A title describing the shift’s purpose or activities.
+* **Role**: The role assigned to the shift.
+* **Number of Task/Scan/Forms**: The count of tasks, scan points, or forms linked to this shift.
+* **Location**: Where the shift is to be performed.
+* **Attachments**: Any files attached to the shift.
+* **Shift Status**: Whether you’ve accepted the shift or not.
 
 ![](https://files.readme.io/e57bf319f05e0cc50faa3053f4f29c04574a52c6225297438e250c8b47f1569e-B8D9FD89-5D13-41F8-9FA2-594BB9F90BA3.png)
 
-<br />
+Scroll through the list to see future shifts. **Tap any shift** to view additional details.
 
-You can scroll down to see details of future shifts.
+> **Note:** For in-depth shift data, visit the **Shift Details** section.
 
-You can tap on each shift to see the shifts details.
+***
 
-Note: Visit our “Shift details” section for more information.
+By understanding these schedule options—upcoming shifts, unassigned shifts, replacement requests, and the planner—you’ll be able to navigate and manage your work schedule effectively through the mobohubb mobile app.
