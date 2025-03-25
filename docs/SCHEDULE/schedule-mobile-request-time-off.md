@@ -100,7 +100,7 @@ Once your time off request is **approved** or **rejected**, it moves to the **Co
 
 * A **“Completed Requests”** counter in black shows how many requests have a final outcome.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/bea3c3af7e4f7c336a99e47eeac38102416368dcbc505de20208bf1c6e5cf125-6CB76165-2137-41A0-A017-AB6CDA0063B8.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bea3c3af7e4f7c336a99e47eeac38102416368dcbc505de20208bf1c6e5cf125-6CB76165-2137-41A0-A017-AB6CDA0063B8.png" />
 
 > **Note:** Completed requests can be **viewed** but not **edited** anymore.
 
