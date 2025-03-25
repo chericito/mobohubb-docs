@@ -1,52 +1,71 @@
 ---
 title: 'Schedule Mobile: View Tasks, Forms and Scans Associated with the Shift'
+excerpt: >-
+  Learn how to view tasks, forms, and scans associated with a particular shift
+  in the **mobohubb** mobile app. This guide explains how to find and complete
+  activities (tasks, forms, or scans) once you have accepted and started a
+  shift, and what happens if any remain incomplete.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-Guide: Schedule Mobile: View Tasks, Forms and Scans Associated with the Shift
+**In this guide you'll learn**
 
-HOW TO VIEW TASKS, FORMS, SCANS ASSOCIATED WITH THE SHIFT
+* How to access **activity lists** for tasks, forms, and scans tied to a shift
+* How **completed activities** are tracked and displayed
+* What happens if you **end a shift** without finishing all assigned tasks
 
-This section will show you if there is any activity related to the shift. This refers to tasks, forms, or scans you may complete to successfully complete the shift. They will be available to complete once the shift is assigned, accepted and started.
+***
 
-Here you can see the category of each activity.
+If a shift requires additional work—like filling out forms, scanning points, or completing tasks—these are shown in the **Activities** section of the shift details. They become available to complete once the shift is **assigned**, **accepted**, and **started**.
 
-![](https://files.readme.io/306df3ee3dc32c57ad2b4f91d0e1ba33846035a9ac12b08cac2e16b332dbe2f0-4CBBEFA8-0E8B-4450-83BE-14227E9DBD01.png)
+***
 
-<br />
+## Where to See Tasks, Forms, and Scans
 
-The number of activities by category. When you check in into the shift, this will redirect you to the feature where you can consult and check every activity.
+1. **Open** the **Shift Details** from your schedule (e.g., Planner view).
 
-![](https://files.readme.io/684cbd7c8855ba3fee6ba1be90de909ec0f48d7d38b744124c680435fd770028-5252D0FB-57A1-4168-A481-77412420BD05.png)
+2. **Scroll** to the **Activities** section.\
+   Here, you’ll find lists for:
 
-<br />
+   * **Tasks**
+   * **Forms**
+   * **Scans**
 
-The indicator of completed activities. When you check in into the shift, this checks every activity related to the shift that you have completed during the shift.
+   <Image align="center" width="30% " src="https://files.readme.io/306df3ee3dc32c57ad2b4f91d0e1ba33846035a9ac12b08cac2e16b332dbe2f0-4CBBEFA8-0E8B-4450-83BE-14227E9DBD01.png" />
 
-![](https://files.readme.io/b24dea3fbf8e08d5ca6b2239d90ce4b489989b013ee12c6919af9dfa10c3b593-A01341DA-D6ED-4CF7-A0A9-E15350EBEE74.png)
+3. **Check** the number of activities per category.
 
-<br />
+   * Each category shows how many items are **incomplete** or **completed**.
 
-The name of each activity. You can see the list of the names of the activities segmented by category (Tasks, Forms and Scans.)
+   <br />
 
-![](https://files.readme.io/7b5fb935c24299a390729147c74090799679dde1a849939cf45318e8edd41431-74ADAFA3-8FF0-4927-A7C2-0E02F1BD7425.png)
+   <Image align="center" width="30% " src="https://files.readme.io/684cbd7c8855ba3fee6ba1be90de909ec0f48d7d38b744124c680435fd770028-5252D0FB-57A1-4168-A481-77412420BD05.png" />
 
-<br />
+4. **View** your progress.
 
-Tap on each category to open the feature to complete the activities.
+   * The app tracks what you’ve finished so far during the shift.
 
-![](https://files.readme.io/23a9e0f9f9bf5234668785a7d2a5d309653fbad78429b81557101028cd6783c3-4825F85D-E433-4A7C-818A-3F2F7877D69C.png)
+   <br />
 
-<br />
+   <Image align="center" width="30% " src="https://files.readme.io/b24dea3fbf8e08d5ca6b2239d90ce4b489989b013ee12c6919af9dfa10c3b593-A01341DA-D6ED-4CF7-A0A9-E15350EBEE74.png" />
 
-Note: You can finish the shift without finish the activities, but it may generate some alert to the admin.
+5. **Tap** each category (Tasks, Forms, or Scans) to open the associated feature and complete the specific items.
 
-![](https://files.readme.io/10d11192805b5da0735aeaf389826947cbfaaed5d2debacb059321bbc9f51bfa-F5D6310E-AFFE-4025-BF45-5F6CC8715AAB.png)
+<Image align="center" width="50% " src="https://files.readme.io/23a9e0f9f9bf5234668785a7d2a5d309653fbad78429b81557101028cd6783c3-4825F85D-E433-4A7C-818A-3F2F7877D69C.png" />
 
-<br />
+***
 
-The activities are assigned to be developed throughout the shift, so when it ends, you have them complete.
+## Finishing Activities vs. Ending the Shift
 
-   You can end a shift without completing all the activities, but it will generate an alert to the administrator, indicating the tasks that have not been completed
+You can **end a shift** before completing all assigned activities. However, doing so will:
+
+* Generate an **alert** for the administrator, showing which tasks or forms remain unfinished.
+* Potentially affect shift completion status or reporting.
+
+> **Note:** Admins use these alerts to check incomplete work. Completing all assigned tasks, forms, or scans before ending the shift is recommended.
+
+<Image align="center" width="30% " src="https://files.readme.io/10d11192805b5da0735aeaf389826947cbfaaed5d2debacb059321bbc9f51bfa-F5D6310E-AFFE-4025-BF45-5F6CC8715AAB.png" />
+
+By tracking and completing all **Tasks**, **Forms**, and **Scans** linked to your shift, you ensure accurate logging of work and meet administrative requirements.
