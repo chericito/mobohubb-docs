@@ -83,9 +83,7 @@ If your organization has **approval settings** for unassigned shifts, requesting
 
 3. **Verify** the shift in your schedule if approved:
 
-<br />
-
-![](https://files.readme.io/faad0f0d3f52347ef4aba71b0a60fb720347f46181b6e2e6e6a9b7d36b1ccd91-32239021-F5D9-427B-98B9-7B6B4AE69113.png)
+<Image align="center" width="30% " src="https://files.readme.io/faad0f0d3f52347ef4aba71b0a60fb720347f46181b6e2e6e6a9b7d36b1ccd91-32239021-F5D9-427B-98B9-7B6B4AE69113.png" />
 
 ***
 
