@@ -1,5 +1,5 @@
 ---
-title: 'Schedule: Overview'
+title: 'Schedule Mobile: Overview'
 excerpt: >-
   Learn how to manage and view your schedule in the mobohubb mobile app. This
   guide explains how to access upcoming shifts, navigate the Schedule feature
