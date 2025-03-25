@@ -58,7 +58,7 @@ Unassigned shifts let users voluntarily pick up extra work. Depending on your **
 
 6. **Confirm** the shift is now in your schedule:
 
-![](https://files.readme.io/d96a10aee95a5f718e8ebbd0fa6c980326e1a7cd383044ad506a0261888fea05-78BFED0B-A4D9-4EC9-BAEA-F1CDE64AB176.png)
+<Image align="center" width="30% " src="https://files.readme.io/d96a10aee95a5f718e8ebbd0fa6c980326e1a7cd383044ad506a0261888fea05-78BFED0B-A4D9-4EC9-BAEA-F1CDE64AB176.png" />
 
 ***
 
@@ -71,13 +71,21 @@ If your organization has **approval settings** for unassigned shifts, requesting
    * The button changes to **“Pending Approval.”**
    * You cannot start or see the shift in your personal schedule yet.
 
-   ![](https://files.readme.io/3e531c21fec56152d1c0bb3f6263aa743f30bdafb3beb515a7d29b4bcbc2ce13-FA54DC5E-19F8-4ADD-BA34-4901EFB20D14.png)![](https://files.readme.io/6354e6cde3efcfdbdea175bbf540657e4881670019c5f7882540e4a1c4d2b9e8-8A0661C1-1042-4485-A3B4-6AC626DD542A.png)
+   <br />
+
+   <Image align="center" width="30% " src="https://files.readme.io/3e531c21fec56152d1c0bb3f6263aa743f30bdafb3beb515a7d29b4bcbc2ce13-FA54DC5E-19F8-4ADD-BA34-4901EFB20D14.png" />
+
+   <Image align="center" width="30% " src="https://files.readme.io/6354e6cde3efcfdbdea175bbf540657e4881670019c5f7882540e4a1c4d2b9e8-8A0661C1-1042-4485-A3B4-6AC626DD542A.png" />
 
 2. **Admin Approval**:
    * If **approved**, the shift appears in your schedule.
    * If **rejected**, it vanishes from **Unassigned Shifts** and is not added to your personal schedule.
 
-3. **Verify** the shift in your schedule if approved:![](https://files.readme.io/faad0f0d3f52347ef4aba71b0a60fb720347f46181b6e2e6e6a9b7d36b1ccd91-32239021-F5D9-427B-98B9-7B6B4AE69113.png)
+3. **Verify** the shift in your schedule if approved:
+
+<br />
+
+![](https://files.readme.io/faad0f0d3f52347ef4aba71b0a60fb720347f46181b6e2e6e6a9b7d36b1ccd91-32239021-F5D9-427B-98B9-7B6B4AE69113.png)
 
 ***
 
