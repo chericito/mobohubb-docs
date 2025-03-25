@@ -127,11 +127,19 @@ This option won't be visible if you don't have unassigned shifts able to claim.
 
 Note: Visit our “Unassigned shifts” section to claim shifts.
 
+![](https://files.readme.io/c8b5106c4a08d3be9ac9f1703a0c7198893933d95e7295adf262a958dc8cb82a-C3BD10D8-3F5D-43D2-8037-AE73D1CECA44.png)
+
+<br />
+
 <br />
 
 Replacement request
 
 This section shows the total number of replacements shifts you can accept or reject. This will redirect you to the replacement request feature.
+
+![](https://files.readme.io/edb9c57d428a8097b750bedc97289b06632dae6ab8ef0c4eea2e0497a81b29e0-75D0CAE9-026A-40BE-B8E6-AF574E057201.png)
+
+<br />
 
 Replacement is the section that shows the shifts where other users are asking you to make a replacement for their shift.  You can review the shift details and decide whether to accept the request or not.
 
@@ -141,7 +149,7 @@ Interfaz de usuario gráfica, Aplicación
 
 Descripción generada automáticamente
 
-Planner.  
+Planner
 
 Here you can see the details of each shift, show as a list with the relevant information:
 
@@ -161,9 +169,9 @@ Attachments: you can see file attachments.
 
 Shift status: this will show you if you haven't accepted the shift.
 
-Interfaz de usuario gráfica, Aplicación
+![](https://files.readme.io/e57bf319f05e0cc50faa3053f4f29c04574a52c6225297438e250c8b47f1569e-B8D9FD89-5D13-41F8-9FA2-594BB9F90BA3.png)
 
-Descripción generada automáticamente
+<br />
 
 You can scroll down to see details of future shifts.
 
