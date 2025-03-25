@@ -109,15 +109,13 @@ If your shift is **integrated** with the clock, it may **end automatically** at 
 
 1. **Open** the Schedule → “Shift Details” to end the shift early if needed:
 
-![](https://files.readme.io/48346d902622468bce513bdb564f01c8762eff10dc4ff47a42e6d79d3c99e8a1-5EEF36A3-6FD5-446C-A7FC-6F9B52C77461.png)
+<Image align="center" width="30% " src="https://files.readme.io/48346d902622468bce513bdb564f01c8762eff10dc4ff47a42e6d79d3c99e8a1-5EEF36A3-6FD5-446C-A7FC-6F9B52C77461.png" />
 
 1. **Tap** **“Clock out.”**
 
    * This finalizes the shift manually before the set end time.
    * The work status changes from **“Started”** to **“Completed.”**
 
-   ![](https://files.readme.io/cb11f556657542d86bcf320e82d71364144bb95da89bcaa12553db688354967d-794E1AF9-57DD-4894-B888-AC61308E1E91.png)
+   <Image align="center" width="30% " src="https://files.readme.io/cb11f556657542d86bcf320e82d71364144bb95da89bcaa12553db688354967d-794E1AF9-57DD-4894-B888-AC61308E1E91.png" />
 
 > **Note:** Once you’re clocked out (manually or automatically), the shift no longer appears as active. This ensures accurate logging of your work hours and status.
-
-![](https://files.readme.io/cb11f556657542d86bcf320e82d71364144bb95da89bcaa12553db688354967d-794E1AF9-57DD-4894-B888-AC61308E1E91.png)
