@@ -31,24 +31,30 @@ Mobohubb enables you to submit **time off requests** for different schedules, sp
 
 <Image align="center" width="30% " src="https://files.readme.io/7f156ea4dcbcd1e0c133d2d00761a43350e5646a70f670ce86f505aaa52cb9e5-605FA896-89BE-4D1D-90CE-9319C352AC37.png" />
 
-1. **Add a new request**:
-   * Tap the **(+)** button.![](https://files.readme.io/8bd5eedfcd2fc99508ab38dabe8116dea0fa434d87261a0539c7c64004409ffe-96BD30E7-6C1A-484A-B05E-E652F1748743.png)
-   > **Note:** If you’re not part of any schedule, the button won’t be enabled.
+3. **Add a new request**:
 
-2. **Select** the schedule (if prompted) and fill out the form:
+* Tap the **(+)** button.
 
-   * **Request Type**: (e.g., vacation, emergency leave, etc.)
-   * **Start Date/Time** & **End Date/Time**: Use the interactive calendar.
-   * **Description**: Provide more context about your request.
-   * **Attachments**: Tap the **attach** icon to include files in PDF format.
-
-   ![](https://files.readme.io/04d9dafa6fe16f5428fba99617ab2ad60c33a1aa0752a7816d0b64adea3393a4-9DC3F558-24D1-40B0-849B-D0F4F1F3A2FB.png)
-
-3. **Submit** your request:
+<Image align="center" width="30% " src="https://files.readme.io/8bd5eedfcd2fc99508ab38dabe8116dea0fa434d87261a0539c7c64004409ffe-96BD30E7-6C1A-484A-B05E-E652F1748743.png" />
 
 <br />
 
-![](https://files.readme.io/a0e9a5a6c25503ab13e45d037eb836bcbb9c9e4a4c903757ec4d362f78ce2313-1060CD75-E385-4C0A-A813-758379341A66.png)
+> **Note:** If you’re not part of any schedule, the button won’t be enabled.
+
+4. **Select** the schedule (if prompted) and fill out the form:
+
+* **Request Type**: (e.g., vacation, emergency leave, etc.)
+* **Start Date/Time** & **End Date/Time**: Use the interactive calendar.
+* **Description**: Provide more context about your request.
+* **Attachments**: Tap the **attach** icon to include files in PDF format.
+
+<Image align="center" width="30% " src="https://files.readme.io/04d9dafa6fe16f5428fba99617ab2ad60c33a1aa0752a7816d0b64adea3393a4-9DC3F558-24D1-40B0-849B-D0F4F1F3A2FB.png" />
+
+1. **Submit** your request:
+
+<br />
+
+<Image align="center" width="30% " src="https://files.readme.io/a0e9a5a6c25503ab13e45d037eb836bcbb9c9e4a4c903757ec4d362f78ce2313-1060CD75-E385-4C0A-A813-758379341A66.png" />
 
 <br />
 
