@@ -96,16 +96,17 @@ If **administrator approval** is enabled, you can still accept the replacement, 
 
 2. **Review** the details (user, shift time, location, etc.).
 
-![](https://files.readme.io/054693fc8d43c36894ce8d107605699fce4fef86b03c1ebcd66abae8f7688f28-116FF8B6-A229-4A35-88E7-DE3BEC4251B6.png)
+<Image align="center" width="30% " src="https://files.readme.io/054693fc8d43c36894ce8d107605699fce4fef86b03c1ebcd66abae8f7688f28-116FF8B6-A229-4A35-88E7-DE3BEC4251B6.png" />
 
-1. **Approve** or **Decline** the request:![](https://files.readme.io/fd7e06f9ea367e011f2dd34734d704335f3e9d9c236ec7794c6bd9716afb379c-776C18F4-4C11-4A5A-A457-6FD062D4A887.png)
-
-2. **Admin** must finalize:
+3. **Approve** or **Decline** the request:
+4. **Admin** must finalize:
 
    * Once the **admin** approves, the shift shows up in your planner as **Accepted**.
    * If **rejected**, you’ll get a notification and the request disappears.
 
-   ![](https://files.readme.io/320a9b33b01a9d93f4b72b9662f7eac8e3431885a18ae3f4506c77068944d6d0-39788BF8-EBE5-4C39-AE76-1F3D3656FA1B.png)
+   <br />
+
+   <Image align="center" width="30% " src="https://files.readme.io/320a9b33b01a9d93f4b72b9662f7eac8e3431885a18ae3f4506c77068944d6d0-39788BF8-EBE5-4C39-AE76-1F3D3656FA1B.png" />
 
 ***
 
