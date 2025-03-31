@@ -385,4 +385,4 @@ You can configure your Organization Structure from **Settings**→ **Sites Admin
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5ede6fd9531f30bdc21fdd2ad33a698e71bf52e670e985de0b05f5ed498c8f0b-image.png" />
 
-> 👍 Your new Mobohubb environment is now fully configured and ready to use!
+> 👍 Your new mobohubb environment is now fully configured and ready to use!
