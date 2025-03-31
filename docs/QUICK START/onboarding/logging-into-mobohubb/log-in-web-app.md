@@ -14,7 +14,7 @@ metadata:
 
 ***
 
-# Log in the Web Portal
+# Log in the mobohubb portal
 
 1. Navigate to [app.mobohubb.com](https://app.mobohubb.com/).
 
