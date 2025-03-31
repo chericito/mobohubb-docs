@@ -34,42 +34,44 @@ When you log in for the first time, the **Set-up Wizard** will open. This assist
    * **Confirm** the name of your organization in the text box.
    * **Click** on the **Make it your own** interface to customize the portal’s appearance and functionality.
 
+   <br />
+
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5b7d25b72dfbd18f9bf86559f08665aaaa7f51d307916d561097bdb1e2bad14c-image.png" />
 
    <br />
 
 2. **Make it your own**
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4fe27772080f75d86a81c00bc2d58a83a5fab2507c0edc1ff0f299a8d0ddacee-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4fe27772080f75d86a81c00bc2d58a83a5fab2507c0edc1ff0f299a8d0ddacee-image.png" />
 
-   <br />
+<br />
 
-   * **Choose** a color theme for your app. This theme affects the background, icons, and fonts in the portal and mobile app.
-   * **Upload** your **logo file** (JPG or PNG). This will appear in the top-left corner of the portal.
-   * **Upload** your **mobile logo file** (JPG or PNG). This will be displayed in the mobile app.
-   * **Upload** your **icon file** (JPG or PNG). This icon appears in the top-left corner of your app when the menu collapses.
-   * **Click** on the interface in the **Set up** section to configure your first <Glossary>site</Glossary>.
+* **Choose** a color theme for your app. This theme affects the background, icons, and fonts in the portal and mobile app.
+* **Upload** your **logo file** (JPG or PNG). This will appear in the top-left corner of the portal.
+* **Upload** your **mobile logo file** (JPG or PNG). This will be displayed in the mobile app.
+* **Upload** your **icon file** (JPG or PNG). This icon appears in the top-left corner of your app when the menu collapses.
+* **Click** on the interface in the **Set up** section to configure your first <Glossary>site</Glossary>.
 
 3. **Set up**
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e7ccb83bc6b6c013df65ea4c787647b746b4d2ff088364f30968f63c1f8fee4-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e7ccb83bc6b6c013df65ea4c787647b746b4d2ff088364f30968f63c1f8fee4-image.png" />
 
-   <br />
+<br />
 
-   * **Site name**: **Enter** a name that identifies your <Glossary>site</Glossary>.
-   * **Site type**: **Select** from security, facilities, cleaning, construction, restaurant, or choose **Other** if none matches. This will prepare your site with some pre-defined configurations according to your selection.
-   * **Site address**: **Enter** the physical or virtual address where your main activities occur.
-   * **Click** **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the mobohubb portal.
+* **Site name**: **Enter** a name that identifies your <Glossary>site</Glossary>.
+* **Site type**: **Select** from security, facilities, cleaning, construction, restaurant, or choose **Other** if none matches. This will prepare your site with some pre-defined configurations according to your selection.
+* **Site address**: **Enter** the physical or virtual address where your main activities occur.
+* **Click** **Finish** to save your changes and create your <Glossary>site</Glossary>. You can now fully use the mobohubb portal.
 
 > **Note:** If you are an existing user of our first platform and this is your first time visiting the new one, the Wizard is not available. Visit our [Quick Start Guide for Existing Users](https://mobohubb.readme.io/docs/former-user-first-steps#/) to get started.
 
 # Setting up Your mobohubb
 
-When you first log in, you’ll see a setup walkthrough in the top menu. Each of the **5 steps** should be completed before asking mobile users to access the app. The prompt will disappear when these steps are completed. Select the green check circle on the left side as you finish each step to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your mobohubb menu will be fully set up.
+You’ll see a setup walkthrough in the top menu when you first log in. Each of the **5 steps** should be completed before asking mobile users to access the app. The prompt will disappear when these steps are completed. Select the green check circle on the left side as you finish each step to mark it complete. Once you’ve finished all 5 steps, the green indicator will disappear, and your mobohubb menu will be fully set up.
 
 ## Customize Your Brand
 
-The first step assigns logos, icons, and other branding details to your organization. By default, these apply to all sites; however, you can customize each site’s branding if needed.
+The first step assigns your organization logos, icons, and other branding details. By default, these apply to all sites; however, you can customize each site’s branding if needed.
 
 1. **Click on** “Branding”.
 
@@ -84,11 +86,11 @@ The first step assigns logos, icons, and other branding details to your organiza
 * **Description**: A brief text introducing the organization’s purpose or value.
 * **Logo app mobile**: The graphic symbol displayed in the mobile app interface. (JPG/PNG)
 * **Icon**: The icon shown in the top-left corner of your app when the menu collapses. (JPG/PNG)
-* **Main logo**: The primary graphic symbol for the organization on the web portal. (JPG/PNG)
+* **Main logo**: The primary graphic symbol for the organization on the portal. (JPG/PNG)
 * **Date format**: Choose how dates are displayed (e.g., **dd-mm-yyyy**, **mm-dd-yyyy**).
 * **Time format**: Select **12h** or **24h** format for time logs.
 * **Theme color**: Set the main color for your portal’s interface.
-* **Time zone**: Specify the time zone for displaying time-based information. This will affect the way data and other elements such as date and time is showed in the **mobohubb** applications. Time zone may affect administrative tasks, so it is recommended to plan accordingly.
+* **Time zone**: Specify the time zone for displaying time-based information. This will affect the way data and other elements, such as date and time, are shown in the **mobohubb** applications. Time zone may affect administrative tasks, so it is recommended to plan accordingly.
 
 3. **Click “Save".**
 4. **Mark** the Branding step complete (1/5).
@@ -365,7 +367,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 * **Billing Administrator**: Manages subscription and billing-related settings.
 * **Editor**: Can edit most settings in the Mobohubb portal.
 * **Read-only**: Can view site settings and data but cannot modify them.
-* **Mobile**: Uses the mobile app for tasks like scanning QR codes and filling out reports, but does not have access to the web portal.
+* **Mobile**: Uses the mobile app for tasks like scanning QR codes and filling out reports, but does not have access to the portal.
 
 ## Organizational Structure
 
