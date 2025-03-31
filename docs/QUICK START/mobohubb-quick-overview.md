@@ -27,13 +27,13 @@ next:
 
 <Image align="center" width="50% " src="https://files.readme.io/074938e15d9e7a992700bbef7dc7e1606c4b1aedf991a706e2cb09fc150024be-social-media-branding-02.png" />
 
-mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office.
+**mobohubb** is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office.
 
 ## Portal & Mobile App
 
 ### Portal
 
-mobohubb’s **Web Portal** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
+mobohubb’s **Portal** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
 
 > [Learn how to log in](https://mobohubb.readme.io/docs/log-in-web-app#/)
 
