@@ -1,7 +1,7 @@
 ---
 title: mobohubb Portal
 excerpt: >-
-  Learn how to access the Mobohubb Portal for the first time, set up your
+  Learn how to access the mobohubb Portal for the first time, set up your
   credentials, and customize your environment.
 deprecated: false
 hidden: false
