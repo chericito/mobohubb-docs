@@ -29,9 +29,9 @@ next:
 
 mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office.
 
-## Web Portal & Mobile App
+## Portal & Mobile App
 
-### Web Portal
+### Portal
 
 mobohubb’s **Web Portal** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
 
