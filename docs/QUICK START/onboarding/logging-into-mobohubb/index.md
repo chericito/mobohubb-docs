@@ -1,5 +1,5 @@
 ---
-title: mobohubb Portal Web
+title: mobohubb Portal
 excerpt: >-
   Learn how to access the Mobohubb Portal for the first time, set up your
   credentials, and customize your environment.
