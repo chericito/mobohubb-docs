@@ -27,7 +27,7 @@ next:
 
 <Image align="center" width="50% " src="https://files.readme.io/074938e15d9e7a992700bbef7dc7e1606c4b1aedf991a706e2cb09fc150024be-social-media-branding-02.png" />
 
-mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
+mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office.
 
 ## Web Portal & Mobile App
 
