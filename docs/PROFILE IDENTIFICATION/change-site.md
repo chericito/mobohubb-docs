@@ -27,6 +27,16 @@ To change sites quickly, tap on the user initials at the top-right corner of the
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d6d4720f6437da741b42f93f9754e64cc2f7b843bd76dff8ea8595ff3193aed5-Image_1.png" />
 
+2. **Tap** **“Change Site Account.”**
+
+<Image align="center" width="30% " src="https://files.readme.io/abeaaf8b6e872a4861557f98188a2c68253d932ab1c586243b751f459f5385f2-image.png" />
+
+3. **Choose** the site you want to work with: Mobohubb will update and display all data relevant to the selected site.
+
+<Image align="center" width="30% " src="https://files.readme.io/1838967b32de3eb1ff8fe413282b37501eebb0f16d7f1e7a6e5316eef221161d-image.png" />
+
+<br />
+
 ## From the Side Menu
 
 1. **Open** the side menu: Tap the **hamburger button** at the top-left corner of the app.
