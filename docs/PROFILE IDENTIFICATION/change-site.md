@@ -25,7 +25,9 @@ Each user can belong to one or more sites in mobohubb, depending on the permissi
 
 To change sites quickly, tap on the user initials at the top-right corner of the screen.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c2e0e0f78abfd138dd68cb18c09eeb3d8d73504b20e19f007b59a3912c5fe16e-Image_1.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d6d4720f6437da741b42f93f9754e64cc2f7b843bd76dff8ea8595ff3193aed5-Image_1.png" />
+
+<br />
 
 ## From the Side Menu
 
