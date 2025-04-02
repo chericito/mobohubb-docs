@@ -13,7 +13,7 @@ metadata:
 
 * Where to find the **Change Site Account** option
 * How to select a site when you have permissions for multiple locations
-* How this process ensures you're performing actions under the correct site context}
+* How this process ensures you're performing actions under the correct site context
 
 ***
 
@@ -21,7 +21,13 @@ metadata:
 
 Each user can belong to one or more sites in mobohubb, depending on the permissions granted by the administrator. You can **switch sites** at any time if you have access to more than one location.
 
-## Steps to Change Your Site
+## From the Name Initials
+
+To change sites quickly, tap on the user initials at the top-right corner of the screen.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c2e0e0f78abfd138dd68cb18c09eeb3d8d73504b20e19f007b59a3912c5fe16e-Image_1.png" />
+
+## From the Side Menu
 
 1. **Open** the side menu: Tap the **hamburger button** at the top-left corner of the app.
 
