@@ -27,8 +27,6 @@ To change sites quickly, tap on the user initials at the top-right corner of the
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d6d4720f6437da741b42f93f9754e64cc2f7b843bd76dff8ea8595ff3193aed5-Image_1.png" />
 
-<br />
-
 ## From the Side Menu
 
 1. **Open** the side menu: Tap the **hamburger button** at the top-left corner of the app.
