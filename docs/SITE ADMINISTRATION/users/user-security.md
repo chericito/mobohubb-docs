@@ -54,6 +54,7 @@ Users can be assigned one or more security groups, each defining a specific set 
 * **Role**: Update the user’s role. *Remember: Role options appear only if roles have been pre-created in the Role configuration menu.*
 * **Security Groups**: Assign one or more security groups to the user to define their access and permitted actions. Each group provides different levels of permissions as listed above.
 * **Device(s)**: Specify the devices from which the user may access the platform.
+* **Type (Based on Targeted Device)**: Specifies which **platform(s)** the user can access—**Mobile App**, **Web App**, or both. For instance, if forms need to be completed on the web version, ensure the user’s type includes **Web App**.
 * Additional settings for mobile and portal web permissions can be configured as needed.
 
 8. **Click** the **"Save"** button to apply your changes.
