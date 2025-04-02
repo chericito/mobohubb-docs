@@ -20,7 +20,7 @@ next:
 # Resources
 
 <Cards columns={2}>
-  <Card title="Web App" href="https://mobohubb.readme.io/docs/log-in-web-app#/" icon="fa-globe" target="_blank">
+  <Card title="Portal" href="https://mobohubb.readme.io/docs/log-in-web-app#/" icon="fa-globe" target="_blank">
     Learn how to access the mobohubb Portal for the first time, set up your credentials, and customize your environment.
 
     **In these sections you'll discover:**
