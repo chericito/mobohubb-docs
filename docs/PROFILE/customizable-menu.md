@@ -91,30 +91,31 @@ metadata:
 
 ![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
 
-**3. Choose the Section** where the tool resides or where you want to add it.
+3. **Choose the Section** where the tool resides or where you want to add it.
 
 ![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
 
-**4. Tap the 3 Dots on a Tool** to **Edit** or **Delete**.\
+4. **Tap** the 3 Dots on a Tool to **Edit** or **Delete**.
+
 ![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
 
-**5. Edit Tool** (Optional)
+5. **Edit** Tool (Optional)
 
 * **Icon & Color**: Pick from the built-in library.
-* **Name**: Enter a descriptive label.\
-  ![](https://files.readme.io/eb282e9c06420b00a72cc9fbe3e4c84b5072913923604d9101375f6ddffb01d2-image.png)
+* **Name**: Enter a descriptive label.
 
-**6. Delete Tool** (Optional)
+6. **Delete** Tool (Optional)
 
-* Remove it from the section.\
-  ![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
+* Remove it from the section.
 
-**1. Drag & Drop Tools**
+![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
+
+7. **Drag and drop** to move tools from one section to another.
 
 * Move them **within** the same section or **between** sections.
 * A preview will indicate the new position upon release.
 
-**2. Add or Remove Tools from Favorites**
+8. **Add** or **remove** tools from favorites
 
 * The **Favorites** section is at the **top** of the menu settings.
 * **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
