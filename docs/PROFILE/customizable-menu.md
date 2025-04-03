@@ -51,23 +51,23 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e649465650e8e5254a38edb1da17830eb18022ebdb5a11c064e19d409eaccf5-Screenshot_2025-04-03_at_11.37.21_AM.png" />
 
-**Edit Section**
+### Edit Section
 
 * **Change** the **display name** of the section. **Click** on the **3 dots** and **press** **Edit**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/15af13f2b76c51fecca346a0a82c66e240b3898d3844aad25750a47673afecca-Screenshot_2025-04-03_at_11.38.43_AM.png" />
 
-### **Add Options**
+### Add Options
 
+* **Click** on the **3 dots** and press **Add Option**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/045caaae8953ba0bdfcd3268a510eda61c62e6cc269e7b1c04c7f8b1a1d81355-Screenshot_2025-04-03_at_12.16.38_PM.png" />
+
+* **Display Name**: Give this menu item a unique label.
 * **Feature**: Choose a mobohubb tool or **Custom** URL.
-
 * **Icon** and **Color**: Select from the available icon set and color palette.
 
-* **Name**: Give this menu item a unique label.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/52033634a56ca8466111616ce068d407035cf3253e8a08288edd6a881adb7b88-Screenshot_2025-04-03_at_12.20.07_PM.png" />
 
 > **Note:** A **Custom** feature can open an external website when clicked.
 >
@@ -85,11 +85,11 @@ metadata:
 
 2. **Click Edit Menu**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d853eee35d050a4bf1cfe7a02e9c202ad2301a3a2b4172a510d21412193e61e1-Screenshot_2025-04-03_at_11.35.50_AM.png" />
 
 3. **Choose the Section** where the tool resides or where you want to add it.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4e3f60f771ef6492a7c323c9fadc098cbe9e4235a5d524b8b61695b35d324cc1-Screenshot_2025-04-03_at_12.13.28_PM.png" />
 
 4. **Tap** the 3 Dots on a Tool to **Edit** or **Delete**.
 
