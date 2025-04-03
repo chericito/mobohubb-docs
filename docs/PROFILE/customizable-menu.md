@@ -79,15 +79,20 @@ metadata:
 
 ## Tools
 
-**1. Access Menu Settings**
+### Editing Tools
 
-* Click the **gear icon** at the bottom of the menu.\
-  ![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
+1. Access Menu Settings
 
-**2. Click “Edit Menu.”**\
+* Click the **gear icon** at the bottom of the menu.
+
+![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
+
+2. **Click Edit Menu**.
+
 ![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
 
-**3. Choose the Section** where the tool resides or where you want to add it.\
+**3. Choose the Section** where the tool resides or where you want to add it.
+
 ![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
 
 **4. Tap the 3 Dots on a Tool** to **Edit** or **Delete**.\
