@@ -178,20 +178,10 @@ Each **section** within the menu can also be collapsed individually—showing **
 
 1. **Collapse a Section**
 
-   * Click on the **section name** to hide its tools.
+   * Click on the **section name** to hide its tools, and click again to restore.
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/98c70812b296130a0dd8aace93140ed09f957a7822a47d505224915bdab96f8b-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4f65bb86ea81feb12dcc6048b95754fa6a64e76b1fe260a5f2f3623a233ae741-Screenshot_2025-04-03_at_12.38.08_PM.png" />
 
    <br />
-
-2. **Uncollapse a Section**
-
-   * Click the **section name** again to expand it.
-
-   <br />
-
-   <Image align="center" className="border" border={true} src="https://files.readme.io/807e146a67e732346cdf16e84e646b35d164e52bec6ac1000309c1b263bb1dd8-image.png" />
-
-> **Note:** Collapsing all sections is **not required**, but can help organize large menus.
