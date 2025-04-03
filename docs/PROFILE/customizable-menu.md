@@ -93,18 +93,22 @@ metadata:
 
 4. **Tap** the 3 Dots on a Tool to **Edit** or **Delete**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e649465650e8e5254a38edb1da17830eb18022ebdb5a11c064e19d409eaccf5-Screenshot_2025-04-03_at_11.37.21_AM.png" />
+
+<br />
 
 5. **Edit** Tool (Optional)
 
 * **Icon & Color**: Pick from the built-in library.
 * **Name**: Enter a descriptive label.
 
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ba680aee9830ef472884d195b3005acff27937166822190b150df2b0c865c0ed-Screenshot_2025-04-03_at_12.22.26_PM.png" />
+
 6. **Delete** Tool (Optional)
 
 * Remove it from the section.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3724b0ba1bb367ec03ff263143c5f945d6f18b9c6d4074db2575a1ac22bb4a74-Screenshot_2025-04-03_at_12.23.18_PM.png" />
 
 7. **Drag and drop** to move tools from one section to another.
 
@@ -116,7 +120,7 @@ metadata:
 * The **Favorites** section is at the **top** of the menu settings.
 * **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cf83196a5e2a0575933949693d3ebb1c8c2650da83004318b256f7f43ef45271-Screenshot_2025-04-03_at_12.24.21_PM.png" />
 
 ***
 
@@ -136,13 +140,11 @@ If you want to **restore** the original layout or **undo** all customizations, y
 
 2. **Select “Edit Menu”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d853eee35d050a4bf1cfe7a02e9c202ad2301a3a2b4172a510d21412193e61e1-Screenshot_2025-04-03_at_11.35.50_AM.png" />
 
 3. **Click “Reset Menu”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cf83196a5e2a0575933949693d3ebb1c8c2650da83004318b256f7f43ef45271-Screenshot_2025-04-03_at_12.24.21_PM.png" />
 
 > **Note:** After confirming, all custom sections, tools, and favorites will revert to **default**.
 
