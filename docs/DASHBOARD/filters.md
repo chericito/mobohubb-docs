@@ -32,11 +32,11 @@ You can **filter** your data using **Quick** or **Advanced** filters. These filt
 
 1. **Click** the **“filter”** button (found in all data visualization features).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/331886a633f34795f57f76a9d43e2a3e4a66425b8365eebdc84820ff3eef2de4-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/46c30a663afcd0a4b571f4748d1fde3e64f96f82fbc951d441b61991a4ccd200-Screenshot_2025-04-03_at_10.16.42_AM.png" />
 
 2. The **Quick Filter** tab is visible by default.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1f35e1ea0daa8e2299ebaa22b1ec85c45cbc0b2a019698eb6e467484f4488316-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e972162f01c6f3cdd3622478d29c3b9b056c92924edab9fa3a007efaa25b0dc-image.png" />
 
 3. **Choose** parameters to segment your data (each click is a new filter), then **click** **“Apply.”**
 
@@ -46,7 +46,7 @@ You can **filter** your data using **Quick** or **Advanced** filters. These filt
 * **Tasks Name**: Select one or more tasks
 * **Tags**: Select one or more tags
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b7d9bc328d0f62b392789e6cb5d7f0abfb662605af517f006f3deb4cfd8d6b16-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fe229bcaf1fddc82d26181d3283798b903d09665149f900accfe329da09245c7-Screenshot_2025-04-03_at_10.23.49_AM.png" />
 
 If you don’t want to filter a particular category, just **don’t click** any items in that category.
 
@@ -56,17 +56,19 @@ If you don’t want to filter a particular category, just **don’t click** any 
 
 **How to Use an Advanced Filter**
 
-1. **Click** the **“filter”** button.![](NV137%20\(5\).png)
+1. **Click** the **“filter”** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f47da294735632c7ea612aa082248423cc3e475ec4a0b48d254251ef43710df1-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/46c30a663afcd0a4b571f4748d1fde3e64f96f82fbc951d441b61991a4ccd200-Screenshot_2025-04-03_at_10.16.42_AM.png" />
 
 2. **Quick Filter** shows up by default.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e3ebec76d39760114d1bcb1a0f87a94bd00546f96a9eb0719adecdc2be060dd0-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e972162f01c6f3cdd3622478d29c3b9b056c92924edab9fa3a007efaa25b0dc-image.png" />
+
+<br />
 
 3. **Switch to Advanced Filters** by clicking **“Switch to Advanced Filters”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8b9a7e3e7b95c9bcb5e6e786f799c20330187b0c296ad3731316a8d21a8deb26-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b5121a4409b4a79b8a424b3c5ca028a482fef1dd0fcb8ab6cd402ee8a87980a5-Screenshot_2025-04-03_at_10.27.44_AM.png" />
 
 4. **Add** custom filters by specifying:
 
@@ -74,9 +76,7 @@ If you don’t want to filter a particular category, just **don’t click** any 
 * **Compare**: The logical connector (equals, not equal to, contained in, not contained in, begins with, ends with).
 * **Value**: The text or value to compare against.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e798c4c6053c2e8701304025c3473cd307e30aa1b9cbab465034c98f169a6dcc-image.png" />
-
-![](NV137%20\(4\).png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bedd99a5c7b9ddf437fb09ecddc735beadb2470f8392b626b5ecbdd435ea3787-image.png" />
 
 You can add as many filters as needed using **“Add New Filter”** or remove them with the **bin** button.
 
@@ -85,4 +85,4 @@ You can add as many filters as needed using **“Add New Filter”** or remove t
 5. **Click** **“Apply”** to finalize your advanced filters.
 6. Switch back to **Quick Filters** by clicking **“Switch to Quick Filters”.**![](NV137%20\(7\).png)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9d46a116454344243f1f580ffdd2fac2d2e02867941669cbd0274224b15525c9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ee3094c74b50250543e3983e005a4102dbae3b3434bde702316a0eb071e6968c-Screenshot_2025-04-03_at_10.29.37_AM.png" />
