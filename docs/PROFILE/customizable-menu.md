@@ -124,18 +124,6 @@ metadata:
 
 ***
 
-### Saving Changes
-
-After customizing sections and tools, **click “Save changes”** at the bottom of the menu settings. Your **updated menu** will appear immediately, including any **Favorites** you’ve configured.
-
-> **Note:** If you forget to save, your adjustments won’t be applied.
-
-## Final Result
-
-Once saved, your left-hand menu reflects the **new arrangement**, section names, tools, and **Favorites**.
-
-***
-
 ## Reset the Menu
 
 If you want to **restore** the original layout or **undo** all customizations, you can reset the menu to its **initial configuration**:
