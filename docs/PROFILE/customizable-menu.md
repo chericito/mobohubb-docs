@@ -170,7 +170,7 @@ You can **collapse** the entire side menu so that **only icons** are displayedâ€
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/99b9415c5e01d95789f04b2529d7d11d2f8ac82c5f60840c10a6d09f8035ab9d-Screenshot_2025-04-03_at_12.30.50_PM.png" />
 
    ## Collapse Sections
 
