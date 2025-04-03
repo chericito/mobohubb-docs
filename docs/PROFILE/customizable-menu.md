@@ -144,9 +144,7 @@ If you want to **restore** the original layout or **undo** all customizations, y
 
 3. **Click ‚ÄúReset Menu‚Äù.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/20fe374f9d8c85bf6138b741dff82e77b9dbf907fac6470b5a050b2b7d904faa-image.png" />
 
 > **Note:** After confirming, all custom sections, tools, and favorites will revert to **default**.
 
@@ -160,7 +158,9 @@ You can **collapse** the entire side menu so that **only icons** are displayed‚Ä
 
    * Click the **top corner** of the side menu.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/500245c4c2473a8c1c99a989d3d2b51621bc74a32784ea60a46eb43bb84f9f4e-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/500245c4c2473a8c1c99a989d3d2b51621bc74a32784ea60a46eb43bb84f9f4e-image.png" />
 
    <br />
 
@@ -168,7 +168,9 @@ You can **collapse** the entire side menu so that **only icons** are displayed‚Ä
 
    * Click the same **top corner** again to restore.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7ae9edb00e564e02c08a1a7f5d4dcd118657ce7378b905210bdb5f94547a4999-image.png" />
 
    ## Collapse Sections
 
@@ -178,7 +180,9 @@ Each **section** within the menu can also be collapsed individually‚Äîshowing **
 
    * Click on the **section name** to hide its tools.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/98c70812b296130a0dd8aace93140ed09f957a7822a47d505224915bdab96f8b-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/98c70812b296130a0dd8aace93140ed09f957a7822a47d505224915bdab96f8b-image.png" />
 
    <br />
 
