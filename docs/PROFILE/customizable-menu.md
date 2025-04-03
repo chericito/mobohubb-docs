@@ -35,11 +35,13 @@ metadata:
 
    * Click the **gear icon** at the bottom of the menu.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/ed31952e92227399dcf6b59558bd0194be1e3d337392c0f63bb86c17cdfc3826-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/4607a88cb34e627dff98187afd7d9c57688f37a227b141265d7a8ebe67b43111-Screenshot_2025-04-03_at_11.34.21_AM.png" />
 
 2. **Click “Edit Menu”.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/b3e1ecae15bb93df47e89f8b9bd335255a5522ae8dffb5179aa2ac4850b83173-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/d853eee35d050a4bf1cfe7a02e9c202ad2301a3a2b4172a510d21412193e61e1-Screenshot_2025-04-03_at_11.35.50_AM.png" />
 
 <br />
 
@@ -47,15 +49,13 @@ metadata:
 
 * Tap the **3 dots** to **edit** the section name or **add options** (tools) to it.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/16ed38538af90fd4a29d60209e2f25c395d95288ec1358dc63521894544cbb66-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} src="https://files.readme.io/1e649465650e8e5254a38edb1da17830eb18022ebdb5a11c064e19d409eaccf5-Screenshot_2025-04-03_at_11.37.21_AM.png" />
 
 **Edit Section**
 
-* Change the **display name** of the section. (Optional)
+* **Change** the **display name** of the section. **Click** on the **3 dots** and **press** **Edit**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/f1f311be3f43e3ec67f384c5fbc4e80e860861e4882553ee6bfc0adc0ab13f34-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/15af13f2b76c51fecca346a0a82c66e240b3898d3844aad25750a47673afecca-Screenshot_2025-04-03_at_11.38.43_AM.png" />
 
 <br />
 
