@@ -78,48 +78,42 @@ metadata:
 
 ## Tools
 
-<Tabs>
-  <Tab title="Editing Tools" icon="fa-edit">
-    **1. Access Menu Settings**
+**1. Access Menu Settings**
 
-    * Click the **gear icon** at the bottom of the menu.\
-      ![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
+* Click the **gear icon** at the bottom of the menu.\
+  ![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
 
-    **2. Click “Edit Menu.”**\
-    ![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
+**2. Click “Edit Menu.”**\
+![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
 
-    **3. Choose the Section** where the tool resides or where you want to add it.\
-    ![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
+**3. Choose the Section** where the tool resides or where you want to add it.\
+![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
 
-    **4. Tap the 3 Dots on a Tool** to **Edit** or **Delete**.\
-    ![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
+**4. Tap the 3 Dots on a Tool** to **Edit** or **Delete**.\
+![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
 
-    **5. Edit Tool** (Optional)
+**5. Edit Tool** (Optional)
 
-    * **Icon & Color**: Pick from the built-in library.
-    * **Name**: Enter a descriptive label.\
-      ![](https://files.readme.io/eb282e9c06420b00a72cc9fbe3e4c84b5072913923604d9101375f6ddffb01d2-image.png)
+* **Icon & Color**: Pick from the built-in library.
+* **Name**: Enter a descriptive label.\
+  ![](https://files.readme.io/eb282e9c06420b00a72cc9fbe3e4c84b5072913923604d9101375f6ddffb01d2-image.png)
 
-    **6. Delete Tool** (Optional)
+**6. Delete Tool** (Optional)
 
-    * Remove it from the section.\
-      ![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
-  </Tab>
+* Remove it from the section.\
+  ![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
 
-  <Tab title="Rearranging & Favorites" icon="fa-star">
-    **1. Drag & Drop Tools**
+**1. Drag & Drop Tools**
 
-    * Move them **within** the same section or **between** sections.
-    * A preview will indicate the new position upon release.
+* Move them **within** the same section or **between** sections.
+* A preview will indicate the new position upon release.
 
-    **2. Add or Remove Tools from Favorites**
+**2. Add or Remove Tools from Favorites**
 
-    * The **Favorites** section is at the **top** of the menu settings.
-    * **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
+* The **Favorites** section is at the **top** of the menu settings.
+* **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
 
-    ![](https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png)
-  </Tab>
-</Tabs>
+![](https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png)
 
 ***
 
