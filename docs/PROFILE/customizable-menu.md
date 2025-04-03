@@ -37,11 +37,11 @@ metadata:
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/4607a88cb34e627dff98187afd7d9c57688f37a227b141265d7a8ebe67b43111-Screenshot_2025-04-03_at_11.34.21_AM.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4607a88cb34e627dff98187afd7d9c57688f37a227b141265d7a8ebe67b43111-Screenshot_2025-04-03_at_11.34.21_AM.png" />
 
 2. **Click “Edit Menu”.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/d853eee35d050a4bf1cfe7a02e9c202ad2301a3a2b4172a510d21412193e61e1-Screenshot_2025-04-03_at_11.35.50_AM.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d853eee35d050a4bf1cfe7a02e9c202ad2301a3a2b4172a510d21412193e61e1-Screenshot_2025-04-03_at_11.35.50_AM.png" />
 
 <br />
 
@@ -49,13 +49,13 @@ metadata:
 
 * Tap the **3 dots** to **edit** the section name or **add options** (tools) to it.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/1e649465650e8e5254a38edb1da17830eb18022ebdb5a11c064e19d409eaccf5-Screenshot_2025-04-03_at_11.37.21_AM.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1e649465650e8e5254a38edb1da17830eb18022ebdb5a11c064e19d409eaccf5-Screenshot_2025-04-03_at_11.37.21_AM.png" />
 
 **Edit Section**
 
 * **Change** the **display name** of the section. **Click** on the **3 dots** and **press** **Edit**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/15af13f2b76c51fecca346a0a82c66e240b3898d3844aad25750a47673afecca-Screenshot_2025-04-03_at_11.38.43_AM.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/15af13f2b76c51fecca346a0a82c66e240b3898d3844aad25750a47673afecca-Screenshot_2025-04-03_at_11.38.43_AM.png" />
 
 ### **Add Options**
 
@@ -65,13 +65,13 @@ metadata:
 
 * **Name**: Give this menu item a unique label.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9e1f6634917b3a3c94e8f87b68d11ba8a27e019296771f42c9d82e2766702fb9-image.png" />
 
 <br />
 
 > **Note:** A **Custom** feature can open an external website when clicked.
 >
-> ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
+> <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png" />
 
 ***
 
