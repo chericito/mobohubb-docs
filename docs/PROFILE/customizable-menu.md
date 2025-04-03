@@ -59,7 +59,7 @@ metadata:
 
 <br />
 
-**Add Options**
+### **Add Options**
 
 * **Feature**: Choose a mobohubb tool or **Custom** URL.
 
@@ -71,7 +71,8 @@ metadata:
 
 <br />
 
-> **Note:** A **Custom** feature can open an external website when clicked.\
+> **Note:** A **Custom** feature can open an external website when clicked.
+>
 > ![](https://files.readme.io/9a4d29d642ebebf8d4cb0362a96f69d88603e16aaff935ff11d06f9f6920106a-image.png)
 
 ***
