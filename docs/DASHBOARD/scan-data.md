@@ -38,7 +38,7 @@ Each scan record generally shows:
 
 1. **Go** to **“Scan Data”** from the side menu in the portal. (You may also use the **search bar** in the top menu.)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/edfe6da672a41d8dbed778c456607742a2e32023ec2142019051f23d475785d9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2060b92b72abfc36deda3a3f853eeff7aa752b53bf77a18293441264957dcb6f-Screenshot_2025-04-03_at_11.23.12_AM.png" />
 
 2. **Filter** data using either **quick** or **advanced** [filters](https://mobohubb.readme.io/docs/filters#/):
 
