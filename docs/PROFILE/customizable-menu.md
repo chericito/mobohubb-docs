@@ -87,7 +87,7 @@ metadata:
 
 2. **Click Edit Menu**.
 
-![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png" />
 
 3. **Choose the Section** where the tool resides or where you want to add it.
 
