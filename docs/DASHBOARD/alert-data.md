@@ -25,7 +25,7 @@ metadata:
 
 1. **Navigate** to **“Alert Data”** in the **side menu** of the portal. (You can use the **search bar** in the top menu if needed.)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9d8a2b0d9a29fb1c06d8d2f8a3659d7df991d001e3311107b90274b950815df4-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c2e98ab15a47e9b78fe33b749fac579150a8c418267aecbdaf7be90efdb8d597-Screenshot_2025-04-03_at_11.15.09_AM.png" />
 
 2. **Filter** your records using **quick** or **advanced** filters.
 
