@@ -30,5 +30,7 @@ You can update your personal information in the portal, modifying your **email**
 
 * This is where you visualize your personal information.
 
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e2f65697c8dc65f6e88fa362a8c13973396faa2b59c9379f6034b8099ead1a3d-Screenshot_2025-04-03_at_12.44.36_PM.png" />
+
 3. **Click** the **“Edit”** button to change the language.
 4. **Edit** your personal information and **click** **“Save”** to confirm the changes.
