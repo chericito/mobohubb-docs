@@ -22,8 +22,6 @@ metadata:
 
 You can **filter** your data using **Quick** or **Advanced** filters. These filters appear in every data visualization feature and help you segment and organize information quickly. Whenever a filter is applied, the **“filter”** button displays in your theme color, and any active filters (e.g., "Personnel: Emily Johnson, Oliver Jones") appear below it. Clicking on the filters lets you see details or remove them.
 
-![](NV177%20\(4\).png)
-
 ## Quick Filters
 
 **Quick Filters** let you segment data through simple clicks. They appear by default when you click **“filter.”**
