@@ -57,8 +57,6 @@ metadata:
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/15af13f2b76c51fecca346a0a82c66e240b3898d3844aad25750a47673afecca-Screenshot_2025-04-03_at_11.38.43_AM.png" />
 
-<br />
-
 ### **Add Options**
 
 * **Feature**: Choose a mobohubb tool or **Custom** URL.
