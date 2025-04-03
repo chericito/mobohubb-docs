@@ -22,7 +22,7 @@ metadata:
 
 1. **Navigate** to **“Report Data”** in the **side menu** of the portal. (Alternatively, use the **search bar** in the top menu.)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9daf84b4d3047dda5942e1fdffa0dd3ca03cbabdfecdc003c78e8aa34d5a8e68-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71c0bd60d48412c02c4c0f362264048fd13859c2a6a5db914357461363cb9f07-Screenshot_2025-04-03_at_11.28.48_AM.png" />
 
 2. **Filter** your data using **quick** or **advanced** filters.
 
