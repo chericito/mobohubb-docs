@@ -85,19 +85,17 @@ metadata:
 
 * Click the **gear icon** at the bottom of the menu.
 
-![](https://files.readme.io/48af261d67a9a5dbe12f7ff4b3915662199c36937329662295f427774332db0a-image.png)
-
 2. **Click Edit Menu**.
 
 ![](https://files.readme.io/86a82e7ca3f299bdc9f43fedd8538ffd0c1b85c6bdb84bee184fa5d0306a461b-image.png)
 
 3. **Choose the Section** where the tool resides or where you want to add it.
 
-![](https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c36111d1bcc171d12a606fa528e93abaa14c43771fa16516ca5b8c6b19dbb909-image.png" />
 
 4. **Tap** the 3 Dots on a Tool to **Edit** or **Delete**.
 
-![](https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9049b0f98028e064224aa626edaaa9c234f4970e2fef674afd7bb1ee75e33e12-image.png" />
 
 5. **Edit** Tool (Optional)
 
@@ -108,7 +106,7 @@ metadata:
 
 * Remove it from the section.
 
-![](https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c6b0089c76d14c76736c854ea9fa5db2d117e7baec978229d87f52793c8c7e84-image.png" />
 
 7. **Drag and drop** to move tools from one section to another.
 
@@ -120,7 +118,7 @@ metadata:
 * The **Favorites** section is at the **top** of the menu settings.
 * **Drag** a tool **into** Favorites to pin it, or drag it **out** to remove it.
 
-![](https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/35962b7396b9e2f852f93e1606c81ca4599f70b3e960ab36311bb4d85761fe8e-image.png" />
 
 ***
 
@@ -132,13 +130,15 @@ If you want to **restore** the original layout or **undo** all customizations, y
 
    * Click the **gear icon** at the bottom.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/dbbfed8ad12c651345beb3f1542b8ea9a5be065d29d1e67aaf7d179547387afd-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a3e6125b150033d7deb71d96994d3b1f2144f9207d8851fe9de00eaa2e3a372a-Screenshot_2025-04-03_at_11.34.21_AM.png" />
 
    <br />
 
 2. **Select “Edit Menu”.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/06398b3f19736ce880d7651c434a7ddd9dbdfb837cf3ab27d6d07ff86e2c9612-image.png" />
 
 <br />
 
