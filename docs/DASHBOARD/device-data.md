@@ -26,7 +26,7 @@ metadata:
 
 1. **Navigate** to **“Device Data”** in the side menu of the portal. (You can also use the search bar in the top menu.)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e0adf2e3de30716bfe434f419954dc546867719f00799e15131c30296f6fa5f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f43313b069c800c26f6684a3894fb683de9987dc5352ce0faeaa762934c629a9-Screenshot_2025-04-03_at_11.31.48_AM.png" />
 
 2. **Filter** your data using quick or advanced filters.
 
