@@ -26,7 +26,7 @@ metadata:
 
 1. **Navigate** to **“Task Data”** in the **side menu** of the portal. (You may also use the **search bar** in the top menu.)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b78b27ca243a078fce1d78408f3aefce11b98bac2b578cec10b72c9dc3f513d0-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71a46c688e84e2bcb942ecaaa99812fe9c5774099ea305a53b9585e65c4d9f91-Screenshot_2025-04-03_at_11.25.09_AM.png" />
 
 2. **Filter** your data using **quick** or **advanced** filters:
 
