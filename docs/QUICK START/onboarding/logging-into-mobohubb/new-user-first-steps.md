@@ -106,10 +106,6 @@ The first step assigns your organization logos, icons, and other branding detail
 
 5. Next, **click** on **“Scan Point”** to proceed to the second step.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/630b916ead421a7607d51f0dfca97dac406b5d16179cff47922cec3e3cf65368-image.png" />
-
-<br />
-
 ## Set Up the Scan Points
 
 A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element read by a mobile device. You can use **[QR codes](https://mobohubb.readme.io/docs/qr-codes#/)** or **[NFC tags](https://mobohubb.readme.io/docs/nfc-tags#/)**, and they must be placed where you want employees to scan. Once you’ve identified your points of interest (i.e., sites defined previously), you can associate specific forms or tasks with each scan point.
@@ -155,8 +151,6 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 > **Note:** Repeat this process for each location or checkpoint where you need a scan point. Once finished, mark the second step complete (2/5).
 
 9. **Click** on **"Task"** to proceed.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/56394e7cb743d26f3d9c05938a5ee6133f6fedc3b9c33e968542ea04856feb3b-image.png" />
 
 ## Configure Tasks
 
@@ -214,8 +208,6 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 > **Note:** Repeat this procedure for each task. When finished, mark this step complete (3/5). You’re now one step closer to fully setting up your Mobohubb portal!
 
 12. **Click** on **"Form/Checklist"** to proceed.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/020c720d43d18a42b37623ba7db9949497d38d604c791fe20f003996d89e194e-image.png" />
 
 # Create Forms and Checklists
 
@@ -323,8 +315,6 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/193e455ebcf63f9b8b3554972022e4f9daec303300793919b6eef4f5b41e755d-image.png" />
 
 **Click** on **“Invite your team”** to move to the final step.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5a70d2e13bf641a33a9f5c12ffba3047af19aa36f15a3ec09e726915f5ada93a-image.png" />
 
 # Invite Your Team
 
