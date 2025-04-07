@@ -153,24 +153,21 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 
 #### Tap on "Forgot Password?"
 
-* **Mobile App**: After opening the app (and watching the welcome video), tap **“Forgot password?”**
+* **Mobile App**: After opening the app, **tap** **“Forgot password?”**
 
-<Image align="center" width="30% " src="https://files.readme.io/73c22990c6541dfd1d1dc7ede40957236c09e0b9581fdeee411b011d9fd4e4b0-image.png" />
-
-* **Web App**: On the login screen, click **“Forgot password?”**
-
-<Image align="center" width="30% " src="https://files.readme.io/76a54010c2f795ce6685d1c4d23bbfee72bad38f1f72f41ce0a6242a259c552b-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/52b7dce8f9ffbad9ca5f071d07e9de4d59033aa367f5ada88fdcf951f58a5f06-Image_3.png" />
 
 #### Enter Your Username
 
 * Type in your **username**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fdb158fb715de6b6fb2e3087423af4cdaa6b6887b9d7b0ed0f13b0d3595a5184-Image.jpeg" />
+
+<br />
+
 * Tap or click **“Recover.”**
 
 > **Note:** The **username** is the same **email** you use to log in.
-
-<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/a55b415a9e99a24a9a48b317c31fd03c11b2bdc746bebcd95a3e8db5ab668fa9-image.png" width="30% " />
-
-<Image align="center" border={false} caption="Web" src="https://files.readme.io/cf32cd54daf9e7969c9338c57caa11052c339e030ef304fb984f856c28b23664-image.png" width="30% " />
 
 #### Check Your Email & Change Your Password
 
@@ -179,10 +176,6 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 * **Enter a new password** (minimum 6 characters).
 * **Confirm** the new password.
 * Tap or click **“Recover”.**
-
-<Image align="center" border={false} caption="Mobile" src="https://files.readme.io/1fc9e5b638ca63ab44b909e2e0d2661941d367a51447d7b4f0e9703acb5c990d-image.png" width="30% " />
-
-<Image align="center" border={true} caption="Web" src="https://files.readme.io/8ca79dd64536467d5b417848378416dfecd17863f5652657831470c2a647caee-image.png" width="30% " />
 
 Once you complete these steps, your password will be reset, and you can log in with your new credentials.
 
@@ -194,7 +187,7 @@ You can choose from **three** authentication methods to log in:
 * **Verification code by email**
 * **Username and password**
 
-After entering the mobile app and watching the welcome video, **use the change the authentication method** button.
+After entering the mobile app and watching the welcome video, **use the Change the authentication method** button.
 
 <Image align="center" width="40% " src="https://files.readme.io/53b8f12994459c55e339fdd8e98ea517ec9ab5dbc1d7fe2ee8ea65714ef8bb43-image.png" />
 
