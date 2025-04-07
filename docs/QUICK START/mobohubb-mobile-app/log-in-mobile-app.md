@@ -19,27 +19,23 @@ metadata:
 
 # Access the Mobile App
 
-Employees must be invited by an administrator or manager with the authority to create new users on the mobohubb web portal. The admin links each user’s name, email, and phone number to the portal and ensures they can log in through one of mobohubb’s security protocols.
+Employees must be invited by an **administrator** or **manager** in the mobohubb **Portal**. The admin ensures the user’s **name**, **email**, and **phone number** are **current** in the portal so the user can log in through any of mobohubb’s **authentication methods**.
 
 ### No More Domain and Pin
 
-Previously, users needed a domain and pin to verify identity. Now, **mobohubb** offers multiple login methods:
+Previously, users needed a domain and pin to logging to the Mobile App. Now, **mobohubb** offers multiple login methods:
 
 * **Email verification code**
 * **SMS verification code**
 * **Username & password**
 
-If you’re an existing user logging in for the first time, you can still use your domain and pin initially. However, you’ll then be required to update your email and phone number to take advantage of the new login methods.
-
 ***
 
 ## Email Invitation
 
-When invited via email, workers receive a message containing their **username** (the same email) and an **auto-generated password**. The first time you log in, you’ll be prompted to change this password or request the admin to change it on your behalf.
+When invited via email, workers receive a message containing their **username** and an **auto-generated password**. The first time they log in, they'll be prompted to change this password or request the admin to change it on your behalf.
 
 ![Email Invitation](https://files.readme.io/f5f5951628aafff945bd860a1a027b59bc222caf397a1201fd3b9f3125e673f3-image.png)
-
-> **Note:** For the **initial email invitation**, use **Username and Password** to log in.
 
 ***
 
