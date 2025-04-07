@@ -45,7 +45,7 @@ When invited via SMS, workers receive a text message containing access informati
 
 <Image align="center" width="40% " src="https://files.readme.io/47bb56b4f277b2fb83d6153f42b3dd3b24c03526c1a7bca0c339aaef17b38335-image.png" />
 
-> **Note:** For the **initial SMS invitation**, use the **SMS verification code** to log in.
+> **Note:** Use the **SMS verification code** to log in.
 
 ***
 
