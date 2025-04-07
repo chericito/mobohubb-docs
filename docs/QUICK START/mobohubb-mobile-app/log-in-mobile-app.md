@@ -61,9 +61,7 @@ Enter the Application and enter username and password.
 
 You can also select your preferred login method on the mobohubb login screen.
 
-<br />
-
-<br />
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/5796f894dffaf80c16b35dd0a31aa467ab633c7211fe5fe6fa333d96b6604098-Image_2.png" />
 
 You can choose from **three** authentication methods to log in.
 
