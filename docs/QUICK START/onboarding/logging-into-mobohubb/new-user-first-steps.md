@@ -196,10 +196,11 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <br />
    > **Note**: If using a Report task, make sure the form already exists so you can select it from the dropdown.
 
-8. **Activate GPS** *(Optional)*
+8. **Enable GPS**: Converts this task into a **GeoTask**, meaning it **requires** a location (GPS) and must be set to **Report**. Once activated:
 
-   * **Turn** tasks into **Geo tasks** by enabling GPS.
-   * Once GPS is active, the “Task description” field changes to “Address” so you can define coordinates.
+   * The **“Task Description”** field becomes **“Address”** so you can define the coordinates.
+   * The **task type** is locked to **Report**—you must link it to an existing form, making it mandatory.
+   * This setting is **not optional** if you want a geo-based task: enabling GPS forces the task to require a **report** and location data.
 
 9. **Save**
 
@@ -334,11 +335,11 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 4. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
 5. **Choose** between invite by SMS or by email by checking the box.
-   > **Note:** If you checked **“invite by email,”** fill in the notification email address. This can differ from the user’s email.
-   >
-   > <Image align="center" className="border" border={true} src="https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png" />
-6. The user will receive an email or SMS with a link to confirm registration.
-7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png" />
+
+4. The user will receive an email or SMS with a link to confirm registration.
+5. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
 
 <Image align="center" className="border" border={true} width="78% " src="https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png" />
 
