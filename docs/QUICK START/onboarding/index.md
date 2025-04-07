@@ -2,8 +2,8 @@
 title: Onboarding
 excerpt: >-
   This onboarding process includes a series of comprehensive guides to help you
-  and your team quickly familiarize yourselves with both the **mobohubb Web
-  App** and **Mobile App**.
+  and your team quickly familiarize yourselves with both the **mobohubb Portal**
+  and **Mobile App**.
 deprecated: false
 hidden: false
 metadata:
