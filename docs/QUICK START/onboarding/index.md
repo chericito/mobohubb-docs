@@ -10,11 +10,11 @@ metadata:
   robots: index
 next:
   pages:
-    - slug: logging-into-mobohubb
-      title: Mobohubb Web App
-      type: basic
     - slug: logging-into-mobohubb-mobile-app
       title: Mobohubb Mobile App
+      type: basic
+    - slug: logging-into-mobohubb
+      title: mobohubb Portal
       type: basic
 ---
 # Resources
