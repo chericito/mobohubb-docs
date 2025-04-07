@@ -73,7 +73,7 @@ You can choose from **three** authentication methods to log in.
 
 ### SMS Verification Code
 
-To log in via SMS, you’ll need the **phone number** registered by your administrator. You’ll receive a **6-digit code** to confirm your identity.
+To log in via SMS, enter your **phone number**. You’ll receive a **6-digit code** to confirm your identity.
 
 1. **Enter Your Mobile Number**
 
