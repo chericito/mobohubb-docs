@@ -13,6 +13,9 @@ next:
     - slug: logging-into-mobohubb
       title: mobohubb Portal
       type: basic
+    - title: mobohubb mobile guide
+      type: link
+      url: https://mobohubb.readme.io/v1.2/docs/mobohubb-mobile-app#/
 ---
 # Resources
 
