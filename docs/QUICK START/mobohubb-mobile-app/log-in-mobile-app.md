@@ -53,13 +53,23 @@ When invited via SMS, workers receive a text message containing access informati
 
 ## New User
 
-You can choose from **three** authentication methods to log in:
+Enter the Application and enter username and password.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
+
+<br />
+
+You can also select your preferred login method on the mobohubb login screen.
+
+<br />
+
+<br />
+
+You can choose from **three** authentication methods to log in.
 
 * **Verification code by SMS**
 * **Verification code by email**
 * **Username and password**
-
-Select your preferred login method on the mobohubb login screen:
 
 <Image align="center" width="30% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
 
