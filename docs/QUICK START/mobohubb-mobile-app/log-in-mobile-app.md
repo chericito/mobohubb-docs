@@ -53,7 +53,7 @@ When invited via SMS, workers receive a text message containing access informati
 
 ## New User
 
-Enter the Application and fill in your email and password.
+Enter the Application and fill in your username and password.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
 
@@ -137,11 +137,11 @@ Enter your email. You’ll receive a **6-digit code** to confirm your identity.
 
 ### Username and Password
 
-This method uses a combination of username/email and a password to verify identity. Your administrator can reset the password if necessary.
+This method uses a combination of a username and a password to verify identity. Your administrator can reset the password if necessary.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
 
-1. **Enter Your Email**
+1. **Enter Your Username**
 2. **Enter Your Password**
    * Tap **“Login.”**
    * Check **“Keep me logged in”** to remain logged in (if allowed by the admin).
