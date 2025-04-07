@@ -1,7 +1,7 @@
 ---
 title: Log in Mobile App
 excerpt: >-
-  This guide walks you through the updated Mobohubb login process for employees,
+  This guide walks you through the updated mobohubb login process for employees,
   covering how to access the app, new authentication methods, and site
   selection.
 deprecated: false
@@ -19,11 +19,11 @@ metadata:
 
 # Access the Mobile App
 
-Employees must be invited by an administrator or manager with the authority to create new users on the Mobohubb web portal. The admin links each user’s name, email, and phone number to the portal and ensures they can log in through one of Mobohubb’s security protocols.
+Employees must be invited by an administrator or manager with the authority to create new users on the mobohubb web portal. The admin links each user’s name, email, and phone number to the portal and ensures they can log in through one of mobohubb’s security protocols.
 
 ### No More Domain and Pin
 
-Previously, users needed a domain and pin to verify identity. Now, **Mobohubb** offers multiple login methods:
+Previously, users needed a domain and pin to verify identity. Now, **mobohubb** offers multiple login methods:
 
 * **Email verification code**
 * **SMS verification code**
@@ -63,7 +63,7 @@ You can choose from **three** authentication methods to log in:
 * **Verification code by email**
 * **Username and password**
 
-Select your preferred login method on the Mobohubb login screen:
+Select your preferred login method on the mobohubb login screen:
 
 <Image align="center" width="30% " src="https://files.readme.io/190bcc2ab64be852fcaf75353bdc278f09e0fb971d0263e23140f3c1e9b359a1-image.png" />
 
@@ -312,7 +312,7 @@ If you’re assigned to more than one site, simply choose the site you wish to p
 
 # Grant Permissions
 
-To use all features of the Mobohubb app, you must allow access to your device’s location, microphone, media files, and camera. On **iOS**, these permissions (especially microphone and photo gallery) must be granted separately.
+To use all features of the mobohubb app, you must allow access to your device’s location, microphone, media files, and camera. On **iOS**, these permissions (especially microphone and photo gallery) must be granted separately.
 
 * **Camera Permission**: Needed to scan QR/NFC points and upload photos in forms.
 * **Location Permission**: Ensures accurate time clock tracking and completion of Geo tasks.
