@@ -1,5 +1,5 @@
 ---
-title: Mobohubb Mobile App
+title: mobohubb Mobile App
 excerpt: >-
   This guide explains how to download and install the Mobohubb Mobile App on
   both Android and iOS devices.
