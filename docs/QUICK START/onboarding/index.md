@@ -13,9 +13,6 @@ next:
     - slug: logging-into-mobohubb
       title: mobohubb Portal
       type: basic
-    - slug: employees-first-steps
-      title: 'Mobile App: Quick Start Guide'
-      type: basic
 ---
 # Resources
 
