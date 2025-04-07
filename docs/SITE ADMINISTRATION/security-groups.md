@@ -40,7 +40,8 @@ Users are individuals who can access the portal and perform actions based on the
   </Card>
 
   <Card title="Mobile" icon="fa-mobile-alt">
-    Uses the **mobile app** for tasks (e.g., scanning QR codes, filling out reports). Cannot access the web portal or modify portal elements. This security group also grants access to the Web App.
+    **Mobile**\
+    Primarily uses the **mobohubb mobile app** for tasks like scanning QR codes, filling out reports, and communicating. This group also permits **limited access** to the **web app** (webapp.mobohubb.com), but it does not grant full portal modification rights. The user **cannot** perform administrative changes or advanced configurations in the portal.
   </Card>
 </Cards>
 
