@@ -21,13 +21,13 @@ metadata:
 
 ***
 
-# Download Mobohubb Mobile App
+# Download mobohubb Mobile App
 
 ## Android
 
-**Download Mobohubb Beta on your Android device**: Android devices allow you to install Mobohubb directly from the Google Play Store.
+**Download mobohubb Beta on your Android device**: Android devices allow you to install mobohubb directly from the Google Play Store.
 
-1. **Open Mobohubb beta** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share).
+1. **Open mobohubb beta** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share).
 
    <Image align="center" width="30% " src="https://files.readme.io/a1274e592e718ca8f38e56603473243ffb45c0ff744ea290fda5395d043673eb-image.png" />
 
@@ -35,7 +35,7 @@ metadata:
 
    <Image align="center" width="30% " src="https://files.readme.io/54eb6bd888e3626146e8a232879d1f8115b1f80c99974d23b7d0d5a7f52454f3-image.png" />
 
-3. Once the installation is complete, **Mobohubb beta is ready to use**.
+3. Once the installation is complete, **mobohubb beta is ready to use**.
 
    <Image align="center" width="30% " src="https://files.readme.io/a39b77ff73696c1ffa7d2eaab0dc3bf08a20995ce4f0f6ccad3189695dd38a67-image.png" />
 
@@ -45,9 +45,9 @@ metadata:
 
 ## iPhone and iPad
 
-**Download Mobohubb Beta on your iOS/iPadOS device**: iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
+**Download mobohubb Beta on your iOS/iPadOS device**: iOS and iPadOS devices allow you to install mobohubb directly from the App Store.
 
-1. **Open Mobohubb beta** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
+1. **Open mobohubb beta** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
 
    <Image align="center" width="30% " src="https://files.readme.io/8e992cb69eeb834e7df1479dcd4765f5bb1eb6e1b6b1e75db3a6de5d2dbef2ac-image.png" />
 
@@ -55,7 +55,7 @@ metadata:
 
    <Image align="center" width="30% " src="https://files.readme.io/aa0a7455631e509a6df59fab8f64bb1ab77fbb10e13af29a5375cf9f62aa3feb-image.png" />
 
-3. Once installed, **Mobohubb beta is ready to use**.
+3. Once installed, **mobohubb beta is ready to use**.
 
    <Image align="center" width="30% " src="https://files.readme.io/8b09ffeb75e5d303d2afba8e331b5017d44c9705867ec4baa244cf51a2982335-image.png" />
 
@@ -65,7 +65,7 @@ This identity verification method uses a combination of email and password to al
 
 ### No More Domain and Pin
 
-Previously, users needed a domain and pin to verify identity. Now, **Mobohubb** offers multiple login methods:
+Previously, users needed a domain and pin to verify identity. Now, **mobohubb** offers multiple login methods:
 
 * **Email verification code**
 * **SMS verification code**
