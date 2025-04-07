@@ -163,8 +163,6 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fdb158fb715de6b6fb2e3087423af4cdaa6b6887b9d7b0ed0f13b0d3595a5184-Image.jpeg" />
 
-<br />
-
 * Tap or click **“Recover.”**
 
 > **Note:** The **username** is the same **email** you use to log in.
@@ -172,10 +170,18 @@ You can quickly reset a forgotten or expired password via **email** or **SMS** v
 #### Check Your Email & Change Your Password
 
 * Locate the **recovery code** sent to your email.
+
+<Image align="center" width="30% " src="https://files.readme.io/475f1ea7266b13b110a2036eb673230958841d53dc6e5ad3a61d543271e03d51-Image_1.jpeg" />
+
 * **Enter the code** in the designated field.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/318c9fda9366685d8c07e1559117989653b7a5bbd9ce72d3d112272e1345a4eb-Image_2.jpeg" />
+
 * **Enter a new password** (minimum 6 characters).
 * **Confirm** the new password.
 * Tap or click **“Recover”.**
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/830f31ca8cbcd0b75e0e21a0e2e0b5a59044003985079bff7ee214700327a1ee-Image_3.jpeg" />
 
 Once you complete these steps, your password will be reset, and you can log in with your new credentials.
 
