@@ -53,15 +53,13 @@ When invited via SMS, workers receive a text message containing access informati
 
 ## New User
 
-Enter the Application and enter username and password.
+Enter the Application and fill in your email and password.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
 
 You can also select your preferred login method on the mobohubb login screen.
 
-<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/5796f894dffaf80c16b35dd0a31aa467ab633c7211fe5fe6fa333d96b6604098-Image_2.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5796f894dffaf80c16b35dd0a31aa467ab633c7211fe5fe6fa333d96b6604098-Image_2.png" />
 
 You can choose from **three** authentication methods to log in.
 
@@ -109,7 +107,7 @@ To log in via SMS, enter your **phone number**. You’ll receive a **6-digit cod
 
 ### Email Verification Code
 
-To log in via email, ensure the **email address** registered by your administrator is correct. You’ll receive a **6-digit code** to confirm your identity.
+Enter your email. You’ll receive a **6-digit code** to confirm your identity.
 
 1. **Enter Your Email Address**
 
@@ -141,15 +139,13 @@ To log in via email, ensure the **email address** registered by your administrat
 
 This method uses a combination of username/email and a password to verify identity. Your administrator can reset the password if necessary.
 
-1. **Enter Your Username or Email**
-   * This information is registered by the portal administrator.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/36429d2e6bed77bc347892719703183643a016e3856e93c810fc66f4f99532bb-image.png" />
 
+1. **Enter Your Email**
 2. **Enter Your Password**
    * Tap **“Login.”**
    * Check **“Keep me logged in”** to remain logged in (if allowed by the admin).
-
 3. **Wait for Log In**
-   * Once verified, you’ll be granted access to the app.
 
 ### Password Reset
 
