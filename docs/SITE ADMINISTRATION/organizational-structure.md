@@ -22,7 +22,7 @@ metadata:
 
 The org structure works this way:
 
-Organization level > Sites Level
+Organization levels/parents > Sites Level
 
 Sites can not have child, only parents can have children and children can become other children's parents.
 
