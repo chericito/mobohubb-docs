@@ -103,43 +103,54 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 > **Note**: You can add Sites at any level in your organization’s hierarchy (up to **five** levels deep). This allows flexible structuring of different cities, departments, neighborhoods, or however your company is arranged.
 
-### Adding New Levels/Parents
+<br />
 
-You can add new levels at any time under your organization. You can add new levels under your organization name, considered level 0, and your new level will be level 1, or you can add a new level under an existing level. If you were to add a level under an existing level 1, your new level will be level 2, and its parent will be level 1.
+## Adding New Levels/Parents
 
-1. Click on the 3 dots next to your organization name or next to an existing level 1-4 and select "Add Child". Remember, you can only add up to 5 levels within an organization.
+**mobohubb** lets you insert additional **organizational tiers** up to five levels deep. For instance, you can add a new Level 1 under your top-level organization (Level 0), or a Level 2 under an existing Level 1, and so on. This flexibility allows you to map your actual business hierarchy—such as states, cities, or neighborhoods—within mobohubb.
 
-![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
+1. **Click** the **three dots** next to:
+   * **Organization Name** (to create a Level 1), or
+   * **An existing Level** (to create the next sub-level).
+   ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
-2. Fill in the name for this new level. In this example, as we're using cities for Level 1s, this new level 1 will be "Los Angeles", similar to "New York" and "Miami".
+2. **Select** **“Add Child”**.
+   * mobohubb supports up to **5 levels** in total.
 
-![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
+3. **Name** your new level.
+   * Example: If Level 1 represents **cities**, you could name a new one **“Los Angeles.”**
+   ![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
 
-3. After saving Los Angeles, it will be visible in the org.
+4. **Save**.
+   * The new level appears in the organizational structure tree.
+   ![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
 
-![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
+5. **(Optional)** Add **sub-levels** or **sites** under your newly created level.
+   * Example: If **Los Angeles** is Level 1, you can add a **Level 2** (like **“Westwood”**) plus a **new site** (e.g., **“Topaz”**).
+   ![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
 
-4. You can add other levels under "Los Angeles". In this organization, we're using neighborhoods as level 2s. We added "Westwood" as a neighborhood and "Topaz" as a new site.
+***
 
-![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
+## Moving Sites Within the Organization
 
-## Moving Sites within the organization
+If your hierarchy changes or you want to reassign a site’s parent, you can **edit** any site’s **level/parent**:
 
-1. You can move any site at any time from one level/parent to another. Navigate to the site you want to move and click the 3 dots next to its name, and select "Edit".
+1. **Locate** the site you want to move.
+   * **Click** the **three dots** next to its name.\
+     ![](https://files.readme.io/07f8b5c8ccfb151fd5283d242deb6733ec0603cd217f201f33ec230ff15f7511-Screenshot_2025-04-08_at_11.52.05_AM.png)
 
-![](https://files.readme.io/07f8b5c8ccfb151fd5283d242deb6733ec0603cd217f201f33ec230ff15f7511-Screenshot_2025-04-08_at_11.52.05_AM.png)
+2. **Select** **“Edit.”**\
+   ![](https://files.readme.io/fb6c5138776a0828b8f6fc91ff8390fe8a3428f625f3c609f5ead7770658689a-Screenshot_2025-04-08_at_11.52.54_AM.png)
 
-![](https://files.readme.io/fb6c5138776a0828b8f6fc91ff8390fe8a3428f625f3c609f5ead7770658689a-Screenshot_2025-04-08_at_11.52.54_AM.png)
+3. **Change** the **Level/Parent** dropdown to the new parent level.
+   * For example, move **Moonstone** under **“New York”** (Level 1).\
+     ![](https://files.readme.io/43fa5cbdfb8579ce0b598cccd6acd50da96e43f7b366c26992d9ff031fca584a-Screenshot_2025-04-08_at_11.55.04_AM.png)
 
-2. In the "level/parent" option, click on the dropdown and select the new "level" or parent. In this case, we'll move Moonstone under "New York", a level 1 in this organization.
+4. **Save** your changes.\
+   ![](https://files.readme.io/dc3ceaa2395a447c4760cf49994ab0b3e6b3c73f2f52bdee8aa589f882dfa593-Screenshot_2025-04-08_at_11.55.44_AM.png)
 
-![](https://files.readme.io/43fa5cbdfb8579ce0b598cccd6acd50da96e43f7b366c26992d9ff031fca584a-Screenshot_2025-04-08_at_11.55.04_AM.png)
-
-3. Press Save.
-
-![](https://files.readme.io/dc3ceaa2395a447c4760cf49994ab0b3e6b3c73f2f52bdee8aa589f882dfa593-Screenshot_2025-04-08_at_11.55.44_AM.png)
-
-4. The Site will now be under the new level/parent.
+5. **Check** your organizational structure: the site now appears under its **new parent**.\
+   ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
 ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
