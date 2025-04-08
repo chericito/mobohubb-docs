@@ -34,7 +34,7 @@ By properly configuring the **organizational structure**, you can:
 * **Assign** tasks and schedules per location or level.
 * **Segment** data effectively, ensuring each site has accurate branding and security groups.
 
-Follow the instructions below to enter and manage your organizational structure.
+**Follow the instructions below to enter and manage your organizational structure.**
 
 ## Accessing Organizational Structure Management
 
