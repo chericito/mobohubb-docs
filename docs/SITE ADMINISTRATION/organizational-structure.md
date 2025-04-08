@@ -210,7 +210,7 @@ You can remove an entire **level/parent** at any time:
 
    <Image align="center" className="border" border={true} src="https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png" />
 
-**What happens to sites under a deleted level?**
+#### **What happens to sites under a deleted level?**
 
 They are **automatically moved** up one tier to the next available level/parent. For instance, if you delete **Westwood** (Level 2) containing a site named **Topaz**, **Topaz** is reassigned to **Los Angeles** (Level 1).
 
