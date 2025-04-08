@@ -103,7 +103,7 @@ Displays **4 groups** of two bar graphs each, comparing planned activities to th
 
 Shows a line graph highlighting the total **uncompleted** activities (marked as “No Activity Exception”) in a given time range. Each category is color-coded:
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/5010332e598a6772606e52a17bc994c922dafc24f698ce8e7471bac716a6f8a6-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/3d6f618b8e8bd0a6ae6eb3315254f8e7c41f5420c3fcb20e4a9d12d89dc212a1-image_3.png" />
 
 * **Forms**: Incomplete mandatory forms
 * **Task**: Tasks that weren’t finished
