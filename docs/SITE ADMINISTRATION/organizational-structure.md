@@ -18,8 +18,6 @@ metadata:
 
 ***
 
-**Organizational Structure Overview**
-
 **mobohubb** allows you to manage multiple sites by organizing them under **one or more parent levels**, creating up to **five tiers** in a hierarchical tree. This system supports unique branding and mobile configurations for each site, while also letting you segment tasks and responsibilities. For example, you might define **cities** as Level 1 and **neighborhoods** as Level 2, with individual **sites** attached at either level. This flexibility helps you tailor the platform to your company’s real-world layout.
 
 <Cards columns={1}>
