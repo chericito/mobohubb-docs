@@ -111,8 +111,8 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 1. **Click** the **three dots** next to:
    * **Organization Name** (to create a Level 1), or
-   * **An existing Level** (to create the next sub-level).\
-     ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
+   * **An existing Level** (to create the next sub-level).
+   ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
 2. **Select** **“Add Child”**.
    * mobohubb supports up to **5 levels** in total.
