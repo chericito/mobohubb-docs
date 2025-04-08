@@ -2,9 +2,9 @@
 title: Camera
 excerpt: >-
   Learn how to use the **mobohubb mobile app’s camera** features for taking
-  pictures, recording videos, and scanning codes. This guide details the camera
-  interface and how to capture, discard, or confirm media for tasks like
-  **timeclock selfies** and **forms**.
+  pictures and recording videos. This guide details the camera interface and how
+  to capture, discard, or confirm media for tasks like **timeclock selfies** and
+  **forms**.
 deprecated: false
 hidden: false
 metadata:
@@ -18,7 +18,7 @@ metadata:
 
 ***
 
-The mobohubb app offers an **intuitive camera interface** for capturing photos, videos, and scanning QR codes. Depending on your organization’s needs, you may be prompted to **verify attendance** for timeclock, **attach photos** to forms, or **scan** items quickly.
+The mobohubb app offers an **intuitive camera interface** for capturing photos, videos, and scanning QR codes. Depending on your organization’s needs, you may be prompted to **verify attendance** for timeclock, and **attach photos** to forms.
 
 ***
 
@@ -69,7 +69,6 @@ When prompted to add a **photo** or **video**, the camera screen opens automatic
 
 * **Timeclock**: Take a **quick selfie** to confirm your identity when clocking in/out.
 * **Forms**: Attach **supporting evidence** (e.g., photos of an issue or environment) to enhance form submissions.
-* **Scan**: The camera can switch into **scanner mode** for reading QR codes or barcodes.
 
 ***
 
