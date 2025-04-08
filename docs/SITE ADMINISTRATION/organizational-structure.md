@@ -60,7 +60,7 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 ![](https://files.readme.io/1cd22680f3032f82e88b048d91218396584e8829b71e433f1384ccb55670d953-Screenshot_2025-04-08_at_11.28.46_AM.png)
 
-3. **Select** **“Add Site.”**
+3. **Select** **“Add Site”.**
 
 ![](https://files.readme.io/d9fc930ea3c4dda6e4fba16ba166d931168fb6fffba393180d942c22f4bbf9f5-Screenshot_2025-04-08_at_11.29.48_AM.png)
 
@@ -83,18 +83,19 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 1. **Open** your **Org Structure Management** page.
 
-2. **Click** the **three dots** next to the **parent level** where you want to add the site.\
-   ![](https://files.readme.io/878139f7bba246b7d39ec0ab8550a39407ad2d899aa4744313b216e1f34affe1-Screenshot_2025-04-08_at_11.45.48_AM.png)
+2. **Click** the **three dots** next to the **parent level** where you want to add the site.
+
+![](https://files.readme.io/878139f7bba246b7d39ec0ab8550a39407ad2d899aa4744313b216e1f34affe1-Screenshot_2025-04-08_at_11.45.48_AM.png)
 
 3. **Select** **“Add Site.”**
+4. In the **Add Site** window, **fill in** all required details (e.g., **Site Name**, **Site Type**, **Time Zone**, **OBS Path**, **Address**, etc.).
 
-4. In the **Add Site** window, **fill in** all required details (e.g., **Site Name**, **Site Type**, **Time Zone**, **OBS Path**, **Address**, etc.).\
-   ![](https://files.readme.io/7baa1815f24a7f14b25fac6e3f92bf89fc25026a377846fd6a7954215125c0b8-image.png)
+![](https://files.readme.io/7baa1815f24a7f14b25fac6e3f92bf89fc25026a377846fd6a7954215125c0b8-image.png)
 
 5. **Click** **Save** to confirm.
+6. **Return** to the **Org Structure Management** view.
 
-6. **Return** to the **Org Structure Management** view.\
-   ![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
+![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
 
 7. You will see the new site under the **selected level/parent**.
 
