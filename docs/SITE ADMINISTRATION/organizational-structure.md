@@ -111,8 +111,8 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 1. **Click** the **three dots** next to:
    * **Organization Name** (to create a Level 1), or
-   * **An existing Level** (to create the next sub-level).
-   ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
+   * **An existing Level** (to create the next sub-level).\
+     ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
 2. **Select** **“Add Child”**.
    * mobohubb supports up to **5 levels** in total.
@@ -157,38 +157,66 @@ If your hierarchy changes or you want to reassign a site’s parent, you can **e
 
 ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
+<br />
+
 ## Editing Sites or Levels/Parents
 
 ### Editing a Site
 
-To edit a site, simply press the 3 dots next to the site's name and select "Edit".
+1. **Locate** the desired site in your org structure.
 
-![](https://files.readme.io/778842603cf95c8f69bd98efd16becaff89f8776e3544736a859208299ac59d1-Screenshot_2025-04-08_at_12.15.55_PM.png)
+2. **Click** the **3 dots** next to the site’s name, then select **“Edit.”**
 
-For Sites you can edit the name and parent (under which level it is).
+   ![](https://files.readme.io/778842603cf95c8f69bd98efd16becaff89f8776e3544736a859208299ac59d1-Screenshot_2025-04-08_at_12.15.55_PM.png)
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/58ee9259f48f8ea63d16909b98c543d4e485d12039be896260e9f6aae7e568bf-image.png" />
+3. **Modify** site details:
+
+   * **Site Name**
+   * **Parent** (the level under which it resides)
+
+   ![](https://files.readme.io/58ee9259f48f8ea63d16909b98c543d4e485d12039be896260e9f6aae7e568bf-image.png)
+
+4. **Save** changes to confirm.
+
+***
 
 ### Editing a Level/Parent
 
-To edit a level, simply press the 3 dots next to the level/parent's name and select "Edit".
+1. **Locate** the level/parent in your org structure.
 
-![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
+2. **Click** the **3 dots** next to the level’s name, then select **“Edit.”**
 
-For levels/parents, you can only edit its name.
+   ![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
 
-![](https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png)
+3. **Rename** the level as needed.
+
+   ![](https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png)
+
+4. **Save** to apply the updated name.
+
+***
 
 ## Deleting Levels/Parents
 
-> **Note:** **You can not delete sites**. But you can set them as "inactive". [Learn how](https://mobohubb.readme.io/docs/site-management#/site-information).
+> **Note**: **Sites cannot be deleted**; instead, you can mark them as **inactive**. [Learn more](https://mobohubb.readme.io/docs/site-management#/site-information).
 
-You can delete any level/parent at any time. To do this, simply click the 3 dots next to the level name and press "Remove", and confirm.
+You can remove an entire **level/parent** at any time:
 
-![](https://files.readme.io/2f7c457c8274c1db410237cf7a9124287b9920621222c377fc9c8ef721495045-Screenshot_2025-04-08_at_12.26.08_PM.png)
+1. **Click** the **3 dots** next to the level name.
 
-![](https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png)
+2. **Choose** **“Remove.”**
 
-Sites under the level/parent deleted will be moved to the next available level/parent. As we deleted the neighborhood "Westwood" (Level 2), and it had a site called "Topaz", the site was moved under the Level 1 "Los Angeles".
+   <Image align="center" className="border" border={true} src="https://files.readme.io/2f7c457c8274c1db410237cf7a9124287b9920621222c377fc9c8ef721495045-Screenshot_2025-04-08_at_12.26.08_PM.png" />
+
+3. **Confirm** the deletion.
+
+   ![](https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png)
+
+> **What happens to sites under a deleted level?**\
+> They are **automatically moved** up one tier to the next available level/parent. For instance, if you delete **Westwood** (Level 2) containing a site named **Topaz**, **Topaz** is reassigned to **Los Angeles** (Level 1).
+
+![](https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png)
+
+<br />
 
 ![](https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png)
