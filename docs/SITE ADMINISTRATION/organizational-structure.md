@@ -18,86 +18,130 @@ metadata:
 
 ***
 
-**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using Site Branding, Branding, and Mobile Configuration tabs. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining the onboarding of staff and segmentation of data across different sites.
+**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using the Site Branding, Branding, and Mobile Configuration tabs. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining staff onboarding and data segmentation across different sites.
+
+The org structure works this way:
+
+Organization level > Sites Level
+
+Sites can not have child, only parents can have children and children can become other children's parents.
+
+But you can add up to 5 levels as children under children. Each level can have sites. See the example below: The company "Cleaning Buddies" has 6 sites: Ruby, Diamond, Emerald, Quartz, Amethyst, and Sapphire. They are organized in different levels.
+
+![](https://files.readme.io/551d007e2d81a78a9119b9c9efc6565baa2e51f4065a10ae58c7ee9e35cbb5dd-image.png)
+
+<br />
+
+In level 1, we recognize two cities: New York and Miami. Under these cities, we have different sites. Under New York, however we can find Queens, representing a Level 2 for this organization, which is a "neighborhood". For this organizations Cities are level 1s and neighborhoods are level 2s. You can organize your organizational structure based on your needs/preferences with up to 5 levels.
+
+Follow the instructions below to enter and manage your organizational structure.
 
 ## Accessing Organizational Structure Management
 
-1. **Navigate** to the portal’s top menu.
+1. **Navigate** to the portal’s top menu, and click on "Settings"
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/05d52ed60cd223e35180a0112fb0add2600685e162ed6fb4974138fde3c52699-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-2. **Go to "General Settings".**
+2. **Select "Org Structure Management"** in the **Site Administration** section.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/33c5703eb5f1ed7e66806084a62636dfc14c23f7eef938fc479e062b4c42322f-image.png" />
+<Image align="center" className="border" border={true} width="% " src="https://files.readme.io/f276aa3a64600b15efa05787aa13dbb849dae20ac4fda410020e361c7ac0c1a6-Screenshot_2025-04-08_at_10.57.45_AM.png" />
 
-3. **Select "Org Structure Management"** in the **Site Administration** section.
+## Adding Sites and Levels
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d3476a4566ae014cf4273c41bf60392c66c78574c09c9472c4c63725a425ee2a-image.png" />
+### Adding Sites under the organization
 
-4. **Identify the Sites:**
+1. You can add Sites directly under your organization name, considered as level 0. To do this, click the 3 dots next to your organization name.
 
-* The main window displays a list of sites or organizational units (departments, teams, etc.).
+![](https://files.readme.io/1cd22680f3032f82e88b048d91218396584e8829b71e433f1384ccb55670d953-Screenshot_2025-04-08_at_11.28.46_AM.png)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/41831d520b3644ea57c28e8f6d4544958afb5a0988f2cb62b0ad15154f17cf40-image.png" />
+2. Click on "Add Site"
 
-4. **Click** on the **three-dot button** (vertical dots) next to the site parent you wish to manage. This will open a menu with several options:
+![](https://files.readme.io/d9fc930ea3c4dda6e4fba16ba166d931168fb6fffba393180d942c22f4bbf9f5-Screenshot_2025-04-08_at_11.29.48_AM.png)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/772271970e41907c4a95b84e4c784b8d8e0ea48034cf73f2a9e0fc21fe99bf3e-image.png" />
+3. A new screen will appear. Fill in all the required details: Site Name, Site Type, Time Zone, OBS Path (parent), Site Address and save it.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/56f4a0891cdb885bce2ef9249b4d7c86a1da907c4f54f4ae0668e25d28de4ddc-72F41829-D7FE-4F0D-9A18-948A0477A3A4.png" />
+<Image align="center" src="https://files.readme.io/73efb86e4696e76271f8788e8b4d10eb13bd7fdf6a97f9fc3cb69afa2cfa0606-Screenshot_2025-04-08_at_11.33.20_AM.png" />
 
-* **Add Site:** Create a new site associated with a physical or virtual location.
-* **Add Child:** Create a new section (child) within the selected organizational unit.
-* **Edit Site:** Modify the name associated with the site.
-* **Delete Site:** Remove the site from the organizational structure.
+4. Go back to Org Structure Management from the Site Administration section.
 
-> **Note:** Depending on whether the subsection contains sites or if it is a child of another section, it may be referred to as either the parent or the child.
+![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
 
-***
+5. You'll find the new site under your organization.
 
-## Managing Sites: Quick Actions
+![](https://files.readme.io/59997ee83d451d09a2b9f7b529a04a6a7fb5f2137deb8b9468481aa53995245f-Screenshot_2025-04-08_at_11.36.59_AM.png)
 
-<Tabs>
-  <Tab title="Add Site" icon="fa-plus-circle">
-    **Add Site**
+### Adding a New Site under a Level
 
-    1. Within the site parent, **click** the **"Add Site"** button.
-    2. **Enter** the site information (site name, description, etc.) and **save** your changes.
+1. You can add Sites under any level. To do this, click the 3 dots next to any level and press "Add Site".
 
-    <Image align="center" border={true} src="https://files.readme.io/3c1772fa55d9afbd63bb1cdab5fc29fd6942e2fee4b07ba3bdb7e09a08068833-image.png" width="60%" />
-  </Tab>
+![](https://files.readme.io/878139f7bba246b7d39ec0ab8550a39407ad2d899aa4744313b216e1f34affe1-Screenshot_2025-04-08_at_11.45.48_AM.png)
 
-  <Tab title="Edit Site" icon="fa-edit">
-    **Edit Site**
+2. A new screen will appear. Fill in all the required details: Site Name, Site Type, Time Zone, OBS Path (parent), Site Address and save it.
 
-    1. **Click** the **three-dot button** on the site you wish to edit.
-    2. **Click** **"Edit."**
-    3. **Update** the site name or change its parent using the dropdown menu.
+![](https://files.readme.io/7baa1815f24a7f14b25fac6e3f92bf89fc25026a377846fd6a7954215125c0b8-image.png)
 
-    <Image align="center" border={true} src="https://files.readme.io/dd865067a0162791ba96f1762c3bd3ae3369d355fb0daba886d3b8b012614177-image.png" width="60%" />
+3. Go back to Org Structure Management from the Site Administration section.
 
-    4. **Click** **"Save"** to upload the updated site information.
-  </Tab>
+![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
 
-  <Tab title="Add Child" icon="fa-sitemap">
-    **Add Child**
+4. You'll find the new site under your organization's level. In this example, the site "Agate" is under "New York", which is a Level 1 under "Cleaning Buddies" org.
 
-    1. **Click** the **"Add Child"** button.
-    2. **Enter** a name for the child section.
+You can add Sites under any level in the organization.
 
-    <Image align="center" border={true} src="https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png" width="60%" />
+### Adding New Parents/Levels
 
-    3. **Click** **"Save"** to create the child section.
-    4. Once the child is created, you can add sites to it or edit existing sites to include them in that section.
-  </Tab>
+You can add new levels at any time under your organization. You can add new levels under your organization name, considered level 0, and your new level will be level 1, or you can add a new level under an existing level. If you were to add a level under an existing level 1, your new level will be level 2, and its parent will be level 1.
 
-  <Tab title="Remove Child" icon="fa-minus-circle">
-    **Remove Child**
+1. Click on the 3 dots next to your organization name or next to an existing level 1-4 and select "Add Child". Remember, you can only add up to 5 levels within an organization.
 
-    1. **Click** the **"Remove"** button on the child section you wish to delete.
+![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
-    <Image align="center" border={true} src="https://files.readme.io/9e5a6d91c7b2939b48c0ecfbbaa97fe2952c664393cb35fd30ea01daa355d95e-image.png" width="60%" />
+2. Fill in the name for this new level. In this example, as we're using cities for Level 1s, this new level 1 will be "Los Angeles", similar to "New York" and "Miami".
 
-    2. **Click** **"Delete"** to confirm the removal.
-  </Tab>
-</Tabs>
+![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
+
+3. After saving Los Angeles, it will be visible in the org.
+
+![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
+
+4. You can add other levels under "Los Angeles". In this organization, we're using neighborhoods as level 2s. We added "Westwood" as a neighborhood and "Topaz" as a new site.
+
+![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
+
+## Moving Sites within the organization
+
+1. You can move any site at any time from one level/parent to another. Navigate to the site you want to move and click the 3 dots next to its name, and select "Edit".
+
+![](https://files.readme.io/07f8b5c8ccfb151fd5283d242deb6733ec0603cd217f201f33ec230ff15f7511-Screenshot_2025-04-08_at_11.52.05_AM.png)
+
+![](https://files.readme.io/fb6c5138776a0828b8f6fc91ff8390fe8a3428f625f3c609f5ead7770658689a-Screenshot_2025-04-08_at_11.52.54_AM.png)
+
+2. In the "level/parent" option, click on the dropdown and select the new "level" or parent. In this case, we'll move Moonstone under "New York", a level 1 in this organization.
+
+![](https://files.readme.io/43fa5cbdfb8579ce0b598cccd6acd50da96e43f7b366c26992d9ff031fca584a-Screenshot_2025-04-08_at_11.55.04_AM.png)
+
+3. Press Save.
+
+![](https://files.readme.io/dc3ceaa2395a447c4760cf49994ab0b3e6b3c73f2f52bdee8aa589f882dfa593-Screenshot_2025-04-08_at_11.55.44_AM.png)
+
+4. The Site will now be under the new level/parent.
+
+![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
+
+## Editing Sites or Levels/Parents
+
+### Editing a Site
+
+To edit a site, simply press the 3 dots next to the site's name and select "Edit".
+
+![](https://files.readme.io/778842603cf95c8f69bd98efd16becaff89f8776e3544736a859208299ac59d1-Screenshot_2025-04-08_at_12.15.55_PM.png)
+
+For Sites you can edit the name and parent (under which level it is).
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/58ee9259f48f8ea63d16909b98c543d4e485d12039be896260e9f6aae7e568bf-image.png" />
+
+### Editing a Level/Parent
+
+To edit a level, simply press the 3 dots next to the level/parent's name and select "Edit".
+
+![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
