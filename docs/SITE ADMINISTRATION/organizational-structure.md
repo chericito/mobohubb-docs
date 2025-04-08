@@ -111,23 +111,23 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 1. **Click** the **three dots** next to:
    * **Organization Name** (to create a Level 1), or
-   * **An existing Level** (to create the next sub-level).
-   ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
+   * **An existing Level** (to create the next sub-level).\
+     ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
 2. **Select** **“Add Child”**.
    * mobohubb supports up to **5 levels** in total.
 
 3. **Name** your new level.
-   * Example: If Level 1 represents **cities**, you could name a new one **“Los Angeles.”**
-   ![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
+   * Example: If Level 1 represents **cities**, you could name a new one **“Los Angeles.”**\
+     ![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
 
 4. **Save**.
-   * The new level appears in the organizational structure tree.
-   ![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
+   * The new level appears in the organizational structure tree.\
+     ![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
 
 5. **(Optional)** Add **sub-levels** or **sites** under your newly created level.
-   * Example: If **Los Angeles** is Level 1, you can add a **Level 2** (like **“Westwood”**) plus a **new site** (e.g., **“Topaz”**).
-   ![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
+   * Example: If **Los Angeles** is Level 1, you can add a **Level 2** (like **“Westwood”**) plus a **new site** (e.g., **“Topaz”**).\
+     ![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
 
 ***
 
