@@ -150,6 +150,16 @@ For levels/parents, you can only edit its name.
 
 ![](https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png)
 
-## Deleting Levels
+## Deleting Levels/Parents
 
-Note: You can not delete sites. But you can set them as "inactive". Learn how.
+> **Note:** **You can not delete sites**. But you can set them as "inactive". [Learn how](https://mobohubb.readme.io/docs/site-management#/site-information).
+
+You can delete any level/parent at any time. To do this, simply click the 3 dots next to the level name and press "Remove", and confirm.
+
+![](https://files.readme.io/2f7c457c8274c1db410237cf7a9124287b9920621222c377fc9c8ef721495045-Screenshot_2025-04-08_at_12.26.08_PM.png)
+
+![](https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png)
+
+Sites under the level/parent deleted will be moved to the next available level/parent. As we deleted the neighborhood "Westwood" (Level 2), and it had a site called "Topaz", the site was moved under the Level 1 "Los Angeles".
+
+![](https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png)
