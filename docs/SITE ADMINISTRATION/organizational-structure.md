@@ -18,21 +18,27 @@ metadata:
 
 ***
 
-**mobohubb** enables organizations to manage multiple sites by creating unique brands for each using the Site Branding, Branding, and Mobile Configuration tabs. Additionally, the platform offers tools to define the organizational structure, assign tasks and responsibilities, and manage security groups, streamlining staff onboarding and data segmentation across different sites.
+**Organizational Structure Overview**
 
-The org structure works this way:
+**mobohubb** allows you to manage multiple sites by organizing them under **one or more parent levels**, creating up to **five tiers** in a hierarchical tree. This system supports unique branding and mobile configurations for each site, while also letting you segment tasks and responsibilities. For example, you might define **cities** as Level 1 and **neighborhoods** as Level 2, with individual **sites** attached at either level. This flexibility helps you tailor the platform to your company’s real-world layout.
 
-Organization levels/parents > Sites Level
+\<Cards columns=\{1}>
+&#x20; \<Card title="Example Scenario"  icon="fa-star">
+\*\*Example Scenario\*\*
 
-Sites can not have child, only parents can have children and children can become other children's parents.
+The company \*\*Cleaning Buddies\*\* operates six sites—Ruby, Diamond, Emerald, Quartz, Amethyst, and Sapphire. Two Level 1 entries, \*\*New York\*\* and \*\*Miami\*\*, group these sites. \*\*Queens\*\* serves as a Level 2 (neighborhood under New York). You can repeat this pattern up to five levels, ensuring each portion of your organization is properly represented.  \</Card>
 
-But you can add up to 5 levels as children under children. Each level can have sites. See the example below: The company "Cleaning Buddies" has 6 sites: Ruby, Diamond, Emerald, Quartz, Amethyst, and Sapphire. They are organized in different levels.
-
-![](https://files.readme.io/551d007e2d81a78a9119b9c9efc6565baa2e51f4065a10ae58c7ee9e35cbb5dd-image.png)
+\</Cards>
 
 <br />
 
-In level 1, we recognize two cities: New York and Miami. Under these cities, we have different sites. Under New York, however we can find Queens, representing a Level 2 for this organization, which is a "neighborhood". For this organizations Cities are level 1s and neighborhoods are level 2s. You can organize your organizational structure based on your needs/preferences with up to 5 levels.
+![](https://files.readme.io/551d007e2d81a78a9119b9c9efc6565baa2e51f4065a10ae58c7ee9e35cbb5dd-image.png)
+
+By properly configuring the **organizational structure**, you can:
+
+* **Streamline** staff onboarding across different sites.
+* **Assign** tasks and schedules per location or level.
+* **Segment** data effectively, ensuring each site has accurate branding and security groups.
 
 Follow the instructions below to enter and manage your organizational structure.
 
