@@ -111,23 +111,23 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 1. **Click** the **three dots** next to:
    * **Organization Name** (to create a Level 1), or
-   * **An existing Level** (to create the next sub-level).\
-     ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
+   * **An existing Level** (to create the next sub-level).
+   ![](https://files.readme.io/f35bd634b6fb66e3da964a7c10afc9fdf2eee024eda225ab91e71652be8d6c26-Screenshot_2025-04-08_at_12.01.56_PM.png)
 
 2. **Select** **“Add Child”**.
    * mobohubb supports up to **5 levels** in total.
 
 3. **Name** your new level.
-   * Example: If Level 1 represents **cities**, you could name a new one **“Los Angeles.”**\
-     ![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
+   * Example: If Level 1 represents **cities**, you could name a new one **“Los Angeles.”**
+   ![](https://files.readme.io/109ab541f12aaf45516f206bfa1b324b7324250a00e05d4211355e7e51ee45e0-Screenshot_2025-04-08_at_12.03.03_PM.png)
 
 4. **Save**.
-   * The new level appears in the organizational structure tree.\
-     ![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
+   * The new level appears in the organizational structure tree.
+   ![](https://files.readme.io/7647548a8d73f17df1ed21b90cf49c476f4f711270007696f82bac2c7c641a99-Screenshot_2025-04-08_at_12.08.06_PM.png)
 
 5. **(Optional)** Add **sub-levels** or **sites** under your newly created level.
-   * Example: If **Los Angeles** is Level 1, you can add a **Level 2** (like **“Westwood”**) plus a **new site** (e.g., **“Topaz”**).\
-     ![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
+   * Example: If **Los Angeles** is Level 1, you can add a **Level 2** (like **“Westwood”**) plus a **new site** (e.g., **“Topaz”**).
+   ![](https://files.readme.io/99431aaa4213dbb32f62b0bf1e1cd52356b59a8bd02cb1ac681df1a762718ca0-Screenshot_2025-04-08_at_12.12.06_PM.png)
 
 ***
 
@@ -136,21 +136,26 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 If your hierarchy changes or you want to reassign a site’s parent, you can **edit** any site’s **level/parent**:
 
 1. **Locate** the site you want to move.
-   * **Click** the **three dots** next to its name.\
-     ![](https://files.readme.io/07f8b5c8ccfb151fd5283d242deb6733ec0603cd217f201f33ec230ff15f7511-Screenshot_2025-04-08_at_11.52.05_AM.png)
+   * **Click** the **three dots** next to its name.
+   ![](https://files.readme.io/07f8b5c8ccfb151fd5283d242deb6733ec0603cd217f201f33ec230ff15f7511-Screenshot_2025-04-08_at_11.52.05_AM.png)
 
-2. **Select** **“Edit.”**\
-   ![](https://files.readme.io/fb6c5138776a0828b8f6fc91ff8390fe8a3428f625f3c609f5ead7770658689a-Screenshot_2025-04-08_at_11.52.54_AM.png)
+2. **Select** **“Edit.”**
+
+![](https://files.readme.io/fb6c5138776a0828b8f6fc91ff8390fe8a3428f625f3c609f5ead7770658689a-Screenshot_2025-04-08_at_11.52.54_AM.png)
 
 3. **Change** the **Level/Parent** dropdown to the new parent level.
-   * For example, move **Moonstone** under **“New York”** (Level 1).\
-     ![](https://files.readme.io/43fa5cbdfb8579ce0b598cccd6acd50da96e43f7b366c26992d9ff031fca584a-Screenshot_2025-04-08_at_11.55.04_AM.png)
 
-4. **Save** your changes.\
-   ![](https://files.readme.io/dc3ceaa2395a447c4760cf49994ab0b3e6b3c73f2f52bdee8aa589f882dfa593-Screenshot_2025-04-08_at_11.55.44_AM.png)
+* For example, move **Moonstone** under **“New York”** (Level 1).
 
-5. **Check** your organizational structure: the site now appears under its **new parent**.\
-   ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
+![](https://files.readme.io/43fa5cbdfb8579ce0b598cccd6acd50da96e43f7b366c26992d9ff031fca584a-Screenshot_2025-04-08_at_11.55.04_AM.png)
+
+4. **Save** your changes.
+
+![](https://files.readme.io/dc3ceaa2395a447c4760cf49994ab0b3e6b3c73f2f52bdee8aa589f882dfa593-Screenshot_2025-04-08_at_11.55.44_AM.png)
+
+5. **Check** your organizational structure: the site now appears under its **new parent**.
+
+![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
 ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
