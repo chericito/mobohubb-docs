@@ -1,20 +1,21 @@
 ---
 title: Organizational Structure
 excerpt: >-
-  Learn how to modify and manage your organization's structure in **mobohubb**,
-  including adding, editing, and deleting sites, as well as organizing them into
-  parent and child sections. This guide streamlines site management and helps
-  align your data with organizational goals.
+  Learn how to design and maintain your **organizational hierarchy** in
+  mobohubb, adding levels/parents and sites up to **five levels deep**. This
+  guide walks you through creating, editing, and deleting levels, as well as
+  adding sites for maximum flexibility in structuring your company’s operations.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-**In This Guide You'll Learn**
+**In this guide you'll learn**
 
-* How to **access** the Org Structure Management settings
-* How to **identify** and **manage sites** and organizational units
-* How to **add new sites**, **edit existing sites**, **add child sections**, and **remove child sections**
+* How to **add new levels/parents** (up to five) to represent your organizational hierarchy
+* The process for **adding sites** directly under your company or under any level
+* How to **move and edit** existing sites or levels for changing needs
+* Where to **delete** levels (and what happens to the sites underneath them)
 
 ***
 
