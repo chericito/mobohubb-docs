@@ -52,7 +52,7 @@ When prompted to add a **photo** or **video**, the camera screen opens automatic
 
 4. **Discard or Validate**
 
-   * After capturing a photo/video, **tap** the **black “x”** on the left to **discard**.
+   * After capturing a photo/video, **tap** the **“x”** on the left to **discard**.
 
    <br />
 
