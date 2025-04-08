@@ -51,8 +51,6 @@ By properly configuring the **organizational structure**, you can:
 
 mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly under your organization (*Level 0*) or under another parent (*Level 1, 2, … up to 5*). Below are the steps to create new sites under each level.
 
-***
-
 ### Add a Site Directly Under the Organization (Level 0)
 
 1. **Open** your **Org Structure Management** page.
@@ -103,8 +101,6 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 **Example**: “Agate” appears under “New York,” which is a **Level 1** under the “Cleaning Buddies” organization.
 
 > **Note**: You can add Sites at any level in your organization’s hierarchy (up to **five** levels deep). This allows flexible structuring of different cities, departments, neighborhoods, or however your company is arranged.
-
-<br />
 
 ## Adding New Levels/Parents
 
