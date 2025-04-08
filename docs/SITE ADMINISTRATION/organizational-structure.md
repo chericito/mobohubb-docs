@@ -46,7 +46,7 @@ Follow the instructions below to enter and manage your organizational structure.
 
 <Image align="center" className="border" border={true} width="% " src="https://files.readme.io/f276aa3a64600b15efa05787aa13dbb849dae20ac4fda410020e361c7ac0c1a6-Screenshot_2025-04-08_at_10.57.45_AM.png" />
 
-## Adding Sites and Levels
+## Adding Sites and Levels/Parents
 
 ### Adding Sites under the organization
 
@@ -70,7 +70,7 @@ Follow the instructions below to enter and manage your organizational structure.
 
 ![](https://files.readme.io/59997ee83d451d09a2b9f7b529a04a6a7fb5f2137deb8b9468481aa53995245f-Screenshot_2025-04-08_at_11.36.59_AM.png)
 
-### Adding a New Site under a Level
+### Adding a New Site under a Level/Parent
 
 1. You can add Sites under any level. To do this, click the 3 dots next to any level and press "Add Site".
 
@@ -88,7 +88,7 @@ Follow the instructions below to enter and manage your organizational structure.
 
 You can add Sites under any level in the organization.
 
-### Adding New Parents/Levels
+### Adding New Levels/Parents
 
 You can add new levels at any time under your organization. You can add new levels under your organization name, considered level 0, and your new level will be level 1, or you can add a new level under an existing level. If you were to add a level under an existing level 1, your new level will be level 2, and its parent will be level 1.
 
@@ -145,3 +145,11 @@ For Sites you can edit the name and parent (under which level it is).
 To edit a level, simply press the 3 dots next to the level/parent's name and select "Edit".
 
 ![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
+
+For levels/parents, you can only edit its name.
+
+![](https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png)
+
+## Deleting Levels
+
+Note: You can not delete sites. But you can set them as "inactive". Learn how.
