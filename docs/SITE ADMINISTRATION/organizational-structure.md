@@ -190,7 +190,7 @@ If your hierarchy changes or you want to reassign a site’s parent, you can **e
 
 3. **Rename** the level as needed.
 
-   ![](https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png" />
 
 4. **Save** to apply the updated name.
 
@@ -210,13 +210,10 @@ You can remove an entire **level/parent** at any time:
 
 3. **Confirm** the deletion.
 
-   ![](https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/27279978e232367b80b38f963ffc24f565805f45ee3f2bc508bb334f419dbbc7-Screenshot_2025-04-08_at_12.27.03_PM.png" />
 
-> **What happens to sites under a deleted level?**\
-> They are **automatically moved** up one tier to the next available level/parent. For instance, if you delete **Westwood** (Level 2) containing a site named **Topaz**, **Topaz** is reassigned to **Los Angeles** (Level 1).
+**What happens to sites under a deleted level?**
 
-![](https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png)
+They are **automatically moved** up one tier to the next available level/parent. For instance, if you delete **Westwood** (Level 2) containing a site named **Topaz**, **Topaz** is reassigned to **Los Angeles** (Level 1).
 
-<br />
-
-![](https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/9f3b7fb268d33cd7ee71d604396cb994fae3422d06e962861b55945046c76fd0-image.png" />
