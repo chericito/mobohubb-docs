@@ -157,8 +157,6 @@ If your hierarchy changes or you want to reassign a site’s parent, you can **e
 
 ![](https://files.readme.io/5fcede5730e7f39ec6f753e54a13659b86b9859b21a7130c0529d729559e3bf3-Screenshot_2025-04-08_at_11.56.48_AM.png)
 
-<br />
-
 ## Editing Sites or Levels/Parents
 
 ### Editing a Site
@@ -167,14 +165,14 @@ If your hierarchy changes or you want to reassign a site’s parent, you can **e
 
 2. **Click** the **3 dots** next to the site’s name, then select **“Edit.”**
 
-   ![](https://files.readme.io/778842603cf95c8f69bd98efd16becaff89f8776e3544736a859208299ac59d1-Screenshot_2025-04-08_at_12.15.55_PM.png)
+![](https://files.readme.io/778842603cf95c8f69bd98efd16becaff89f8776e3544736a859208299ac59d1-Screenshot_2025-04-08_at_12.15.55_PM.png)
 
 3. **Modify** site details:
 
-   * **Site Name**
-   * **Parent** (the level under which it resides)
+* **Site Name**
+* **Parent** (the level under which it resides)
 
-   ![](https://files.readme.io/58ee9259f48f8ea63d16909b98c543d4e485d12039be896260e9f6aae7e568bf-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/58ee9259f48f8ea63d16909b98c543d4e485d12039be896260e9f6aae7e568bf-image.png" />
 
 4. **Save** changes to confirm.
 
@@ -186,11 +184,11 @@ If your hierarchy changes or you want to reassign a site’s parent, you can **e
 
 2. **Click** the **3 dots** next to the level’s name, then select **“Edit.”**
 
-   ![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
+![](https://files.readme.io/4ef397b71d2d4b2166a3cd10db1cefea13406a2df8f5ac126434a27c991dac1e-Screenshot_2025-04-08_at_12.18.00_PM.png)
 
 3. **Rename** the level as needed.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/cbd75c28101b3c706dc3e76786cceb6fff865a2e010c3544ab5564efb15c5e6d-image.png" />
 
 4. **Save** to apply the updated name.
 
