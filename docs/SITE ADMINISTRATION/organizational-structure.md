@@ -98,6 +98,8 @@ mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly und
 
 7. You will see the new site under the **selected level/parent**.
 
+![](https://files.readme.io/2f83fa8f5b6d33f785ebc19dce742870283badd208f6129e8c13927897d74736-Screenshot_2025-04-08_at_11.56.48_AM.png)
+
 **Example**: “Agate” appears under “New York,” which is a **Level 1** under the “Cleaning Buddies” organization.
 
 > **Note**: You can add Sites at any level in your organization’s hierarchy (up to **five** levels deep). This allows flexible structuring of different cities, departments, neighborhoods, or however your company is arranged.
