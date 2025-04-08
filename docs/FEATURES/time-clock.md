@@ -58,7 +58,7 @@ When you're ready to end your shift:
 
 4. **Close** the time summary page, where you can review total hours worked.
 
-![](https://files.readme.io/c70b0090a35c6f736c06d0d47ee5b50b50f3d6d49bc2181568e5cbfd2becf9f2-image.png)
+<Image align="center" src="https://files.readme.io/c70b0090a35c6f736c06d0d47ee5b50b50f3d6d49bc2181568e5cbfd2becf9f2-image.png" />
 
 > **Note:** The Time Clock continues logging your hours while you perform other tasks in the mobohubb app.
 
