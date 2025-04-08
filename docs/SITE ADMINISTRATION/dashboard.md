@@ -12,7 +12,7 @@ metadata:
 ---
 The redesigned dashboard is divided into **global indicators**, **user activity**, **top forms**, **scheduled/completed tasks**, and a **planned vs. done** comparison. It also features new graphs that simplify data visualization. You can show data by **day**, **week**, **month**, or a **custom time range** using the GUI under the “Header” block.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/8446037da28b8b73b4f44711e0068f9f366c16753edfbbe391d1b35b5d724b68-image.png" />
+![](https://files.readme.io/42c6009c2f739c2c6c06b1119106b85359392fa4fc7d972233d890aadd2977b4-image.png)
 
 ***
 
@@ -20,7 +20,7 @@ The redesigned dashboard is divided into **global indicators**, **user activity*
 
 Click on the corresponding option to filter by **day**, **week**, or **month**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/b833ccc0a3d309bb200587fd4760e04e175ff412f1acb209476d4b689c065a92-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/3b1dd381e1697944fea261b00d7801b584beedaa4ad9736235c5a2efef60e1c3-image.png" />
 
 ***
 
@@ -29,10 +29,11 @@ Click on the corresponding option to filter by **day**, **week**, or **month**.
 To select a **specific range**, click the appropriate option.\
 You can also move both **start** and **end** indicators in the interactive calendar to define your custom date range.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/2213332c46b17794bf07aa0faa16130f4c271139c66321a3ccafe0121e88d183-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/d2eef727dc8fa854609399b60df252a5169c814d1c2b2f2aadf8930c1f056e39-image_1_copy.png" />
 
-> **Note:** The range you set will display in the **Global Indicators (GI)** area.\
-> ![](https://files.readme.io/17cbcc9deab017a041e177dd3f1ff1a279791a3c8626ec6020f261c84e1e5fca-image.png)
+> **Note:** The range you set will display above "Global Indicators"
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/2a58def6b497e07ece00a69c1e7c61bdf071c345911b4dbbced1c7b869370062-image_1_copy_2.png" />
 
 ***
 
