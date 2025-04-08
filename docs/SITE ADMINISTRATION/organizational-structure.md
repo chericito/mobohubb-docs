@@ -48,45 +48,59 @@ By properly configuring the **organizational structure**, you can:
 
 ## Adding Sites and Levels/Parents
 
-### Adding Sites under the organization
+mobohubb’s **Org Structure** lets you add sites at any hierarchy: directly under your organization (*Level 0*) or under another parent (*Level 1, 2, … up to 5*). Below are the steps to create new sites under each level.
 
-1. You can add Sites directly under your organization name, considered as level 0. To do this, click the 3 dots next to your organization name.
+***
+
+### Add a Site Directly Under the Organization (Level 0)
+
+1. **Open** your **Org Structure Management** page.
+
+2. **Click** the **three dots** next to your **organization name**.
 
 ![](https://files.readme.io/1cd22680f3032f82e88b048d91218396584e8829b71e433f1384ccb55670d953-Screenshot_2025-04-08_at_11.28.46_AM.png)
 
-2. Click on "Add Site"
+3. **Select** **“Add Site.”**
 
 ![](https://files.readme.io/d9fc930ea3c4dda6e4fba16ba166d931168fb6fffba393180d942c22f4bbf9f5-Screenshot_2025-04-08_at_11.29.48_AM.png)
 
-3. A new screen will appear. Fill in all the required details: Site Name, Site Type, Time Zone, OBS Path (parent), Site Address and save it.
+4. In the **Add Site** window, **fill in** all required details (e.g., **Site Name**, **Site Type**, **Time Zone**, **OBS Path**, **Address**, etc.).
 
-<Image align="center" src="https://files.readme.io/73efb86e4696e76271f8788e8b4d10eb13bd7fdf6a97f9fc3cb69afa2cfa0606-Screenshot_2025-04-08_at_11.33.20_AM.png" />
+![](https://files.readme.io/73efb86e4696e76271f8788e8b4d10eb13bd7fdf6a97f9fc3cb69afa2cfa0606-Screenshot_2025-04-08_at_11.33.20_AM.png)
 
-4. Go back to Org Structure Management from the Site Administration section.
+5. **Click** **Save** to confirm.
+6. **Return** to the **Org Structure Management** view.
 
 ![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
 
-5. You'll find the new site under your organization.
+5. You will now see the new **site** under your **organization name**.
 
 ![](https://files.readme.io/59997ee83d451d09a2b9f7b529a04a6a7fb5f2137deb8b9468481aa53995245f-Screenshot_2025-04-08_at_11.36.59_AM.png)
 
-### Adding a New Site under a Level/Parent
+***
 
-1. You can add Sites under any level. To do this, click the 3 dots next to any level and press "Add Site".
+### Add a New Site Under a Level/Parent
 
-![](https://files.readme.io/878139f7bba246b7d39ec0ab8550a39407ad2d899aa4744313b216e1f34affe1-Screenshot_2025-04-08_at_11.45.48_AM.png)
+1. **Open** your **Org Structure Management** page.
 
-2. A new screen will appear. Fill in all the required details: Site Name, Site Type, Time Zone, OBS Path (parent), Site Address and save it.
+2. **Click** the **three dots** next to the **parent level** where you want to add the site.\
+   ![](https://files.readme.io/878139f7bba246b7d39ec0ab8550a39407ad2d899aa4744313b216e1f34affe1-Screenshot_2025-04-08_at_11.45.48_AM.png)
 
-![](https://files.readme.io/7baa1815f24a7f14b25fac6e3f92bf89fc25026a377846fd6a7954215125c0b8-image.png)
+3. **Select** **“Add Site.”**
 
-3. Go back to Org Structure Management from the Site Administration section.
+4. In the **Add Site** window, **fill in** all required details (e.g., **Site Name**, **Site Type**, **Time Zone**, **OBS Path**, **Address**, etc.).\
+   ![](https://files.readme.io/7baa1815f24a7f14b25fac6e3f92bf89fc25026a377846fd6a7954215125c0b8-image.png)
 
-![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
+5. **Click** **Save** to confirm.
 
-4. You'll find the new site under your organization's level. In this example, the site "Agate" is under "New York", which is a Level 1 under "Cleaning Buddies" org.
+6. **Return** to the **Org Structure Management** view.\
+   ![](https://files.readme.io/221f8fa272512589b503b752be1eec37d389f09bce9b0bb65ce6456bb1f8bdf6-Screenshot_2025-04-08_at_11.35.13_AM.png)
 
-You can add Sites under any level in the organization.
+7. You will see the new site under the **selected level/parent**.
+
+**Example**: “Agate” appears under “New York,” which is a **Level 1** under the “Cleaning Buddies” organization.
+
+> **Note**: You can add Sites at any level in your organization’s hierarchy (up to **five** levels deep). This allows flexible structuring of different cities, departments, neighborhoods, or however your company is arranged.
 
 ### Adding New Levels/Parents
 
