@@ -80,51 +80,51 @@ Lists all **sites** linked to the security group.
 
 ## **Viewing or Modifying a Security Group**
 
-1. **Navigate to the Portal’s Top Menu**\
-   ![](https://files.readme.io/32a75929a740347cf39ef9e5eaa114504d70bd21f2206528a936f80c2af60c38-image.png)
+1. **Navigate** to the Portal’s Top Menu and **Click** on **Settings**.
 
-2. **Go to "General Settings"**
-   * Click **Settings** in the top menu (or use the side menu).\
-     ![](https://files.readme.io/9d55b1cdab6f60118bca47b5831c7fba803cd510267a956d6f68ec7ee4f75f89-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-3. **Navigate to "Security Groups"**
-   * In the "Site Administration" section, select **Security Groups**.\
-     ![](https://files.readme.io/836da34636d0c29f7652ec4a33ba888389aee2d61eb97425fd2eaab98aebded2-image.png)
+2. In the **Site Administration** section, select **Security Groups**.
 
-4. **Identify the Desired Group**
-   * Note: A user may belong to **more than one** security group.\
-     ![](https://files.readme.io/9e1aad8aeb3897402dd8e93380483b9bcd86baa4feb1e5d3290990f1beee7ad2-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/beceed8dc52e3836dd59d77b91dcc45a18405e0d04365aa985c8efbe9ee2fe71-Screenshot_2025-04-10_at_12.22.28_PM.png" />
 
-5. **Check the Group** You Wish to Edit
-   * **Only one** group can be modified at a time.\
-     ![](https://files.readme.io/af436bed82feae3dec7a5c886c574ec17d195fa5713dcf3c259a053ae89e7ae9-image.png)
+3. **Identify the Desired Group** and **Click** on the group's name you want to edit.
 
-6. **Click "Edit"**\
-   ![](https://files.readme.io/c606abc4a496441416640d19800265d8133a2c0ddef80b52974bdc81f96a5a2b-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/7b4189e6029272a2651b376b78b4f5747d01ed1df78ed44f2bc9d0d9bfc02719-image.png" />
 
-7. **Go to the "Users" Tab**\
-   ![](https://files.readme.io/441cc57b6c27505c3b56c67023149ff5fc2a7675040dcf21aa5d8b9e6cf46b8f-image.png)
+> **Notes:**
+>
+> A user may belong to **more than one** security group.
+>
+> **Only one** group can be modified at a time.
 
-8. **Review or Modify** Which Users Belong to This Group
-   * Add or remove users as needed, then **save** changes.\
-     ![](https://files.readme.io/1bc32231907f1cfa61e7c39a3397a1851baaecd77b82775d2c4a093a65eabd47-image.png)
+4. **Go to the "Users" Tab**
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/7b02df1c976b781dea2bda44221b4cf711d05a1da420b583cd3d8f3a984016ac-Screenshot_2025-04-10_at_12.35.08_PM.png" />
+
+4. **Review or Modify** which users belong to this group.
 
 ***
 
 ## **Add Users to a Security Group**
 
 1. **Verify Users**
-   * On the "Users" tab, click **Add User**.\
-     ![](https://files.readme.io/8c0a087d7e2605938cd9259ed0896961efd20ade853473a96f91228b42e697f5-image.png)
 
-2. **Check** the Users You Wish to Add\
-   ![](https://files.readme.io/3fb99807a894b9a60fea49a57bf6481efad678e1703deac055952c895f21d159-image.png)
+   * On the "Users" tab, click **Add User**.
 
-3. **Save** to Include Them in the Group\
-   ![](https://files.readme.io/befa634ea6684f1b7703aa296ccdb0d15160232e150881de6d136e5b6cf77aa3-image.png)
+   <br />
 
-4. **Save Changes and Close**\
-   ![](https://files.readme.io/a8d69874af67c9b06fd6ca85a75e6331a7af03396a33a1872e1108b609f12b13-image.png)
+   <Image align="center" className="border" border={true} src="https://files.readme.io/54e4e423a9a8339823dd9f7a82c0c6cf802480422c632c4976ac174e182d2f4f-Screenshot_2025-04-10_at_12.37.29_PM.png" />
+
+   <br />
+
+2. **Check** the users you want to add.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/39c926919497916db182440411d4fcbee2475456c9771ecd956e15c43e765d3a-Screenshot_2025-04-10_at_12.39.42_PM.png" />
+
+3. **Save** to Include Them in the Group.
+
+![](https://files.readme.io/b182ad9357a44b899de36ae56d5ba6498b1e830f32c25f2083c96ced01c7a924-Screenshot_2025-04-10_at_12.39.42_PM.png)
 
 ***
 
