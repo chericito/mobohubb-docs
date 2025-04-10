@@ -22,9 +22,9 @@ metadata:
 
 2. **Enter** your **username** and **password** (the same information you use on the classic **mobohubb** portal).
 
-3. **Click** **“Sign in.”**
+3. **Click** **“Sign in”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a9ebc41494eb824fe4d6f6fa6f03f1f5a33efaaf01528ae07c88b0435e01093c-image.png" />
+<Image align="center" width="80% " src="https://files.readme.io/308dd5a36e053aa00381703adf180fb660c243c5b8b450a63c57b042b2875048-Screenshot_2025-04-10_at_12.09.18_PM.png" />
 
 ## Update Your Organization
 
@@ -38,9 +38,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 1. **Click** **“Branding”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/94559cc8fc74b7b606a74ef790ce64c3bfb84ede56137858eb063f6875ee9354-image.png" />
-
-<br />
+<Image align="center" width="80% " src="https://files.readme.io/5b1d770330542626402e68fb752f354eb5bb7874b585b3c6597b9e6cfafa8a93-63195a5ab00319acdb450af8c4d8762038f6df4d7137144dc1057bee981d3901-image.png" />
 
 2. **Review** and **fill** in the required fields (e.g., logos, color theme, date/time format).
 
@@ -69,15 +67,11 @@ In the previous system, users accessed the app with a **domain and pin**. Now, *
 
 1. **Click** **“Users”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3d999e99bff9b0f37dde896a1c10cafbf5b055884d47e537d4e846fcc664694a-image.png" />
-
-<br />
+<Image align="center" width="80% " src="https://files.readme.io/5f8f237a5226dc83c89072beb3f2166a7ec7937a53e9528eb7d280b55c1ab43c-63195a5ab00319acdb450af8c4d8762038f6df4d7137144dc1057bee981d3901-image_1.png" />
 
 2. Under the **“User Name”** column, **click** the user you want to edit.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/102c64573fae619b590836c673f8a316c65105a968db3fa5d50980e37b9c4c92-image.png" />
-
-<br />
 
 3. In the **“Profile”** tab, **fill** in any empty fields:
 
