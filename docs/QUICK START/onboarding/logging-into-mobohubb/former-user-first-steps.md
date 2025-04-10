@@ -18,7 +18,7 @@ metadata:
 
 ## Log In
 
-1. **Go** to the [mobohubb portal](app.mobohubb.com).
+1. **Go** to the [mobohubb portal](https://app.mobohubb.com/).
 
 2. **Enter** your **username** and **password** (the same information you use on the classic **mobohubb** portal).
 
