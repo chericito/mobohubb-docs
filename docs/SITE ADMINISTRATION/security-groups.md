@@ -130,13 +130,10 @@ Lists all **sites** linked to the security group.
 
 ## **Remove Users from a Security Group**
 
-1. **Select** the Users to Remove\
-   ![](https://files.readme.io/57785d673f0feea472c9b074e29e11e6c0a37b47b66e9710ecb22ffb23a77376-image.png)
+1. **Click** on the delete button to remove users.
 
-2. **Click "Save"** to Exclude Them\
-   ![](https://files.readme.io/56cc3544d2c78b1379950181c6babf17cfe027fb19e82934ab97469ba93e2537-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/9c21fb31db22a4f6bf121305fffad29692dc3af68bf14f6f647fe35523ef6915-Screenshot_2025-04-10_at_12.44.01_PM.png" />
 
-3. **Save Changes and Close**\
-   ![](https://files.readme.io/6924c88e2b327618b1a62e6d38a27882f1121f58621d9a48ca1b891e580887ea-image.png)
+2. **Click "Save"** to remove them from the security group.
 
-> **Note:** **Repeat** this process for each security group that needs updating.
+<Image align="center" className="border" border={true} src="https://files.readme.io/6878f2aa07799ed8c69d54b1363eeb79d9cce2afa700fe349a765b14af7795f0-Screenshot_2025-04-10_at_12.46.53_PM.png" />
