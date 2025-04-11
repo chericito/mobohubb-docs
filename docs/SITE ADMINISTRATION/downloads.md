@@ -23,6 +23,6 @@ If an export (such as a report or data file) exceeds the allowed size limit or c
 
 1. From the Settings menu, navigate to **Site Administration → Downloads**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/e3dd09e392be404ef0df83a7a99aadefd0ffcd99f3969b70077ffec9a95fd3e2-EDD7A8DD-23B8-4EEB-996D-8B67BE738543.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cbf782d72b1fe0b93bb570c9739acf6f6a87f04c9f464c8f8933cc32167120d-Screenshot_2025-04-11_at_10.35.00_AM.png" />
 
 > **Tip:** The **Downloads** section displays important details such as **format type** (PDF, Excel, etc.), **file name**, and **status**, making it easy to locate and manage your large exports.
