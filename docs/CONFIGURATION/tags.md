@@ -1,7 +1,7 @@
 ---
 title: Tags
 excerpt: >-
-  **Tags** are a sophisticated feature in Mobohubb that helps you segment data,
+  **Tags** are a sophisticated feature in mobohubb that helps you segment data,
   streamline searches, and apply specific actions across multiple sites under
   one account. Each tag is associated with a color code to make visual
   identification quick and easy. Tags can also be category-specific, meaning you
