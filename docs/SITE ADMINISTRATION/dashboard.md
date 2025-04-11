@@ -10,9 +10,9 @@ hidden: false
 metadata:
   robots: index
 ---
-The redesigned dashboard is divided into **global indicators**, **user activity**, **top forms**, **scheduled/completed tasks**, and a **planned vs. done** comparison. It also features new graphs that simplify data visualization. You can show data by **day**, **week**, **month**, or a **custom time range** using the GUI under the “Header” block.
+The redesigned dashboard is divided into **global indicators**, **user activity**, **top forms**, **incomplete activities**, and a **planned vs. done** comparison. It also features new graphs that simplify data visualization. You can show data by **day**, **week**, **month**, or a **custom time range** using the GUI under the “Header” block.
 
-![](https://files.readme.io/42c6009c2f739c2c6c06b1119106b85359392fa4fc7d972233d890aadd2977b4-image.png)
+<Image align="center" className="border" border={true} src="https://files.readme.io/42c6009c2f739c2c6c06b1119106b85359392fa4fc7d972233d890aadd2977b4-image.png" />
 
 ***
 
@@ -74,15 +74,16 @@ Shows the most frequently used forms and their submission counts. This helps ide
 
 ***
 
-## **Schedule**
+## **Incomplete Activities**
 
-Provides various indicators for **scheduled** tasks:
+Shows a line graph highlighting the total **uncompleted** activities (marked as “No Activity Exception”) in a given time range. Each category is color-coded:
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/4b3b13e06e3dafadf9f52b5369a179897540b28e12f97d34cae3d38dfa40c736-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/3d6f618b8e8bd0a6ae6eb3315254f8e7c41f5420c3fcb20e4a9d12d89dc212a1-image_3.png" />
 
-* **Scheduled Shifts**: Upcoming shifts, including start and end times
-* **Completed Shifts**: Shifts that have ended, showing actual start/end times
-* **Total Hours**: Summation of hours worked across all shifts
+* **Forms**: Incomplete mandatory forms
+* **Task**: Tasks that weren’t finished
+* **Scans**: Scan points not checked
+* **Timesheet**: Missing time clock entries for required shifts
 
 ***
 
@@ -98,14 +99,3 @@ Displays **4 groups** of two bar graphs each, comparing planned activities to th
 * **Task**: Assigned tasks vs. completed tasks
 
 ***
-
-## **Not Complete Activities**
-
-Shows a line graph highlighting the total **uncompleted** activities (marked as “No Activity Exception”) in a given time range. Each category is color-coded:
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/3d6f618b8e8bd0a6ae6eb3315254f8e7c41f5420c3fcb20e4a9d12d89dc212a1-image_3.png" />
-
-* **Forms**: Incomplete mandatory forms
-* **Task**: Tasks that weren’t finished
-* **Scans**: Scan points not checked
-* **Timesheet**: Missing time clock entries for required shifts
