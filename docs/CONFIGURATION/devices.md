@@ -43,25 +43,25 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 ## **Delete Devices**
 
-![](Devices%20\(12\).png)
-
 1. **Check** the devices to remove.
 
-* You can select multiple devices.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cb24a197250c8759cf1e700071d45d96d3357d8e3f195d7d2bfa40c16dee3ac8-image.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5801623b1bf6007ea92ec36bf6efd46f68d03c6c713910749de50df8a7efe540-image.png" />
+* You can select multiple devices.
 
 2. **Click “Delete”.**
 
 * All checked devices will be discarded.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/07369850fd734f26acef8306f4692429536120caeaeaa62da3f2d6ee28392a3f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8ce192f946ecc6c5a2b5c328a265e502c698014e294fb94c0dee76c58311da02-Screenshot_2025-04-11_at_11.45.10_AM.png" />
 
 3. **Confirm** your action.
 
 * Verify the number of devices to remove, then click **Delete**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7fe15da6255d001f31a84e786af7d15b3128c71b785f5040ac4d062025fbafcf-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1fda80e9348c3623aa2e9a805485ceb6b27d2b5818a3bde03e4326ee2adb597d-image.png" />
+
+<br />
 
 ***
 
