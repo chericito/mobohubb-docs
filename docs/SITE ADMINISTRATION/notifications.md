@@ -30,9 +30,9 @@ In the **Notifications** area, you can also view all received notifications, app
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0b4c18a14eadfd795083f37a3df97d3e7f3a4bc24727d7b57532eb1d95073a16-Screenshot_2025-04-11_at_10.20.07_AM.png" />
 
-2. **Click** the **"Add new"** button on the GUI.
+2. **Click** the **"Add new"** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7209d8fbc5b0101241934db034b0e9d2bdcbab785c351887319a4fbe5a98843c-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3d2fbded18b1b9adcbc27ef97f7a0fa2d1b065c5043b36dffa8eace507b25eda-Screenshot_2025-04-11_at_10.25.44_AM.png" />
 
 3. **Fill in** the fields from the drop-down menus.
 
