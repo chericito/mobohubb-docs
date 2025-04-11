@@ -29,13 +29,13 @@ metadata:
 
 ## **How to Change the Time Zone**
 
-1. Navigate to the top bar and press**Settings** from the dropdown.
+1. Navigate to the top bar and press **Settings** from the dropdown.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/3e022fbe33f3ffb03f3e256811f38e2a7addb6f54bc95d448e1b29f58843e30c-F0788D73-C1BD-4F00-97FE-4B4B9A66C293.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
 2. **Navigate** to **Site Administration** → **Site Management**.
 
-<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/990bb103b8945a0c7175abc04f604e52e18625df837b9c664c35bae2427297d1-5EFA2C8D-3965-4882-A5B8-4B0149A95CF3.png" />
+<Image align="center" width="80% " src="https://files.readme.io/0600954572d0ecd5d18880febb99e238126ef25930f16ca2cf35e29864bc3ab1-Screenshot_2025-04-11_at_10.38.26_AM.png" />
 
 3. Choose the **desired site** whose time zone you want to update. **Click**on the site's name.
 
