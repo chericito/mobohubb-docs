@@ -84,18 +84,3 @@ Shows a line graph highlighting the total **uncompleted** activities (marked as 
 * **Task**: Tasks that weren’t finished
 * **Scans**: Scan points not checked
 * **Timesheet**: Missing time clock entries for required shifts
-
-***
-
-## **Planned vs. Done**
-
-Displays **4 groups** of two bar graphs each, comparing planned activities to those completed without exceptions:
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/d4d574c6e71381848581c7553f25682ea5f46f31ee7a112e37527ab517e5c728-image.png" />
-
-* **Timesheet**: Planned work hours (scheduled shifts) vs. actual hours logged
-* **Scans**: Planned scan sessions vs. actual completed scans
-* **Forms**: Expected form submissions vs. actual submissions
-* **Task**: Assigned tasks vs. completed tasks
-
-***
