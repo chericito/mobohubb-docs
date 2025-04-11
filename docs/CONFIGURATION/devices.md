@@ -99,5 +99,3 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 * You can also activate a deactivated device.  For activation, follow the same steps and click **Activate** in the pop-up.
 
 4. **Check** the **Device Status** column to confirm changes.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e878e62dce4fa03c07d09f5453b2098be3ad3b02bc84b37292dd1167d51c1b3-image.png" />
