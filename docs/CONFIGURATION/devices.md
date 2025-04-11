@@ -69,11 +69,11 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 1. From the **Devices** menu, **click** on "**Export**".
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0a76337cf699f924d20ca9e3212936638e557258a224802aaca5a26c15e8fe83-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7d4014d7d09c8f1bd161717c4c86def27244950ae1ebcf3f7b385cea40050330-Screenshot_2025-04-11_at_11.48.29_AM.png" />
 
 2. Choose **all information** or **current window** only.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a99a65d70620bedfc5ae4ad404d30f7a18292fc042e8f244197cbb22d1c9e601-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/247ab7f125474275381c7d9a1b07b9a8a12badd36e202812799bd7153b273224-Screenshot_2025-04-11_at_11.49.30_AM.png" />
 
 > **Note:** A file in **Excel** format will be downloaded if it’s within size limits. If it exceeds the limit, you’ll find it in the **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** section of the platform.
 
@@ -89,11 +89,11 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 2. **Click** the **Deactivate** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3090187038f77acbce9603bd6612f9ebe9a8b29fe07d92d0f29c6e09b61fda78-image.png" />
+<Image align="center" width="80% " src="https://files.readme.io/3480e7b37c4347763c05a831f959ea965a6feade6e529e975eef9b2669841f19-Screenshot_2025-04-11_at_11.51.00_AM.png" />
 
 3. **Confirm** your action.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f0c571ba14e12895cb1a4b878588e5fd944b3fd71fc67e4e064419363fcb29d2-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dd893fdd109e0b780f833d73044b6d5fc15a2b7f91d8a34f5093d5a69dc600f8-image.png" />
 
 * For deactivation, click **Deactivate** in the pop-up.
 * You can also activate a deactivated device.  For activation, follow the same steps and click **Activate** in the pop-up.
