@@ -88,7 +88,7 @@ To log in via SMS, enter your **phone number**. You’ll receive a **6-digit cod
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/240044633af553023f14459c71ea64fc78f243f0c1bd86bb1c0b4722f0a15a35-Image_3.jpeg" />
+   <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/240044633af553023f14459c71ea64fc78f243f0c1bd86bb1c0b4722f0a15a35-Image_3.jpeg" />
 
    <br />
 3. **Return to the Login Screen**
