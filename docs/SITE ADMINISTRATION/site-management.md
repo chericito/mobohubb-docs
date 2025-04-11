@@ -43,7 +43,8 @@ The **Site Information** interface allows you to manage sites for your organizat
 * **Type of Site**: Security, facilities, janitorial, construction, restaurant, “other,” etc.
 * **Site Address**: The geographical location of the site or target audience.
 * **Time Zone**: Sets the display and record times for activities on the site.
-* **Enable Web App Access**: Grants access to forms through the web at [https://mobile.mobohubb.com/](https://mobile.mobohubb.com/).
+* **mobohubb Kiosk**: The Kiosk app in mobohubb creates a physical check-in station where employees can manually clock in, clock out, and manage breaks using a dedicated tablet or iPad. [Learn more](https://mobohubb.readme.io/v1.4/docs/mobohubb-kiosk-app#/).
+* **Enable Web App Access**: Grants access to forms through the [Web App](https://webapp.mobohubb.com/sign-in).
 * **Activate the Site**: Quickly deactivate or activate the site without deleting its record.
 * **Type of Scan**: Chooses between **NFC tags** or **QR codes**.
 
@@ -66,9 +67,7 @@ The **Site Branding** tab lets you determine whether to inherit the organization
 * **Date format**: How dates appear (e.g., dd-mm-yyyy, yyyy-mm-dd, mm-dd-yyyy).
 * **Time format**: 12-hour or 24-hour time display.
 * **Theme color**: The primary hue in the portal’s graphical interface.
-* **Time zone**: Sets how time is displayed based on geographical location.
 * **QR codes or NFC tags**: Indicates the scanning method for the site.
-* **Activate Site**: Allows you to enable or disable the site.
 
 #### How to Modify Site Branding
 
