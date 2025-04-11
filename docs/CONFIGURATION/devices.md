@@ -17,29 +17,21 @@ The **Devices** feature allows you to manage and monitor the devices used by you
 
 ## **Edit a Device**
 
-1. **Navigate** to the portal’s top menu.
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c96f37ff18ea140db5c0672b673ffb9404036ca064652aabe71c75efa147ef49-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-2. **Go** to **“General Settings”.**
+2. From the **Configuration** section, select **Devices**.
 
-* In the top menu, click **Settings**.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/400e513de25a3c577659a3c27402bd3cc3ad64089434de34046aa6fd86b4bf37-image.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5d52fbc09ab0b360e2d362fc59d89dee35ad29a3652c2fc4ec37b893c2f0b5c1-image.png" />
+3. **Check** the desired device (under “Device Name”).
 
-3. **Select “Devices”.**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/715d4299305324017dfa5b0c66c04603ba055c8303eebe047a850d5426299d54-Screenshot_2025-04-11_at_11.18.00_AM.png" />
 
-* Within the **Configuration** area, click **Devices**.
+4. **Edit** the relevant data.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a4ed2b737ecbb1fa7919f4460f1a808df5a8504429b668f434572056fa04a2ea-image.png" />
-
-4. **Check** the desired device (under “Device Name”).
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f07f5a23d4d88afebfb18574cea5a082672401edbd026a7b6d7d08e705a4497c-image.png" />
-
-5. **Edit** the relevant data.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/963ce7573454dbe27a17453615e5b2f41684c6c03e2f3ee6b5f20a3153182dd9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a4fc1364a5ef4e72d59e5d3ab566310910e34e3f46b6b7b0fa632f9eeb598da7-image.png" />
 
 * You can modify the **phone number**, **email**, **device type**, **device brand**, **tags**, and **description**.
 * **Cannot Edit**: device name or ID, as these link directly to the physical device upon login.
