@@ -34,19 +34,11 @@ Tags are powerful labels that help you organize and filter data in the Mobohubb 
 
 Follow the steps below to **create** a new tag:
 
-1. **Navigate to the Portal’s Top Menu**
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4c49491f09591275f99a28f04647e9a25a10df7fca9e5cff28f59270ae3782fa-image.png" />
 
-2. **Go to “Settings”**
-
-* Click **Settings** in the top menu.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3a5e8357a5b4bb4fdbc8bc23c5b71fe39678f00d016191e88c69d5212419c8f2-image.png" />
-
-3. **Select “Tags”**
-
-* Within **Configuration**, click **Tags**.
+3. From the **Configuration** section, select **Tags**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3e57d93a2ad8145a5dd9be4088ad5eddccb305ee5a32c6e9ccafef94b8a25348-image.png" />
 
