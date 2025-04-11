@@ -66,7 +66,7 @@ Follow the steps below to **create** a new tag:
 
      <br />
 
-     <Image align="center" className="border" border={true} src="https://files.readme.io/a60c52bf02a473b1f51d925184643d37a2595019fea69c294f2b6d522a31497c-Screenshot_2025-04-11_at_10.55.19_AM.png" />
+     <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a60c52bf02a473b1f51d925184643d37a2595019fea69c294f2b6d522a31497c-Screenshot_2025-04-11_at_10.55.19_AM.png" />
 
      <br />
 5. **Save and Close**
@@ -75,21 +75,19 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
 ## Edit a Tag
 
-1. **Check** the tag you wish to modify
+1. **Click** the name of the tag you want to modify.
 
 > **Note:** Only one tag can be edited at a time.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b4348e54279883592a63f10843bd705687e69e50f719eadac642d3c5cc9ed94f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a64e0b6445e06535fdc358886da863f3ead8685de1cec431235e992845109892-Screenshot_2025-04-11_at_10.59.41_AM.png" />
 
-2. **Click “Edit”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6d971d6cc3f4bba15883aa67f69bfe286f06cbfc493e7103b748e02fdfa49e4-image.png" />
-
-3. **Update** the relevant data.
+2. **Update** the relevant data.
 
 * Change **category**, **name**, **color**, or optional details like **city**, **state**, **zip code**, and **address**.
 
-4. **Save** and **close**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b9836d33d13e247eb3b600bffb2ef9a38c897f3b3a30f302a6970ef9ef3796c5-Screenshot_2025-04-11_at_11.00.58_AM.png" />
+
+3. **Save** and **close**
 
 ## Delete Tags
 
@@ -97,23 +95,24 @@ Once created, your tag becomes available for **association with elements** (e.g.
 
    * You can select **multiple** tags at once.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4786754748855630def757faf1056a0f140a0585a6b21276b2aa02bcaf27d439-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/dcf5b1a6f12667341a0cd7ab8d2d95d996725df7d78a74702d5d1a67273b46ce-Screenshot_2025-04-11_at_11.00.58_AM.png" />
 
    <br />
 
 2. **Click “Delete”.**
 
-   * All selected tags will be discarded.
+All selected tags will be discarded.
 
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/70edcc6d07b72f396a4b4363452f3a35985417bccdd19d56e4d69020a7ef6b7d-image.png" />
-
-   <br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9bc7c2916057f459b22f9ade0b314d0b80c4eb8bdcf20882a9ce8b1994231164-Screenshot_2025-04-11_at_11.02.03_AM.png" />
 
 3. **Confirm**
-   * Verify the count of tags to be deleted.
-   * Click **Delete** to finalize.
+
+* Verify the count of tags to be deleted.
+* Click **Delete** to finalize.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/708c1cf07ac8ac3dec9f87e1187f52648fc86fa93cc0da522b74d2a8a91bd09e-image.png" />
 
 ## Export Tags
 
@@ -121,13 +120,13 @@ To export existing tags in **Excel format**:
 
 1. **Click “Export”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/064672e9eb12aaf34bf06c370af3dc1937973a5326acab959d57e2aa77157786-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/56373b2783c902c06d24c392c87c6f7007dbb017d56c89dcd1a40a831ea9ccc9-Screenshot_2025-04-11_at_11.05.16_AM.png" />
 
 2. **Choose** which data to export.
 
 * **Export Data** or **Export Current View**. **Export Data** will export all the data available, and **Export Current View** will only export either the selection or a customized view.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/28ad9cf228d3a98ec2d48385ccc3666ecf7243ab9bf5987d372806a1598e5f27-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bc41bbf3004bfa8ec350cf82bff937811a3255ad660366731c38cdb5dab4e488-Screenshot_2025-04-11_at_11.07.26_AM.png" />
 
 A file in Excel format will be downloaded if it’s within the **size limit**.
 
