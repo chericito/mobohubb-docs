@@ -28,30 +28,22 @@ In the **Notifications** area, you can also view all received notifications, app
 
 1. **Navigate** to **General Settings** in the **Site Management** section, and then select **"Notifications".**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d3be348d7e45423cd57f4e3963816976d98a80757b7d21e2d7268022ba3c17a9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0b4c18a14eadfd795083f37a3df97d3e7f3a4bc24727d7b57532eb1d95073a16-Screenshot_2025-04-11_at_10.20.07_AM.png" />
 
 2. **Click** the **"Add new"** button on the GUI.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7209d8fbc5b0101241934db034b0e9d2bdcbab785c351887319a4fbe5a98843c-image.png" />
 
-3. **Fill in** the **Users** field by selecting names from the drop-down menu.
+3. **Fill in** the fields from the drop-down menus.
 
 * You can check the **"All Users"** box to send a notification to every user.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2108aa7ed2c567c426e664b202d2d270b524b85b3eee0ef423fb1eb32962d10e-image.png" />
-
-4. **Select** the **Device** from the drop-down menu.
-
 * You can check the **"All Devices"** box to send the notification to all devices associated with the user.
+* **Type** your notification message (ensure it is less than 100 characters).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/120ebec166c2e98120dc5f9318c6052f5fc24d1f0704a5e2a63a2b2cdf96aca5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c55e4fd216ebe934ff70b2229fecf66e5a365b221c6954a18037e2d2b2c8a80b-Screenshot_2025-04-11_at_10.22.17_AM.png" />
 
-5. **Type** your notification message (ensure it is less than 100 characters).
+4. **Click** **"Publish Notification"** to trigger it.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/41de2d45fbd4998461333404de618e488a102eec0ada8f040e39f223d0a0e1e7-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3a4a6f9d6e9d00dec0fd0fb3ce5c4fd56f059c694a5c05ca75ad08251681ce66-Screenshot_2025-04-11_at_10.22.17_AM.png" />
 
-6. **Click** **"Publish Notification"** to trigger it.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/978a49253aa88a62655032731b73dde0c36f03e2171d53277f09211928def5b4-image.png" />
-
-6. The selected users will then receive the notification on their device or platform.
+5. The selected users will then receive the notification on their device or platform.
