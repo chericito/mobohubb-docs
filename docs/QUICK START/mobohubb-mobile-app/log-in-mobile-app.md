@@ -25,9 +25,9 @@ Employees must be invited by an **administrator** or **manager** in the mobohubb
 
 Previously, users needed a domain and pin to logging to the Mobile App. Now, **mobohubb** offers multiple login methods:
 
+* **Username & password**
 * **Email verification code**
 * **SMS verification code**
-* **Username & password**
 
 ***
 
@@ -43,7 +43,7 @@ When invited via email, workers receive a message containing their **username** 
 
 When invited via SMS, workers receive a text message containing access information and a verification code.
 
-<Image align="center" width="40% " src="https://files.readme.io/47bb56b4f277b2fb83d6153f42b3dd3b24c03526c1a7bca0c339aaef17b38335-image.png" />
+<Image align="center" src="https://files.readme.io/f8c2d7ff0318d5d6e75eb755a4c2b150d211553846d80d8a9f2b781be5397170-image.png" />
 
 > **Note:** Use the **SMS verification code** to log in.
 
