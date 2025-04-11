@@ -83,8 +83,6 @@ The **Mobile Configuration** tab lets you configure technical aspects of the mob
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/0dc80ef3d591969ba2b7fc88a2a40db431b8d2dfe913b2189a3a0e16b8dcda55-image.png" />
 
-<br />
-
 * **GPS Polling**: Periodically queries a device’s GPS for user tracking or attendance. Set the interval in seconds.
 * **Security**: Allows users to stay logged in or requires them to log in each time they access mobohubb.
 * **Timesheet Configuration**: Records and manages time spent on tasks or projects, including an auto clock-out option.
