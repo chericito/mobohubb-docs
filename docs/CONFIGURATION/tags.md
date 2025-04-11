@@ -40,34 +40,36 @@ Follow the steps below to **create** a new tag:
 
 2. From the **Configuration** section, select **Tags**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3e57d93a2ad8145a5dd9be4088ad5eddccb305ee5a32c6e9ccafef94b8a25348-image.png" />
+<Image align="center" width="80% " src="https://files.readme.io/88e342b0d914310d87d4abfc43d3bc309daa446573c944c9abdf3ed1dc99e862-image.png" />
 
-4. **Click “Add New”.**
+3. **Click “Add New”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8f1c89ca02b42a68802e3644539f6e54d75226873de1f4e0267c5793827934a5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4e69b08c1ccda90d78137492580a7e1370edd1164efdd4639a042af704ddf074-Screenshot_2025-04-11_at_10.50.14_AM.png" />
 
 4. **Fill in the Fields**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dda5c3282cf729059a2bd4b027de164ff913955289df36d361e02193529b37c3-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7c7f34d327e81e34254cf5282290f08804e90027813d442f222247b58cee3bee-Screenshot_2025-04-11_at_10.51.58_AM.png" />
 
 * **Category**: Determines where the tag can be applied. “Normal” means it can be used with any feature.
 * **Name**: A unique identifier for your tag.
 * **Color**: Select a hue from the color palette.
 * **Activate**: Check the box to enable the tag.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/54c2ab7d7ddfe8e539aabefb6f95f0e315fee6f821a1002375bbd51eb8a74e8f-image.png" />
-
 4. **Fill Optional Information** *(Optional)*
 
    * **Click** the **(+)** button in the tags interface to expand optional fields:
+
      * **City**
      * **State**
      * **Zip code**
      * **Address**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a0e73b628dd43a1c85b4b6ae467c9b723bdb32dab76ed60cfced0c7c659d58b3-983D0C82-AC49-4658-9BE7-0EDBF5A4DB45.png" />
+     <br />
 
-4. **Save and Close**
+     <Image align="center" className="border" border={true} src="https://files.readme.io/a60c52bf02a473b1f51d925184643d37a2595019fea69c294f2b6d522a31497c-Screenshot_2025-04-11_at_10.55.19_AM.png" />
+
+     <br />
+5. **Save and Close**
 
 Once created, your tag becomes available for **association with elements** (e.g., tasks, scan points, forms) within its selected category—just look for it in the dropdown when creating or editing those elements.
 
