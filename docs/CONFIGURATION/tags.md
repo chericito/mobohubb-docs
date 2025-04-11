@@ -36,9 +36,9 @@ Follow the steps below to **create** a new tag:
 
 1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4c49491f09591275f99a28f04647e9a25a10df7fca9e5cff28f59270ae3782fa-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-3. From the **Configuration** section, select **Tags**.
+2. From the **Configuration** section, select **Tags**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3e57d93a2ad8145a5dd9be4088ad5eddccb305ee5a32c6e9ccafef94b8a25348-image.png" />
 
