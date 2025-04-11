@@ -57,7 +57,7 @@ The **Site Information** interface allows you to manage sites for your organizat
 
 The **Site Branding** tab lets you determine whether to inherit the organization’s branding or customize your own. Disabling “Inherit Settings” allows further personalization of the site’s design:
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/e5a644d8985cd72fe3cc50a0091e9a20b091b24eea8506dbebecd4d54dee2c21-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/1e7840bf01d50954d33e13c4daaad875ebfb34f00744287464af73de18131ec8-image.png" />
 
 * **Description**: A short text introducing the site’s purpose or value.
 * **Logo app mobile**: The graphic symbol shown in the mobile app.
@@ -82,7 +82,7 @@ The **Site Branding** tab lets you determine whether to inherit the organization
 
 The **Mobile Configuration** tab lets you configure technical aspects of the mobile application for each site, determining how users interact, view data, and manage tasks.
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/1552b8d7251124dcbbc5c32a83767c8e416f1bd9b58a5a9f78b41ab31f375fd0-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/18a5fe49a6311c5428e3f55f391582e963fb95544ba4ed227d78938439523592-image.png" />
 
 * **GPS Polling**: Periodically queries a device’s GPS for user tracking or attendance. Set the interval in seconds.
 * **Security**: Allows users to stay logged in or requires them to log in each time they access mobohubb.
@@ -98,7 +98,6 @@ The **Mobile Configuration** tab lets you configure technical aspects of the mob
   * **Map**: Shows Geo-type tasks
   * **Request**: Lets users request emergency or permit-type requests
 * **Panic Configuration**: Allows a panic button to send emergency alerts via email, SMS, or call.
-* **Sitemap Configuration**: Upload an image to provide directions or details about the site.
 * **Breaks**: Time intervals for rest periods. Options:
   * **Automatic**: Deducts break hours after a set duration
   * **Manual**: Lets users clock in/clock out breaks, paid or unpaid
