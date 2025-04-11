@@ -81,7 +81,9 @@ The **Site Branding** tab lets you determine whether to inherit the organization
 
 The **Mobile Configuration** tab lets you configure technical aspects of the mobile application for each site, determining how users interact, view data, and manage tasks.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/18a5fe49a6311c5428e3f55f391582e963fb95544ba4ed227d78938439523592-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/0dc80ef3d591969ba2b7fc88a2a40db431b8d2dfe913b2189a3a0e16b8dcda55-image.png" />
+
+<br />
 
 * **GPS Polling**: Periodically queries a device’s GPS for user tracking or attendance. Set the interval in seconds.
 * **Security**: Allows users to stay logged in or requires them to log in each time they access mobohubb.
