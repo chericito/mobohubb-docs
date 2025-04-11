@@ -77,21 +77,27 @@ To log in via SMS, enter your **phone number**. You’ll receive a **6-digit cod
 
    * Tap the **flag icon** to adjust your country code if needed.
 
-   <Image align="center" width="30% " src="https://files.readme.io/316a819ae4032205a3db6fd446f1b808282b885df157de91e8f6e5545f1f1b3d-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/4f318bf9708b7ed8b4af62eb1a2843141afb2747615be590a4e961950a1f55c0-Image.jpeg" />
 
    <br />
 2. **Check Your SMS**
 
    * A unique 6-digit code will be sent to your phone.
 
-   <Image align="center" width="30% " src="https://files.readme.io/658d6282d6c03dbe765d323f781303ea20c21f1e172bd147e5f64e2993f34d6c-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/240044633af553023f14459c71ea64fc78f243f0c1bd86bb1c0b4722f0a15a35-Image_3.jpeg" />
 
    <br />
 3. **Return to the Login Screen**
 
    * Enter the verification code to confirm your identity.
 
-   <Image align="center" width="30% " src="https://files.readme.io/0fe259c692fe9d6bb00d7d22f6852baa5c6d2b82db0b0cd8b1cef8a4b7ea9ef0-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ec12318e28c2d68319e0b05485dc1872c6498b741f54d710a4937fe38f99e8d8-Image_2.jpeg" />
 
    <br />
 
@@ -100,6 +106,8 @@ To log in via SMS, enter your **phone number**. You’ll receive a **6-digit cod
 4. **Tap “Login”**
 
    * If the code matches, you’ll be granted access.
+
+   <br />
 
    <Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
 
@@ -111,7 +119,7 @@ Enter your email. You’ll receive a **6-digit code** to confirm your identity.
 
 1. **Enter Your Email Address**
 
-<Image align="center" width="30% " src="https://files.readme.io/34f77c5289f823df2da171bb04b85e6782581c45f96450a055c20994c9f8baa5-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/588b53fe3d1ae90d3f379d2c7705262131d7cd29438fa6f61c89c6c8e4a31c9b-Image_6.jpeg" />
 
 2. **Check Your Email**
 
@@ -123,7 +131,9 @@ Enter your email. You’ll receive a **6-digit code** to confirm your identity.
 
 * Enter the verification code to confirm your identity.
 
-<Image align="center" width="30% " src="https://files.readme.io/4d1cdd0e14e023c1d03eb63aff655778bb7a95076bd2f196620908855420d050-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/101dbf0dde81e44022d2019fd2719b5aa4bf37920fa45b0458ef686ad75a3b08-Image_7.jpeg" />
+
+<br />
 
 * If you don’t receive a code, tap **“Resend Code”.**
 * Check **“Keep me logged in”** (if enabled) to remain logged in.
@@ -194,7 +204,7 @@ After logging in, you may need to select a **site** if your organization has mul
 
 If you’re assigned to more than one site, simply choose the site you wish to proceed with.
 
-![Choose Site](https://files.readme.io/e5e6017f61d767394401a6979e9439def92314238c7ccc7003ebacbd880f5d0b-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8896b17b3c47c9c6a2b00639d906e5f6304461c29c58be5fed68184a09f3e9f2-Image_8.jpeg" />
 
 # Grant Permissions
 
