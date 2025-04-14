@@ -2,7 +2,7 @@
 title: Scan Points
 excerpt: >-
   A comprehensive guide to setting up, managing, and organizing scan points (QR
-  codes or NFC tags) in Mobohubb. Learn how to add, edit, delete, import, and
+  codes or NFC tags) in mobohubb. Learn how to add, edit, delete, import, and
   export scan points to streamline your on-site operations.
 deprecated: false
 hidden: false
