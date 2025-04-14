@@ -181,7 +181,6 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 7. **Link to a Task or Form** *(Optional)*
 
 * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
-* If you don’t wish to link anything, go to step 11.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png" />
 
@@ -194,9 +193,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png" />
 
-<br />
-
-12. **Save and Close**
+9. **Save and Close**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png" />
 
@@ -206,19 +203,11 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
-1. **Check** the box next to the scan point you wish to modify.
-
-* Only **one** scan point can be edited at a time.
+1. **Click** the name in the QR Code you want to edit.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fd9c845d782cdbccb655b620ebfd044fba1941f2dd5c875f2aa709e2b72a23e6-image.png" />
 
-<br />
-
-2. **Click “Edit.”**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c167e2deea57940441d0ef6c1fc25d2fc911b3766cebaa76f583d5426b0a33e-image.png" />
-
-3. **Modify the Current Data**
+2. **Modify the Current Data**
 
 * **Scan-point ID**: Must be part of a sequential order and represent the scan point (QR or NFC) and once configured **can not be modified.**
 * **Name**: A quick identifier to help locate it.
