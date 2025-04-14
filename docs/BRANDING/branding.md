@@ -37,13 +37,14 @@ In the top menu, click on **Settings**. This is where various configuration opti
 
 4. **Update your branding:**
 
+* **Organization Name:** Enter the name of the company.
 * **Description:** Enter a brief text introducing the organization or site, explaining its purpose, value, or characteristics.
-* **Logo app mobile:** Set the graphic symbol representing the site or organization in the mobile app.
+* **Mobile Logo:** Set the graphic symbol representing the site or organization in the mobile app.
+* **Logo:** Update the primary graphic symbol for the organization on the web portal.
 * **Icon:** Choose the graphic element that identifies a function, action, or category.
-* **Main logo:** Update the primary graphic symbol for the organization on the web portal.
 * **Date format:** Specify how dates are displayed (e.g., dd-mm-yyyy, yyyy-mm-dd, mm-dd-yyyy).
 * **Time format:** Select the format for time display (12h or 24h).
-* **Theme color:** Choose the main color that predominates in the branding interface.
+* **Color theme:** Choose the main color that predominates in the branding interface.
 * **Time zone:** Set the time zone to display time information relative to the user’s location.
 
 3. **Click** the **"Save"** button to apply your changes.
@@ -80,17 +81,18 @@ In the top menu, click on **Settings** to access various configuration options f
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/db3d35929022612c082a091ef05983ce15628e7082a9db2aac33a169353442ad-4B9C00E9-63E5-4418-918B-66DB8B5B2272.png" />
 
 4. You will see a list of all the sites available in your organization. **Select** the site you wish to modify.
-5. In the site details, you can update the **Site Name**, **Site Type**, **Address**, and other related details.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/5ef7074b2f1a97b6eb462c9621460158f9ce3efbfd6c303a39bec3f130761b70-image.png" />
-6. **Navigate** to the **Branding** option.
+<Image align="center" className="border" border={true} src="https://files.readme.io/b3a3adfef902f1e178d83a0d102327a041c7c6ced780ec59aef4f02a7b993e79-image.png" />
+
+4. In the site details, you can update the **Site Name**, **Site Type**, **Address**, and other related details.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/7163e9a68995c07e9624988a0ca84bed225a05094896d5a5757b1561666c4946-image.png" />
+
+5. **Navigate** to the **Branding** option.
 
 By default, the "Inherit Settings" option is activated (applying the organization's branding to the site). To customize the site's branding, **deactivate** this option.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/2541d5af0de2a82d0c7b329e0ec3ed636b95bb74e52a5e464a02be997be5e606-image.png" />
+![](https://files.readme.io/90744747535c5424b7dac1e9658e6a87b85ce4864aca5ebf7406558cce300caf-image.png)
 
 7. Now, you can customize the site's branding by adding specific portal, web, and mobile logos and icons, modifying date and time formats, and changing the color theme.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/95093b77199b56083db3367755637c80ca6e8be8ba7b8425c9063764f6722c64-image.png" />
-
 8. **Press "Save"** to save your changes.
