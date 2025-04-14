@@ -8,7 +8,7 @@ metadata:
 ---
 # Definition
 
-A **QR code** is a two-dimensional barcode that can be scanned with a mobile device. In mobohubb, you can use QR codes to identify and manage your organization’s locations—such as **sites**, **zones**, or **checkpoints**—to streamline workflow and tracking.
+A **QR code** is a machine-readable code consisting of an array of black-and-white squares that can be scanned with a mobile device. In mobohubb, you can use QR codes to identify and manage your organization’s locations—such as sites, zones, or checkpoints—to streamline workflow and tracking.
 
 ***
 
