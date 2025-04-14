@@ -66,8 +66,7 @@ The **Site Branding** tab lets you determine whether to inherit the organization
 * **Main logo**: Represents the organization on the web portal.
 * **Date format**: How dates appear (e.g., dd-mm-yyyy, yyyy-mm-dd, mm-dd-yyyy).
 * **Time format**: 12-hour or 24-hour time display.
-* **Theme color**: The primary hue in the portal’s graphical interface.
-* **QR codes or NFC tags**: Indicates the scanning method for the site.
+* **Color theme**: The primary hue in the portal’s graphical interface.
 
 #### How to Modify Site Branding
 
