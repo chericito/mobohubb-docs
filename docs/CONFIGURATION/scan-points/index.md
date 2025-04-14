@@ -81,7 +81,7 @@ Follow these steps to create a new scan point associated with a **QR code**:
 5. **Fill in the QR Code ID**
 
 * Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.
-* Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR image.
+* Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png" />
 
@@ -132,7 +132,7 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 ## Add an NFC Tag Scan Point
 
-1. **Configure** the [NFC using the Mobile App](https://mobohubb.readme.io/v1.2/update/docs/nfc-mobile#/).
+1. **Configure** the [NFC using the Mobile App](https://mobohubb.readme.io/v1.2/docs/nfc-mobile#/).
 2. **Fill in the NFC Code ID**
 
    * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
