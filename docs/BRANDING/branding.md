@@ -19,6 +19,8 @@ Configure the visual identity of your organization in mobohubb by updating brand
 
 ***
 
+# Organization Branding
+
 This section, located in General Settings, allows you to configure the visual aspects of your organization. You can update elements such as the logo, icon, mobile logo (the logo displayed in the mobile app and in the reduced side menu of the portal), date and time formats, time zone, and theme color.
 
 To edit or update your branding, follow these steps:
