@@ -50,7 +50,7 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/609510573f5fffaea1ccca22de8106edf6fe46e201c34957cf08d17e4d700ea7-image.png" />
 
-2. From the **Configuration** section, select “Scan-Points Management”.
+2. From the **Configuration** section, select “Scan-Points".
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
 
