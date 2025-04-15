@@ -62,22 +62,47 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/72ef1fea50a0ad72f1fbc9ac2b079c2a447559246fae278cded8a9d8380e547e-image.png" />
 
-* **Fill in the QR Code ID**
-  * Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
-* **Add a Name**
+**Fill in the QR Code ID**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f42beac83e2621dcf72f223d94ab6ff6005cc7f2dab29806810c644f243ab6e5-image.png" />
+
+Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
+
+**Add a Name**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d759e07e1a009130fc7c4fad78b3ad9cb7780fd26d9bec2ff81dbe72355bf0d0-image.png" />
 
 Provide a clear name (e.g., “Security Camera Room”) to quickly locate the scan point.
 
-* **Add a Description**
-  * Include room numbers, distinctive features, or exact locations to help users find it easily.
-* **Choose a Time Interval**
-  * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
-* **Associate a Predefined Tag** *(Optional)*
-  * If you’ve created [tags](https://mobohubb.readme.io/update/docs/tags#/) beforehand, select one in the dropdown.
-  * **Tags** help segment data and simplify searches.
-* **Link to a Task or Form** *(Optional)*. You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
-  * To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
-  * Tasks/forms must be **active** to appear here.
+**Add a Description**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/10586b3d387ae44c4b77c0ca28579791091f9e87187e2f206214f1bc5fb46a7a-image.png" />
+
+Include room numbers, distinctive features, or exact locations to help users find it easily.
+
+**Choose a Time Interval**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7820ef3b0bac508c54bdf863ab4c4d1111cfca8601a6806d9150212ef9b5252c-image.png" />
+
+Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
+
+**Associate a Predefined Tag** *(Optional)*
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d6eeb2e5a87ab4b4559ec77e705512aabd8f51cc4578709995092e91377de6f3-image.png" />
+
+If you’ve created [tags](https://mobohubb.readme.io/update/docs/tags#/) beforehand, select one in the dropdown.
+
+**Tags** help segment data and simplify searches.
+
+**Link to a Task or Form** *(Optional)*.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4b184f5aa584b071dadf0d9ca052788da9ebf2d029add5a2b095f6b2ef2bb65a-image.png" />
+
+You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
+
+To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
+
+Tasks/forms must be **active** to appear here.
 
 5. **Mark as Active** (active by default)
 
@@ -97,20 +122,45 @@ Provide a clear name (e.g., “Security Camera Room”) to quickly locate the sc
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/72ef1fea50a0ad72f1fbc9ac2b079c2a447559246fae278cded8a9d8380e547e-image.png" />
 
-* **Fill in the NFC Code ID**
-  * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
-  * You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
-  * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC configuration useless.
-* **Add a Name**
-  * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.
-* **Add a Description**
-  * Include any relevant details such as room number or distinctive features.
-* **Choose a Time Interval**
-  * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
-* **Associate a Predefined Tag** *(Optional)*
-  * If you have previously created tags, assign one here to **segment data** and simplify searches.
-* **Link to a Task or Form** *(Optional)*
-  * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
+**Fill in the NFC Code ID**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f42beac83e2621dcf72f223d94ab6ff6005cc7f2dab29806810c644f243ab6e5-image.png" />
+
+NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
+
+You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
+
+**Do not** modify the Scan-Point ID for any NFC, this will make the NFC configuration useless.
+
+**Add a Name**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d759e07e1a009130fc7c4fad78b3ad9cb7780fd26d9bec2ff81dbe72355bf0d0-image.png" />
+
+Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.
+
+**Add a Description**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/10586b3d387ae44c4b77c0ca28579791091f9e87187e2f206214f1bc5fb46a7a-image.png" />
+
+Include any relevant details such as room number or distinctive features.
+
+**Choose a Time Interval**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7820ef3b0bac508c54bdf863ab4c4d1111cfca8601a6806d9150212ef9b5252c-image.png" />
+
+Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
+
+**Associate a Predefined Tag** *(Optional)*
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d6eeb2e5a87ab4b4559ec77e705512aabd8f51cc4578709995092e91377de6f3-image.png" />
+
+If you have previously created tags, assign one here to **segment data** and simplify searches.
+
+**Link to a Task or Form** *(Optional)*
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4b184f5aa584b071dadf0d9ca052788da9ebf2d029add5a2b095f6b2ef2bb65a-image.png" />
+
+If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
 
 3. **Mark as Active**
 
@@ -147,36 +197,25 @@ Follow these steps to update any **existing** scan point (QR code or NFC tag):
 
 ## Delete Scan Points
 
-1. **Check** the scan point(s) you wish to remove
+1. **Check** the scan point(s) you wish to remove.
 
    * You can select **multiple** scan points at once.
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c99688a7db9130eb1604dd327872a6f3a18c543c80325b1b9a5dccbb3d36ddc3-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f73b70b0c7a046cc55823efaf5365f9de8969bdcb8e195f7ba1a20e4898aa8c9-image.png" />
 
    <br />
 
 2. **Click “Delete.”**
 
-   * All selected scan points will be discarded.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/46f5e98ab55022eac04524dfdf0c74ebea1a2c2c1fd9e30bc410de230b5063a2-Screenshot_2025-04-15_at_5.30.51_PM.png" />
 
-   <br />
+* All selected scan points will be discarded.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6d35f9516e10060fa9ac261d6a93ad572cf77db888b2df7f26827eced3da36d7-image.png" />
-
-   <br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0bd294e0b616c70965bf921777150b144612e28a58fada898ecd27958a66b006-image.png" />
 
 3. **Confirm** and **close**
-
-   * Verify the count of selected scan points matches what you intend to remove.
-   * Click **Delete** to finalize.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8779cf3ff836c906c74b4254df7a7c3ace4e39c8217467dd26d1f68f6370a19a-image.png" />
-
-   <br />
 
 ## Export Scan Points
 
@@ -184,11 +223,11 @@ Exporting scan points to an **Excel file** can help you manage data offline or s
 
 1. **Click** the **“Export"** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/179f0399a76b5afcefd8768bfe473d83bd13edb70518733a897f5372b3cc902e-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/94e1862339e765f456c228b70185e6718f8b7ae44e5b2552f4b9c7b470ee5088-Screenshot_2025-04-15_at_5.35.10_PM.png" />
 
 2. **Export** the Excel file. Choose **all data** or only the **current view**. Export **All Data** exports all the required information in the format necessary for importing, including every column needed for the process. In contrast, **Export Current View** exports the data exactly as the user has configured it, preserving the applied filters, sorting, and the order of columns as seen in the current view.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8cceee5ac145703fd226636b0538ee35a035d43818e99c72d7c30606f45d0357-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7e668bfefec257fdd5996c3a8fafd3c34e7c24b8542437383ad8dbaf564de320-Screenshot_2025-04-15_at_5.35.59_PM.png" />
 
 > **Note:**
 >
@@ -201,11 +240,13 @@ If you have **multiple scan points** to add at once, you can **import** them fro
 
 1. **Click** the **“Import”** button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d4b945de4e1f651cadedb44bea1dc18d4c390da1b5382d429b79b23785150710-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dca2cb355c5b1fed202810b8564eaf48bbce412d1e59bc2a046237c8d52bc522-Screenshot_2025-04-15_at_5.37.41_PM.png" />
 
 2. **Download the template** to fill in your scan point data. (Each row represents one scan point.)
 
-<Image align="center" border={true} caption="Download Template" src="https://files.readme.io/bc4eb50a8d725ae6587b8b5c5645fd3a5eec54327a016ba8f78fd633d241fa3d-image.png" width="80% " />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c22b329697af134aa72c344a13faf2f67dd7510f8a1a8610426bdd607a0cc295-image.png" />
+
+<br />
 
 <Image align="center" border={true} caption="Template" src="https://files.readme.io/fab1e239dc979ebb9d832dec09f1ef23ddba92fa8319667853d402183a3e5037-image.png" width="80% " />
 
