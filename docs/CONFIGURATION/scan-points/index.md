@@ -48,21 +48,17 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/609510573f5fffaea1ccca22de8106edf6fe46e201c34957cf08d17e4d700ea7-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
 2. From the **Configuration** section, select “Scan-Points".
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3cf9e55fcc76b359347766a7debe9f5c3fb4b6a450cb56ca4a3417255a149457-Screenshot_2025-04-15_at_3.24.10_PM.png" />
 
-<br />
+3. **Click “Add New”**
 
-4. **Click “Add New”**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/31aa735b9c8e70a144713c633c97dfd0fa24b61e6dde788db8fde64931cd47f7-Screenshot_2025-04-15_at_3.26.09_PM.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/342fddd36289e74c1519f50a65489c3e9b6ec371a178536c7916693422efa24e-image.png" />
-
-<br />
-
-5. **Fill in the QR Code ID**
+4. **Fill in the QR Code ID**
 
 * Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.
 * Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
