@@ -46,23 +46,11 @@ Each site can be configured to use **either QR codes or NFC tags**, but not both
 
 Follow these steps to create a new scan point associated with a **QR code**:
 
-1. **Navigate to the Portal’s Top Menu**
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/609510573f5fffaea1ccca22de8106edf6fe46e201c34957cf08d17e4d700ea7-image.png" />
 
-2. **Go to “General Settings”**
-
-* In the top menu, click **Settings** (or use the **side menu** to find the **General Settings** option).
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5d5d2925ad1d70a55100292938684e9c22a423d62a9049dd327324f456705e8e-image.png" />
-
-<br />
-
-3. **Select “Scan-Points Management”**
-
-* Within **Configuration**, click on **Scan-Points**.
-
-<br />
+2. From the **Configuration** section, select “Scan-Points Management”.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/51e405b15c0b4df74a6e6833d0ce907354f15ff7096497f02aabcb69ceb23e08-image.png" />
 
