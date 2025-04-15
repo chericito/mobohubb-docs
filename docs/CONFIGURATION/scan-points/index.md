@@ -38,7 +38,7 @@ Each site can be configured to use **either QR codes or NFC tags**, but not both
 
 3. In the **Site Information** section, **choose** either **QR Codes** or **NFC Tags** as the scan type.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bd2470343f809e55eba36a5a4cfc1c44bb3e20872cb1ba9359a41074f7c3dbd8-C596D59F-73A3-4705-B690-4994AB9FA1D5.png" />
+<Image align="center" className="border" border={true} width="76% " src="https://files.readme.io/11366422606d899b4d28b3af4fc2649dc6d21e264bf191dacb39114867ae51bf-Screenshot_2025-04-15_at_3.17.45_PM.png" />
 
 4. **Save** your changes to finalize the site’s configuration.
 
@@ -49,8 +49,6 @@ Follow these steps to create a new scan point associated with a **QR code**:
 1. **Navigate to the Portal’s Top Menu**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/609510573f5fffaea1ccca22de8106edf6fe46e201c34957cf08d17e4d700ea7-image.png" />
-
-<br />
 
 2. **Go to “General Settings”**
 
