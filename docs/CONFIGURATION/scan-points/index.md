@@ -54,8 +54,6 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 * In the top menu, click **Settings** (or use the **side menu** to find the **General Settings** option).
 
-<br />
-
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5d5d2925ad1d70a55100292938684e9c22a423d62a9049dd327324f456705e8e-image.png" />
 
 <br />
