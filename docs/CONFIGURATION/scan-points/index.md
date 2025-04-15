@@ -58,124 +58,68 @@ Follow these steps to create a new scan point associated with a **QR code**:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/31aa735b9c8e70a144713c633c97dfd0fa24b61e6dde788db8fde64931cd47f7-Screenshot_2025-04-15_at_3.26.09_PM.png" />
 
-4. **Fill in the QR Code ID**
+4. **Fill in the details**:
 
-* Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.
-* Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/72ef1fea50a0ad72f1fbc9ac2b079c2a447559246fae278cded8a9d8380e547e-image.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8280a8273c0216d1c8f6e361e9bc52c20ddb8ea8989772f2ec98da51885b10aa-image.png" />
-
-4. **Add a Name**
+* **Fill in the QR Code ID**
+  * Use a unique, sequential identifier that matches the QR (e.g., `Location001`, `Location016`). This ID is case-sensitive and will help you organize and differentiate scan points.Refer to **[How to create a QR code](https://mobohubb.readme.io/docs/qr-codes#/)** for details on generating the actual QR code.
+* **Add a Name**
 
 Provide a clear name (e.g., “Security Camera Room”) to quickly locate the scan point.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f1af3e37760526881563cb81233fe42143ca2afd7af19ddc2d1254d30f61015f-image.png" />
+* **Add a Description**
+  * Include room numbers, distinctive features, or exact locations to help users find it easily.
+* **Choose a Time Interval**
+  * Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
+* **Associate a Predefined Tag** *(Optional)*
+  * If you’ve created [tags](https://mobohubb.readme.io/update/docs/tags#/) beforehand, select one in the dropdown.
+  * **Tags** help segment data and simplify searches.
+* **Link to a Task or Form** *(Optional)*. You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
+  * To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
+  * Tasks/forms must be **active** to appear here.
 
-5. **Add a Description**
+5. **Mark as Active** (active by default)
 
-* Include room numbers, distinctive features, or exact locations to help users find it easily.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d5efb09b757b71dfd1b65dd16c88463654400ea9559eec247666164911852586-image.png" />
-
-6. **Choose a Time Interval**
-
-* Enter the time in **HH:MM** format (e.g., `08:00`) if you need periodic scans or want to classify your scan points for log comparisons. This is required for Time Studies, a function that demonstrates the scanning frequency of QR captures that have the time interval parameter marked; for example, how security patrollers perform their patrols, scanning each time they pass by the designated locations. Time studies enable you to confirm how frequently this scan was finished.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b36b4b9582d9ccb4447f59d34b49c040ef563215d111e6583a502886175366f3-image.png" />
-
-7. **Associate a Predefined Tag** *(Optional)*
-
-* If you’ve created [tags](https://mobohubb.readme.io/update/docs/tags#/) beforehand, select one in the dropdown.
-* **Tags** help segment data and simplify searches.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c8b4acd1b49cc62e15fd13f4ad4a81ee5eb04bcc7153b7b140f822e3c79aafeb-image.png" />
-
-8. **Link to a Task or Form** *(Optional)*. You can associate the scan point with an existing task or form. To mark that task or form as **complete**, the user must **scan** the point. This ensures the activity is tracked and verified in the system.
-
-* To associate this QR code with an **existing** [task](https://mobohubb.readme.io/update/docs/tasks#/) or [form](https://mobohubb.readme.io/update/docs/tasks#/), select it from the dropdown menu.
-* Tasks/forms must be **active** to appear here.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4bb14e9fce3aa76164dcd36e9b9d7d12ad6b482b81e0680a16231d038955e2c9-image.png" />
-
-9. **Mark as Active** (active by default)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/763f47cbcfcc41be28b534462fcdac8219c7ba768c657299b4996737c1dd8d6e-Screenshot_2025-04-15_at_5.08.17_PM.png" />
 
 * **Check** the box to make this scan point visible to other users.
 * If unchecked, it remains hidden but can be activated later.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4aa677d41faddf691c661084b009da437a714c9be35900baae075a59d0d2b126-image.png" />
-
-10. **Save and Close**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d3087ea1b86a1bd7f759ef5d37edc20f5f0fafd08770fa6f04441170d4f6662c-image.png" />
+6. **Save and Close**
 
 > **Note:** **Repeat** these steps for each scan point you need to create.
 
 ## Add an NFC Tag Scan Point
 
 1. **Configure** the [NFC using the Mobile App](https://mobohubb.readme.io/v1.2/docs/nfc-mobile#/).
-2. **Fill in the NFC Code ID**
+2. **Fill in the details**
 
-   * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
-   * You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
-   * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC configuration useless.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/72ef1fea50a0ad72f1fbc9ac2b079c2a447559246fae278cded8a9d8380e547e-image.png" />
 
-   <br />
+* **Fill in the NFC Code ID**
+  * NFC (Near Field Communication) tags are **small, passive devices** containing a microchip and antenna.
+  * You can **scan** any unassigned NFC tag with the mobile app, then update its details in the portal.
+  * **Do not** modify the Scan-Point ID for any NFC, this will make the NFC configuration useless.
+* **Add a Name**
+  * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.
+* **Add a Description**
+  * Include any relevant details such as room number or distinctive features.
+* **Choose a Time Interval**
+  * Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
+* **Associate a Predefined Tag** *(Optional)*
+  * If you have previously created tags, assign one here to **segment data** and simplify searches.
+* **Link to a Task or Form** *(Optional)*
+  * If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fed242b601c6513ddf85b0f89a79db12088c3ccb960d3a736c34ef7b837842bf-image.png" />
+3. **Mark as Active**
 
-   <br />
-3. **Add a Name**
-
-   * Provide a clear identifier (e.g., “Security Camera Room”) for quick reference.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/55feacf0361054cf96b11f8decf94565bbe5b009b5467399f53e77ecf5eb6e2d-image.png" />
-
-   <br />
-4. **Add a Description**
-
-   * Include any relevant details such as room number or distinctive features.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bb5aa7f72f7041ea6598067dc1240776ac049990b99485133d177845af23c253-image.png" />
-
-   <br />
-5. **Choose a Time Interval**
-
-* Use **HH:MM** format (e.g., `08:00`) to classify periodic scans or log comparisons.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/15d458422eb08257b5faec60bd7d00cd375ca35baa09e84e8701ca1aecfcbc3d-image.png" />
-
-6. **Associate a Predefined Tag** *(Optional)*
-
-* If you have previously created tags, assign one here to **segment data** and simplify searches.
-
-<br />
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/49d9b0e9cc975ddd0a287db8fe96bccc8c97fef24b598280e9e1c1a5044ddff4-image.png" />
-
-<br />
-
-7. **Link to a Task or Form** *(Optional)*
-
-* If needed, associate this NFC tag with an **existing** task or form (they must be **active**).
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dde4ae4262408077d6c1f987bcf46826e4955d9e7775df5d01aa1c7c38963a2f-image.png" />
-
-&#x20;&#x20;
-
-8. **Mark as Active**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/763f47cbcfcc41be28b534462fcdac8219c7ba768c657299b4996737c1dd8d6e-Screenshot_2025-04-15_at_5.08.17_PM.png" />
 
 * Check the box to make this scan point visible to mobile users.
 * Uncheck to **temporarily hide** it.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b283000fa02ae27b4cdd5ba3c0dd72505b28588238ce7da6bb6adb2c2d182782-image.png" />
-
-9. **Save and Close**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4743a6b19da096c410ed4d2d09e6ecb0e6b631d0b17256c087bc0d63edd7b9f9-image.png" />
+4. **Save and Close**
 
 > **Note:** **Repeat** the procedure for each NFC tag scan point you need to create.
 
