@@ -118,23 +118,15 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 ## Export Tasks
 
-1. **Go** to “Task”
+1. **Click “Export”.**
 
-   * Within **Configuration**, click **Task**.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/50d7ff251af5b9c9e38a06932ced560652fd526f63375fe9d7dd3c6bd46bc4ec-Screenshot_2025-04-18_at_1.35.01_PM.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/20343e267e33b9b8ca9fbcbf82ddf8438f48021af47832643d42670016fab324-image.png" />
-
-   <br />
-
-2. **Click “Export”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/62c244019626a8ce5f23b3fd2a5aa0feb514302bf1f523e2cd954fbe437112af-image.png" />
-
-3. **Choose** Which Data to Export.
+2. **Choose** Which Data to Export.
 
 * **Export Data** or **Export Current View**. You can also export a selection by checking their box.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png" />
+<Image align="center" width="80% " src="https://files.readme.io/3ab3b84c4df444d9c82a453461e2188e7d799db1e3c47b81529171fd7292419a-Screenshot_2025-04-18_at_1.38.45_PM.png" />
 
 ***
 
