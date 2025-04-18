@@ -33,11 +33,9 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-2. **Select “Tasks”.**
+2. From the **Configuration** section, select **Tasks**.
 
-* Within **Configuration**, click **Tasks**.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/81094794c2ce8fa4a5084a6cf86564cb1bbfe972f6900978603694905c903a5a-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/58a23e20f481e7575fcc1fa1af8a21d3dc6fd61e8a969dd45b59ad8876b52bcf-Screenshot_2025-04-18_at_1.19.49_PM.png" />
 
 4. **Click “Add New”.**
 
