@@ -156,4 +156,6 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 2. **Press** the **Deactivate** button if the selection is currently active, or **Activate** if the selection is inactive.
 
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/58386f913c9cbd41c1e54765599ba8a2a14a5dcc252d52cbe07dd15b10066d3e-image.png" />
+
 This approach keeps skill records consistent and makes it easier to manage employee abilities in **mobohubb**.
