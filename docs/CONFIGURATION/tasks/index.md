@@ -37,20 +37,20 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/58a23e20f481e7575fcc1fa1af8a21d3dc6fd61e8a969dd45b59ad8876b52bcf-Screenshot_2025-04-18_at_1.19.49_PM.png" />
 
-4. **Click “Add New”.**
+3. **Click “Add New”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7190cb1164a2898be2ab360016aefa7fe98ddc70f45aed14be96107b180e4c12-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3ab11709e0dd519ca3624ddbf4daf73bec1794c7427591c5e7550aab6a9d73f2-Screenshot_2025-04-18_at_1.23.09_PM.png" />
 
-5. **Fill** in the Task Form
+4. **Fill** in the Task Form
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e74a8a85975aa750820e46796b07e9915c13736f08e1681e64582dcbd9ce464-9BB384EF-DBF2-47BA-B527-6B1F9E4E961B.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8df0506d60a0e525105f2e0d3126321a22f818fb5033689233f26ab016b39adc-image.png" />
 
 * **Task Name**: Provide a descriptive name.
 * **Task Sequence**: Assign a unique, sequential number to order tasks.
 * **Tags**: Select a predefined tag from the [Tags](https://mobohubb.readme.io/docs/tags#/) section (optional).
 * **Users**: Choose the individuals or groups responsible for the task. If left blank, it will be available for everyone.
 
-6. **Set** the Task Type
+5. **Set** the Task Type
 
 * **Scan**: Requires scanning a QR/NFC to complete.
 
@@ -72,17 +72,11 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 ## Edit a Task
 
-1. **Check** the Task or **Click** the Task Name to Edit.
+1. **Click** the Task Name to Edit.
 
-   * Only **one** task can be edited at a time.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7baf812c53ce309651f2d0d658df12a7ab325da9a90a66ff8e204d1c6629b13-image.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7baf812c53ce309651f2d0d658df12a7ab325da9a90a66ff8e204d1c6629b13-image.png" />
-
-2. **Click “Edit”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c79a86c9d3e3ad9d3da0a46e0f616b23015e79df3500b63b090dd818a1a4af8-image.png" />
-
-3. **Modify** the Task Data
+2. **Modify** the Task Data
 
 * Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
 
@@ -102,19 +96,23 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
    * You can select **multiple** tasks at once.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b37ee96235fe174913f67d25ad2436bd744f6934343bbf3e83bd854774ff849d-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0a794117afd9b5d8f0b352463e2ef2743387a7060e446d9bc1adba76d683e5d8-Screenshot_2025-04-18_at_1.31.57_PM.png" />
 
 2. **Click “Delete”.**
 
    * All checked tasks will be discarded.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/18e517c4eae71e500e1a3283315a730f37389e68fbf3153794cbd5f0555ef9d4-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/88849807ef2a35f614e609098b7fd804e7baab5c3ae243f6d9485d89e7334b1a-Screenshot_2025-04-18_at_1.27.53_PM.png" />
 
    <br />
 
 3. **Confirm and Close**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/90b2f0923d46864a606aadfbbe64d8ea6760c36144481a5bbb24003e52a477c5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/78d247af6bc143b017eb7b2686d80519785e0f6e018a8d8e3978db032cd94b3b-Screenshot_2025-04-18_at_1.33.17_PM.png" />
 
 ***
 
