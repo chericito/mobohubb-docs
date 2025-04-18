@@ -134,11 +134,11 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 1. **Click** the "Import" button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8150282dc7db9845cea59034c56ad1739b1ec88330952c1421f37b2ac32905cc-3573BEC8-405C-45B2-9CCD-A288B7C819B1.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/10a7b089b2ae82ff43b06d6f587ddc9a2a29e47f849fe33dffe3c6b87db03822-Screenshot_2025-04-18_at_1.41.11_PM.png" />
 
 2. **Press** "Download Template".
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/24c0f991b7e956102ba80f1afe574d149c6b606047d3cd082269f01d2a582077-88479D85-361C-4701-B98D-4BB10E2D2771.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4789e0f8d2f4ee58227c1fa8551a7f5055d764bbefcc4131e015ff2f83ef8545-Screenshot_2025-04-18_at_1.42.54_PM.png" />
 
 3. **Fill** in the template.
 
@@ -150,7 +150,7 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 1. **Select** one or more tasks that share the **same status** (either all active or all inactive).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6bfa5c43473b3d47d18f789786d15e012576479ba6e724558dda28165080c7b3-24939E70-525E-4316-B356-718C0760789F.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6898a61acfe45972731e9412e71f53cf816a978ab91a6872e0d77bb655d37ae-Screenshot_2025-04-18_at_1.45.00_PM.png" />
 
 > **Note:** You cannot modify multiple tasks at once if they have different statuses.
 
