@@ -40,19 +40,11 @@ Tasks are goals or actions employees perform as part of their duties. A **Geo Ta
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b0af263ee2f3d63820b941e56e542c187ea9c3140d4025ce7eaddacfdeaf4901-image.png" />
 
-5. **Select** a site to continue (*only prompted if you manage multiple sites*).
-
-<Image align="center" width="60% " src="https://files.readme.io/9eaa17d13b7be38801402d93e93111091a431d04252e785976180e4d0f057269-image.png" />
-
-<br />
-
-6. **Activate GPS** to create a Geo Task.
+5. **Activate GPS** to create a Geo Task.
 
 * Once activated, the **“task description”** field becomes **“Address”**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/012b78181d5f3bdabd4fbe8a1e58c6bdad8de8aba1a1f2d4b84342f6784eb7c6-image.png" />
-
-<br />
 
 ## Coordinates and Addresses
 
@@ -75,7 +67,6 @@ Enter coordinates as two numbers (longitude, latitude) separated by a comma. You
    * **Task Sequence**: A unique number or code identifying the task.
    * **Tag**: (Optional) Link a predefined tag for easier organization.
    * **Users**: Select individuals or groups to assign the task.
-   * **Meta data**: Additional info (meta name and meta value) for each data point.
    * **Site map**: Optionally add images or guidelines related to the location.
    * **Address**: Enter GPS coordinates or a completed site address.
 
