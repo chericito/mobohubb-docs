@@ -205,7 +205,7 @@ Lets the user pick an option from a **drop-down list**. You can also activate a 
 
 Enables the user to **draw** their signature on the form.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/a3d569a54f94bd02e08922220afd431c71625bfe1fdfb01ecb69cc1e2d696db0-D73E3395-18DC-48B8-95BC-9046EB4C4578.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/487cbcbd12a4945256652693ac561e404f64f500fdd80a73b651f9f446a121a3-image.png" />
 
 **How to set up:**
 
@@ -217,7 +217,7 @@ Enables the user to **draw** their signature on the form.
 
 Lets users pick one or more tags from a predefined list.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/f77525d28f950d0b737eef2846d6560a325810df48ae3b6e6f714cbba2615045-47632FE7-1DDC-47F3-8334-F4F99EFE6645.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dea554c425b6ebb5e3b3fd5ebd6af6044605af685b2c36c7819a5c592432dc23-image.png" />
 
 **How to set up:**
 
@@ -230,7 +230,7 @@ Lets users pick one or more tags from a predefined list.
 
 A single-line **free text** input box.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/386ee31d705ec3bcdfe0c2b3ea70c5c960903addb46f07006740c35f4e4c5c33-D7CDD214-3706-418C-A57B-B30220262BE5.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bce0e5b3b3a411134f69e0a2a6c13368ff9bae3aead304cfb1117e43b3e05113-image.png" />
 
 **How to set up:**
 
@@ -242,7 +242,7 @@ A single-line **free text** input box.
 
 A **multi-line** text box for longer input.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/85530bfebb8f8177b9f27936470db38d78934ce219895b715d0a7b91cf26743c-D4E970BB-EE82-4A82-8879-C99B1E75BE72.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/254304fbdb4a7812cf235ffe06b8b358be4937cc1ab849bc2fe2b88eca9e4bdb-image.png" />
 
 **How to set up:**
 
@@ -254,7 +254,7 @@ A **multi-line** text box for longer input.
 
 Lets the user pick a **time** via an interactive clock.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/e3edb455affd129f3431d241de12b8989a90f75ecab3b42b7f1ce05f60177e3a-81E83B8D-51D0-47CB-840D-C05E59A621FE.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/405e744eb8b5160463165d7df8265f81348f7e04c30fcd8ec649da3338dcf732-image.png" />
 
 **How to set up:**
 
