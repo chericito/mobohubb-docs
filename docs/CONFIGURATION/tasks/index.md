@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Tasks are goals or actions that employees carry out as part of their job duties. Each task can be **associated** with one or more people, a location, or even a category—like **scan**, which requires scanning a QR code or NFC tag; **report**, which requires filling out a form; or **manual**, which is simply checked off by the user. Tasks can also be configured as **Geo-tasks** if you need to capture or require location coordinates.
+Tasks are goals or actions that employees carry out as part of their job duties. Each task can be **associated** with one or more people, a location, or even a category—like **scan**, which requires scanning a QR code or NFC tag; **report**, which requires filling out a form; or **manual**, which is checked off by the user. Tasks can also be configured as **Geo-tasks** if you need to capture or require location coordinates.
 
 > 👍 Important:
 >
@@ -61,8 +61,6 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 6. **Set** the Task Type
 
 * **Scan**: Requires scanning a QR/NFC to complete.
-
-* **Alert**: Notifies or prompts an event or situation.
 
 * **Report**: Links to a **form** that users must fill out.
 
@@ -147,8 +145,6 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 * **Export Data** or **Export Current View**. You can also export a selection by checking their box.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2610db8ab57f0a5a3439ab44cbb752007d9dc7493f23ce0e8b5b89b95be10095-image.png" />
-
-> **Note:** An Excel file will download if it’s **within size limits**. If it exceeds the limit, it appears in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform.
 
 ***
 
