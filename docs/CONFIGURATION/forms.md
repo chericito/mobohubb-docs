@@ -105,7 +105,7 @@ Displays a list of **devices** (smartphones, tablets, etc.) recognized by mobohu
 
 Restricts input to a **valid email format**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/8a3b97a5d2f87c99ec7261498bcde4973bc68282702428146a805a2c8f24ff4d-116C1341-F485-4400-8EDA-3A4856D54780.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d76f206e43504fc017537634df43c36233dfca0e89dc041d7ce2bc99edc746c9-image.png" />
 
 **How to set up:**
 
@@ -117,7 +117,7 @@ Restricts input to a **valid email format**.
 
 Displays text that links to another web page or resource.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/a6ed70cab2fcf2a8c5e91908d11f21ec8a63cbcbcdbb99174c69afa2e068c54e-69A0A8DC-4269-4740-8CC0-D969CDCAEA7F.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/50e8620ee1419751a78d37b8d829ee566e6237d15e1eb5032ab8ca5fe7484fca-image.png" />
 
 **How to set up:**
 
@@ -130,15 +130,15 @@ Displays text that links to another web page or resource.
 
 Masks the **user input** for secure entry (e.g., sensitive codes).
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/fc5ea8d786c1288bba9327bb830fe26efd3e4c5a6cb2adcd5f5ec2c147914d30-0464FFAF-EAE0-459B-A680-175D89B8E2B2.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/434a4cb6c6f0836ae37efe9eefced11a4e7497475e8b48f8efbc6eb1acf9e244-image.png" />
 
 ***
 
 ### Personnel
 
-Shows a list of **users** registered in mobohubb. They can be associated to a particular tag for filtering.
+Shows a list of **users** registered in **mobohubb**. They can be associated with a particular tag for filtering.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/939a56c87e0823da922dff5b228ab47fcf7b7cd00b45df474713cdaf3d49bad0-8B3EC2E2-AABD-48B2-A4A0-57D6ED4D5116.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ebec3493deb708d8fd5b35b7d5145f6cbbcc7a18c1dbeff6b209d8afd01b64bf-image.png" />
 
 **How to set up:**
 
@@ -151,13 +151,13 @@ Shows a list of **users** registered in mobohubb. They can be associated to a pa
 
 A single-choice field (often called a **radio button**). Users can select only **one** option. For **Select** or **Radio** fields, you can activate “conditional” to display more fields based on user selections.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/9324e15cd3ed883a10133f86b54f5d2783696fc12e18abf54b59d9d48d81bc8c-162A8953-417B-47CD-AF9A-98340E362379.png" />
+<Image align="center" border={true} caption="If the user chooses &#x22;Phone&#x22;, they will be required to complete the &#x22;Device's OS&#x22; step." src="https://files.readme.io/781479304152318f704de63d5885fa4d6bf6b9782bf07965da07f905186b1333-image.png" width="30% " />
 
 **How to set up:**
 
 1. **Field Name** – Provide a title for your radio group.
 2. **Values (Comma-separated)** – List each choice separated by commas.
-3. **Conditional** (optional) – Show additional fields if a user chooses a specific option.
+3. **Conditional** (optional) – Show additional fields if a user chooses a specific option. If a user completes a certain action, then another step is triggered.
 
 ***
 
@@ -165,7 +165,7 @@ A single-choice field (often called a **radio button**). Users can select only *
 
 Displays text that **cannot** be edited by the user.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/894938c771351f46a40720c8b61512614b408225462fe2f9984d55cafbe29bdf-49DFF148-B714-405F-8A35-EA35551DE400.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ee5ad75c3019ca40a36c5d3a05beaf0be5e70842cbbeefa39e99408979ac11fe-image.png" />
 
 **How to set up:**
 
@@ -197,7 +197,7 @@ Lets the user pick an option from a **drop-down list**. You can also activate a 
 
 1. **Field Name** – Label the drop-down.
 2. **Values (Comma-separated)** – List each selection item by item.
-3. **Conditional** (optional) – Reveal extra fields based on the user’s choice.
+3. **Conditional** (optional) – Reveal extra fields based on the user’s choice.  If a user completes a certain action, then another step is triggered.
 
 ***
 
