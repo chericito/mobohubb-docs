@@ -30,6 +30,9 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 ## Add a Task
 
 1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
+
 2. **Select “Tasks”.**
 
 * Within **Configuration**, click **Tasks**.
