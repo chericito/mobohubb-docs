@@ -55,7 +55,7 @@ When creating forms or checklists in **mobohubb**, you can choose from a variety
 
 Allows the user to **select** or **deselect** an option. Multiple checkboxes can be checked at once, offering flexibility when you need more than one answer.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/e9af6aef7fbd4f9e240072bd2132ff5413c5d9cbba359f180361beeb38c614b8-6126613B-DEA2-4878-BB17-293C71B06B68.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bf8a11133b6aece122470c39d865fca1d5335ad9df509e7c6c1c9949d3d2491d-image.png" />
 
 **How to set up:**
 
@@ -66,9 +66,9 @@ Allows the user to **select** or **deselect** an option. Multiple checkboxes can
 
 ### Colored Text
 
-Emphasizes text by displaying it in a specific color.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b99c7a2dfc8bbb90e499cda122d00729c2bef67b230b0e22d4138d7abd8fa86f-image.png" />
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/bc4762624d54fbafbc02b3fbbdd6b0750a15a090dab424729033542bc67cdd30-78524EB1-E1EA-46C4-A078-9009DB110E50.png" />
+Emphasizes text by displaying it in a specific color.
 
 **How to set up:**
 
@@ -81,7 +81,7 @@ Emphasizes text by displaying it in a specific color.
 
 Lets the user pick a **date** via an interactive calendar.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/6b1821703badec4806f14983c0e9f58b32e3cf9561499c9677d8bd55f0b7bd94-B6F711CD-C6F7-4720-8D32-E41087A1841D.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/383d7e88e3266ccd6053dbb598f388aa3b47f51c0bfdfafd6a69b5f7b4dc8577-image.png" />
 
 **How to set up:**
 
@@ -93,7 +93,7 @@ Lets the user pick a **date** via an interactive calendar.
 
 Displays a list of **devices** (smartphones, tablets, etc.) recognized by mobohubb.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/067d536f8df3cddd2c892f5c57a5cf36dc6c9d9d2970e7052787641fd9daf987-BFE63471-B3F3-4AA8-AAFA-07D2B12346F0.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7e89df96c5aa2c109febd478dfc8c3de8b1fc33f8eb63a8fe588e3ca674d29a4-Screenshot_2025-04-18_at_3.31.17_PM.png" />
 
 **How to set up:**
 
