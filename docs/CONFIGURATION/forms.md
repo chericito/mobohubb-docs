@@ -179,7 +179,7 @@ Displays text that **cannot** be edited by the user.
 
 Allows scanning a **QR code** or **NFC tag**.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/883d60265bb006cc65d837c7c65b25bf5a7fac32e7731d4f6ce7d3779829e486-8D75C50B-51DA-4C95-AC29-494BCA97DFF9.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7448cb6d1716000898aa9f3924ce09556716235f19d4f94e24f171871977f8fc-image.png" />
 
 **How to set up:**
 
@@ -191,7 +191,7 @@ Allows scanning a **QR code** or **NFC tag**.
 
 Lets the user pick an option from a **drop-down list**. You can also activate a “conditional” option to show more fields when a user selects a specific value.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/00ed5510f4593ac56daa72fb6d24b570ad4eeb5750a7139b108315211f6fe2ff-2A66DBE8-CC71-4ED4-8FBE-0FBC5A5BEF94.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/19b450bf0d90cea97c712d231e8679d98e4755f410ef27faa50e3b1f73893004-image.png" />
 
 **How to set up:**
 
