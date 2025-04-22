@@ -308,7 +308,6 @@ By combining these field types, you can create **tailored** forms and checklists
 <Image align="center" className="border" border={true} src="https://files.readme.io/2cc2d0c9c6b0977c24d4bacea8607ed414f28acad6210883a0a9b8e4ed60dac9-image.png" />
 
 * **GPS Coordinate**: Enable or disable geolocation for your form.
-* **Site Map**: Upload an image as a reference at the top of the form.
 * **Media Options**: Allow photos, audio, video, attachments, or scans.
   * **Mandatory Media**: Check if a photo/audio/video is required or optional.
   * **Camera/Gallery**: Let users capture media with their device or choose from gallery (or camera-only mode).
@@ -348,7 +347,7 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/46bda226eeabb14b2850d1ff61da74e945cdde2a141acff944d81c8add09582c-image.png" />
 
-* **Advanced Options**: Adjust GPS usage, site map, media settings, or immediate notification preferences.
+* **Advanced Options**: Adjust GPS usage, media settings, or immediate notification preferences.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d6598529b4c62b35faa2dba8aac462b5c6115422564964718cc90418dd14d03a-image.png" />
 
