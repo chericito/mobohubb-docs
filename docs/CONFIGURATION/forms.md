@@ -334,45 +334,34 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 ## Edit Forms or Checklists
 
-1. **Select** the form(s) or checklist(s) to modify
+1. **Click** the name of the form/checklist you want to modify.
 
-   * You can use filters to locate the one you want.
-   * **Note:** Only one form/checklist can be edited at a time.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6747040a69f611d18b4e1a9f71fb178da8cb299ac39c6965d222de47e9c8bc9-Screenshot_2025-04-22_at_11.22.51_AM.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a7505a5122393d4ab5428b54f22a02ea69facb4a1f50d7d10242b30000f8ee52-image.png" />
-
-2. **Click** **“Edit.”**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b4f598273f33b184f11826cdcd2572d56c635888c1e338e8b6a6099706b0cfe3-image.png" />
-
-3. **Modify** the current data
+2. **Modify** the current data
 
 * **Form Information**: Update prefix, name, tags, visibility, or assigned users.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/420a42bbd4821b182f6842909e9cdf555bf56f0c0c7e15b34c268148dfdefe7f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/74a92ecad8ba7235b35e40fbcc7d8f2aa1abf796d3047febb6ca718e191896b8-image.png" />
 
 * **Form Fields**: Add or remove fields, change field types, names, mandatory status, or conditional settings.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cbc58a3fba1157143542aa2a84081f798cc5ca72ddb9878e6a7e1489c340d8ea-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/46bda226eeabb14b2850d1ff61da74e945cdde2a141acff944d81c8add09582c-image.png" />
 
 * **Advanced Options**: Adjust GPS usage, site map, media settings, or immediate notification preferences.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/64d50f5b4e8c92912fa845384d628f1c313a1d0f1aa8cffc190448119b892634-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d6598529b4c62b35faa2dba8aac462b5c6115422564964718cc90418dd14d03a-image.png" />
 
-4. **Save and Preview**
+3. **Save and Preview**
 
 * When you click **“Save,”** you’ll automatically see a **smartphone preview** of how the form/checklist looks on mobile.
 * **Close** the preview to return to **Forms/Checklists Management**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6b06f804e42a89c6d3fdc6d2d9be843fcbde461c4b3a0a34262e4986c343274f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/25beb2061280b5ca932bd4010385bf4858cc7d78c1600ec08a66bdf7f74058dc-image.png" />
 
 <br />
 
 > **Note:** The preview reflects the mobile app layout for the form or checklist.
->
-> <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bc5d0d5e7bad7a609d60c72a9393e3cccf4a2d7dc504c1b27ca4a997cab316cd-image.png" />
->
-> <br />
 
 ## Delete Forms or Checklists
 
