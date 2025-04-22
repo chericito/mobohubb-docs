@@ -268,44 +268,33 @@ By combining these field types, you can create **tailored** forms and checklists
 
 ## Add Forms or Checklists
 
-1. **Navigate to the Portal’s Top Menu**
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7bb76818925ec19d8c5ee4be1858c617c9891ea0df7c31fec25af5d756f0a697-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-2. **Go to “General Settings”.**
+2. From the **Configuration** section, select **Checklists**.
 
-* Click **Settings** (top menu) or use the side menu.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1fd09da005088e0f98c1a348b43b1334ca734726974fed90792a15ba91e31c6b-Screenshot_2025-04-22_at_11.07.57_AM.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2854be5e03f267054deac41012b3fc16d2a2f55209de2f1e18b525705d7e6903-image.png" />
+2. **Click “Add New”.**
 
-2. **Select “Forms/Checklists”.**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ce4d88dce3703930a28726292f94ce5ecc56f5b5cdadbfb882e2cb5dba9f256d-Screenshot_2025-04-22_at_11.10.22_AM.png" />
 
-   * Within **Configuration**, click **Forms/Checklists**.
+3. **Fill in the Form Information**
 
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/76cf06273a528befb56196cfb14c886d88d4504ab7c6d2860096c5cd2f1da24b-image.png" />
-
-   <br />
-3. **Click “Add New”.**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fa419ada315e0908048636b1e2a17f33ef616884f23bd04f353a3e4d9d1b4b65-image.png" />
-
-4. **Fill in the Form Information**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cd31e73981119942ee43cf5344937b20eb9c6b4d16e20c69aacbccfb1d46028-D0CE6BE8-7889-45D3-BF7A-3B66F2FD88C4.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d9305ff4356192fe0957b1fee24696a5b3a66104b85a1af37fcf36061c0a3f34-Screenshot_2025-04-22_at_11.15.23_AM.png" />
 
 * **Prefix**: A short, unique code (letters, numbers, symbols).
 * **Name**: The form’s title—clear and descriptive.
 * **Tag**: Select a predefined tag if needed.
 * **Visibility**: Choose **web app**, **mobile app**, or both.
-* **Assign Users**: Decide who can fill out this form (individuals or groups). If left empty, will be available for everyone.
+* **Assign Users**: Decide who can complete this form (individuals or groups). If left empty, it will be available for everyone.
 * **Activate**: Check the box to enable the form immediately or leave it unchecked to hide it.
 
 5. **Click “Next”** to Go to “Form Fields”
 6. **Fill In the Form Fields**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7a7043c3ef3c941ee50e4acd2927d8c0287a65decbada6c05ef57a58c5399993-8844C244-4B8B-41CF-8B45-EF20C9658C57.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/878520562f2476aa6a19b054fc3db4b8afd681dbb0941b2c61aaeffac70270c2-image.png" />
 
 * **Add New Fields**: By default, one field exists. Click **“Add new”** to add more.
 * **Configure Field Type**: Choose from text, date, time, select, checkbox, radio, signature, scan, etc.
@@ -313,22 +302,10 @@ By combining these field types, you can create **tailored** forms and checklists
 * **Required**: Mark fields as required (checkbox) or optional.
 * **Conditional Fields**: For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5160de7263bc5b3ffcacc5fd90fbea329d904b93712c8e47ca42876f3d5fe110-image.png" />
-
 5. **Click “Next”** to Go to “Advanced Options”
-
-   * Again, saves your changes and moves to the final **Advanced Options** tab.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d7dec0b236911a4f7e9a0322471e86def43ce5aeb1c155c636ee13703981319b-image.png" />
-
-   <br />
 6. **Fill In Advanced Options**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5479781d7bd9ebc94c5a9c43e22eec6b642f9a4d47f1576441ed206713c9ef48-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} src="https://files.readme.io/2cc2d0c9c6b0977c24d4bacea8607ed414f28acad6210883a0a9b8e4ed60dac9-image.png" />
 
 * **GPS Coordinate**: Enable or disable geolocation for your form.
 * **Site Map**: Upload an image as a reference at the top of the form.
@@ -336,34 +313,24 @@ By combining these field types, you can create **tailored** forms and checklists
   * **Mandatory Media**: Check if a photo/audio/video is required or optional.
   * **Camera/Gallery**: Let users capture media with their device or choose from gallery (or camera-only mode).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/77e73fffeda7d853bd9df571213ddb0a3cfe4492a77348883e69e52951237b7c-image.png" />
-
 5. **Immediate Notification** *(Optional)*
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c18184d76bbfa6272f3c8dcd6c8d79da7137ff87b77e0d5f600b382eb3100b5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/213727a77f6c4195dea136e27937f49a8485e95ed874b6cfadb630e5b9c39472-image.png" />
 
 * Sends an **email alert** upon form submission.
 * Specify **recipients**, **subject**, **body**, **format** (PDF, HTML, Excel), and **attachment name**.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/28bf9b479a77937efd9a387373cf216f688a9af5ff09dfdb590fd41e4897c796-image.png" />
 
 11. **Save** and **Activate Preview**
 
 * Finalize your form settings and see how it **looks** (especially on mobile).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/819c942cc0cd7dfd6686ad85666ddcb734083933b9dfedc5d7e20523edb53328-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/25beb2061280b5ca932bd4010385bf4858cc7d78c1600ec08a66bdf7f74058dc-image.png" />
 
 <br />
 
 > **Note:** The preview reflects how your form or checklist will appear in the **mobile application**.
->
-> > <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c7313f74f2b1d550297ccd5f6a76bd7991b62cf9d3030ebe96b0c6958cfcce8b-image.png" />
 
 Once complete, your **form or checklist** can be accessed by the selected users, who can fill it out according to its defined rules and constraints.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c7313f74f2b1d550297ccd5f6a76bd7991b62cf9d3030ebe96b0c6958cfcce8b-image.png" />
-
-<br />
 
 ## Edit Forms or Checklists
 
