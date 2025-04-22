@@ -365,39 +365,38 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 ## Delete Forms or Checklists
 
-1. **Select** the items to remove
+1. **Select** the items to remove and **Click** "delete".
 
    * Use filters to find them easily.
    * You can select **multiple** forms/checklists at once.
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ada95498d2eb7901d0f653b134024a24269b6a471e5cb7885012d227b24fda8b-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/66beee613657dffa7f96d59c79e6eab78e6c8edb4caa51a5972f295a05b2a0a2-Screenshot_2025-04-22_at_11.36.54_AM.png" />
 
    <br />
 
-2. **Click “Delete.”**
+2. **Confirm and Close**
 
-   * All selected forms/checklists will be discarded.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6a0e98cf464a3ef9af79834e0e52158058ef372110660a9ba262a3c6da843b0e-image.png" />
 
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/953dbed0f7ae271e113d3bbeb01e6229c4d41708d0e8f82a0f70bbe28156bb76-image.png" />
-
-   <br />
-
-3. **Confirm and Close**
-
-   * Verify the count of forms/checklists matches what you intend to remove.
-   * Click **Delete** to finalize.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9eb7cb591342b69bb354501bc932ccaf1aad10838373f1185df17d4dcf0e5398-image.png" />
-
-   <br />
+* Verify the count of forms/checklists matches what you intend to remove.
+* Click **Delete** to finalize.
 
 ***
+
+## Activate/Deactivate Forms or Checklists
+
+1. **Select** the items to activate/deactivate, and click activate/deactivate accordingly.
+
+* Use filters to find them easily.
+* You can select **multiple** forms/checklists at once, but they must have the same status (active or inactive).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d32c72bd3d960af1702be4706dac1b3755549c7ca71f1171fc9e6327018ccbfb-Screenshot_2025-04-22_at_11.42.17_AM.png" />
+
+2. **Confirm and close**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1ee9379fb213aa0a96c4f2438b575cce73bcb37002fe90ffc90eafaaa49246a6-image.png" />
 
 ## Export Forms or Checklists
 
@@ -405,7 +404,7 @@ To export forms/checklists (e.g., for archiving or analysis):
 
 1. **Click “Export”.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c22864de96e4856d5d9de8ef3382cd1eee07d1dcd24d8eab9bbc892c0a5329c9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f64553fb7ef1f5e55255f8689018d2ac77d28f2d519df5b2dabfc4a715aae23b-Screenshot_2025-04-22_at_11.44.49_AM.png" />
 
 2. **Choose** which data to export
 
@@ -413,7 +412,7 @@ To export forms/checklists (e.g., for archiving or analysis):
 * If the file is within size limits, it will **download** to your computer in Excel format.
 * If it exceeds size limits, check the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option in the platform.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fd4774fb2bf5eb163345201bffe5e167caa8c4d7ebb0d03209a30aa08ceea520-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3168ff9a6366c010cc13cd6141b54aaaab6494ba84cbbd215d4f8fee41213053-Screenshot_2025-04-22_at_11.45.55_AM.png" />
 
 Once complete, you’ll have an Excel file containing all relevant data for your forms or checklists.
 
@@ -421,11 +420,11 @@ Once complete, you’ll have an Excel file containing all relevant data for your
 
 1. **Click** the "Import" button.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f8d134ccc7b2a3b329cff6675186eeb9e4279c50a1a73f05e33ed70276dfe1f5-FBD2CFA2-D598-4586-AC7B-2F745688CDD2.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/637b177bd7eec75581f66b48b9be6a7c6e3f48a613da0c2797625f5975cbe761-Screenshot_2025-04-22_at_11.47.07_AM.png" />
 
 2. **Press** "Download Template".
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/24c0f991b7e956102ba80f1afe574d149c6b606047d3cd082269f01d2a582077-88479D85-361C-4701-B98D-4BB10E2D2771.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/88cfa5ea7445dbc36b5cba9619a7526b06e05c8f281146b1df2490f17940220a-Screenshot_2025-04-22_at_11.48.20_AM.png" />
 
 3. **Fill** in the template.
 
