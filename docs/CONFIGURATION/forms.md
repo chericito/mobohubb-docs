@@ -285,7 +285,7 @@ By combining these field types, you can create **tailored** forms and checklists
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d9305ff4356192fe0957b1fee24696a5b3a66104b85a1af37fcf36061c0a3f34-Screenshot_2025-04-22_at_11.15.23_AM.png" />
 
 * **Prefix**: A short, unique code (letters, numbers, symbols).
-* **Name**: The form’s title—clear and descriptive.
+* **Name**: The form’s title should be clear and descriptive.
 * **Tag**: Select a predefined tag if needed.
 * **Visibility**: Choose **web app**, **mobile app**, or both.
 * **Assign Users**: Decide who can complete this form (individuals or groups). If left empty, it will be available for everyone.
