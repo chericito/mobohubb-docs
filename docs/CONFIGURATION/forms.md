@@ -2,7 +2,7 @@
 title: Forms and Checklists
 excerpt: >-
   Discover how to create, edit, delete, and export forms or checklists in
-  Mobohubb. Learn about available field types—from dates and signatures to
+  mobohubb. Learn about available field types—from dates and signatures to
   conditional radio buttons—and advanced options like GPS, media uploads, and
   instant notifications to streamline your data collection process.
 deprecated: false
