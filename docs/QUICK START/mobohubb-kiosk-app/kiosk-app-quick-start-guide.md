@@ -125,7 +125,7 @@ The **Kiosk** login is intended for **Site Managers**, **Organization Managers**
 
 # Changing Sites
 
-After configuring kiosk mode on your device, you may need to switch between sites quickly. mobohubb makes it easy to exit the current site and select a new one, ensuring seamless management across multiple work locations. This flexibility is especially useful when your organization operates in various sites or when shifts need to be managed differently.
+After configuring kiosk mode on your device, you may need to switch between sites quickly. **mobohubb** makes it easy to exit the current site and select a new one, ensuring seamless management across multiple work locations. This flexibility is especially useful when your organization operates in various sites or when shifts need to be managed differently.
 
 1. **Enter PIN 999999** on the kiosk to initiate the site exit process.
 2. **Confirm** the exit when prompted by the system.
