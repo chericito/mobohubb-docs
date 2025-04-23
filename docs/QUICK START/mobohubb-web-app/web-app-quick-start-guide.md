@@ -105,8 +105,6 @@ If you saved a draft instead of submitting, find it in the **menu** on the top-l
 * **Update Draft**: Saves your new changes.
 * **Submit**: Finalizes and sends the draft as a completed form.
 
-> 🚧 Media in Drafts
->
-> The system will not save any media in the drafts.
+> 🚧 The system will not save any media in the drafts.
 
 That’s it! You now know the basics of using **Forms** and **Drafts** in the **mobohubb** Web App.
