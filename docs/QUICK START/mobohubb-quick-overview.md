@@ -1,7 +1,7 @@
 ---
 title: 'mobohubb: Quick Overview'
 excerpt: >-
-  Mobohubb is a powerful deskless workforce platform designed to streamline
+  **mobohubb** is a powerful deskless workforce platform designed to streamline
   communication, collaboration, and management for on-the-go teams—reducing
   paperwork, errors, and costs while boosting productivity. 
 deprecated: false
@@ -29,9 +29,9 @@ next:
 
 mobohubb is a platform to manage and support workers who do not have a fixed desk or who perform their work outside the office. It offers functions and tools to facilitate communication, collaboration, training, scheduling, monitoring, and evaluation of workers without a desk.
 
-## Web App & Mobile App
+## Portal & Mobile App
 
-### Web App
+### Portal
 
 mobohubb’s **Web App** is the central hub for configuring your organization. Administrators can define sites, create and manage tasks, control user access, set up branding, assign scan points, and build forms—all from one place.
 
