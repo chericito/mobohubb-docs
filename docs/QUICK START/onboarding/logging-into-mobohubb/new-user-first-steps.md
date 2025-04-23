@@ -2,10 +2,9 @@
 title: 'New Users: Quick Start Guide'
 excerpt: >-
   Welcome to the **New Users: Quick Start Guide**, where we’ll help you
-  configure your **mobohubb** account from scratch. Once you’ve completed all
-  five steps—**Branding**, **Scan Point**, **Task**, **Form/Checklist**, and
-  **Invite Your Team**—you’ll be ready to manage your deskless workforce
-  effectively.
+  configure your mobohubb account from scratch. Once you’ve completed all five
+  steps—**Branding**, **Scan Point**, **Task**, **Form/Checklist**, and **Invite
+  Your Team**—you’ll be ready to manage your deskless workforce effectively.
 deprecated: false
 hidden: false
 metadata:
