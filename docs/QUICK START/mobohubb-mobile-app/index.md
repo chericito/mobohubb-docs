@@ -1,7 +1,7 @@
 ---
 title: mobohubb Mobile App
 excerpt: >-
-  This guide explains how to download and install the Mobohubb Mobile App on
+  This guide explains how to download and install the **mobohubb** Mobile App on
   both Android and iOS devices.
 deprecated: false
 hidden: false
@@ -14,11 +14,12 @@ metadata:
 
 ***
 
-# Download Mobohubb Mobile App
+# Download mobohubb Mobile App
 
 ## Android
 
-**Download Mobohubb Beta on your Android device**\
+**Download mobohubb Beta on your Android device**
+
 Android devices allow you to install Mobohubb directly from the Google Play Store.
 
 1. **Open Mobohubb beta** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.itroi.mobohubbapp\&pcampaignid=web_share).
@@ -39,10 +40,11 @@ Android devices allow you to install Mobohubb directly from the Google Play Stor
 
 ## iPhone and iPad
 
-**Download Mobohubb Beta on your iOS/iPadOS device**\
+**Download mobohubb Beta on your iOS/iPadOS device**
+
 iOS and iPadOS devices allow you to install Mobohubb directly from the App Store.
 
-1. **Open Mobohubb beta** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
+1. **Open mobohubb** in the [App Store](https://apps.apple.com/us/app/mobohubb-v2/id6503088708?platform=iphone).
 
    <Image align="center" width="30% " src="https://files.readme.io/8e992cb69eeb834e7df1479dcd4765f5bb1eb6e1b6b1e75db3a6de5d2dbef2ac-image.png" />
 
@@ -50,6 +52,6 @@ iOS and iPadOS devices allow you to install Mobohubb directly from the App Store
 
    <Image align="center" width="30% " src="https://files.readme.io/aa0a7455631e509a6df59fab8f64bb1ab77fbb10e13af29a5375cf9f62aa3feb-image.png" />
 
-3. Once installed, **Mobohubb beta is ready to use**.
+3. Once installed, **mobohubb is ready to use**.
 
    <Image align="center" width="30% " src="https://files.readme.io/8b09ffeb75e5d303d2afba8e331b5017d44c9705867ec4baa244cf51a2982335-image.png" />
