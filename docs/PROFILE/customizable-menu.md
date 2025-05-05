@@ -174,7 +174,7 @@ You can **collapse** the entire side menu so that **only icons** are displayed�
 
    ## Collapse Sections
 
-Each **section** within the menu can also be collapsed individually—showing **only the section’s name** or **all contained tools**:
+Each **section** within the menu can also be collapsed individually, showing **only the section’s name** or **all contained tools**:
 
 1. **Collapse a Section**
 
