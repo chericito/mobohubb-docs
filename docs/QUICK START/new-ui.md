@@ -10,7 +10,7 @@ hidden: false
 metadata:
   robots: index
 ---
-<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=ada7ba6c-c6e2-49a7-8769-fc32692d1895&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="New UI - Mobohubb.mp4" />
+<iframe src="https://itroico.sharepoint.com/sites/mobohubb/_layouts/15/embed.aspx?UniqueId=ada7ba6c-c6e2-49a7-8769-fc32692d1895&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="New UI - mobohubb.mp4" />
 
 > **In this guide you'll see**
 >
@@ -97,7 +97,7 @@ Navigate through each tab to visualize all the Core Interface components.
 
 ## Customizable Views
 
-It is now possible to **modify views** in Mobohubb. You can change the displayed columns and hide any data you don’t need. Once customized, you can **save** and **retrieve** your [customizable views](https://mobohubb.readme.io/docs/customizable-views#/) later, avoiding repetitive setups. You can also apply **quick** or **advanced** filters to show only items meeting specific conditions.
+It is now possible to **modify views** in mobohubb. You can change the displayed columns and hide any data you don’t need. Once customized, you can **save** and **retrieve** your [customizable views](https://mobohubb.readme.io/docs/customizable-views#/) later, avoiding repetitive setups. You can also apply **quick** or **advanced** filters to show only items meeting specific conditions.
 
 ## Automatic Pagination
 
@@ -105,4 +105,4 @@ We’ve replaced **traditional pagination** with **automatic pagination**. Simpl
 
 ***
 
-**Enjoy the new, improved Mobohubb interface!** If you have any questions or need assistance, please consult our help center or contact our [support team](https://mobohubb.zendesk.com/hc/en-us/requests/new).
+**Enjoy the new, improved mobohubb interface!** If you have any questions or need assistance, please consult our help center or contact our [support team](https://mobohubb.zendesk.com/hc/en-us/requests/new).

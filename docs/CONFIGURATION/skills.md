@@ -1,7 +1,7 @@
 ---
 title: Skills
 excerpt: >-
-  Manage skills efficiently in Mobohubb. Learn how to add, edit, delete, import,
+  Manage skills efficiently in mobohubb. Learn how to add, edit, delete, import,
   export, and activate/deactivate skills to categorize employee abilities and
   improve task assignments.
 deprecated: false

@@ -204,7 +204,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 * **Click** **"Save"** at the bottom of the form to finalize.
 
-> **Note:** Repeat this procedure for each task. When finished, mark this step complete (3/5). You’re now one step closer to fully setting up your Mobohubb portal!
+> **Note:** Repeat this procedure for each task. When finished, mark this step complete (3/5). You’re now one step closer to fully setting up your mobohubb portal!
 
 12. **Click** on **"Form/Checklist"** to proceed.
 
@@ -320,7 +320,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 * **Organization Administrator**: Has full access to the organization and all its sites.
 * **Site Administrator**: Manages all settings for a specific site but cannot alter other sites.
 * **Billing Administrator**: Manages subscription and billing-related settings.
-* **Editor**: Can edit most settings in the Mobohubb portal.
+* **Editor**: Can edit most settings in the mobohubb portal.
 * **Read-only**: Can view site settings and data but cannot modify them.
 * **Mobile**: Uses the mobile app for tasks like scanning QR codes and filling out reports, but does not have access to the portal.
 

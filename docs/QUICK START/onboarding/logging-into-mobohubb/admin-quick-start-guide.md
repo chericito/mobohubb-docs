@@ -36,7 +36,7 @@ When you log in, a **two-step walkthrough** will guide you through key configura
 
 ## Log in to the Portal (Admin Users)
 
-1. Go to the **Mobohubb Portal** at [app.mobohubb.com](https://beta.mobohubb.com).
+1. Go to the **mobohubb Portal** at [app.mobohubb.com](https://beta.mobohubb.com).
 2. Enter the **username/email and password** you used in the classic portal.
 3. Click **“Sign in.”**
 4. Once logged in, a **two-step walkthrough** will appear.
@@ -56,7 +56,7 @@ You can customize the new portal’s look and feel. The branding data from the c
 
    <br />
 
-   * **Color theme** (Mobohubb defaults to green, but you can change it).
+   * **Color theme** (mobohubb defaults to green, but you can change it).
 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9fea9cc668b1978b0a2e6c6a8841d56deff5651d34ce7f20767267aabf733eca-image.png" />
 
