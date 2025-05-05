@@ -19,17 +19,15 @@ metadata:
 
 1. **Find** the designated tablet or iPad for checking in/out.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8dfff7707933b5263bb280ed0c1d4f3ae23e56e548d4e4f2312839863f1fd75b-Screenshot_20250218_162156_mobohubb_kiosk_1.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/70ae6a8c2f6787de2d12b9923e1241bee83a80a2c6ce62ed5b556a9428b9481f-Kiosk_3.png" />
 
 2. **Enter** your PIN. Contact your Site Manager if you don't know it. Some sites may capture your photo automatically.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/60b2f59addcbdf12f3a49b6160c5c8d96d7780957176c2f88210471d9ac414c5-Diseno_sin_titulo.png" />
+<Image align="center" width="30% " src="https://files.readme.io/72ca515e895c69d13b40787c4800eeebe7bb9f341fe34169fea13426d8fa404c-Kiosk_4.png" />
 
 3. After your confirmation, the system **checks you in**.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/02256e66c201d6d0208e8427d578aeb241859fe5feb8860ce9b00aa24548b164-Screenshot_20250218_162304_mobohubb_kiosk.jpg" />
-
-<br />
+<Image align="center" width="30% " src="https://files.readme.io/5d8de0f14b692359e1ee0bcaf5ec38254c4cbf598adca4739b87e7cd18056cab-Kiosk_5.png" />
 
 ## Take a Break
 
@@ -37,16 +35,18 @@ metadata:
 
 2. **Enter** your PIN. If you’re already clocked in, the kiosk will display options for taking a break or clocking out.
 
-3. **Select** **“Take a rest.”**
+3. **Select** **“Take a break.”**
+
+<Image align="center" width="30% " src="https://files.readme.io/87a791c499ff70cda3e0bced78a4f1d82016c44e94fc2d9e1d19d6630b7776e1-Kiosk_6.png" />
 
 4. **Choose** between **“Rest”** or **“Lunch”** based on the type of break you need.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b674d37a48999515abfbc245c9807d40d90fe7c2610ac36dc131b54b2d8b4e88-Screenshot_20250218_162444_mobohubb_kiosk_1.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/00752732812262d5377a84fc24935fb2fe89b0328e7ee35a4f5072531181be16-Kiosk_7.png" />
 
-5. You are now on a break. The duration of your break depends on your site’s or organization’s settings.
-6. To return from your break, **enter** your PIN again and select **“Return.”**
+5. You are now on a break. The **duration** of your break **depends on your site’s or organization’s settings**.
+6. To return from your break, **enter** your PIN again and select **“End Break.”**
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/42a0cbb7a1a2adfa22d4f9268b0e59f5e378d1e892c7c9f10428a6d8c46571a9-Screenshot_20250218_162514_mobohubb_kiosk.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/c1c5605322c38d7382ec81c5080639f5fe9bf80e0e68835e74939cf11035262a-Kiosk_8.png" />
 
 ***
 
