@@ -224,93 +224,52 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-2. **Fill** in the form.
+2. **Fill in the Form Information**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2a47076fb46c94cd075b2a73cd0ef14efe4daba853051f0c121373f0232367bc-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d9305ff4356192fe0957b1fee24696a5b3a66104b85a1af37fcf36061c0a3f34-Screenshot_2025-04-22_at_11.15.23_AM.png" />
 
-**Create** a prefix *(Optional)*. These prefixes can be identifiers for administrative reasons.
+   * **Prefix**: A short, unique code (letters, numbers, symbols).
+   * **Name**: The form’s title should be clear and descriptive.
+   * **Tag**: Select a predefined tag if needed.
+   * **Visibility**: Choose **web app**, **mobile app**, or both.
+   * **Assign Users**: Decide who can complete this form (individuals or groups). If left empty, it will be available for everyone.
+   * **Activate**: Check the box to enable the form immediately or leave it unchecked to hide it.
 
-* **Assign** a short code to identify your form (letters, numbers, or symbols).
+   5. **Click “Next”** to Go to “Form Fields”
+   6. **Fill In the Form Fields**
 
-**Name** the form.
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/878520562f2476aa6a19b054fc3db4b8afd681dbb0941b2c61aaeffac70270c2-image.png" />
 
-* Provide a clear, concise title that describes its purpose.
+   * **Add New Fields**: By default, one field exists. Click **“Add new”** to add more.
+   * **Configure Field Type**: Choose from text, date, time, select, checkbox, radio, signature, scan, etc.
+   * **Field Name**: The label visible to users (e.g., “Employee ID,” “Comments”).
+   * **Required**: Mark fields as required (checkbox) or optional.
+   * **Conditional Fields**: For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
 
-**Associate** it with a predefined tag *(optional)*.
+   5. **Click “Next”** to Go to “Advanced Options”
+   6. **Fill In Advanced Options**
 
-* For initial setup, you can skip this if you haven’t defined tags yet.
+   <Image align="center" className="border" border={true} src="https://files.readme.io/2cc2d0c9c6b0977c24d4bacea8607ed414f28acad6210883a0a9b8e4ed60dac9-image.png" />
 
-**Select** the users.
+   * **GPS Coordinate**: Enable or disable geolocation for your form.
+   * **Media Options**: Allow photos, audio, video, attachments, or scans.
+     * **Mandatory Media**: Check if a photo/audio/video is required or optional.
+     * **Camera/Gallery**: Let users capture media with their device or choose from gallery (or camera-only mode).
 
-* Assign individuals or groups who can access and fill out the form. If left blank, it will be visible for everyone to complete.
+   7.**Immediate Notification** *(Optional)*
 
-**Choose** the form’s visibility to choose where the form will be available.
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/213727a77f6c4195dea136e27937f49a8485e95ed874b6cfadb630e5b9c39472-image.png" />
 
-* Pick **Web App**, **Mobile App**, or both.
+   * Sends an **email alert** upon form submission.
+   * Specify **recipients**, **subject**, **body**, **format** (PDF, HTML, Excel), and **attachment name**.
 
-2. **Use** the “Next” button to go to “Form Fields”
+   8. **Save** and **Activate Preview**
 
-**Form Fields**
+   * Finalize your form settings and see how it **looks** (especially on mobile).
 
-1. **Add** new fields
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/25beb2061280b5ca932bd4010385bf4858cc7d78c1600ec08a66bdf7f74058dc-image.png" />
 
-   * By default, there is only one field. Click **“Add new”** at the top to include more.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/16b2ae649162062ac9a6f3cae70b482ef0a0c379dce46c42a8edd65591e6ec69-image.png" />
-
-2. **Configure** the [type of field](https://mobohubb.readme.io/docs/forms#/field-types-setup)
-
-* In the configuration area on the right, choose a [field type](https://mobohubb.readme.io/docs/forms#/forms-field-descriptions) (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/86ce86918f6f25e698233a465b4705c8e82e0b111f73a1d722c33f7ad645fcfd-image.png" />
-
-3. **Configure** the name of the field
-
-* Enter a clear, concise name visible to users.
-
-4. **Configure** the mandatory setting
-
-* Decide if users **must** fill it out (required) or can skip it (optional).
-
-5. **Configure** conditional fields *(optional)*
-
-* For fields like **Select** or **Radio**, you can activate a “conditional” option. This lets you show additional fields based on the user’s selection.
-
-6. **Use** the “Next” button to go to “Advanced Options”
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/109d925e8f4fdc865448bed9d2da23effab5fba450e6a13578dd1611542b08c0-image.png" />
-
-7. **Activate** or **deactivate** GPS coordinate
-
-* Decide if the form will record user latitude and longitude.
-
-7. **Set** a site map *(optional)*
-8. **Allow** user access to media options
-
-* Decide if users can add photos, audio, video, attachments, or scans.
-
-8. **Set aside** which media are mandatory
-
-* Choose if photos, audio, or video must be included or can be skipped.
-
-9. **Allow** camera and gallery or camera only
-
-* If **camera & gallery** is chosen, users can take new media or select existing files.
-* If **camera only** is chosen, users will only be able to take new media.
-
-10. **Activate** immediate notification of form execution *(optional)*
-
-* Send an email to the upon form submission. Set this email in the "Report to" field. Specify recipients, subject, body, format (PDF, HTML, Excel), and attachment name.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3c778da90560c337f8827935833b94383d4a4f38f17e8792b724a2e4d5b1229c-image.png" />
-
-<br />
-
-11. **Save** and **Preview**.
-
-<Image align="center" className="border" border={true} width="78% " src="https://files.readme.io/1696c351c46e8f8d03c684f5ada7de562277624dc8fe8068dc23af1c1294ca6f-image.png" />
+   > **Note:** The preview reflects how your form or checklist will appear in the **mobile application**.
 
 > **Note:** After creating your forms or checklists, mark the **fourth step** complete so the setup indicator shows **4/5**.
 
@@ -320,15 +279,15 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 # Invite Your Team
 
-**Inviting users** is the final step in setting up your Mobohubb environment. By assigning roles and permissions, you can segment access across different sites and maintain an organized structure.
+**Inviting users** is the final step in setting up your **mobohubb** environment. By assigning roles and permissions, you can segment access across different sites and maintain an organized structure.
 
 1. **Go** to the Users section and **click** the **“New User”** button.
 
-<Image align="center" className="border" border={true} width="86% " src="https://files.readme.io/4aca6cf483c1b8825ef1059d1db069c18a0c304d4df77e5eb742c14f4757ebf0-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/94744203d5b6f0d98dfb972db063ea64ba43db4f04a8031e89f503b813b93b4f-image.png" />
 
 2. **Enter** the data of the new user and **fill in** the first name and last name fields.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42373787b35afa05ccf99bffa8cedece92680f5ca90c3a9a62f6d94addcd501d-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/419953e3e0bc14395cd771e7d222277d7d82444e30af94421ed887382ddb8fa7-image.png" />
 
 3. **Fill** in the phone number and email address fields. The phone number will be used to receive SMS.
 
@@ -336,14 +295,8 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 4. **Choose** the [security group](https://mobohubb.readme.io/docs/security-groups#/) from the dropdown menu.
 5. **Choose** between invite by SMS or by email by checking the box.
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/668bbaacebe321ba6b719a0a6a102a5d346375989c0e2991cdea9a74106a489f-image.png" />
-
-4. The user will receive an email or SMS with a link to confirm registration.
-5. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
-
-<Image align="center" className="border" border={true} width="78% " src="https://files.readme.io/3a3ea9ed69474e81c033bff2825b4b09e0100e4c34a9df2f000a8c1ab5da4444-image.png" />
-
+6. The user will receive an email or SMS with a link to confirm registration.
+7. **Use** the **“Save”** button at the bottom of the form to store the user’s data.
 8. **Repeat** these steps for each additional user.
 
 > Some organizations have employees at multiple sites. Assigning unique roles at each site helps segment and manage permissions securely.
