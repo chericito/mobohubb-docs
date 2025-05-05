@@ -80,7 +80,9 @@ Tasks are goals or actions that employees carry out as part of their job duties.
 
 * Update **name**, **sequence**, **tags**, **assigned users**, **description**, **meta data**, or **task type**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e74a8a85975aa750820e46796b07e9915c13736f08e1681e64582dcbd9ce464-9BB384EF-DBF2-47BA-B527-6B1F9E4E961B.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8df0506d60a0e525105f2e0d3126321a22f818fb5033689233f26ab016b39adc-image.png" />
+
+<br />
 
 4. **Save your changes**
 
