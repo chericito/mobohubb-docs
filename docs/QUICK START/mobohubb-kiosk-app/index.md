@@ -13,11 +13,11 @@ metadata:
 ---
 The **Kiosk** app in **mobohubb** creates a physical check-in station where employees can manually clock in, clock out, and manage breaks using a dedicated tablet or iPad. By providing a communal device, your organization can centralize attendance records and ensure users follow consistent timekeeping procedures. The kiosk relies on site-based configurations, unique PINs for each user, and optional camera captures for further verification.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/59365653bddebc79fc35eb1e5cac7fdf9faca63394e9316122d44f14c7890ddc-Screenshot_20250218_162156_mobohubb_kiosk.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/b706fff66c889f024dcee9450206ca41308f5ddb622357e63fd8bd73fc8e9aac-Kiosk_3.png" />
 
-Once enabled for a specific site, the kiosk displays a login screen reserved for Site Administrators. After logging in, you can choose which site to manage. The kiosk allows employees to type in their PIN and record work hours by clocking in and out, and breaks. If your site requires photos at clock in/out, employees can capture an image to confirm their identity. The kiosk also supports user-defined break durations and pay rates, seamlessly integrating with the **[Timesheet](https://mobohubb.readme.io/docs/timesheet#/)** feature to track and reconcile total hours worked.
+Once enabled for a specific site, the kiosk displays a login screen reserved for Site Administrators. After logging in, you can choose which site to manage. The kiosk allows employees to type in their PIN and record work hours by clocking in and out, as well as breaks. Employees can capture an image to confirm their identity if your site requires photos at clock in/out. The kiosk also supports user-defined break durations and pay rates, seamlessly integrating with the **[Timesheet](https://mobohubb.readme.io/docs/timesheet#/)** feature to track and reconcile total hours worked.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/60b2f59addcbdf12f3a49b6160c5c8d96d7780957176c2f88210471d9ac414c5-Diseno_sin_titulo.png" />
+<Image align="center" width="30% " src="https://files.readme.io/798e7e146999bc708c5adc9d45ce1166305b7fc9d6fe3ff511bd85c2df076446-Kiosk_4.png" />
 
 Behind the scenes, all clock in/out events entered through the kiosk sync to the **mobohubb** portal, storing data in your [timesheet](https://mobohubb.readme.io/docs/timesheet#/).
 
