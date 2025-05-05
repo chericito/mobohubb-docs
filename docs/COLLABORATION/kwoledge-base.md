@@ -1,5 +1,5 @@
 ---
-title: Knwoledge Base
+title: Knowoledge Base
 excerpt: >-
   Set up and maintain a Knowledge Base within Mobohubb to store and share
   articles and files. Learn how to create, organize, edit, and remove folders
