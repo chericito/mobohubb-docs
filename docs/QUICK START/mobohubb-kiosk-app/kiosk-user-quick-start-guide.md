@@ -58,10 +58,10 @@ Once you have finished your break(s) and are ready to end your shift:
 
 2. **Enter** your PIN. The kiosk will now display the **“Clock Out”** option.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ea2e6a15ceeb1232c4380b2b8ab6bc9a3ccaf824b16060f6f7b57f97251f31be-Screenshot_20250218_162438_mobohubb_kiosk.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/5422f98acc99001cabed1bb68cddcb178d010d8b7521a95161c0c45bf29984c7-Kiosk_9.png" />
 
 3. **Select** **“Clock Out”** to log your end time.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/35dbf88225d98dfd5efbda57d4c9d2e39e8d68554d1b380f1d8984cf94752264-Screenshot_20250218_162544_mobohubb_kiosk.jpg" />
+<Image align="center" width="30% " src="https://files.readme.io/743dae0846d03bae1845b0666aa2a037941c157fe4b416afbac0c3703eeb3085-Kiosk_10.png" />
 
 By following these steps, you can smoothly transition from taking a break back to work, and finally, clock out to complete your shift.
