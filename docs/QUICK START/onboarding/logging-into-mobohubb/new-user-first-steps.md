@@ -220,7 +220,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/9cc707462e025b2818c70ef12fb5813ab11968a3ec84b647fe297388c3f17653-Screenshot_2025-05-05_at_5.10.50_PM.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9cc707462e025b2818c70ef12fb5813ab11968a3ec84b647fe297388c3f17653-Screenshot_2025-05-05_at_5.10.50_PM.png" />
 
    <br />
 
@@ -229,10 +229,15 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d9305ff4356192fe0957b1fee24696a5b3a66104b85a1af37fcf36061c0a3f34-Screenshot_2025-04-22_at_11.15.23_AM.png" />
 
    * **Prefix**: A short, unique code (letters, numbers, symbols).
+
    * **Name**: The form’s title should be clear and descriptive.
+
    * **Tag**: Select a predefined tag if needed.
+
    * **Visibility**: Choose **web app**, **mobile app**, or both.
+
    * **Assign Users**: Decide who can complete this form (individuals or groups). If left empty, it will be available for everyone.
+
    * **Activate**: Check the box to enable the form immediately or leave it unchecked to hide it.
 
    5. **Click “Next”** to Go to “Form Fields”
@@ -241,15 +246,19 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/878520562f2476aa6a19b054fc3db4b8afd681dbb0941b2c61aaeffac70270c2-image.png" />
 
    * **Add New Fields**: By default, one field exists. Click **“Add new”** to add more.
+
    * **Configure Field Type**: Choose from text, date, time, select, checkbox, radio, signature, scan, etc.
+
    * **Field Name**: The label visible to users (e.g., “Employee ID,” “Comments”).
+
    * **Required**: Mark fields as required (checkbox) or optional.
+
    * **Conditional Fields**: For **Select** or **Radio** types, activate “conditional” to display additional fields based on user choices.
 
    5. **Click “Next”** to Go to “Advanced Options”
    6. **Fill In Advanced Options**
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/2cc2d0c9c6b0977c24d4bacea8607ed414f28acad6210883a0a9b8e4ed60dac9-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2cc2d0c9c6b0977c24d4bacea8607ed414f28acad6210883a0a9b8e4ed60dac9-image.png" />
 
    * **GPS Coordinate**: Enable or disable geolocation for your form.
    * **Media Options**: Allow photos, audio, video, attachments, or scans.
@@ -261,6 +270,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/213727a77f6c4195dea136e27937f49a8485e95ed874b6cfadb630e5b9c39472-image.png" />
 
    * Sends an **email alert** upon form submission.
+
    * Specify **recipients**, **subject**, **body**, **format** (PDF, HTML, Excel), and **attachment name**.
 
    8. **Save** and **Activate Preview**
