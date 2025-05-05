@@ -23,18 +23,6 @@ metadata:
 
 ***
 
-![](https://files.readme.io/180a2f35252dd35df7ae4605614c22962dbc213af07dfb906de276372a27fe78-image.png)
-
-![](https://files.readme.io/4e2d37e664ba5bb1d6692895bcf468d1b3adf5f58f51ea43dbae81370477621a-image.png)
-
-![](https://files.readme.io/69f291b15b6968b3c6afd2b47f773245b24dffaca5ad9c2bba226aedd66ec7d1-image.png)
-
-![](https://files.readme.io/f8cd9a2595538be572896f5c648f78422da83958ebc878c2f5d5f5593c03fe97-image.png)
-
-![](https://files.readme.io/f2f3cbcb8e2f0d06f117e41140976b473a253ad177bef15cea14832d89ad9efa-image.png)
-
-<br />
-
 ## Core Interface Components
 
 <Tabs>
