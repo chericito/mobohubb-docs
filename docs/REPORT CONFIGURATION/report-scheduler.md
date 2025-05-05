@@ -26,7 +26,7 @@ A **report scheduler** automatically generates and emails reports on a cadence y
 
 1. From **General Settings → Report Configuration**, choose **Report Scheduler**.
 
-<Image align="center" width="80% " src="https://files.readme.io/8c4f5707adfc1379b3a9734446bddbf05f51f9394fe0258e27edca7c680e9c03-Screenshot_2025-05-05_at_12.01.45_PM.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8c4f5707adfc1379b3a9734446bddbf05f51f9394fe0258e27edca7c680e9c03-Screenshot_2025-05-05_at_12.01.45_PM.png" />
 
 2. Click **Add new**.
 
