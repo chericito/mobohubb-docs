@@ -11,7 +11,7 @@ metadata:
 next:
   pages:
     - slug: logging-into-mobohubb
-      title: Logging into Mobohubb
+      title: Logging into mobohubb
       type: basic
 ---
 **In this page you'll learn**
@@ -57,7 +57,7 @@ The **Mobile App** connects administrators with their deskless workforce. Employ
   </Card>
 
   <Card title="Advanced Technical Support" icon="fa-headset">
-    Mobohubb provides expert support to quickly resolve any issues, along with a revamped UI for a seamless experience.
+    mobohubb provides expert support to quickly resolve any issues, along with a revamped UI for a seamless experience.
   </Card>
 
   <Card title="Enhanced Security & Access" icon="fa-lock">

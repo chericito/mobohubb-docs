@@ -11,7 +11,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Tags are powerful labels that help you organize and filter data in the Mobohubb portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, and apply unique actions.
+Tags are powerful labels that help you organize and filter data in the mobohubb portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, and apply unique actions.
 
 ***
 

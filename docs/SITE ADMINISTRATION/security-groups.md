@@ -20,7 +20,7 @@ Users are individuals who can access the portal and perform actions based on the
 
 <Cards columns={2}>
   <Card title="Organization Administrator" icon="fa-user-shield">
-    Full access to the **organization** and **all sites**. This is the most powerful group, controlling the entire Mobohubb portal.
+    Full access to the **organization** and **all sites**. This is the most powerful group, controlling the entire mobohubb portal.
   </Card>
 
   <Card title="Site Administrator" icon="fa-user-cog">

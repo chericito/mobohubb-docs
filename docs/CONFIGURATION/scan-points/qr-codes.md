@@ -20,7 +20,7 @@ A **QR code** is a machine-readable code consisting of an array of black-and-whi
    * Perfect for organizations that prefer **ready-to-use** codes without manual setup.
 
 2. **Use Templates**
-   * **Download** the **Mobohubb**-provided templates in PDF format, organized by number ranges (e.g., 1–50, 50–100).
+   * **Download** the **mobohubb**-provided templates in PDF format, organized by number ranges (e.g., 1–50, 50–100).
 
    * **Verify** that the QR codes in the file match the numbers you need.
 

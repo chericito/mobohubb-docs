@@ -27,7 +27,7 @@ next:
 
     * How to check your subscription and log in as an administrator
     * How to log in as a user in the mobile app
-    * Quick start guides for new and existing users (migrating from the classic Mobohubb experience)
+    * Quick start guides for new and existing users (migrating from the classic mobohubb experience)
   </Card>
 
   <Card title="Mobile App" href="https://mobohubb.readme.io/v1.2/docs/mobohubb-mobile-app#/" icon="fa-mobile" target="_blank">

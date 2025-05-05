@@ -1,7 +1,7 @@
 ---
 title: Knowledge Base
 excerpt: >-
-  Set up and maintain a Knowledge Base within Mobohubb to store and share
+  Set up and maintain a Knowledge Base within mobohubb to store and share
   articles and files. Learn how to create, organize, edit, and remove folders
   and articles so your team can quickly find and reference important documents
   or policies.

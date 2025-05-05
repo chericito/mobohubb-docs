@@ -172,7 +172,7 @@ To enable or disable existing roles:
 
 ***
 
-This guide ensures efficient **role management** within Mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.
+This guide ensures efficient **role management** within mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.
 
 Roles are now **color-coded**, making it much easier to differentiate and identify them quickly.
 
@@ -325,7 +325,7 @@ To enable or disable existing roles:
 
 ***
 
-This guide ensures efficient **role management** within Mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.
+This guide ensures efficient **role management** within mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.
 
 <br />
 
@@ -479,4 +479,4 @@ To enable or disable existing roles:
 
 ***
 
-This guide ensures efficient **role management** within Mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.
+This guide ensures efficient **role management** within mobohubb, helping administrators **organize users, permissions, and responsibilities** effortlessly.

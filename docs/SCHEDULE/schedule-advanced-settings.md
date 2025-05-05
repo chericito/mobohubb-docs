@@ -194,7 +194,7 @@ Each day may display **alert messages** or **immediate attention** icons if conf
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/87d587627e48db98c7042702637e4273efe12788348b60320efa6018a02a96c1-image.png" />
 
-Mobohubb calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
+mobohubb calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
 
 ***
 

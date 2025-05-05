@@ -1,7 +1,7 @@
 ---
 title: Multi-Factor Authentication (MFA)
 excerpt: >-
-  **MFA** adds an extra layer of security to your Mobohubb portal login by
+  **MFA** adds an extra layer of security to your mobohubb portal login by
   requiring a second method of identification. You can enable either **2-Factor
   authentication with a phone number** or **2-Factor authentication with an
   app-based token**—but **not both simultaneously**.
@@ -20,7 +20,7 @@ metadata:
 
 # Enabling MFA
 
-1. **Open** the Mobohubb portal’s top menu.\
+1. **Open** the mobohubb portal’s top menu.\
    ![](https://files.readme.io/2dde87c7bf14894cb436a9023f89aab832d4aa427c394390e5dfe89eba6619c6-image.png)
 
 2. **Click** **“Profile”.**
@@ -95,4 +95,4 @@ Once deactivated, you’ll return to the standard **username + password** login 
 
 **You’re all set!**
 
-MFA is now successfully integrated into your security routine. Enjoy the added protection for your Mobohubb account.
+MFA is now successfully integrated into your security routine. Enjoy the added protection for your mobohubb account.

@@ -1,7 +1,7 @@
 ---
 title: Dashboard
 excerpt: >-
-  Explore Mobohubb’s redesigned dashboard with global indicators, user activity
+  Explore mobohubb’s redesigned dashboard with global indicators, user activity
   graphs, top forms, schedule summaries, and planned vs. done comparisons.
   Easily filter data by day, week, month, or a custom range to gain deeper
   insights into organizational performance.

@@ -1,7 +1,7 @@
 ---
 title: Tasks
 excerpt: >-
-  Discover how to create, edit, delete, and export tasks in Mobohubb. Learn how
+  Discover how to create, edit, delete, and export tasks in mobohubb. Learn how
   to assign tasks to users, configure types (scan, report, manual), and enable
   Geo-tasks for location-based actions—ensuring your team’s workflow stays
   organized and efficient.

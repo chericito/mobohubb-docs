@@ -51,7 +51,7 @@ You can configure your organization in **two steps**—**Branding** and **Users*
 
 ### Update Users
 
-In the previous system, users accessed the app with a **domain and pin**. Now, **Mobohubb** offers **three** login options for the mobile app:
+In the previous system, users accessed the app with a **domain and pin**. Now, **mobohubb** offers **three** login options for the mobile app:
 
 1. **SMS verification code**: Receives a code via text.
 2. **Email verification code**: Receives a code via email.
