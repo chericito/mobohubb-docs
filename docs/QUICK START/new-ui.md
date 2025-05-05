@@ -31,6 +31,8 @@ metadata:
 
 ![](https://files.readme.io/f8cd9a2595538be572896f5c648f78422da83958ebc878c2f5d5f5593c03fe97-image.png)
 
+![](https://files.readme.io/f2f3cbcb8e2f0d06f117e41140976b473a253ad177bef15cea14832d89ad9efa-image.png)
+
 <br />
 
 ## Core Interface Components
@@ -71,7 +73,7 @@ metadata:
   </Tab>
 
   <Tab title="Organization Selector">
-    <Image align="center" border={true} src="https://files.readme.io/e587a6ebc457ccefdc2367dc5403db0f006247d9dc33f1a247fd3fd695917d34-image.png" width="80%" />
+    <Image align="center" border={true} src="https://files.readme.io/f2f3cbcb8e2f0d06f117e41140976b473a253ad177bef15cea14832d89ad9efa-image.png" width="80%" />
 
     <br />
 
@@ -82,7 +84,7 @@ metadata:
   </Tab>
 
   <Tab title="Main Content">
-    <Image align="center" border={true} src="https://files.readme.io/276e9e9abe53a6c7fb431b3b34622fc9c7679996b376facff218233ae9c7a8b4-image.png" width="80%" />
+    <Image align="center" border={true} src="https://files.readme.io/f8cd9a2595538be572896f5c648f78422da83958ebc878c2f5d5f5593c03fe97-image.png" width="80%" />
 
     <br />
 
