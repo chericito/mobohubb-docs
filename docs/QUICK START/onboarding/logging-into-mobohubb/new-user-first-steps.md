@@ -116,11 +116,11 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 1. **Add a New Scan Point**, and **Click** the "Add New" button.
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5a2a5da4150b8d6b11c66bb56ca546b9c4590a32515b9d3cf8c963037cdc86e6-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3f2e2623f3d0d99c07b9f6ecea9bf1afd054a79b29326732d2f4333059425b9a-image.png" />
 
    * **Fill in** the necessary information.
 
-     <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9f7c89224978483d49ba77614668990a4a9fd3e7f14638f28f29fcc066f66f53-image.png" />
+     <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/289e6a6c65779540bafa57d7b1c2f590292232f3a8481a27951634006c3e2431-image.png" />
 
 2. **Scan Point ID**
    * Assign a unique ID for each scan point that matches a specific QR. This should follow a logical sequence (e.g., sequential numbers) to keep them organized.
@@ -162,7 +162,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/27e6769eae122d8ceb81f02b095fb596e385544995e5440e31a4133835452da3-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/075095afe1a72f584fd4757763d6cf3d8f49b5f41e2d02cdfc90c6006c695b0d-Screenshot_2025-05-05_at_5.08.50_PM.png" />
 
    <br />
 
@@ -170,9 +170,7 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    * **Give** the task a descriptive name.
 
-   <br />
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/dacc3e33612f8c35534993ce6d7ed5774f0538225d56e2a9bd2bc6f13f532284-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42b4fcfce921be6ba47de0ddf0e4a7156947043cdac40d0fd3b76877487611f0-image.png" />
 
    <br />
 
@@ -222,28 +220,35 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/2561f39e4270e68a3be1c5737c7e2efc8faaa67c58151b673c7aecdf192f60e5-image.png" />
+   <Image align="center" className="border" border={true} src="https://files.readme.io/9cc707462e025b2818c70ef12fb5813ab11968a3ec84b647fe297388c3f17653-Screenshot_2025-05-05_at_5.10.50_PM.png" />
 
    <br />
 
-2. **Create** a prefix *(Optional)*. These prefixes can be identifiers for administrative reasons.
-   * **Assign** a short code to identify your form (letters, numbers, or symbols).
+2. **Fill** in the form.
 
-3. **Name** the form.
-   * Provide a clear, concise title that describes its purpose.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2a47076fb46c94cd075b2a73cd0ef14efe4daba853051f0c121373f0232367bc-image.png" />
 
-4. **Associate** it with a predefined tag *(optional)*.
-   * For initial setup, you can skip this if you haven’t defined tags yet.
+**Create** a prefix *(Optional)*. These prefixes can be identifiers for administrative reasons.
 
-5. **Select** the users.
-   * Assign individuals or groups who can access and fill out the form. If left blank, it will be visible for everyone to complete.
+* **Assign** a short code to identify your form (letters, numbers, or symbols).
 
-6. **Choose** the form’s visibility to choose where the form will be available.
-   * Pick **Web App**, **Mobile App**, or both.
+**Name** the form.
 
-7. **Use** the “Next” button to go to “Form Fields”
+* Provide a clear, concise title that describes its purpose.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71ddf2c01c090ef0ebab8059b107d0a984d25b584c97bd1f42298b395b30cfc0-image.png" />
+**Associate** it with a predefined tag *(optional)*.
+
+* For initial setup, you can skip this if you haven’t defined tags yet.
+
+**Select** the users.
+
+* Assign individuals or groups who can access and fill out the form. If left blank, it will be visible for everyone to complete.
+
+**Choose** the form’s visibility to choose where the form will be available.
+
+* Pick **Web App**, **Mobile App**, or both.
+
+2. **Use** the “Next” button to go to “Form Fields”
 
 **Form Fields**
 
@@ -253,13 +258,13 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e0ed25751b8f81ba9ee70275f461865186aafe6d61d58dc53aa65bf69673f21d-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/16b2ae649162062ac9a6f3cae70b482ef0a0c379dce46c42a8edd65591e6ec69-image.png" />
 
 2. **Configure** the [type of field](https://mobohubb.readme.io/docs/forms#/field-types-setup)
 
 * In the configuration area on the right, choose a [field type](https://mobohubb.readme.io/docs/forms#/forms-field-descriptions) (e.g., text, number, date, time, select, checkbox, radio, signature, scan).
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b2695ba2aa43006c4ececdc8245c75c7ea897e5091246ec9c5e554f1476da24-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/86ce86918f6f25e698233a465b4705c8e82e0b111f73a1d722c33f7ad645fcfd-image.png" />
 
 3. **Configure** the name of the field
 
@@ -269,19 +274,15 @@ A [**scan point**](https://mobohubb.readme.io/docs/scan-points#/) is an element 
 
 * Decide if users **must** fill it out (required) or can skip it (optional).
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/af7a19c11a620ccaabb00b5527425e956c8fc256b85baaec2559a1d4e881938f-image.png" />
-
 5. **Configure** conditional fields *(optional)*
 
 * For fields like **Select** or **Radio**, you can activate a “conditional” option. This lets you show additional fields based on the user’s selection.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d61f9a50ea2071647dfa56b0cef1fbfa5c814af7141d390b1f10f945f8659eeb-image.png" />
-
-5. **Use** the “Next” button to go to “Advanced Options”
+6. **Use** the “Next” button to go to “Advanced Options”
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/109d925e8f4fdc865448bed9d2da23effab5fba450e6a13578dd1611542b08c0-image.png" />
 
-6. **Activate** or **deactivate** GPS coordinate
+7. **Activate** or **deactivate** GPS coordinate
 
 * Decide if the form will record user latitude and longitude.
 
