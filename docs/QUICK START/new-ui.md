@@ -25,6 +25,8 @@ metadata:
 
 ## Core Interface Components
 
+Navigate through each tab to visualize all the Core Interface components.
+
 <Tabs>
   <Tab title="Side Menu">
     <Image align="center" border={true} src="https://files.readme.io/180a2f35252dd35df7ae4605614c22962dbc213af07dfb906de276372a27fe78-image.png" width="80%" />
