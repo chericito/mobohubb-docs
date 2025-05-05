@@ -27,6 +27,8 @@ metadata:
 
 ![](https://files.readme.io/4e2d37e664ba5bb1d6692895bcf468d1b3adf5f58f51ea43dbae81370477621a-image.png)
 
+![](https://files.readme.io/69f291b15b6968b3c6afd2b47f773245b24dffaca5ad9c2bba226aedd66ec7d1-image.png)
+
 <br />
 
 ## Core Interface Components
