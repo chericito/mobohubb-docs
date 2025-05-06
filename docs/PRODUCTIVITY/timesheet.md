@@ -105,7 +105,7 @@ This tab extends time records into direct cost data.
 
 * **Payroll by Site**: Summarizes how much time was logged across an entire location, multiple users, and their pay rates. You can edit clock in/out times, hourly rates, and approval statuses, with any changes documented in the audit log.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b08c5f9d9c801952002be450c34824cad85d897fb8b242ff6644200ccb82a1cc-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/7266348df702b297422426f0c43d5877797ccb5d13249585b35f39ba99ef0302-image.png" />
 
 For deeper info on merging hours worked with pay details, refer to the dedicated **[Payroll](https://mobohubb.readme.io/docs/payroll#/)** guide.
 
@@ -155,7 +155,7 @@ From the **Timesheets** tab, you can easily modify the Worked time by clicking o
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/5ed09d9368ee7514729abc217559570ded1fb6d4aa3daa57b369a83bf0e37e20-image.png" />
 
-**Select** the record you want to edit. You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
+**Select** the record you want to edit or **click** on any data in the row. You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/78ed64e9660bcba77cf370bcffd145ac21d39cb3f6db060b6f4337b56a315e39-image.png" />
 
