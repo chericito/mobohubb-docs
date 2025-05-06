@@ -20,15 +20,15 @@ metadata:
 
 # Enabling MFA
 
-1. **Open** the mobohubb portal’s top menu.\
-   ![](https://files.readme.io/2dde87c7bf14894cb436a9023f89aab832d4aa427c394390e5dfe89eba6619c6-image.png)
+1. **Open** the mobohubb portal’s top menu and **click** on **Profile**.
 
-2. **Click** **“Profile”.**
-   * Access your personal information in the profile section.\
-     ![](https://files.readme.io/77bbe559be0433cc706eee1e89ec387ef18e5aee38eb7e19b2934d2f48408960-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/30187c04eb83a7a801db9d512b1177f4e43bd1375c8e6fa0d6bf9b483bf5c627-Screenshot_2025-05-06_at_5.00.09_PM.png" />
 
-3. **Navigate** to **“Security Settings”.**\
-   ![](https://files.readme.io/f06cbaa242017fb5fa67331c83f2a54010653fe640e1406423e52f5c848f3bff-image.png)
+2. **Navigate** to **“Security Settings”.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c48a4d38c8c135ab241086bb31f0c58221bd0fd0ab12f87d912e6301621b83da-image.png" />
+
+<br />
 
 <Tabs>
   <Tab title="Phone Number (2FA)" icon="fa-mobile">
