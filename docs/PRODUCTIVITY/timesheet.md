@@ -176,6 +176,10 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bccb4d6cf0e73a3d6eeaa14cefa50604b703dbc2735440f5ca3bdda6a29d80c4-image.png" />
 
+3. **Save** your entry. It will appear on the entries list.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/113527f0ba49998723725c95ff53e434aca19dab3b7c4b5c7d9ff701c0cbb4e2-image.png" />
+
 ### Payroll by Site
 
 From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
