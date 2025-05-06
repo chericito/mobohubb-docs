@@ -31,6 +31,10 @@ Users can be assigned one or more security groups, each defining a specific set 
 
 ## Steps to Update User Security Settings
 
-1. **Click** the name of the user you wish to personalize.
+1. **Click** the name of the user you wish to modify.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fba1af7d43347606b7a2e73ffac15d00909759ac21a64ffba9d5bde0348f85e7-image.png" />
+
+2. **Navigate** to the **Security** tab.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/60ab5fc667900b846bf399a24ce13043c0ea04d3ab714ebd54d5e02dab83d518-image.png" />
