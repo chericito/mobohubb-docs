@@ -11,19 +11,13 @@ hidden: false
 metadata:
   robots: index
 ---
-**In this guide you'll learn**
+**In this guide you’ll learn**
 
-* [Accessing and Navigating Timesheet](#accessing-and-navigating-timesheet)
-* [Tab Bar Overview](#tab-bar-overview)
-* [Tool Bar Functions](#tool-bar-functions)
-* [Timesheet Tab](#timesheet-tab)
-* [Clock In/Clock Out Tab](#clock-inclock-out-tab)
-* [Payroll by User and Payroll by Site](#payroll-by-user-and-payroll-by-site)
-* [Timesheet Filtering and Searching](#timesheet-filtering-and-searching)
-* [Exporting, Column Customization, and Saving Views](#exporting-column-customization-and-saving-views)
-* [Editing Records and Using Audit Logs](#editing-records-and-using-audit-logs)
-* [Integrations with Schedules, Shifts, and Payroll](#integrations-with-schedules-shifts-and-payroll)
-* [Timesheet as a Foundational Tool](#timesheet-as-a-foundational-tool)
+* Where to **find the Timesheet module** and which roles can access it
+* How each tab—**Timesheets and Payroll by Site**—differs and when to use them
+* How to **filter, search, export, hide/show columns, and save custom views** for quick auditing
+* How to **edit time entries, break durations, and hourly rates** (and trace every change through the Audit Log)
+* How Timesheet data **feeds into payroll calculations** and reconciles with scheduled shifts for accurate cost reporting
 
 ***
 
