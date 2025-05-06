@@ -178,19 +178,23 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 3. **Save** your entry. It will appear on the entries list.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/113527f0ba49998723725c95ff53e434aca19dab3b7c4b5c7d9ff701c0cbb4e2-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/90e6cf62f1c13936cfc77f4ecc9ef71a9e4a574076ed7c8d3bb59c6fa7665050-Screenshot_2025-05-06_at_3.57.07_PM.png" />
 
 ### Payroll by Site
 
+#### Editing an Entry
+
 From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/061894ebfd0664c94900ecbb5c8d4f96993cc23a5e2a82545a553c3b09137d76-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/f154b2a8d2dbd7691b5bbcb09485a5dc45b66f929d0793c0571dc791cc2b2465-Screenshot_2025-05-06_at_3.58.20_PM.png" />
 
 You can edit Clock-in, Clock-out, and Break Time by pressing the Pencil button under the **Actions** column.
 
 <Image align="center" border={true} caption="Worked time" src="https://files.readme.io/cc1a42a7a834ec96aaba48887983d6fee256d236606dd5a254cb60c99f80bd71-image.png" width="60% " />
 
 <Image align="center" border={true} caption="Hourly Rate" src="https://files.readme.io/687bf24a41c0a6d4ebe52d65af68510f1bfafd9b7990b96628e34a09ade79adc-image.png" width="40% " />
+
+#### Adding an Entry
 
 ### Revising Audit Logs
 
