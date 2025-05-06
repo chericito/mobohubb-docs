@@ -15,7 +15,7 @@ You can assign to a user the skills that you have previously defined in the "[Sk
 
 The groups created in the "Certifications" area are used to organize certifications. Certification files must be uploaded in one of the following formats: **doc**, **pdf**, or **docx**.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f6ad7136fe4fbd8a7a801fee25d8efa75bf1966732bbefbeb017466d4b2af802-2BDE38C9-60BC-4ACB-BC14-7D5A593FA8EF.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/be30ef0b4bf44678bcb5dd5002450af82777b1d587ab5a2b000605dc12466eb9-image.png" />
 
 You can add more than one certification or attachments by clicking the "+" button or remove one by clicking the "-" button. When adding a new certification, fill in all the required fields.
 
