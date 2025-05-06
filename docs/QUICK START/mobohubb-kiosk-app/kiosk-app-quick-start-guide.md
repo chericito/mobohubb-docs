@@ -103,7 +103,7 @@ The **Kiosk** login is intended for **Site Managers**, **Organization Managers**
       Enter your <strong>Site Administrator</strong> credentials in the Kiosk app and press <em>“Login.”</em>
     </p>
 
-    <img src="https://files.readme.io/c11a08951425427b78c9cc87e9936bfe157dacb1828700d61fa064a7dd84ded3-Screenshot_20250218_155732_mobohubb_kiosk.png" className="border" border={true} width="25%" />
+    <img src="https://files.readme.io/a9d825738e38774965b900ceaf310462cfd66793ff8f8ee58960dc2365fe9e61-Kiosk_1.png" className="border" border={true} width="25%" />
   </Tab>
 
   <Tab title="Select Site">
@@ -111,7 +111,7 @@ The **Kiosk** login is intended for **Site Managers**, **Organization Managers**
       After logging in, choose one of the <strong>sites</strong> you have enabled for Kiosk. If the list is long, use the search bar to find it quickly.
     </p>
 
-    <img src="https://files.readme.io/ffb015e64f1090d165a220faaf676851fa73c2828feefc795949d8d648449b77-Screenshot_20250218_162126_mobohubb_kiosk.jpg" className="border" border={true} width="25%" />
+    <img src="https://files.readme.io/22c417ff4b161ad75445ccb4e662fd523764e21b815396f218f9f61e29759883-Kiosk_2.png" className="border" border={true} width="25%" />
   </Tab>
 
   <Tab title="Check-In">
@@ -119,7 +119,7 @@ The **Kiosk** login is intended for **Site Managers**, **Organization Managers**
       Once a site is selected, employees can enter their <strong>PIN</strong> to clock in, clock out, and manage breaks.
     </p>
 
-    <img src="https://files.readme.io/5c481143e77f2c2c43e7fc3442125dd2bddc7f992f47bcdac9a3dbccb408a96c-Screenshot_20250218_162156_mobohubb_kiosk.jpg" className="border" border={true} width="25%" />
+    <img src="https://files.readme.io/8e904d641a23b7c9f5e57b90e52ed06387f288ed1404818b0ab6480dee0f5aec-Kiosk_3.png" className="border" border={true} width="25%" />
   </Tab>
 </Tabs>
 
