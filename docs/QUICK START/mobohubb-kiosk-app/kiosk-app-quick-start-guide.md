@@ -134,6 +134,6 @@ After configuring kiosk mode on your device, you may need to switch between site
 
 By following these steps, you can easily switch between sites as your operational needs change.
 
-<img src="https://files.readme.io/b05b6315b30abfcfbbaf2d0f535054c5bd49df7e88e0fd2663cc3eda140e1669-image.png" className="border" border={true} width="25%" />
+<img src="https://files.readme.io/8e904d641a23b7c9f5e57b90e52ed06387f288ed1404818b0ab6480dee0f5aec-Kiosk_3.png" className="border" border={true} width="25%" />
 
 By following these steps and configurations, you ensure a smooth, secure Kiosk setup for your organization, allowing employees to manage attendance and breaks under controlled, auditable conditions.
