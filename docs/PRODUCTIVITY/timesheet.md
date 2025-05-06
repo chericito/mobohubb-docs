@@ -58,23 +58,20 @@ The tab bar lets you move between different sections:
 <Image align="center" className="border" border={true} src="https://files.readme.io/b6689c8bf25c1a5851d2d6545b37da4c484e6aa8387cbb2804ea253506176c99-image.png" />
 
 **Timesheets**: Displays all data in chronological order, including pay rates, hours worked, breaks, and site names.\
-**Clock In/Clock Out**: Focuses on times recorded, leaving out pay information.
-**Payroll by User**: Shows costs at the user level.
 **Payroll by Site**: Presents costs at the site level, covering multiple users.
 
 ***
 
 ## Tool Bar Functions
 
-Located at the top, the tool bar includes:
+Located at the top, the toolbar includes:
 
 <Image align="center" className="border" border={true} width="100% " src="https://files.readme.io/97b02a9f877d20c072eba16e6572718f3989bf7aa2ea41e51b9712d2a01d87d4-02E64E72-FC1B-4DAF-A488-53886443FCD5.png" />
 
-**Filter**: Choose quick or advanced filters to refine data by user, date, device, or tags.\
+**Filter**: Choose quick or advanced filters to refine data by user, date, and role.\
 **Search Bar**: Enter text to find records by name or description.
 **Export Button**: Saves your view into an Excel file.
 **Columns**: Toggle columns on or off for the displayed table.
-**Save View**: Retain your current filter/column setup for easy reuse.
 **Three-Dots Menu**: Access additional options like “Restore View,” which resets everything to default.
 
 ***
@@ -83,7 +80,7 @@ Located at the top, the tool bar includes:
 
 Upon opening Timesheet, you land on the **Timesheets** tab. This section merges all time logs:
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a8cbd92af54a2ad19b6c2f8321bf504d2324916d02f54225ff7f10c77f39329c-EB1F0345-0F28-46DB-AA36-9C60AAE31F35.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/58d642a32021bed881058e2e147116dd7ef2a6debf5a25e3cd4ba7ef302823e0-image.png" />
 
 It may show:
 
@@ -92,10 +89,9 @@ It may show:
 * **User** for who logged the hours.
 * **Device Name** to identify device used.
 * **Date** of the log.
-* **Pay Rate** as specified in the [roles configuration](https://mobohubb.readme.io/docs/roles#/add-roles).
-* **Pay Out** calculated from the rate and hours worked.
 * **Worked Time** minus unpaid breaks.
 * **Break Time** distinguishing paid and unpaid breaks.
+* **Paid Break** time.
 * **Audit Log** offering visibility into modifications.
 * **Site Name** indicating the site name.
 
@@ -103,7 +99,7 @@ It may show:
 
 ***
 
-## Payroll by Site
+## Payroll by Site Tab
 
 This tab extends time records into direct cost data.
 
