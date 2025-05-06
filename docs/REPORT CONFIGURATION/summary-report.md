@@ -36,6 +36,8 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
 
 3. **Configure Basic Options**
 
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/26c7730c2230f2001b971376ae584970c7ddfecfc9401606db2fac8567bd1bbe-image.png" />
+
 * **Recurrence**: Select **daily** or **weekly**.\*
 * **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.\*
 * **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.\*
@@ -47,7 +49,6 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
 * **Start Date**: Set the date to begin sending summaries.\*
 * **End Date**: (Optional) Set the date to stop sending summaries.\*
 * **Active**: Check this box to enable the report. If left unmarked, the report will be deactivated.
-* **Scheduling report**: Finalize and save your scheduling preferences.
 
 > **Note**: If you do not choose a time to send the report, it will **default to 12 AM**.
 
