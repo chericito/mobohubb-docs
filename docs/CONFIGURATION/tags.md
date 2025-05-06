@@ -1,17 +1,16 @@
 ---
 title: Tags
 excerpt: >-
-  **Tags** are a sophisticated feature in mobohubb that helps you segment data,
-  streamline searches, and apply specific actions across multiple sites under
-  one account. Each tag is associated with a color code to make visual
+  Tags helps you segment data, streamline searches, and apply specific actions
+  by site. Each tag is associated with a color code to make visual
   identification quick and easy. Tags can also be category-specific, meaning you
-  can limit their application to certain features only.
+  can limit their application to certain features only. 
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-Tags are powerful labels that help you organize and filter data in the mobohubb portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, and apply unique actions.
+Tags are powerful labels that help you organize and filter data in the **mobohubb** portal—whether it’s tasks, scan points, or forms. Each tag can be assigned a color for quick visual identification and can include category-specific details like city, state, or address. By effectively managing tags, you can streamline searches, and apply unique actions.
 
 ***
 
