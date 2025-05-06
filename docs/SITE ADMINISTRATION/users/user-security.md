@@ -10,8 +10,6 @@ hidden: false
 metadata:
   robots: index
 ---
-# User Security
-
 You can easily modify the permission and usage levels so that a user can access the portal, the mobile app, or both. You can configure roles and tags to associate these parameters with the user, allowing for quick identification and control of the associated device and actions. Please note that to see options in the Role and Tags fields, these must be created beforehand; if not, no options will appear.
 
 Additionally, permissions can vary in the level of actions that a user can perform within the platform.
