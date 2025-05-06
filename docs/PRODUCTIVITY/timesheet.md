@@ -188,11 +188,7 @@ From the **Payroll by Site** tab you can easily modify the records by clicking o
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/f154b2a8d2dbd7691b5bbcb09485a5dc45b66f929d0793c0571dc791cc2b2465-Screenshot_2025-05-06_at_3.58.20_PM.png" />
 
-You can edit Clock-in, Clock-out, and Break Time by pressing the Pencil button under the **Actions** column.
-
-<Image align="center" border={true} caption="Worked time" src="https://files.readme.io/cc1a42a7a834ec96aaba48887983d6fee256d236606dd5a254cb60c99f80bd71-image.png" width="60% " />
-
-<Image align="center" border={true} caption="Hourly Rate" src="https://files.readme.io/687bf24a41c0a6d4ebe52d65af68510f1bfafd9b7990b96628e34a09ade79adc-image.png" width="40% " />
+* You can edit Clock-in, Clock-out, and Hourly Rate by overwriting their contents and pressing **Enter**.
 
 #### Adding an Entry
 
