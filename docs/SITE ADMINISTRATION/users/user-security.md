@@ -34,20 +34,3 @@ Users can be assigned one or more security groups, each defining a specific set 
 1. **Click** the name of the user you wish to personalize.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fba1af7d43347606b7a2e73ffac15d00909759ac21a64ffba9d5bde0348f85e7-image.png" />
-
-**Note:** You can modify only one user at a time.
-
-2. **Click** on the **"Security"** tab.
-3. **Fill in** or modify the following fields:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/75b283f5490cdd7df491c30f717576d829712ca6cb9e3d1e1a414105626b8126-image.png" />
-
-* **Role**: Update the user’s role. *Remember: Role options appear only if roles have been pre-created in the Role configuration menu.*
-* **Security Groups**: Assign one or more security groups to the user to define their access and permitted actions. Each group provides different levels of permissions as listed above.
-* **Device(s)**: Specify the devices from which the user may access the platform.
-* **Type (Based on Targeted Device)**: Specifies which **platform(s)** the user can access—**Mobile App**, **Web App**, or both. For instance, if forms need to be completed on the web version, ensure the user’s type includes **Web App**.
-* Additional settings for mobile and portal web permissions can be configured as needed.
-
-8. **Click** the **"Save"** button to apply your changes.
-
-By updating these settings, you ensure that each user has the appropriate access rights and capabilities within mobohubb.
