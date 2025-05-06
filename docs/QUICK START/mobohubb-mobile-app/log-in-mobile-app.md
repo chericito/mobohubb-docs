@@ -21,14 +21,6 @@ metadata:
 
 Employees must be invited by an **administrator** or **manager** in the mobohubb **Portal**. The admin ensures the user’s **name**, **email**, and **phone number** are **current** in the portal so the user can log in through any of mobohubb’s **authentication methods**.
 
-### No More Domain and Pin
-
-Previously, users needed a domain and pin to logging to the Mobile App. Now, **mobohubb** offers multiple login methods:
-
-* **Username & password**
-* **Email verification code**
-* **SMS verification code**
-
 ***
 
 ## Email Invitation
