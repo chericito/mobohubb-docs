@@ -186,11 +186,13 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
 
+* You can edit **Clock-in**, **Clock-out**, and **Hourly Rate** by overwriting their contents and pressing **Enter**.
+
 <Image align="center" className="border" border={true} src="https://files.readme.io/f154b2a8d2dbd7691b5bbcb09485a5dc45b66f929d0793c0571dc791cc2b2465-Screenshot_2025-05-06_at_3.58.20_PM.png" />
 
-* You can edit Clock-in, Clock-out, and Hourly Rate by overwriting their contents and pressing **Enter**.
+* You can change the **Approval Status** by selecting the appropiate option from the drop-down menu under that column.
 
-#### Adding an Entry
+<Image align="center" className="border" border={true} src="https://files.readme.io/11adc3ff9d3e98380f86460e3247d52f5950f37a55e8a8b31edabd5c1632efba-image.png" />
 
 ### Revising Audit Logs
 
