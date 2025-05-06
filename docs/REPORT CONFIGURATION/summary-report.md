@@ -64,9 +64,7 @@ Once all fields are filled, **click** **Save** to schedule your summary report. 
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/748a60226838b1b570b3e719b288278f55b6c639836f6b18c90496963786c271-7B383F8F-4C0C-4DB2-8B36-1DCD1F5E0DF2.png" />
 
-<br />
-
-2. **Save** your changes.
+3. **Save** your changes.
 
 ## Delete Summary Reports
 
