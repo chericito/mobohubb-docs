@@ -31,7 +31,7 @@ Users can be assigned one or more security groups, each defining a specific set 
 
 1. **Click** the name of the user you wish to modify.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fba1af7d43347606b7a2e73ffac15d00909759ac21a64ffba9d5bde0348f85e7-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d56ea06861fb0ddffaa2b285e5d40837f69097bb801093263b2b7733d03b90c5-image.png" />
 
 2. **Navigate** to the **Security** tab.
 
