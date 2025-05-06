@@ -31,23 +31,14 @@ Users can be assigned one or more security groups, each defining a specific set 
 
 ## Steps to Update User Security Settings
 
-1. **Navigate** to the portal’s top menu.
-
-2. **Go to "General Settings."** Click **Settings** in the top menu to access various configuration options for your organization. You may also use the side menu to access General Settings.
-
-3. **Navigate** to the **"Users"** section. In the Site Administration area, click on **Users**.
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d0305fe3cb6c2011b8ec409df969f79658d62d6349f8e27ce6cf45201fd7cd61-image.png" />
-
-4. **Select** the user you wish to personalize by checking the corresponding box.
+1. **Click** the name of the user you wish to personalize.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fba1af7d43347606b7a2e73ffac15d00909759ac21a64ffba9d5bde0348f85e7-image.png" />
 
-**Note:** You can modify only one user at a time, so do not select multiple users.
+**Note:** You can modify only one user at a time.
 
-5. **Click** on the **"Edit"** button located on the right side of the interface, or click on the **User Name**.
-6. **Click** on the **"Security"** tab.
-7. **Fill in** or modify the following fields:
+2. **Click** on the **"Security"** tab.
+3. **Fill in** or modify the following fields:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/75b283f5490cdd7df491c30f717576d829712ca6cb9e3d1e1a414105626b8126-image.png" />
 
