@@ -41,6 +41,7 @@ Users can be assigned one or more security groups, each defining a specific set 
 * **Security Groups:** Assign one or more security groups to the user to define their access and permitted actions. Each group provides different levels of permissions as listed above.
 * **Device(s):** Specify the devices from which the user may access the platform.
 * **Type (Based on Targeted Device):** Specifies which platform(s) the user can access—Mobile App, Web App, or both. For instance, if forms need to be completed on the web version, ensure the user’s type includes Web App.
+* **User PIN**: 6‑digit numeric code the user enters on the **mobohubb Kiosk** to clock in/out and manage breaks. The PIN is unique per user and can be regenerated or edited here. (If you also set **“Kiosk timer (user)”**, that countdown overrides the site‑wide timer for this specific PIN.)
 * Additional settings for mobile and portal web permissions can be configured as needed.
 
 By updating these settings, you ensure that each user has the appropriate access rights and capabilities within **mobohubb**.
