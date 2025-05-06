@@ -73,23 +73,15 @@ After entering your **username** and **password**, the system prompts you to com
 
 If you need to **disable** multi-factor authentication:
 
-1. **Open** the top menu.\
-   ![](https://files.readme.io/e7b9f5fc7139cbcfc25315829ef348e2ff7a64c8616c1ba1ee1b564cb788d443-image.png)
+1. **Remove** 2FA
 
-2. **Click** **“Profile”.**\
-   ![](https://files.readme.io/aa1d089110ffaf5d1b576eca6135d77ff4caca48e2193f605d2a264aa898d842-image.png)
+   * **Click** **“Remove Two-Factor Authenticator.”**
 
-3. **Go** to **“Security Settings”.**\
-   ![](https://files.readme.io/65002b9d171dd9e3f177c35e994c1fedcb739c2ba7b6a029934fb35484e9c546-image.png)
+   <br />
 
-4. **Remove** 2FA
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/585ff3a5c00b111fc08cfb00950a88b68e660c673d6dba4e58ea556fd5b0f14e-image.png" />
 
-   * **Click** **“Remove Two-Factor Authenticator.”**\
-     ![](https://files.readme.io/74538c1a4f700b8c077320ab37a06bcd44d675d55ab251a0d3e045e03ce5f919-image.png)
-
-   Ensure **both** phone and app-based options are not enabled simultaneously.![](https://files.readme.io/e0c630f86e3e98c7d7ec4c95685fc3c629a801d1365a232cbae6b9d63aa0ad77-image.png)
-
-Once deactivated, you’ll return to the standard **username + password** login flow.
+   Once deactivated, you’ll return to the standard **username + password** login flow.
 
 ***
 
