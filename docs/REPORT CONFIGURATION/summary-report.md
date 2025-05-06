@@ -28,27 +28,26 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
 
    <br />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a9b6c3c854c5d92c05aa9d69c9500982059b0676866e36425974fc95942ccf9e-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2ada26dc136de494b58aa4e176c8f20cad8c9b8caac043f061244d286d86579c-Screenshot_2025-05-05_at_9.25.25_PM.png" />
 
 2. **Click “Add new”.**
 
-   * A new window will open for configuring your summary report.
-
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7429dcf987d2cacffc295324b7d0e1f7ab17ffa350f45236a7b4604aa3697435-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/101f3ae3cac5b3c152851084fd4bb5058a9c2277c1a467290bb57674da3a709d-image.png" />
 
 3. **Configure Basic Options**
-   * **Recurrence**: Select **daily** or **weekly**.\*
-   * **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.\*
-   * **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.\*
-   * **Report To**: Enter recipient email address(es).
-   * **Report CC**: (Optional) Enter additional email addresses for copies.
-   * **Subject**: Enter the email subject line.\*
-   * **Send Time**: Specify the time to send the report (default is **12 AM** if left blank).
-   * **Body**: Provide any text or notes for the email body.\*
-   * **Start Date**: Set the date to begin sending summaries.\*
-   * **End Date**: (Optional) Set the date to stop sending summaries.\*
-   * **Active**: Check this box to enable the report. If left unmarked, the report will be deactivated.
-   * **Scheduling report**: Finalize and save your scheduling preferences.
+
+* **Recurrence**: Select **daily** or **weekly**.\*
+* **Summary Type**: Choose **task**, **forms**, or **scans**. You can choose multiple types.\*
+* **Time Zone**: Specify which time zone the report uses to display data. This will be used when sending out the report.\*
+* **Report To**: Enter recipient email address(es).
+* **Report CC**: (Optional) Enter additional email addresses for copies.
+* **Subject**: Enter the email subject line.\*
+* **Send Time**: Specify the time to send the report (default is **12 AM** if left blank).
+* **Body**: Provide any text or notes for the email body.\*
+* **Start Date**: Set the date to begin sending summaries.\*
+* **End Date**: (Optional) Set the date to stop sending summaries.\*
+* **Active**: Check this box to enable the report. If left unmarked, the report will be deactivated.
+* **Scheduling report**: Finalize and save your scheduling preferences.
 
 > **Note**: If you do not choose a time to send the report, it will **default to 12 AM**.
 
