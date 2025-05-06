@@ -59,7 +59,7 @@ From here, you’ll see a general overview of people’s shifts and a **Clock In
 
 **Payroll by Site** offers a more granular, shift-by-shift breakdown for each user:
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/be07bb709d4551eed1c6808ff3d276069a96e1919a6b939c25b8f5715181a665-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/f154b2a8d2dbd7691b5bbcb09485a5dc45b66f929d0793c0571dc791cc2b2465-Screenshot_2025-05-06_at_3.58.20_PM.png" />
 
 Filter by date range, schedule name, username, and approval status. At least a **date range** is required to see any data. You can also **show/hide** columns using the **“Columns”** button above the report.
 
