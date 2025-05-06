@@ -23,7 +23,7 @@ metadata:
 
 The **Timesheet** feature in **mobohubb** monitors employee hours, including clock-ins, clock-outs, breaks, overtime, and pay.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f3702f7355498f726391f00c10051b30811e962d1cc7855f1fff46de43fb974e-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/825ff253580adb65f14994447e11d5f84ad669f73323f65d2718d53442602e7b-image.png" />
 
 Each record is generated whenever a user clocks in or out in the mobile app—regardless of scheduling. The web portal offers filtering, searching, exporting, and column adjustments, streamlining your capacity to oversee and audit employee time.
 
@@ -55,7 +55,7 @@ Once inside, you’ll see:
 
 The tab bar lets you move between different sections:
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/b6689c8bf25c1a5851d2d6545b37da4c484e6aa8387cbb2804ea253506176c99-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/511fe1a7163124ec62241f5b805932603346254532835fba0611bd72c938bdf2-image.png" />
 
 **Timesheets**: Displays all data in chronological order, including pay rates, hours worked, breaks, and site names.\
 **Payroll by Site**: Presents costs at the site level, covering multiple users.
@@ -145,33 +145,34 @@ This allows you to share or review timesheet data offline. If you’d rather see
 
 Certain fields are editable within Timesheet and Payroll by Site tabs, such as **worked time** or **break durations**. Changing these may affect computed pay.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/23872d3a5396f0726cc6d0f4f6370c22c09906b0848ab59d28e7a1a975fcd9a1-DB2604FD-6DDD-4571-83FF-3410F0F067B2.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/b0b7459b981fdc4f6f89454b4598f1ddc9aa385b3ee886b97a7c5504303486ed-image.png" />
 
 ### Changing Records
 
-**Timesheets tab**
+#### **Timesheets tab**
 
-From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
+1. From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/5ed09d9368ee7514729abc217559570ded1fb6d4aa3daa57b369a83bf0e37e20-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/1c29eea0063eb405e8d1ee11a35e8cd192af17ba565a9d373e7610b3976268d3-image.png" />
 
-**Select** the record you want to edit or **click** on any data in the row. You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
+* For **Entry Time**, you can directly edit the field by writing in it and pressing "Enter".
+* For a detailed edition, **press** the **Pencil button** under the **Actions** column.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/78ed64e9660bcba77cf370bcffd145ac21d39cb3f6db060b6f4337b56a315e39-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/10d7b2eb4381ca23e7c0d63ae0af144984912dcfd73f689c0bfbed3ae60537b1-image.png" />
 
-**Modify** the fields as needed.
+2. **Modify** the fields as needed.
 
-<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/67a9f19e94b0f5c123f1c9b9901b4741beb9b6e4de42717da2fcea3f23970423-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e27684d869ff85f0644db2410325bbb20755310589ff3be66d0c1957e0c06e31-image.png" />
 
-Press **Update** to save your changes.
+3. Press **Update** to save your changes.
 
-**Payroll by Site**
+#### **Payroll by Site**
 
 From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/061894ebfd0664c94900ecbb5c8d4f96993cc23a5e2a82545a553c3b09137d76-image.png" />
 
-You can edit Clock-in, Clock-out and Break Time by pressing the Pencil button under the **Actions** column.
+You can edit Clock-in, Clock-out, and Break Time by pressing the Pencil button under the **Actions** column.
 
 <Image align="center" border={true} caption="Worked time" src="https://files.readme.io/cc1a42a7a834ec96aaba48887983d6fee256d236606dd5a254cb60c99f80bd71-image.png" width="60% " />
 
