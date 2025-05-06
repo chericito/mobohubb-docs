@@ -147,9 +147,9 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/b0b7459b981fdc4f6f89454b4598f1ddc9aa385b3ee886b97a7c5504303486ed-image.png" />
 
-### Changing Records
+### Timesheets tab
 
-#### **Timesheets tab**
+#### Editing an Entry
 
 1. From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
 
@@ -164,9 +164,19 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e27684d869ff85f0644db2410325bbb20755310589ff3be66d0c1957e0c06e31-image.png" />
 
-3. Press **Update** to save your changes.
+3. **Press** **Update** to save your changes.
 
-#### **Payroll by Site**
+#### Adding an Entry
+
+1. **Press** the **Add New** button.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/90ca3e21e29cea91d3252b2c7a8229e24495ff74c70740824ca44081efbaef28-Screenshot_2025-05-06_at_3.50.13_PM.png" />
+
+2. **Fill** in the information. In this example, we are adding a **paid break** from 11:00:00 AM to 11:30:00 AM.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bccb4d6cf0e73a3d6eeaa14cefa50604b703dbc2735440f5ca3bdda6a29d80c4-image.png" />
+
+### Payroll by Site
 
 From the **Payroll by Site** tab you can easily modify the records by clicking over **Clock-in**, **Clock-out**, and **Hourly Rate** (hourly pay will only affect this specific shift. If you want to modify the hourly pay at a general level, please visit our [Roles ](https://mobohubb.readme.io/docs/roles#/add-roles)guide, where you can learn how to do it).
 
