@@ -5,7 +5,7 @@ excerpt: >-
   to add new positions as reference information that can later be associated
   with users, helping to organize and manage your organization's structure.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
