@@ -34,8 +34,6 @@ You can create **daily** or **weekly** Summary Reports containing **scan**, **ta
 
    * A new window will open for configuring your summary report.
 
-   <br />
-
    <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7429dcf987d2cacffc295324b7d0e1f7ab17ffa350f45236a7b4604aa3697435-image.png" />
 
 3. **Configure Basic Options**
