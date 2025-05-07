@@ -57,29 +57,17 @@ To create a new role, follow these steps:
 
 ## **Edit Roles**
 
-To modify an existing role:
+1. **Click** on the name of the role you want to edit.
 
-1. **Navigate to "General Settings" > "Roles".**
-2. **Find the role** you wish to edit (use filters if necessary).
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7981e8b0f8fe2ddf3b8c453998878ed5d559fe1ecf0dfbddbc57a5e790c62504-image.png" />
 
-   * Click directly on the **role name** to edit it instantly.
+2. <br />
 
-   &#x20;
+<Image align="center" className="border" border={true} src="https://files.readme.io/330e6c288a8bdde8006963ff2ed406c62a4bbf91c5d2d835583b40be26dfa7c9-image.png" />
 
-   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bbeac04a71863d695c009befe9999d72216381403c477f80810fccb20fca0d65-image.png" />
-3. **Click the "Edit" button.**
-4. **Modify any relevant details:**
+<br />
 
-   * Role Name
-   * Color
-   * Description
-   * Pay Rate & Overtime Pay Rate
-   * Activation Status
-
-   <Image align="center" className="border" border={true} src="https://files.readme.io/330e6c288a8bdde8006963ff2ed406c62a4bbf91c5d2d835583b40be26dfa7c9-image.png" />
-
-   <br />
-5. **Save and Close.**
+2. **Save and Close.**
 
 ***
 
