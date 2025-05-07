@@ -3,8 +3,7 @@ title: User Password
 excerpt: >-
   Learn how to update and manage user passwords in mobohubb. This guide explains
   how to modify a user's password for the mobile app and web portal via the user
-  profile's Settings tab, ensuring that the new password meets the required
-  security criteria.
+  profile's Settings tab.
 deprecated: false
 hidden: false
 metadata:
