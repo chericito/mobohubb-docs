@@ -28,16 +28,8 @@ Roles are now **color-coded**, making it much easier to differentiate and identi
 
 To create a new role, follow these steps:
 
-1. **Navigate to the portal’s top menu.**
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
 2. **Go to "General Settings".**
-
-   * Click on **Settings** to access configuration options.
-
-   <br />
-
-   <Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/2dc3cbf7f4a9f884677ad68145854ffe93be18becb6cceffda06df5a49b2e4f0-image.png" />
-
-   <br />
 3. **Navigate to "Roles".**
 
    * Click on the **Roles** section within the **Configuration** area.
