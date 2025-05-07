@@ -151,7 +151,7 @@ Certain fields are editable within Timesheet and Payroll by Site tabs, such as *
 
 #### Editing an Entry
 
-1. From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit.
+1. From the **Timesheets** tab, you can easily modify the Worked time by clicking on the specific row you want to edit, or hover over the cell, change its contents, and press **Enter**.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/1c29eea0063eb405e8d1ee11a35e8cd192af17ba565a9d373e7610b3976268d3-image.png" />
 
