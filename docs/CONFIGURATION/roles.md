@@ -41,7 +41,7 @@ To create a new role, follow these steps:
 
 4. **Fill in the required fields**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/e820efae01598539d0dedc48f3aa9cf97d1c16429aab5658b574267d70ef9231-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e820efae01598539d0dedc48f3aa9cf97d1c16429aab5658b574267d70ef9231-image.png" />
 
 * **Role Name**
 * **Color** (choose from available options)
