@@ -45,7 +45,7 @@ Make sure to **select a site** from the site selector:
 
 Once inside, you’ll see:
 
-1. A **Tab Bar** for switching between Timesheets, Clock in/Clock out, Payroll by User, and Payroll by Site.
+1. A **Tab Bar** for switching between Timesheets and Payroll by Site.
 2. A **Tool Bar** for filters, search, export, column customization, saving views, and restoring defaults.
 3. The **Main Content** area displaying records for whichever tab you have open.
 
