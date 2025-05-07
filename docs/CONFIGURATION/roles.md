@@ -71,12 +71,17 @@ To create a new role, follow these steps:
 
 ## **Delete Roles**
 
-1. **Select the roles** you want to delete. You can select multiple roles.
+1. **Select the roles** you want to delete. You can select multiple roles at once.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/835f87f92564845dacf850c94a73ac88297c3cd2891e6dcad08ae8d1b8058437-Screenshot_2025-05-06_at_8.59.43_PM.png" />
+
 2. **Click "Delete".**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/f3ac0f50bc345c9d17f1039cac9eb1344f6dac9a8b96c7526ddd986b99e2dca3-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e6b729ceecb59b068443d1935dd7937e140a54f569ee269f1aea03870a914343-image.png" />
 
-4. **Confirm the deletion.**
+3. **Confirm the deletion.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/452f5166916e32e1e59b377d46275a25c3989bceac235bf2fa304e2389db9425-image.png" />
 
 ***
 
