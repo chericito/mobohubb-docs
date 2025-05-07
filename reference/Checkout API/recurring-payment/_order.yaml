@@ -1,0 +1,7 @@
+- recurringpayment_createcontract
+- recurringpayment_updatecontract
+- recurringpayment_cancelcontract
+- recurringpayment_getacontractshistory
+- recurringpayment_getacontractspayments
+- recurringpayment_getacontract
+- recurringpayment_getacontractsubscription

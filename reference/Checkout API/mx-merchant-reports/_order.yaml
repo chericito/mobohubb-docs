@@ -1,0 +1,11 @@
+- mxmerchantreports_getchargebacksreport
+- mxmerchantreports_getstatementreport
+- mxmerchantreports_getsettlementtransactiondetailreport
+- mxmerchantreports_getdepositsreport
+- mxmerchantreports_getachreturnsreport
+- mxmerchantreports_getexpiredcardsreport
+- mxmerchantreports_getachactivityreport
+- mxmerchantreports_getusersalesreport
+- mxmerchantreports_getusersalessummaryreport
+- mxmerchantreports_getsettlementreport
+- mxmerchantreports_getapitrafficreport
