@@ -36,32 +36,22 @@ To create a new role, follow these steps:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5b1dfd5101eee08b4e03912511b4c2a059661ba9b290eb095368e87bfac8da9a-image.png" />
 
-<br />
+3. **Click on the "Add New" button.**
 
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/250b0934f5f162bdec026b50dec92a2a7c7567438486109dfd02476348e105e2-image.png" />
 
-2. **Click on the "Add New" button.**
+4. **Fill in the required fields**
 
-   * This button is located below the site administration menu.
+<Image align="center" className="border" border={true} src="https://files.readme.io/e820efae01598539d0dedc48f3aa9cf97d1c16429aab5658b574267d70ef9231-image.png" />
 
-   <br />
+* **Role Name**
+* **Color** (choose from available options)
+* **Description**
+* **Pay Rate** (optional, although beneficial for Payroll purposes)
+* **Overtime Pay Rate** (optional, although beneficial for Payroll purposes)
+* **Activate or Deactivate Role**
 
-   <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/3a9e45d28c95aaeb73d33be0b77448cd6c7dd0126634c07fd7964d649324f18f-image.png" />
-
-   <br />
-3. **Fill in the required fields:**
-
-   * **Role Name**
-   * **Color** (choose from available options)
-   * **Description**
-   * **Pay Rate** (optional)
-   * **Overtime Pay Rate** (optional)
-   * **Activate or Deactivate Role**
-
-   <Image align="center" className="border" border={true} src="https://files.readme.io/b0d84a56621643a959e8a04474dacc7133f9b9f925661ac5f7756cda3547ec94-image.png" />
-
-   <br />
-4. **Save and Close.**
+5. **Save and Close.**
 
 > **Note:** Once the role is created, it will be available for assignment in the **User’s Security settings**.
 
