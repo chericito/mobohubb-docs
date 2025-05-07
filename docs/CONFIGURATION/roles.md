@@ -44,7 +44,7 @@ To create a new role, follow these steps:
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e820efae01598539d0dedc48f3aa9cf97d1c16429aab5658b574267d70ef9231-image.png" />
 
 * **Role Name**
-* **Color** (choose from available options)
+* **Color** (useful for Schedule purposes)
 * **Description**
 * **Pay Rate** (optional, although beneficial for Payroll purposes)
 * **Overtime Pay Rate** (optional, although beneficial for Payroll purposes)
