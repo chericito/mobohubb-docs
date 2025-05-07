@@ -10,6 +10,7 @@ metadata:
 
 * What **Report Data** consists of
 * How to **filter** and manage report records
+* How to **view** a specific report
 * How to **export** the current view to Excel
 
 ***
@@ -24,25 +25,25 @@ metadata:
 
 2. **Filter** your data using **quick** or **advanced** filters.
 
-<Image align="center" border={false} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" />
+<Image align="center" border={false} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
 
-<Image align="center" border={false} caption="Advanced filters" src="https://files.readme.io/690bee3c7b39ca0212a44984459a77521be2043b02e1d9d505ea5b1b2b476252-image.png" />
+<Image align="center" border={false} caption="Advanced filters" src="https://files.readme.io/690bee3c7b39ca0212a44984459a77521be2043b02e1d9d505ea5b1b2b476252-image.png" width="80% " />
 
 * **Click** **“Apply”** to confirm the filtering.
 
 3. **Review** the relevant information for each report in the main table.
 
-![](https://files.readme.io/f13f6a6942eac74682c514f911ff95adba812a494b2968a0adc4f67785829858-Screenshot_2025-05-06_at_5.15.18_PM.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f13f6a6942eac74682c514f911ff95adba812a494b2968a0adc4f67785829858-Screenshot_2025-05-06_at_5.15.18_PM.png" />
 
 ## View Entries
 
 To view specific entries, click on the **View** button under the **View** column.
 
-![](https://files.readme.io/e6aeab2ebaef3eeaa19b175b8f5bcc7e617c5dd76734f2528dc6d635bf44f076-image.png)
+<Image align="center" width="80% " src="https://files.readme.io/e6aeab2ebaef3eeaa19b175b8f5bcc7e617c5dd76734f2528dc6d635bf44f076-image.png" />
 
 This will open up a menu where you can see the details included in this report.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/eb4aa603313ec573ce7c1678c7d0cfa7cfcc65a5b5f8d1d27001cf091efd7c38-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb4aa603313ec573ce7c1678c7d0cfa7cfcc65a5b5f8d1d27001cf091efd7c38-image.png" />
 
 ## Export Entries
 
