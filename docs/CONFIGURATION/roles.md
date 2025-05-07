@@ -61,23 +61,18 @@ To create a new role, follow these steps:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7981e8b0f8fe2ddf3b8c453998878ed5d559fe1ecf0dfbddbc57a5e790c62504-image.png" />
 
-2. <br />
+2. **Modify** the role data.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/330e6c288a8bdde8006963ff2ed406c62a4bbf91c5d2d835583b40be26dfa7c9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cec25c26d3dc670a7b5447b1f0308a0a6d0e87c9db191d1e60f0e233fececb7d-image.png" />
 
-<br />
-
-2. **Save and Close.**
+3. **Save and Close.**
 
 ***
 
 ## **Delete Roles**
 
-To remove roles:
-
-1. **Go to "Roles" in General Settings.**
-2. **Select the roles** you want to delete.
-3. **Click "Delete".**
+1. **Select the roles** you want to delete. You can select multiple roles.
+2. **Click "Delete".**
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/f3ac0f50bc345c9d17f1039cac9eb1344f6dac9a8b96c7526ddd986b99e2dca3-image.png" />
 
