@@ -3,8 +3,7 @@ title: Roles
 excerpt: >-
   Learn how to add, edit, delete, export, import, and manage roles in mobohubb.
   This guide covers the color-coded role system, activation/deactivation
-  options, and structured role assignments to optimize user permissions and site
-  management.
+  options, and structured role assignments.
 deprecated: false
 hidden: false
 metadata:
