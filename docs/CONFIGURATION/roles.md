@@ -18,6 +18,8 @@ metadata:
 * Why you might **activate or deactivate** roles based on organizational changes
 * Best practices for **editing** or **removing** roles that are no longer needed
 
+***
+
 Roles are now **color-coded**, making it much easier to differentiate and identify them quickly.
 
 ***
