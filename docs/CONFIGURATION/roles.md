@@ -57,7 +57,7 @@ To create a new role, follow these steps:
 
 ## **Edit Roles**
 
-1. **Click** on the name of the role you want to edit.
+1. **Click** on the name of the role you want to modify.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7981e8b0f8fe2ddf3b8c453998878ed5d559fe1ecf0dfbddbc57a5e790c62504-image.png" />
 
@@ -82,6 +82,24 @@ To create a new role, follow these steps:
 3. **Confirm the deletion.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/452f5166916e32e1e59b377d46275a25c3989bceac235bf2fa304e2389db9425-image.png" />
+
+***
+
+## **Activate or Deactivate Roles**
+
+1. **Select** the roles you want to activate/deactivate. You can select multiple roles, but they all must have the same status.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e22b600813c352b08754e31fed2955d8ff67a90ab7fb46ed3bdccc27d80ebf80-Screenshot_2025-05-06_at_9.05.41_PM.png" />
+
+2. **Choose "Activate" or "Deactivate" based on your selection.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d88cadb575b368fb13dcbaab959db54304310587d1f874d44cbc299d322082ec-image.png" />
+
+3. **Confirm the changes.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c77b04efed2cda601c3c6902375b3067066f1123516d0aa442e81aec454a1219-image.png" />
+
+> **Tip:** Check the **Role Status Column** to verify activation or deactivation.
 
 ***
 
@@ -122,17 +140,3 @@ To bulk upload roles:
 5. **Send** the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
 ***
-
-## **Activate or Deactivate Roles**
-
-To enable or disable existing roles:
-
-1. **Go to "Roles" in General Settings.**
-2. **Select the roles you wish to modify.**
-3. **Choose "Activate" or "Deactivate".**
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/741d4f9fb8cd0b5991cd293fb4c4d2cbe44bd69e50a0eb209d4a75ffa901daa2-image.png" />
-
-4. **Confirm the changes.**
-
-> **Tip:** Check the **Role Status Column** to verify activation or deactivation.
