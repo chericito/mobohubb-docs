@@ -29,17 +29,18 @@ Roles are now **color-coded**, making it much easier to differentiate and identi
 To create a new role, follow these steps:
 
 1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
-2. **Go to "General Settings".**
-3. **Navigate to "Roles".**
 
-   * Click on the **Roles** section within the **Configuration** area.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
 
-   <br />
+2. From the **Configuration** section, select **Roles**.
 
-   <Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/d998626aa4368ea4116a75ec1fdcb5ea83163357a6b5d110fbee9b878e48fffc-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5b1dfd5101eee08b4e03912511b4c2a059661ba9b290eb095368e87bfac8da9a-image.png" />
 
-   <br />
-4. **Click on the "Add New" button.**
+<br />
+
+<br />
+
+2. **Click on the "Add New" button.**
 
    * This button is located below the site administration menu.
 
@@ -48,7 +49,7 @@ To create a new role, follow these steps:
    <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/3a9e45d28c95aaeb73d33be0b77448cd6c7dd0126634c07fd7964d649324f18f-image.png" />
 
    <br />
-5. **Fill in the required fields:**
+3. **Fill in the required fields:**
 
    * **Role Name**
    * **Color** (choose from available options)
@@ -60,7 +61,7 @@ To create a new role, follow these steps:
    <Image align="center" className="border" border={true} src="https://files.readme.io/b0d84a56621643a959e8a04474dacc7133f9b9f925661ac5f7756cda3547ec94-image.png" />
 
    <br />
-6. **Save and Close.**
+4. **Save and Close.**
 
 > **Note:** Once the role is created, it will be available for assignment in the **User’s Security settings**.
 
