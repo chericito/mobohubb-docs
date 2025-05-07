@@ -37,7 +37,11 @@ metadata:
 
 ## View Entries
 
-To view specific entries, click on the **View** button under the **View** column.
+To view a report's specific entries, click on **Doc** button under the **Entries** column.
+
+## View Reports
+
+To view specific reports, click on the **View** button under the **View** column.
 
 <Image align="center" width="80% " src="https://files.readme.io/e6aeab2ebaef3eeaa19b175b8f5bcc7e617c5dd76734f2528dc6d635bf44f076-image.png" />
 
@@ -45,7 +49,7 @@ This will open up a menu where you can see the details included in this report.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/eb4aa603313ec573ce7c1678c7d0cfa7cfcc65a5b5f8d1d27001cf091efd7c38-image.png" />
 
-## Export Entries
+## Export Data
 
 1. **Select** one or more entries and **Click** the **Export** button.
 
