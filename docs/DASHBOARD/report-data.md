@@ -15,7 +15,7 @@ metadata:
 
 ***
 
-**Report Data** displays the details and content of generated reports in **mobohubb**, including titles, summaries, graphs, tables, and citations. You can access, edit, export, or delete reports by going to the **“Reports”** menu and selecting the desired report.
+**Report Data** displays the details and content of generated reports in **mobohubb**. You can access, edit, export, or delete reports by going to the **“Reports”** menu and selecting the desired report.
 
 ## Manage Report Data
 
