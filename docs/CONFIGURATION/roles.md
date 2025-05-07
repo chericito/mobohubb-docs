@@ -123,10 +123,14 @@ To create a new role, follow these steps:
 
 1. **Click "Import".**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/3d16651c1149f5781989cc34e11a9345451e7e920d5be0a7c943d1f3fda39962-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3d16651c1149f5781989cc34e11a9345451e7e920d5be0a7c943d1f3fda39962-image.png" />
 
-3. **Download the Excel template.**
+3. **Press** **Download template.**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/43e5dbe0449d860bb6f781d7e4e5f074f2708772539a4abf30ebf70f31c52914-image.png" />
+
 4. **Fill in the template with role details.**
-5. **Send** the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
 
-***
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/765d93acd89e734722e89cc233b4616eed93ed65b628cdf6805d55b2cb2d1100-image.png" />
+
+5. **Send** the completed template with the required information to [support ](https://mobohubb.zendesk.com/hc/en-us/requests/new)so that we can assist you with the import process.
