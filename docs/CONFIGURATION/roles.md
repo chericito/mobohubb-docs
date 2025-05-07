@@ -105,19 +105,15 @@ To create a new role, follow these steps:
 
 ## **Export Roles**
 
-To export role data:
+1. **Click on "Export".**
 
-1. **Go to "Roles" in General Settings.**
-2. **Click on "Export".**
-3. **Choose the export option:**
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1ade3ca9310f7eda2921e0ec6c4eb0d204200d2f1d347ba6f4355613ba68eb5c-image.png" />
 
-   * **All Data**
-   * **Current View Only**
+2. **Select** **Export Data** or **Export Current View**. You can also export a selection by checking their box.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/83579c6ca76bf06c653f20ed5dd3b168e1b17a0a4ea1c48b28af4ccaf2dfdfe1-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/00bf37fa23763f03d85b02276aefed1af0c655413e26e70678bfc71f2e94647f-image.png" />
 
-   <br />
-4. **Download the Excel file.**
+3. **Download the Excel file.**
 
 > **Note:** If the report file is too large, it will be available in the **[Downloads](https://mobohubb.readme.io/docs/downloads#/)** of the platform.
 
