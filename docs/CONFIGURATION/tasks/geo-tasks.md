@@ -67,7 +67,6 @@ Enter coordinates as two numbers (longitude, latitude) separated by a comma. You
    * **Task Sequence**: A unique number or code identifying the task.
    * **Tag**: (Optional) Link a predefined tag for easier organization.
    * **Users**: Select individuals or groups to assign the task.
-   * **Site map**: Optionally add images or guidelines related to the location.
    * **Address**: Enter GPS coordinates or a completed site address.
 
 2. **Check the Task Type**
