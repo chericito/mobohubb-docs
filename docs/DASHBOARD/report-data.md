@@ -45,17 +45,15 @@ This will generate a list of entries submitted to the report. Each column repres
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4ee353f4b40edc331482ca4647c08c87cc37c505d148724a8e57b8b8184e4c08-image.png" />
 
-<br />
-
 ### Download Entries
 
-* To download an **individual report**, select the **Download** icon located in the corresponding row.
+To download a **single** report entry, click the **Download** icon in the **Download** column:
 
-<img src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" width="80%" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" />
 
-* To retrieve **multiple reports simultaneously**, mark the desired entries by checking their boxes, then click **Export**.
+To retrieve **multiple** entries simultaneously, select their checkboxes and click **Export**:
 
-<img src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" width="80%" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" />
 
 ## View Reports
 
