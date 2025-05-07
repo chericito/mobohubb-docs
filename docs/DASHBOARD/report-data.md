@@ -25,9 +25,9 @@ metadata:
 
 2. **Filter** your data using **quick** or **advanced** filters.
 
-<Image align="center" border={false} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
+<Image align="center" border={true} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
 
-<Image align="center" border={false} caption="Advanced filters" src="https://files.readme.io/690bee3c7b39ca0212a44984459a77521be2043b02e1d9d505ea5b1b2b476252-image.png" width="80% " />
+<Image align="center" border={true} caption="Advanced filters" src="https://files.readme.io/690bee3c7b39ca0212a44984459a77521be2043b02e1d9d505ea5b1b2b476252-image.png" width="80% " />
 
 * **Click** **“Apply”** to confirm the filtering.
 
@@ -38,6 +38,24 @@ metadata:
 ## View Entries
 
 To view a report's specific entries, click on **Doc** button under the **Entries** column.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ac6b9c7ce2896b0e853daa99cec38c6da6219efe4153bf14335a3b858955e4e9-Screenshot_2025-05-07_at_4.19.05_PM.png" />
+
+This will generate a list of entries submitted to the report. Each column represents the field populated by the user and provides you with all the data, including text and media files.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4ee353f4b40edc331482ca4647c08c87cc37c505d148724a8e57b8b8184e4c08-image.png" />
+
+<br />
+
+### Download Entries
+
+* To download an **individual report**, select the **Download** icon located in the corresponding row.
+
+<img src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" width="80%" />
+
+* To retrieve **multiple reports simultaneously**, mark the desired entries by checking their boxes, then click **Export**.
+
+<img src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" width="80%" />
 
 ## View Reports
 
