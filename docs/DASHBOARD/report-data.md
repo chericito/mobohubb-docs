@@ -67,15 +67,37 @@ This will open up a menu where you can see the details included in this report.
 
 ## Export Data
 
-1. **Select** one or more entries and **Click** the **Export** button.
+### Export PDF
+
+This option will let you download a PDF version of each report
+
+### Export Current View
+
+This option will let you download an Excel containing all the reports submitted on your site. Each row will contain relevant information such as the Report UID (Unique Identifier), Report Name, and the last submission time for that report.
+
+**Select** one or more entries and **Click** the **Export** button. If you selected one or more rows, the system will download Excel files with your selected data. If you selected none, the system will download all the data on that list.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/f5f08d94486c19bf8a3048237023001c21bd38798418fd1ae3765cc4bd539433-image.png" />
 
-2. **Click** **“Export”.** This will provide you with different options for downloading your files: PDF or Excel. If you didn't check any box, you can select "Export All Entries" filtered.
+If you want to download a specific view, filter the results using the quick or advanced filters available.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/cd9c6e579565e8c235e1769323d72269378116d25a5c7ccacc352a7dfaed6f1a-Screenshot_2025-05-06_at_5.24.04_PM.png" />
+<Image align="center" border={true} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
 
-3. **Choose** an option.
+2. **Click** **“Export Current View”.**
 
-* If the file is within size limits, your **Excel** download starts immediately.
+![](https://files.readme.io/cc658ad2da9673da2c394158cfcf64b056c26a32d0a6ccfd7b5bdfa90f67e714-image.png)
+
+<br />
+
+* If the file is within size limits, your download starts immediately.
 * If it’s too large, you’ll find the file in the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option on the platform.
+
+### Download Entries
+
+To download a **single** report entry, click the **Download** icon in the **Download** column:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" />
+
+To retrieve **multiple** entries simultaneously, select their checkboxes and click **Export**:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" />
