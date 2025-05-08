@@ -5,7 +5,7 @@ excerpt: >-
   information whenever a mobile device sends an alert—capturing the scanning
   point, location, and timestamp of the alert.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
