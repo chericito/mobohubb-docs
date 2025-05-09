@@ -120,9 +120,13 @@ Second, you need to filter the reports by name. All reports must match in name.
 
 ![](https://files.readme.io/a1b86c448ff25cf2f450b2856968fd7520ebb0bf0eaec3de6ccc4cea4523b5c1-image.png)
 
-You can now click on **Export** and then **Export All Entries** from the Export dropdown menu.
+You can now click on **Export** and then **Export All Entries** from the Export dropdown menu. This will download the Excel file with all entries for all the selected reports.
 
 ![](https://files.readme.io/1d2a69e7cf8e9ff0216d6bd114ed97029345638df16ee8d55b4206df9eb1e51a-image.png)
+
+If you don't filter by time range and Notification, you will see some error messages asking you to filter the results.
+
+![](https://files.readme.io/844a62d73abba2851e7c9dd23deb87419f08454e0ccc3b45e3f2831e114b8253-image.png)
 
 <br />
 
