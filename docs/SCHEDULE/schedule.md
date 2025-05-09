@@ -146,6 +146,12 @@ Configure how **portal users** (administrators) and **mobile users** (employees)
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/057e13f8da6b191192af2a624e8944f6b1c081654d9ea0c7d7ce214c31e6f25b-image.png" />
 
+### Template Management Tab
+
+This tab provides an overview of all the templates you've created. Use it as a reference to manage your templates. You can delete one or more templates at a time.
+
+<Image align="center" className="border" border={true} width="80%" src="https://files.readme.io/e2cca0af72bf32f7ac3b9f26b29ff63cfa7c98f4cecda2cbbf925ecc26747ab8-image.png" />
+
 ## Add Multiple Users
 
 In **mobohubb**, only users already associated with the schedule can be assigned shifts. If you need to include additional individuals in a specific schedule, follow these steps:
