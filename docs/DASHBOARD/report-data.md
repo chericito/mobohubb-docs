@@ -45,16 +45,6 @@ This will generate a list of entries submitted to the report. Each column repres
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4ee353f4b40edc331482ca4647c08c87cc37c505d148724a8e57b8b8184e4c08-image.png" />
 
-### Download Entries
-
-To download a **single** report entry, click the **Download** icon in the **Download** column:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" />
-
-To retrieve **multiple** entries simultaneously, select their checkboxes and click **Export**:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" />
-
 ## View Reports
 
 To view specific reports, click on the **View** button under the **View** column.
@@ -74,80 +64,70 @@ This will open up a menu where you can see the details included in this report.
 
 ### Export PDF
 
-This option will let you download a PDF version of each report in the current list. This PDF will contain each entry (submission) to the report for each report that you selected.
+Export PDF produces a single PDF for every report currently displayed. Each file includes **all** entries (submissions) that match your filter settings. Before exporting several reports at once, open **Filters → Quick filters** and apply a **time range**—for example, a custom “Last 30 Days” window. Choosing an explicit range avoids accidental offsets like “Last Month,” which counts backward from yesterday.
 
-You can select just one or multiple reports, depending on the need. However, if you want to download multiple reports, there is a prerequisite that you must comply with.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/40f79be2b53b777933ae4a18215ee8065ef5668ba12b313a50bb5bef11af2e1f-image.png" />
 
-First, from the Filters tool, from the Quick filters, select a time range. You can select a day, week, month, year, or a custom time range. **We strongly recommend** using the custom time range for exact time ranges. For example, if you use the "last month" option, it will start counting from yesterday backwards 30 days, and not the immediate last month.
+Once the date filter is in place, select **Export PDF**.
 
-![](https://files.readme.io/40f79be2b53b777933ae4a18215ee8065ef5668ba12b313a50bb5bef11af2e1f-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7011cc49e8d87a16a5e94a7334ba38493f61950e0848e57a5875f6c7c785a3fa-Screenshot_2025-05-08_at_9.08.30_PM.png" />
 
-After selecting the time range, you can now press **Export PDF**, and all reports with all their entries will download.
+If no range is set, the system blocks the export and displays a prompt:
 
-![](https://files.readme.io/7011cc49e8d87a16a5e94a7334ba38493f61950e0848e57a5875f6c7c785a3fa-Screenshot_2025-05-08_at_9.08.30_PM.png)
-
-**If you don't select a time range and press Export PDF, an error message will appear.**
-
-![](https://files.readme.io/00d8f9d8143edc0841d4247adea445568cf3c62574f2345f77b8cf3f71b147f5-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/00d8f9d8143edc0841d4247adea445568cf3c62574f2345f77b8cf3f71b147f5-image.png" />
 
 ### Export Current View
 
-This option will let you download an Excel containing all the reports submitted on your site. Each row will contain relevant information such as the Report UID (Unique Identifier), Report Name, and the last submission time for that report.
-
-**Select** one or more entries and **Click** the **Export** button. If you selected one or more rows, the system will download Excel files with your selected data. If you selected none, the system will download all the data on that list.
+Export Current View delivers an Excel file that mirrors the exact table on-screen, including any quick or advanced filters, column arrangements, or custom sorting. Tick individual rows first if you want only specific reports; leave every box unchecked to capture the full list.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/f5f08d94486c19bf8a3048237023001c21bd38798418fd1ae3765cc4bd539433-image.png" />
 
-If you want to download a specific view, filter the results using the quick or advanced filters available.
+Improve precision by refining the quick or advanced filters before exporting.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" />
 
-You can now **Click** **“Export Current View”.**
+Afterward, choose **Export → Export Current View**.
 
-![](https://files.readme.io/cc658ad2da9673da2c394158cfcf64b056c26a32d0a6ccfd7b5bdfa90f67e714-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cc658ad2da9673da2c394158cfcf64b056c26a32d0a6ccfd7b5bdfa90f67e714-image.png" />
 
-> **Remember:** This will only download the list of reports and not their entries. If you want to download entries, try using the "Export PDF" option or exporting individual entries using the Entries Column for each report, or using the "Export All Entries" option from the "Export" dropdown menu, explained below.
+Remember: this option lists reports only—entries inside each report are excluded. For full submissions, use **Export PDF** or **Export All Entries**.
 
 ### Export All Entries
 
-You can download an Excel file with all entries from multiple reports. However, there are a few prerequisites that you must comply with.
+This choice produces an Excel file containing every entry from multiple reports, but two conditions must be met beforehand. First, use **Quick filters** to apply a **time range** exactly as you did for Export PDF.
 
-First, from the Filters tool, from the Quick filters, select a time range. You can select a day, week, month, year, or a custom time range. **We strongly recommend** using the custom time range for exact time ranges. For example, if you use the "last month" option, it will start counting from yesterday backwards 30 days, and not the immediate last month.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e0fa1d2d266da72d0899ccc3df50720ac6a0d4ccb812c8b87ff182ca188cce6-image.png" />
 
-![](https://files.readme.io/2e0fa1d2d266da72d0899ccc3df50720ac6a0d4ccb812c8b87ff182ca188cce6-image.png)
+Second, filter the **Report Name** so every item in view shares the same title.
 
-Second, you need to filter the reports by name. All reports must match in name.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a1b86c448ff25cf2f450b2856968fd7520ebb0bf0eaec3de6ccc4cea4523b5c1-image.png" />
 
-![](https://files.readme.io/a1b86c448ff25cf2f450b2856968fd7520ebb0bf0eaec3de6ccc4cea4523b5c1-image.png)
+Now open **Export → Export All Entries** to download a consolidated spreadsheet.
 
-You can now click on **Export** and then **Export All Entries** from the Export dropdown menu. This will download the Excel file with all entries for all the selected reports.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1d2a69e7cf8e9ff0216d6bd114ed97029345638df16ee8d55b4206df9eb1e51a-image.png" />
 
-![](https://files.readme.io/1d2a69e7cf8e9ff0216d6bd114ed97029345638df16ee8d55b4206df9eb1e51a-image.png)
+**Missing a time range or a report name filter triggers a warning**:
 
-If you don't filter by time range and Notification, you will see some error messages asking you to filter the results.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/844a62d73abba2851e7c9dd23deb87419f08454e0ccc3b45e3f2831e114b8253-image.png" />
 
-![](https://files.readme.io/844a62d73abba2851e7c9dd23deb87419f08454e0ccc3b45e3f2831e114b8253-image.png)
+### Export Specific Entries from a Report
 
-<br />
+To isolate a single submission (or multiple), start by narrowing the list to one report and click **View Entries** under the **Entries** column.
 
-### Export Specific Entries from a report
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b3c1a73a9609f2ae8911acc2b85bcb93e9201a60f748c60943853c6343f91dd5-image.png" />
 
-You can download a specific entry from a specific report by filtering the desired report and clicking the "View Entries" button under the "Entries" column.
+A detailed table of entries appears:
 
-![](https://files.readme.io/b3c1a73a9609f2ae8911acc2b85bcb93e9201a60f748c60943853c6343f91dd5-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/634fc25174b0f06b44e11d7af5bf9c11642603175ae9e8cbd41301911771b4fd-image.png" />
 
-You will see a list of all entries submitted for this report.
+In the **Download** column, press the **download** icon beside any row to receive a PDF for that individual submission.
 
-![](https://files.readme.io/634fc25174b0f06b44e11d7af5bf9c11642603175ae9e8cbd41301911771b4fd-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/abf830182ed2bb6a15ed62bdac14b725b7c158307648578ac03d61121f571c27-image.png" />
 
-**Navigate** to the**Download** column and press the **Download** button for the desired entry. This will download a PDF file containing the data of that entry.
+To retrieve several at once, check their boxes (or use the top-left master checkbox) and choose **Export → Export PDF**. The system compiles every selected entry into a single PDF package.
 
-![](https://files.readme.io/abf830182ed2bb6a15ed62bdac14b725b7c158307648578ac03d61121f571c27-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/34f9867275e1fe85402f90697bdd945aec907a79e419dcab9ba54d0096cb494b-Screenshot_2025-05-08_at_8.56.31_PM.png" />
 
-To retrieve **multiple** entries simultaneously, select at least two checking their checkboxes, or all entries by checking the first checkbox on the left, and click **Export** and then **Export PDF**. This will download a PDF file with all selected entries.
+**Attempting an export without selecting any rows triggers a Warning**:
 
-![](https://files.readme.io/34f9867275e1fe85402f90697bdd945aec907a79e419dcab9ba54d0096cb494b-Screenshot_2025-05-08_at_8.56.31_PM.png)
-
-If you don't select any and press "export" and then "Export PDF", an error message will appear.
-
-![](https://files.readme.io/bbfb2c5a3010f8074ea8aeb3348115504142e5a8d73f50c09970364446787b7e-Screenshot_2025-05-08_at_9.00.49_PM.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bbfb2c5a3010f8074ea8aeb3348115504142e5a8d73f50c09970364446787b7e-Screenshot_2025-05-08_at_9.00.49_PM.png" />
