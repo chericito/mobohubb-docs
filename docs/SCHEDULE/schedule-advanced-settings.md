@@ -11,6 +11,14 @@ hidden: false
 metadata:
   robots: index
 ---
+**In this section you’ll learn**
+
+* How to fine-tune a schedule’s **Mobile Settings** (shift acceptance windows, time-off rules, claims, replacements, check-in options).
+* How to set **Default Values** such as week start-day, standard hours, and maximum hour limits.
+* How to configure **Notification Rules** so portal and mobile users receive email, SMS, or push alerts for key scheduling events.
+
+***
+
 **Scheduling** is a **mobohubb** tool that enables assigning jobs or shifts to each user while simplifying oversight. With a well-organized schedule, you can efficiently allocate resources, uphold high-quality customer service, and enhance productivity.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/5e9e92577fb82c8ccd9d23ee3e7ce02fb23885ea22f6843848b1af059fc5af53-Scheduling_-_Weekly_view_by_employees_1.png" />
