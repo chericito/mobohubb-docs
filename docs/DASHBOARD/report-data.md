@@ -23,7 +23,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71c0bd60d48412c02c4c0f362264048fd13859c2a6a5db914357461363cb9f07-Screenshot_2025-04-03_at_11.28.48_AM.png" />
 
-3. This view contains all the reports and entries for your site.
+3. This **view** contains all the reports and entries for your site.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1df05289aaa6d0b6811b95fe4cfb16dc0a20c15faa626938cbfac5bed9f87086-image.png" />
 
@@ -104,7 +104,7 @@ First, use **Quick filters** to apply a **time range** exactly as you did for Ex
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e0fa1d2d266da72d0899ccc3df50720ac6a0d4ccb812c8b87ff182ca188cce6-image.png" />
 
-Second, filter the **Report Name** so every item in view shares the same title.
+Second, filter by **Report Name** so every item in view shares the same title.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a1b86c448ff25cf2f450b2856968fd7520ebb0bf0eaec3de6ccc4cea4523b5c1-image.png" />
 
