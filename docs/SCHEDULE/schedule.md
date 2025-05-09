@@ -42,8 +42,6 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/0c5c7c4f187101facffa7de8ed578f7ba0f59e6fc7ee98973e3fd5ccf015a247-Screenshot_2025-05-09_at_5.36.56_PM.png" />
 
-<br />
-
 ### General Tab
 
 * **Name**: Specify the schedule’s name.
@@ -55,7 +53,7 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7c13e02e19be26c4e21692a9a91210148fc4e1b2240351004fc9503c6be270a4-image.png" />
 
-* **Admin User**: Designate an administrator for this schedule.
+* **Admin User**: Designate one or multiple administrators for this schedule. (los administradores recibirán las notificaciones y las solicitudes de aprobación de requests o de  unassigned shifts.)
 
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/d21dc27428c7409b623f3ff0d8fc8dda9ed705cf8413ea29482a573e62312f11-image.png" />
 
