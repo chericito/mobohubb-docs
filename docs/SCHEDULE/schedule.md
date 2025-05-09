@@ -198,7 +198,7 @@ Use the **search bar** to quickly locate specific names or roles.
 
 You can only delete schedules with no data records. This is to ensure that critical information is not lost.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/1c95b182238e292a219ce61eb6e1cf4be629fd04768a1b798321ad95cbe79bc7-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f23b04f5ce23555826f4d53a98a2c442a54a67132775ab06ae829181100b8cc5-image.png" />
 
 1. From the **Schedules** list, **check** the schedule(s) you want to remove.
 2. **Click** **“Delete”**.
