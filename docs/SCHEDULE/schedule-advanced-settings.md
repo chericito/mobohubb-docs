@@ -13,6 +13,8 @@ metadata:
 ---
 **Scheduling** is a **mobohubb** tool that enables assigning jobs or shifts to each user while simplifying oversight. With a well-organized schedule, you can efficiently allocate resources, uphold high-quality customer service, and enhance productivity.
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/5e9e92577fb82c8ccd9d23ee3e7ce02fb23885ea22f6843848b1af059fc5af53-Scheduling_-_Weekly_view_by_employees_1.png" />
+
 ## Pay Rate Calculation
 
 **mobohubb** calculates a user’s pay rate based on **two different settings**:
@@ -166,6 +168,19 @@ The **Add New** button includes multiple scheduling features:
 * **Add Multiple Shifts** (see “Add Multiple Shifts” section)
 * **Add Users to the Schedule** (see “Add Users to the Schedule” section)
 
+### Grid Buttons
+
+Inside every schedule cell, you’ll find two quick-add actions: **New Shift** and **Add from Template**.
+
+<Image align="center" border={true} caption="New Shift" src="https://files.readme.io/029638d6560010774d43bdb5a94bbdfa7953c12c9d64ed6293808b68daafd114-image.png" />
+
+<Image align="center" border={true} caption="Add from template" src="https://files.readme.io/a4ef7651029d55ef950e64a0aa501762dd0f8ae0068d834614f800ec6f7ff85b-image.png" />
+
+* **New Shift** opens a blank form where you define title, role, date, time, tasks, and any other details from scratch.
+* **Add from Template** lets you drop a pre-configured shift into the grid—ideal for recurring patterns or standardized roles.
+
+Use whichever option suits the moment: start fresh when a shift is unique, or pull from templates to populate the day in seconds.
+
 ***
 
 ## Schedule Bar
@@ -182,7 +197,7 @@ In day, week, month, or list view, the **View Options** button can hide specific
 
 Each day may display **alert messages** or **immediate attention** icons if conflicts arise (e.g., a not-accepted shift or missed shift). The schedule typically flags:
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5e186453b22d15e4bb892d06cb99ebda3772c5a0ba99f0cba22afaadb694877c-image.png" />
+![](https://files.readme.io/20e0cff35f34e0c6540c122b716771f3afde822303300c4987a269d55a998909-Screenshot_2025-05-09_at_4.53.35_PM.png)
 
 <br />
 
