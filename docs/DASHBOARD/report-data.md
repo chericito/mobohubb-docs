@@ -23,6 +23,10 @@ metadata:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/71c0bd60d48412c02c4c0f362264048fd13859c2a6a5db914357461363cb9f07-Screenshot_2025-04-03_at_11.28.48_AM.png" />
 
+3. This view contains all the reports and entries for your site.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1df05289aaa6d0b6811b95fe4cfb16dc0a20c15faa626938cbfac5bed9f87086-image.png" />
+
 2. **Filter** your data using **quick** or **advanced** filters.
 
 <Image align="center" border={true} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
@@ -94,7 +98,9 @@ Remember: this option lists reports only—entries inside each report are exclud
 
 ### Export All Entries
 
-This choice produces an Excel file containing every entry from multiple reports, but two conditions must be met beforehand. First, use **Quick filters** to apply a **time range** exactly as you did for Export PDF.
+This choice produces an Excel file containing every entry from multiple reports, but two conditions must be met beforehand.
+
+First, use **Quick filters** to apply a **time range** exactly as you did for Export PDF.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e0fa1d2d266da72d0899ccc3df50720ac6a0d4ccb812c8b87ff182ca188cce6-image.png" />
 
