@@ -197,18 +197,19 @@ In day, week, month, or list view, the **View Options** button can hide specific
 
 Each day may display **alert messages** or **immediate attention** icons if conflicts arise (e.g., a not-accepted shift or missed shift). The schedule typically flags:
 
-![](https://files.readme.io/20e0cff35f34e0c6540c122b716771f3afde822303300c4987a269d55a998909-Screenshot_2025-05-09_at_4.53.35_PM.png)
-
-<br />
+![](https://files.readme.io/94335e1354d10aa30bfcf08cf03e58228e4b1786520c449312ba17ef24d0a347-image.png)
 
 * **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or not-accepted shifts.
 * **Alert (Yellow)**: Incomplete tasks, uncalculated cost (missing fee), or exceeding hour limits.
+* **Informative (Blue)**: Time off, or unavailability.
 
 #### Hours and Total Cost
 
+![](https://files.readme.io/47a741b84c0c40ac22aad8b861c814f67f7f18b8095aa47d0354e43561f0e0c0-image.png)
+
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/87d587627e48db98c7042702637e4273efe12788348b60320efa6018a02a96c1-image.png" />
 
-mobohubb calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
+**mobohubb** calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
 
 ***
 
