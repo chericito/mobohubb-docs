@@ -99,6 +99,10 @@ Navigate through each tab to visualize all the Core Interface components.
 
 It is now possible to **modify views** in mobohubb. You can change the displayed columns and hide any data you don’t need. Once customized, you can **save** and **retrieve** your [customizable views](https://mobohubb.readme.io/docs/customizable-views#/) later, avoiding repetitive setups. You can also apply **quick** or **advanced** filters to show only items meeting specific conditions.
 
+## Customizable Menu
+
+mobohubb now lets you **tailor the side-navigation menu** to match each site’s needs. Administrators can **show, hide, or reorder** menu items—such as Tasks, Forms, Schedule, or Knowledge Base—to keep only the most relevant features at users’ fingertips. After you design a layout, simply **save** it so every user in that site sees the same streamlined menu. Visit **[Customizable Menu](https://mobohubb.readme.io/docs/customizable-menu#/)**.
+
 ## Automatic Pagination
 
 We’ve replaced **traditional pagination** with **automatic pagination**. Simply **scroll** to load more items—there are no longer “Next” or “Previous” buttons. This offers a seamless browsing experience, allowing you to see all elements in a list without manual page changes.
