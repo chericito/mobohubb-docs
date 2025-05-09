@@ -35,16 +35,18 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 
    <br />
 
-   <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b5836a1807fda89fdae9db1ed826e5cedd32a2677ac806884b1e046cfeda52d6-image.png" />
+   <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2e21f2fc0ea1df4bf19ec02338766b0321a2f96bf775b0fd8bcba7affebc6fea-image.png" />
 
    <br />
 4. **Click** **“Add new”.**
 
-   * You’ll see the **General**, **Mobile Settings**, **Default Values**, **Notifications** and **Template Management** tabs.
+<Image align="center" className="border" border={true} src="https://files.readme.io/c6bb82e57968d884ff8bdb87c076709d4f465fe8825e370a87defb30d7bc49fc-image.png" />
 
-   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/f1bce6a9b90a052038f3536ee27197ff570a89e8a5cf981162cb07f546c566e6-image.png" />
+5. A new configuration menu will appear.
 
-   <br />
+<Image align="center" className="border" border={true} src="https://files.readme.io/0c5c7c4f187101facffa7de8ed578f7ba0f59e6fc7ee98973e3fd5ccf015a247-Screenshot_2025-05-09_at_5.36.56_PM.png" />
+
+<br />
 
 ### General Tab
 
