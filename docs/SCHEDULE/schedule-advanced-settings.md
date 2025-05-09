@@ -138,12 +138,11 @@ Access user requests (e.g., **Time Off**, **Claim Shift**, **Replacement Request
 
 Within the scheduler, clicking **“Actions”** reveals various operations. Visit our dedicated guide on [Actions](https://mobohubb.readme.io/docs/schedule-actions#/).
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74dcb6cae3a4fd2cf7df22f7de297d51f98e9e04dd73e8763fa738104e0ae3e3-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/844290595a1f96ac71c85409e9a27c01605f66bfece9cc245d32927ce325de8d-image.png" />
 
 * **Unpublish Week**: Converts published shifts to drafts, hiding them from mobile users.
 * **Copy Form Template**: Opens a window with ready-to-use templates.
 * **Clear Week**: Deletes all **not started** shifts in the current view.
-* **Remove Assignments**: Marks all shifts as unassigned, letting users claim them.
 * **Save as Week Template**: Saves the present week’s layout as a reusable template.
 * **Copy Previous Week**: Brings over last week’s shifts into the current week.
 * **Add or Edit Unavailability**: Manage the times users are marked as unavailable.
