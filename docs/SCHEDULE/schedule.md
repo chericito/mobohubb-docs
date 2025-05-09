@@ -61,15 +61,19 @@ The **Schedule** feature in **mobohubb** helps you assign jobs or shifts to each
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/ba9e466ddab5e222b29fad6d892edfa4defbbf6c4181f2a0c79e2442cfd33082-image.png" />
 
-* **Active**: Check to mark the schedule as “active".
+* **Active**: Check to mark the schedule as “active". (Debería estar marcado por defecto en activo, al desactivarlo desaparece de forma predeterminada de la lista de schedules)
 
 Press "**Save**" to continue to the next tab.
 
 ### Mobile Settings Tab
 
+This section has two tabs: Requests and Check in/ Check out. Make sure to configure both.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/d4ba8ca0b2d519df2aa08843763af42d4501fef137a311d0bffb9dcb620e0c1a-image.png" />
+
 #### Requests (Time off, Claim shift, Replacement)
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cd0bfb3c479a2255e34931439908109fe9af556fb91907d8a6687365769a5486-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/4ec675542ccf3b668d743c2a6b41e3f1d9041160fe8e1f4201df2e70af18c5ec-image.png" />
 
 <br />
 
@@ -82,15 +86,17 @@ Press "**Save**" to continue to the next tab.
   * **Requires admin approval**: If checked, an admin must confirm before the request is valid.
 * **Shift Replacement**:
   * **Enable** shift replacement request.
-  * **Replacement requires admin approval**: If checked, admin must confirm.
+  * **Replacement requires admin approval**: If checked, the admin must confirm.
 * **Claim Shifts**:
   * **Enable** users to claim shifts.
   * **Time window**: Days/hours/minutes before the shift when claims are no longer allowed.
-  * **Claim requires admin approval**: If checked, admin must confirm claims.
+  * **Claim requires admin approval**: If checked, the admins must confirm claims.
 
 #### Check-in / Checkout
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/39998c48d42cf5e9c104b6bb4c615cff1792c10ad46a7d6cb73ba01b2aaa5fd7-image.png" />
+mencionar que de forma predeterminada esta integrado al reloj.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/ebfea6f82d7db20a1bc9b428879ff669986f870d4d2db359e5c0a4afd4e31bf2-image.png" />
 
 * **Allow** users to check in via clock in/out in the mobile app.
 * Or **automatically** start/end the shift when the scheduled time arrives.
@@ -99,40 +105,47 @@ Press "**Save**" to continue to the next tab.
 
 ### Default Values Tab
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/acfc7d4e2ad93a03d38e4e59b9ff9bd0bec428d1794a12be707da44ea22f58ea-image.png" />
+This section has two tabs: Time Settings and Work Schedule. Make sure to configure both.
 
-* **Work Schedule**:
-  * **Max hours per user per week**: Enter a number to limit weekly hours.
-  * **Max hours per user per day**: Limit daily hours.
-  * **Max hour enforcement**: Prevents adding shifts that exceed these values.
+<Image align="center" className="border" border={true} src="https://files.readme.io/2dad70001367c35be2507452767d8b498d7b7eb840706f26c456a0bb07da1eeb-Screenshot_2025-05-09_at_6.04.08_PM.png" />
+
+#### **Time Settings**
+
+In this tab you can configure certain things about the week and working hours.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/bdd0f8cbf40d9ca1b5bb41dfedb6a7116795e56c506fbc4ba07eff61e23f53d9-image.png" />
+
+* Week starts: select the day when the week starts
+* Default shift length: set the time quantity of hours per default shift
+* Work hours from/to: set the working hours schedule, for example, from 8 am to 5 pm.
+
+#### **Work Schedule**
+
+In this tab, you can configure the max hours per week, day, and max hour enforcement.
+
+![](https://files.readme.io/d1b635faa707a6dd1a7f7ee0ae7322e7b8410d34595b76aeddb85ed3dd76df08-image.png)
+
+<br />
+
+* **Max hours per user per week**: Enter a number to limit weekly hours.
+* **Max hours per user per day**: Limit daily hours.
+* **Max hour enforcement**: Prevents adding shifts that exceed these values.
 
 Click **Save** to confirm.
 
 ### Notification Tab
 
-Configure how **portal users** (administrators) and **mobile users** (employees) receive alerts about schedule events. For each event, check or uncheck to send **Email**, **SMS**, or **push notifications**:
+Configure how **portal users** (administrators) and **mobile users** (employees) receive alerts about schedule events. For each event, check or uncheck to send **Email**, **SMS**, or **push notifications**. (@mencionar que por defecto las notificaciones apagadas. para los sms). Make sure to configure both.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/50158da6ec78ac484bdc53951c4bd81a084007c51980db49c46225099fa18325-image.png" />
 
 #### Portal Users (Admins)
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/a3df013bd445323e3058a1531901ea604b2b068d527eace7d49980226989772f-image.png" />
-
-* User has accepted/declined a shift
-* User missed a shift
-* User claimed/unclaimed a shift
-* User requested time off, a shift replacement, or checked in to a shift
-* Reminders for users failing to accept shifts or check in on time
+<Image align="center" className="border" border={true} src="https://files.readme.io/39c7c423cbf051b28262d12caef546714aa24f6523d78f2d74f91296c965aebd-image.png" />
 
 #### Mobile Users
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b47767bb6a66b33f2bd7e9e052749cc42520de225170cc332840dfddaf416f91-image.png" />
-
-* Shift was published/removed/edited
-* Request approved/rejected
-* Claim approved/rejected
-* User did not check in or missed a shift
-* User did not accept a shift in time
-
-When done, **click** **“Save.”**
+<Image align="center" className="border" border={true} src="https://files.readme.io/057e13f8da6b191192af2a624e8944f6b1c081654d9ea0c7d7ce214c31e6f25b-image.png" />
 
 ## Add Multiple Users
 
