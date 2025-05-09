@@ -69,7 +69,19 @@ This will open up a menu where you can see the details included in this report.
 
 ### Export PDF
 
-This option will let you download a PDF version of each report
+This option will let you download a PDF version of each report in the current list. This PDF will contain each entry (submission) to the report for each report that you selected.
+
+You can select just one or multiple reports, depending on the need. However, if you want to download multiple reports, there is a prerequisite that you must comply with.
+
+First, from the Filters tool, from the Quick filters, select a time range. You can select a day, week, month, year, or a custom time range. **We strongly recommend** using the custom time range for exact time ranges. For example, if you use the "last month" option, it will start counting from yesterday backwards 30 days, and not the immediate last month.
+
+![](https://files.readme.io/40f79be2b53b777933ae4a18215ee8065ef5668ba12b313a50bb5bef11af2e1f-image.png)
+
+**If you don't select a time range and press Export PDF, an error message will appear.**
+
+![](https://files.readme.io/00d8f9d8143edc0841d4247adea445568cf3c62574f2345f77b8cf3f71b147f5-image.png)
+
+After selecting the time range, you can now press **Export PDF**, and all reports with all their entries will download.
 
 ### Export Current View
 
@@ -81,23 +93,37 @@ This option will let you download an Excel containing all the reports submitted 
 
 If you want to download a specific view, filter the results using the quick or advanced filters available.
 
-<Image align="center" border={true} caption="Quick Filters" src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" width="80% " />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/182d6286c64abc2f6c9b00c488ff5e26a9747e5bc9da70d4f9891b1d25e6f9dd-image.png" />
+
+<br />
 
 2. **Click** **“Export Current View”.**
 
 ![](https://files.readme.io/cc658ad2da9673da2c394158cfcf64b056c26a32d0a6ccfd7b5bdfa90f67e714-image.png)
 
-<br />
-
 * If the file is within size limits, your download starts immediately.
 * If it’s too large, you’ll find the file in the **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** option on the platform.
 
+**Remember: This will only download the list of reports and not their entries. If you want to download entries, try using the "Export PDF" option or exporting individual entries using the Entries Column for each report, or using the "Export All Entries" option from the "Export" dropdown menu, explained below.**
+
 ### Download Entries
 
-To download a **single** report entry, click the **Download** icon in the **Download** column:
+You can download a specific entry from a specific report by filtering the desired report and clicking the "View Entries" button under the "Entries" column.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fdb6b1d2dddd9cb4bbdbda44f5dc4f1479d3c4da493a07895d5d97ce447f81cc-image.png" />
+![](https://files.readme.io/b3c1a73a9609f2ae8911acc2b85bcb93e9201a60f748c60943853c6343f91dd5-image.png)
 
-To retrieve **multiple** entries simultaneously, select their checkboxes and click **Export**:
+You will see a list of all entries submitted for this report.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/146cac02e20dceb88422fcd5423aa37094898320c65477660eabd660c3b1a3d6-image.png" />
+![](https://files.readme.io/634fc25174b0f06b44e11d7af5bf9c11642603175ae9e8cbd41301911771b4fd-image.png)
+
+**Navigate** to the**Download** column and press the **Download** button for the desired entry. This will download a PDF file containing the data of that entry.
+
+![](https://files.readme.io/abf830182ed2bb6a15ed62bdac14b725b7c158307648578ac03d61121f571c27-image.png)
+
+To retrieve **multiple** entries simultaneously, select at least two or more entries by checking their checkboxes and click **Export** and then **Export PDF**. This will download a PDF file with all selected entries.
+
+![](https://files.readme.io/34f9867275e1fe85402f90697bdd945aec907a79e419dcab9ba54d0096cb494b-Screenshot_2025-05-08_at_8.56.31_PM.png)
+
+<br />
+
+If you don't select any, an
