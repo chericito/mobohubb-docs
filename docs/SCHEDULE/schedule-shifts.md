@@ -92,9 +92,13 @@ A **blue alert icon** indicates shift or user-associated time off or unavailabil
 
 An **activity icon** showing associated tasks, scans, or forms for the shift.
 
+<Image align="center" width="30% " src="https://files.readme.io/6ca98ba5a58cac256175a60fe34688ee1ff32ee215b69930bdfe694bcb86ee1f-image.png" />
+
 #### Spots Indicator
 
 Indicates how many slots are available (or claimed) for **unassigned** shifts.
+
+![](https://files.readme.io/570d687a94305f4d33cad4b80ea3a3933dc6cad10957bffd54c174f89736367f-image.png)
 
 ## Shift Details
 
