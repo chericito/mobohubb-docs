@@ -278,10 +278,10 @@ The scheduling interface includes a special **Unassigned Shift** section showing
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/c5c124ddddd9a988021ae984d8001ae28a7ae15f4950631e2e7231a8e99b95a1-image.png" />
 
-* **Shift Title*:*\* The name employees see.
-* **Color*:*\* Defaults to the role’s color but can be changed.
+* **Shift Title**: The name employees see.
+* **Color:** Defaults to the role’s color but can be changed.
 * **Role:** Associates with a predefined role/color.
-* **Date*:*\* Select a specific time using the calendar.
+* **Date:** Select a specific time using the calendar.
 * **Skills/Certifications/Location/Description/Notes/File attachment** (optional): Add clarifications or references.
 * **Assignments:** Leave users **unassigned** so they can claim these spots.
 * **Number of spots:** Set how many users can claim this shift.
