@@ -26,13 +26,39 @@ metadata:
 
 ## Shifts Indicators
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/c7889a9087b948e4fd70ab729cb601f536311a92c263fff647a8174335850cb9-image.png" />
+
 Each shift can include various visual indicators, which help differentiate their statuses or key attributes:
+
+### Shift states
 
 #### Published
 
-Visible to mobile users, allowing them to accept or reject. Published shifts have a **solid background color**.
+Visible to mobile users, allowing them to accept or reject. Published shifts have a **solid background color**. This color is set based on the color assigned to the role.
 
-#### Immediate Attention
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/eee7556280283cf921ab1b33de074192f2ffea4eef6279779f535e2b723867e2-image.png" />
+
+#### Missed
+
+Accepted but not started in time; displayed with a **solid color** yet a **faded border**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0267f52b41e30d1d6c407e6080f0d053a434e07c140a98816c5ecb31e7be5b56-image.png" />
+
+#### Completed
+
+Once accepted, started, and finished, the shift text appears **crossed out** to signify completion.
+
+<Image align="center" width="30% " src="https://files.readme.io/38ce65551b0cb8da5236b51b953f4cd9feeaf257dc49222d1f498b4776e30cca-image.png" />
+
+#### Draft
+
+Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/34348930d35996fdbfb400b964dc66a795fca5b732d0f5e25031c072a879e98f-image.png" />
+
+### Alert notifications types
+
+#### Immediate Attention Messages
 
 A **red alert icon** indicating high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.
 
@@ -40,17 +66,11 @@ A **red alert icon** indicating high-risk issues like missed shifts, not accepte
 
 A **yellow alert icon** indicating potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits.
 
-#### Completed
+#### Informative Messages
 
-Once accepted, started, and finished, the shift text appears **crossed out** to signify completion.
+A **blue alert icon** indicating shift or user-associated time off or unavailabilities for holidays, company day off, etc.
 
-#### Missed
-
-Accepted but not started in time; displayed with a **solid color** yet a **faded border**.
-
-#### Draft
-
-Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.
+### Shift-based indicators
 
 #### Tasks Indicator
 
