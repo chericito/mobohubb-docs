@@ -200,13 +200,13 @@ When you’re inside a schedule, you can quickly drop in brand-new shifts for yo
 
 A **shortened form** lets you quickly create multiple shifts in bulk at once with minimal details (e.g., basic date/time, role).
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/b32365fd16b916fd5120b0de517504ff4479baff628eaf358ff191a479b8b177-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7d1c03b12f482ca30933c48916fe81253af000da4753013d99b89c843ff0f3a8-image.png" />
 
 1. **Open** the **scheduler** and **click** the **“Add new”** button.
 2. **Choose** **“Add Multiple Shifts”.**
 3. **Fill in** the necessary shift details:
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b5a150d7d44983bec70fc2b489d1a287619218cf936251fde0f5acb2edfa3f93-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7e3a89b212e1fe2076dbd11ac315434516008bea55893031dccc6be9775f268e-image.png" />
 
 * **Start Date**: Select the date from the interactive calendar.
 * **Start Hour** and **End Hour**: Define when the shift begins and ends.
@@ -216,7 +216,7 @@ A **shortened form** lets you quickly create multiple shifts in bulk at once wit
 
 4. **Add Another Row**:
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c2d412f1f4ed9deb877356421db74911f52f13672e2aa50fccbd5898f68b1b8c-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/af4248835124cd9297cd3ea7e4b9ee6050dfa11cb8e0b8a003207566ab0996ce-image.png" />
 
 * Click the **add (+)** button to create as many shift rows as you need.
 * Click the **delete (-)** icon next to that entry to remove a row.
