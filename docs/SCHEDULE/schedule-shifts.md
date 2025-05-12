@@ -104,31 +104,33 @@ Indicates how many slots are available (or claimed) for **unassigned** shifts.
 
 No matter which scheduling view you’re in (day, week, month, or list), you can always view individual shift details:
 
-1. **Open** the schedule.
+1. **Click** on a shift to inspect.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0061e50d87a0dcdc651e5e08973f7478b9894bf7bb1046af6d12a6165139d7c9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3ed296ea5c3f506be08aac09a1da7eca18dcd1c17b4da94e8d0b7b34a00a1c8d-image.png" />
 
-2. **Click** on a shift to inspect.
+2. A **popup** displays that shift’s core info:
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/122780b2d2e9c594b3b445beed631c4d892e590b369c8339098b904257c0a537-image.png" />
-
-<br />
-
-3. A **popup** displays that shift’s core info:
-
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/cf42e06de54653555f86877b905c99d68b478cea08e8127c5e3980375f82569b-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/45e03fc7300c658edf720058b59c76ff02399a9f9d360141cd22c5fa39ae70ee-image.png" />
 
 * **Card Color**: When a shift is created, the **Role** setting determines its color by default—each role has its own color configuration. If needed, you can adjust each role’s color in the [Role configuration menu](https://mobohubb.readme.io/docs/roles#/). This color helps employees quickly recognize the nature of their shifts at a glance. **You can also set a customized color for each shift.**
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/88d9599961199b032481e9243681f5d782dc4a23c40aa946c0a0c69eccae605b-image.png" />
 
 * **Tool Bar**: Options to delete, edit, publish/unpublish, duplicate, or exit the shift.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/88497572b0685e989418cd5527c7f8604ddf873fd76e4e4ed853b1b21a0456c2-image.png" />
+
+<br />
+
 * **Shift General Information**:
-  * **Shift Status**: “Draft” or “Publish.”
-  * **Work Status**: “Not started” until a user checks in; then it becomes “Started.”
-  * **Location**: The defined work location.
-  * **Assigned Users**: Number of people assigned.
-  * **Attachments**: Files or images accessible to users (e.g., instructions).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/da8261416b043ce1a0a756cc3859c6671dfeb48b1e29450f5589bb04ce4222d0-image.png" />
+
+* **Shift Status**: “Draft” or “Publish.”
+* **Work Status**: “Not started” until a user checks in; then it becomes “Started.”
+* **Location**: The defined work location.
+* **Assigned Users**: Number of people assigned.
+* **Attachments**: Files or images accessible to users (e.g., instructions).
 * **Users’ Information**: Detailed acceptance status, work status, etc.
 * **Tasks/Scan/Forms**: Activities linked to the shift and their progress.
 * **Alert Messages**: Immediate attention issues or standard alerts. Click to view specific problems.
@@ -164,7 +166,7 @@ When viewing a schedule, administrators can create fresh shifts:
 * **Tasks/Forms/Scans**: Attach relevant tasks or forms for employees to complete. Set it to "2" if you want two persons doing the same job, on that same shift.
 
 2. **Publish** the shift to make it visible. If you prefer employees can’t see it yet, **save as a draft**.
-3. You can **edit** a shift at any time by hovering over the shift, and then pressing the "Edit button".
+3. You can **edit** a shift at any time by hovering over the shift, and then pressing the "Edit button". (regla de negocio: un shift puede ser editado siempre y cuando no este en estado iniciado por el usuario. Si esta en estado draft, pues sea actuaiza el draft o se publica. pero si esta en estado publicado, primero se despublica, se edita y luego si o se vuelve a publicar o se guarda como draft.)
 
 <Image align="center" width="60% " src="https://files.readme.io/3960b2a01b40f87cb5f6fab3f0aa9f3a42bdce483640428cf3c0b41f6b84a9b5-image.png" />
 
