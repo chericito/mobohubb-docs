@@ -112,7 +112,7 @@ Choose between **day**, **week**, **month**, or **list** view:
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/2448f6159650c9d91810e0578ae14f52233cc3ad4338d3a1713e9fadfa395d05-image.png" />
 
-* **Week View**: The default balance of the current day, past few days, and upcoming days.
+* **Week View**: The default balance of the current day, the past few days, and the upcoming days.
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/dc1c41500198f181e24e31e6bf30f02d71eb380e2193264ff31a5b877028fcae-image.png" />
 
@@ -124,7 +124,7 @@ Choose between **day**, **week**, **month**, or **list** view:
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c644d591ecf2d6244376dd7bbb43a7ff3f4c8a9660c366458bcf1dfcd4a8791d-image.png" />
 
-* **List View**: Groups data by user with cost/hours info, and allows exporting as an Excel file.
+* **List View**: Groups data by user, and allows exporting as an Excel file.
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/14cc24e076a4b690934fa2bf9d1784137b0e094c2e458f21b644d88fff9cee8b-image.png" />
 
@@ -197,33 +197,33 @@ Use whichever option suits the moment: start fresh when a shift is unique, or pu
 
 In day, week, month, or list view, the **View Options** button can hide specific elements, like unassigned shifts or message icons. Any changes apply immediately and can be undone by toggling the same setting.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/0a8993f545dfd08976bbca3d7342638f1f61a28924f4ddf408b1ff058c42672f-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0a8993f545dfd08976bbca3d7342638f1f61a28924f4ddf408b1ff058c42672f-image.png" />
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/93057c5fc564b015313ff87b52596aaad5ad958f09c29336f937d8d07fff7500-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/93057c5fc564b015313ff87b52596aaad5ad958f09c29336f937d8d07fff7500-image.png" />
 
 #### Day Column
 
 Each day may display **alert messages** or **immediate attention** icons if conflicts arise (e.g., a not-accepted shift or missed shift). The schedule typically flags:
 
-![](https://files.readme.io/94335e1354d10aa30bfcf08cf03e58228e4b1786520c449312ba17ef24d0a347-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42b6a14eb537c41e57fb05c5f86635c801b293ba9ed80ef31e3413a73af6170a-Screenshot_2025-05-12_at_12.19.15_PM.png" />
 
 * **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or not-accepted shifts.
 * **Alert (Yellow)**: Incomplete tasks, uncalculated cost (missing fee), or exceeding hour limits.
 * **Informative (Blue)**: Time off, or unavailability.
 
-#### Hours and Total Cost
+<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/e0aa7e3795aeb1fb1974b867262064b2cf7e67a8998a53947e06d962d31d5942-Screenshot_2025-05-12_at_12.33.28_PM.png" />
 
-![](https://files.readme.io/47a741b84c0c40ac22aad8b861c814f67f7f18b8095aa47d0354e43561f0e0c0-image.png)
+#### Hours
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/87d587627e48db98c7042702637e4273efe12788348b60320efa6018a02a96c1-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/4b95ea2d80714dbef23fea4a81e75ac5222342d1ef2d05e0dea60f884d443ee0-image.png" />
 
-**mobohubb** calculates total labor costs based on shift assignments, recorded hours, and assigned pay. The schedule bar shows daily, weekly, or monthly costs, depending on your selected time range.
+The schedule bar shows daily, weekly, or monthly hours, depending on your selected time range.
 
 ***
 
 ## Shift View
 
-![](https://files.readme.io/8088c22f2bbb9a125d0cab49c63833e3224be0be6ca1cd43ad79fc83e0f8bced-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8088c22f2bbb9a125d0cab49c63833e3224be0be6ca1cd43ad79fc83e0f8bced-image.png" />
 
 A **shift** is a specified time slot an employee is assigned to work. Administrators create these shifts in the scheduler, often linking them to tasks, scans, or forms if needed. Shifts are color-coded to differentiate them quickly. (See the **“[Schedule Shifts](https://mobohubb.readme.io/docs/schedule-shifts#/)”** section for details on creating/managing shifts.)
 
