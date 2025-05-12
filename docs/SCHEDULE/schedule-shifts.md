@@ -12,7 +12,7 @@ metadata:
 ---
 **Scheduling** in **mobohubb** helps assign jobs or shifts to each user, ensuring your business has coverage for every hour it operates. A **shift** is a designated time slot an employee is assigned to work. Administrators create these shifts, and mobile users can then fulfill them with relevant tasks, scans, or forms. Shifts are displayed as the central axis in the scheduling interface.
 
-> **Tip**: If you haven’t yet created a schedule, visit our [“Schedule: Essentials” guide](https://mobohubb.readme.io/docs/schedule#/) for instructions on adding or editing a schedule.
+> **Tip**: If you haven’t yet created a schedule, visit our [“Schedule: Add, Edit and Delete Schedules” guide](https://mobohubb.readme.io/docs/schedule#/) for instructions on adding or editing a schedule.
 
 ***
 
