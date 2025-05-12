@@ -240,13 +240,13 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 2. **Unpublish** if it’s already published (but not started).
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/a1c65962f30739ab06810bb90acf5421b2cc37bf31c3e6791061d897b5eed71e-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4081c4d81dd8a1b92ea6b55b289573cde457bc0d4d2a72aa959fff36c94024ff-image.png" />
 
 3. **Edit** any fields necessary (title, time, tasks, assignments).
-
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/f730338d0df3abee3e34a4539eb952f335bf2595b5991d86ab46f7e72a13c962-image.png" />
-
 4. **Click** **“Update Shift”**. If it’s still a draft, the button says **“Update Draft”**.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/10517127a6260b7487aad39a8101ce38d660e84a986ebc98481cb8574d269c46-image.png" />
+
 5. **Publish** again to make changes visible to users.
 
 ***
@@ -305,12 +305,12 @@ If you configure your schedule to require **admin approval** before employees ca
 1. **Open** the scheduler and **click** **“Requests.”**
 2. A window shows all requests, including **Claim shift** types.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6fae5f6dfa37f45dd8cbd478e06c8edb9cc585750707dac660dba2abf79f24a-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/4f92a4cd43a17f5177859efee19cf3ed8cbfc8a923a2a5e4370096a237250217-image.png" />
 
 3. **Review** the user, shift details, and request date.
 4. **Use** the decision buttons:
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/842c11bcd970524866505d179aeab16accc54099fff4346c07e9427bdde48508-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a71270ee6c3d874c23666157efa0e04e87643c2fdb510d2b48b7f5bd46856aab-image.png" />
 
 * **Accept:** The user is officially assigned and deducted the claimed spot.
 * **Reject:** The user’s claim is denied; they get a rejection notification.
