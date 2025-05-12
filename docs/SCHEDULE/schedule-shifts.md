@@ -54,11 +54,11 @@ Once accepted, started, and finished, the shift text appears **crossed out** to 
 
 Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/34348930d35996fdbfb400b964dc66a795fca5b732d0f5e25031c072a879e98f-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/34348930d35996fdbfb400b964dc66a795fca5b732d0f5e25031c072a879e98f-image.png" />
 
 ### Alert notifications types
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/8e51d680fde8168f85aa436131eaf4213f73133666a396fccc8e8805adff36f3-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8e51d680fde8168f85aa436131eaf4213f73133666a396fccc8e8805adff36f3-image.png" />
 
 <br />
 
