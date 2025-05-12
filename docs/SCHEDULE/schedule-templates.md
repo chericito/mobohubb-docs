@@ -1,45 +1,69 @@
 ---
 title: 'Schedule: Templates'
+excerpt: >-
+  Learn how to speed-up shift creation by saving and re-using shift templates,
+  adding new shifts from templates, and keeping your template library tidy in
+  mobohubb.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
+**In this guide you'll learn**
+
+* How to **save** any shift as a reusable template
+* How to **insert** a template into the calendar (“Add shift from template”)
+* How to **manage or delete** templates in the Template Management tab
+
+***
+
+Templates speed up shift creation by letting you reuse proven combinations of **times, roles, tasks, forms, scans**, and other details. Instead of rebuilding the same structure every week, save a shift once and drop it into the calendar whenever you need it.
+
+***
+
 ## Save Shifts as Templates
 
-Templates in **mobohubb** let you define reusable shift structures—such as standard roles, times, tasks, or forms—so you can create similar shifts more quickly in the future. Any shift you save as a template can be selected again in the scheduler.
+1. **Open** the scheduler and **click** the shift you want to reuse in the future.
+2. **Edit** anything you’d like to standardize—title, role, start / end, tasks, forms, scans, notes.
 
-1. **Open** the scheduler, then **click** on a shift you'd like to convert into a template.
-
-2. **Edit** the shift if necessary:
-   * Shift times, roles, tasks, etc.
-   * Use the **Tool bar** in the shift’s detail popup to modify these items.
-
-3. **Scroll** down and **click** **“Save As Template”.**
+   * All fields are available from the shift’s **Tool bar**.
+3. **Scroll** to the bottom of the details panel and press **“Save As Template.”**
 
 <Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c0115b53daee680444dd6879288d9970f9ee693a2a3798943f0b92f4596a6920-image.png" />
 
-Once saved, the template will be available whenever you use **“Add New Shift from Template”** in the scheduler. This feature allows you to reproduce your most common shifts quickly, reducing the need to recreate details like roles and time periods.
+That shift is now stored as a template and will appear in the **Add New → New Shift from Template** dialog.
 
-> **Note**: If the shift already exists as a template, you can overwrite or update it by repeating these steps and saving again.
+> **Tip:** If you save an existing template again (same name), it simply updates—perfect for keeping your standard shift in sync with new duties or times.
+
+***
 
 ## Add New Shifts from Templates
 
-Shift templates are **pre-designed** forms for common shifts:
-
-1. **Click** **“Add new”** in the scheduler.
-2. **Select** **“New shift from template”.**
-3. **Use** the search bar to locate a **saved template**.
-4. **Click** **“Add from template”.**
+1. In the scheduler, click **Add new**.
+2. Choose **“New shift from template.”**
+3. Use the search bar to locate your template, then click **“Add from template.”**
+4. Adjust specifics (date, assignees, number of spots, etc.) if needed.
+5. **Publish** or **Save as Draft**.
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/4c4de6675512c30585a6cd7429303680e8cc7f264ff91c4fd0f437559c02de31-image.png" />
 
-6. **Save** or **publish** as desired.
+The new shift inherits every element you stored: role colors, tasks, forms, and any attached documents—ready in seconds.
 
-> For more on creating/editing templates, see “Templates” section.
+***
 
-<br />
+## Template Management Tab
 
-### Template Management Tab
+Need to clean up old templates or confirm what’s available? Use the dedicated management view:
 
-This tab provides an overview of all the templates you've created. Use it as a reference to manage your templates. You can delete one or more templates at a time.
+1. From the scheduler’s **three-dots** menu, choose **Settings**.
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/a70f2b53453d1dc032388a11549a9db24492096812b9cfec11275833c9a44a91-image.png" />
+
+   <Image align="center" className="border" border={true} src="https://files.readme.io/ec5b5dffc776ba55daaa5567ef4422f66a862fa3ce04dc4065ad66a97a8068fa-image.png" />
+
+2. Open the **Template Management** tab.
+
+   * View every saved template in one grid.
+   * **Delete** single or multiple templates if they’re no longer needed.
+
+<Image align="center" className="border" border={true} width="80%" src="https://files.readme.io/e2cca0af72bf32f7ac3b9f26b29ff63cfa7c98f4cecda2cbbf925ecc26747ab8-image.png" />
