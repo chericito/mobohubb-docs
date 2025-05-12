@@ -98,7 +98,7 @@ An **activity icon** showing associated tasks, scans, or forms for the shift.
 
 Indicates how many slots are available (or claimed) for **unassigned** shifts.
 
-![](https://files.readme.io/570d687a94305f4d33cad4b80ea3a3933dc6cad10957bffd54c174f89736367f-image.png)
+<Image align="center" width="30% " src="https://files.readme.io/570d687a94305f4d33cad4b80ea3a3933dc6cad10957bffd54c174f89736367f-image.png" />
 
 ## Shift Details
 
