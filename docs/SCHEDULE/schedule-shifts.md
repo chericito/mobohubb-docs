@@ -26,7 +26,7 @@ metadata:
 
 ## Shifts Indicators
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/c7889a9087b948e4fd70ab729cb601f536311a92c263fff647a8174335850cb9-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c7889a9087b948e4fd70ab729cb601f536311a92c263fff647a8174335850cb9-image.png" />
 
 Each shift can include various visual indicators, which help differentiate their statuses or key attributes:
 
@@ -34,73 +34,69 @@ Each shift can include various visual indicators, which help differentiate their
 
 #### Published
 
-Visible to mobile users, allowing them to accept or reject. Published shifts have a **solid background color**. This color is set based on the color assigned to the role.
+Visible in the mobile app, so users can **accept** or **decline** the assignment. A published shift displays a **solid background** in the color tied to its role.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/eee7556280283cf921ab1b33de074192f2ffea4eef6279779f535e2b723867e2-image.png" />
 
 #### Missed
 
-Accepted but not started in time; displayed with a **solid color** yet a **faded border**.
+The shift was accepted but never started before its scheduled time. It keeps the role’s **solid color**, but the border fades to signal it was missed.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0267f52b41e30d1d6c407e6080f0d053a434e07c140a98816c5ecb31e7be5b56-image.png" />
 
 #### Completed
 
-Once accepted, started, and finished, the shift text appears **crossed out** to signify completion.
+After the user checks in, works, and checks out, the shift label is shown with a **strikethrough**, confirming completion.
 
 <Image align="center" width="30% " src="https://files.readme.io/38ce65551b0cb8da5236b51b953f4cd9feeaf257dc49222d1f498b4776e30cca-image.png" />
 
 #### Draft
 
-Unpublished (invisible to users). Displays with a **faded background**. Can contain tasks, scans, or forms.
+Still unpublished—therefore invisible to mobile users—and rendered with a **faded background**. Drafts may already include tasks, scans, or forms.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/34348930d35996fdbfb400b964dc66a795fca5b732d0f5e25031c072a879e98f-image.png" />
 
-### Alert notifications types
+***
+
+### Alert notification types
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8e51d680fde8168f85aa436131eaf4213f73133666a396fccc8e8805adff36f3-image.png" />
 
-<br />
-
 #### Immediate Attention Messages
 
-A **red alert icon** indicates high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.
+A **red icon** flags urgent conflicts—missed shifts, shifts not yet accepted, or overlapping assignments.
 
 <Image align="center" src="https://files.readme.io/e22f4bffbc2266c1759b5eb8a1097c06c457f8a955950f97e02227db5e2d95f2-image.png" />
 
 #### Alert Messages
 
-A **yellow alert icon** indicates potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits.
+A **yellow icon** highlights non-critical issues, such as unfinished activities, undefined pay rates, or hour-limit violations.
 
 <Image align="center" src="https://files.readme.io/a6658079c913d07302b36f053a1cc2c7ca9fc999bf8bdff676d073b253699cc0-image.png" />
 
-<br />
-
 #### Informative Messages
 
-A **blue alert icon** indicates shift or user-associated time off or unavailabilities for holidays, company day off, etc.
-
-<br />
+A **blue icon** communicates neutral information—scheduled time-off, holidays, or other unavailabilities tied to the user or shift.
 
 <Image align="center" src="https://files.readme.io/d25f836d5cc201b49bc7d0955ae1933715edf368e293f1086378422825c96f0f-image.png" />
 
-<br />
+***
 
 ### Shift-based indicators
 
 #### Tasks Indicator
 
-An **activity icon** showing associated tasks, scans, or forms for the shift.
+Shows an **activity icon** when tasks, scans, or forms are linked to the shift.
 
 <Image align="center" width="30% " src="https://files.readme.io/6ca98ba5a58cac256175a60fe34688ee1ff32ee215b69930bdfe694bcb86ee1f-image.png" />
 
 #### Spots Indicator
 
-Indicates how many slots are available (or claimed) for **unassigned** shifts.
+Displays the remaining and claimed spots for an **unassigned shift** that users can pick up.
 
 <Image align="center" width="30% " src="https://files.readme.io/570d687a94305f4d33cad4b80ea3a3933dc6cad10957bffd54c174f89736367f-image.png" />
 
-## Shift Details
+<br />
 
 No matter which scheduling view you’re in (day, week, month, or list), you can always view individual shift details:
 
@@ -139,38 +135,47 @@ No matter which scheduling view you’re in (day, week, month, or list), you can
 
 ## Add New Shifts
 
-When viewing a schedule, administrators can create fresh shifts:
+When you’re inside a schedule, you can quickly drop in brand-new shifts for your team.
 
-1. **Click** **“Add new”** in the scheduler.
-2. **Choose** **“New shift”.**
+1. **Click “Add new”** in the scheduler.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/57065088c5468fd2067028a4bbb9ad909d0ec70f6b5d67dad3ddd407336881e1-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b80b79e409bf04fb5e8f7dac87c726cdf20a212e024ebff3740eb62f5c013094-image.png" />
 
-2. **Fill** in shift details:
+2. **Choose “New shift.”**
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/70891c4790b49a3cc2ea84c3792fea946a2530ee73337ed62d91c798212265ef-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/aea3ba996649ae687c742d1eeececd051ba30f11ff517087194c878160352085-image.png" />
 
-* **Shift Title** (\*): Name visible to users.
-* **Color** (\*): Inherits from the role by default, but can be changed.
-* **Role**: Associates the shift with a predefined role (which has a color).
-* **Date** (\*): Select using the interactive calendar.
-* **Skills/Certifications**: Request specific skills or certifications.
-* **Location**: Select or type in the shift location.
-* **Description**/Notes: Any clarifying text for admins or employees.
-* **File Attachment**: Additional reference material or images.
+3. **Complete the shift details.**
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/0b0233819fadc6cb71d6c1a1800c056f257c92a7f7b82c56b225d9e3d29aa81d-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2c12bb04efc1c5304b69180b7784624de81aa1b147d47b028ecd402fc10eef57-image.png" />
 
-* **Assignments**: Specific users assigned. Or leave unassigned if you plan to let employees claim it.
-* **Number of Spots**: Specify how many people can claim if it’s an unassigned shift.
-* **Tasks/Forms/Scans**: Attach relevant tasks or forms for employees to complete. Set it to "2" if you want two persons doing the same job, on that same shift.
+* **Shift Title (\*)** – the name employees see.
+* **Color (\*)** – inherits the role color, or pick another.
+* **Role** – link to a predefined role (with its own color).
+* **Date (\*)** – choose the day and time from the calendar.
+* **Skills / Certifications** – specify must-have qualifications.
+* **Location** – pinpoint where the shift takes place.
+* **Description / Notes** – add context for admins or staff.
+* **File Attachment** – upload reference images, PDFs, etc.
 
-2. **Publish** the shift to make it visible. If you prefer employees can’t see it yet, **save as a draft**.
-3. You can **edit** a shift at any time by hovering over the shift, and then pressing the "Edit button". (regla de negocio: un shift puede ser editado siempre y cuando no este en estado iniciado por el usuario. Si esta en estado draft, pues sea actuaiza el draft o se publica. pero si esta en estado publicado, primero se despublica, se edita y luego si o se vuelve a publicar o se guarda como draft.)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/86c7bd4a2437b009b030fcd810629966d6b273b05e4cde45d846706632e3fdf2-image.png" />
 
-<Image align="center" width="60% " src="https://files.readme.io/3960b2a01b40f87cb5f6fab3f0aa9f3a42bdce483640428cf3c0b41f6b84a9b5-image.png" />
+* **Assignments** – pick users now, or leave blank for an open shift employees can claim.
+* **Number of Spots** – how many people can claim this shift (for unassigned shifts).
+* **Tasks / Forms / Scans** – attach the activities employees must complete.\
+  *Example*: set **Spots** to **2** if two employees should cover the same shift.
 
-<br />
+4. **Publish** to make the shift visible in the mobile app, or **Save as Draft** to keep it hidden for now.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/975d12dd22f08fc0bc23af5f25e06c04e9bca13c9ff41e5a8eee9aaf22f9b58e-image.png" />
+
+5. **Edit anytime.** Hover over the shift and click the pencil icon.
+
+   * A draft can be updated or published directly.
+   * A published shift must be **unpublished** first, then edited, and finally re-published or saved as a draft.
+   * Shifts already **started** by a user can no longer be edited.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7f59f7eeec7ded3f7ad1ccbfafe6dd3d398d547edda70cdd01c7af1a3fec91d6-image.png" />
 
 ***
 
@@ -183,13 +188,11 @@ When viewing a schedule, administrators can create fresh shifts:
 3. **Fill** in the information (similar to adding a new shift above).
 4. **Click** **“Save As Draft”.**
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/d21ecf6912a79a3fbcd17e801110b4c0365a45e02d01ea9e124079f81dec9565-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/707848892c721a2d67fb43ac22f432412c338730b3a3591b6ba620235a0d9184-image.png" />
 
 5. This shift appears in the schedule with a **faded background**, indicating a draft state.
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/a4c148f2ab1ae968059f37cca6b5874bf67d7be1818d369ef6913cf024f00fae-image.png" />
-
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3a7624733a500066ab80eb66d96cdce6318873494f9d624ad9eed405afea1be2-image.png" />
 
 ***
 
