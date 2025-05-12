@@ -240,4 +240,4 @@ This column can also reflect conflict icons or alert messages for each user:
 
 ***
 
-By understanding the **Manage Schedule** interface—filters, actions, publish status, and additional functionalities—you can effectively organize shifts, track user acceptance, and monitor potential schedule conflicts. For deeper details on shift creation, templates, or user additions, see the corresponding sections like **“Add New Shift,”** **“Add Multiple Shifts,”** or **“Add Users to the Schedule.”** in the dedicated [guide](https://mobohubb.readme.io/docs/schedule#/).
+By understanding the **Manage Schedule** interface—filters, actions, publish status, and additional functionalities—you can effectively organize shifts, track user acceptance, and monitor potential schedule conflicts. For deeper details on shift creation, templates, or user additions, see the corresponding sections like **“Add New Shift,”** **“Add Multiple Shifts,”** or **“Add Users to the Schedule.”** in the dedicated [guide](https://mobohubb.readme.io/docs/schedule-shifts#/).
