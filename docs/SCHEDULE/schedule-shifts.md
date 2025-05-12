@@ -58,17 +58,33 @@ Unpublished (invisible to users). Displays with a **faded background**. Can cont
 
 ### Alert notifications types
 
+<Image align="center" className="border" border={true} src="https://files.readme.io/8e51d680fde8168f85aa436131eaf4213f73133666a396fccc8e8805adff36f3-image.png" />
+
+<br />
+
 #### Immediate Attention Messages
 
-A **red alert icon** indicating high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.
+A **red alert icon** indicates high-risk issues like missed shifts, not accepted shifts, or overlapping shifts.
+
+![](https://files.readme.io/e22f4bffbc2266c1759b5eb8a1097c06c457f8a955950f97e02227db5e2d95f2-image.png)
 
 #### Alert Messages
 
-A **yellow alert icon** indicating potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits.
+A **yellow alert icon** indicates potential risks such as incomplete activities, missing cost data, or exceeding day/week hour limits.
+
+![](https://files.readme.io/a6658079c913d07302b36f053a1cc2c7ca9fc999bf8bdff676d073b253699cc0-image.png)
+
+<br />
 
 #### Informative Messages
 
-A **blue alert icon** indicating shift or user-associated time off or unavailabilities for holidays, company day off, etc.
+A **blue alert icon** indicates shift or user-associated time off or unavailabilities for holidays, company day off, etc.
+
+<br />
+
+![](https://files.readme.io/d25f836d5cc201b49bc7d0955ae1933715edf368e293f1086378422825c96f0f-image.png)
+
+<br />
 
 ### Shift-based indicators
 
