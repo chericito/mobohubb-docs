@@ -236,7 +236,7 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 1. In the scheduler, **click** the shift to edit.
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/95f1e09c0421059bc487ccf6ab743bfc28a9e35f49d2ac1c8e8c778e70186227-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7f59f7eeec7ded3f7ad1ccbfafe6dd3d398d547edda70cdd01c7af1a3fec91d6-image.png" />
 
 2. **Unpublish** if it’s already published (but not started).
 
