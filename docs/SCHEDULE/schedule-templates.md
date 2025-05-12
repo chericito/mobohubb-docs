@@ -37,3 +37,9 @@ Shift templates are **pre-designed** forms for common shifts:
 6. **Save** or **publish** as desired.
 
 > For more on creating/editing templates, see “Templates” section.
+
+<br />
+
+### Template Management Tab
+
+This tab provides an overview of all the templates you've created. Use it as a reference to manage your templates. You can delete one or more templates at a time.
