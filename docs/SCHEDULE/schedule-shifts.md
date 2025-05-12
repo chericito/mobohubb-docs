@@ -225,11 +225,7 @@ A **shortened form** lets you quickly create multiple shifts in bulk at once wit
 
 ***
 
-<br />
-
-***
-
-## Update Shifts
+## Edit Shifts
 
 Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
