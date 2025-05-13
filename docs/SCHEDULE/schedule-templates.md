@@ -39,7 +39,16 @@ That shift is now stored as a template and will appear in the **Add New → New 
 
 ## Save Week as a Template
 
-<br />
+1. **Navigate** to the week you want to save as a template.
+2. In the scheduler, **click** **Actions** and **select** **Save As Week Template**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a1c1960760b16a3c064fa11142df75d333a145f23ae97a06d0807f26b2647e73-image.png" />
+
+3. **Give** this template a name and **press** **Save template**
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f9b5ed6abb7de3fac2508680e967d022067c57ad6b49868078a75df3fcd6a1d1-image.png" />
+
+That week is now stored as a template and will appear in the **Add New → New Shift from Template** dialog.
 
 ***
 
