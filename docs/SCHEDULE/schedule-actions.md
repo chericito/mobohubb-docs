@@ -30,7 +30,6 @@ Administrators can perform various actions in the schedule using the **Actions**
 * **Save as Week Template**: Captures the current week’s shifts and layout for future reuse.
 * **Copy Previous Week**: Copies shifts from the last week into the current one.
 * **Add or Edit Unavailability**: Manage hours/days when employees are not available.
-* **View Conflict**: Highlights alerts or immediate attention messages (e.g., overlapping shifts or missing acceptances).
 * **Export PDF**: Downloads the current schedule view as a PDF (if file size is large, it appears in “Downloads”).
 
 ***
@@ -42,11 +41,12 @@ Turning a published week into a draft state hides all shifts from mobile app use
 1. **Navigate** to the correct week using the **Date Selector** (week view).
 2. **Click** **Actions** in the schedule’s toolbar.
 3. **Select** **Unpublish Week**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/87d0688090a2675fd1c8e0fa7335952888ac78fa9897d334ee764f7d107f3812-image.png" />
+
 4. **Confirm** to revert published shifts to drafts.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/348d1cde8c0f5af28e5039dda737913e1695f6d2911b486afc07bb445ecc591d-image.png" />
-
-<Image align="center" className="border" border={true} src="https://files.readme.io/cef0a23f67a5ed77db2c84173599fefba03957f437b6b5aa65270dcd0b24c110-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cdde78fe1fd08a23f547c8fef2ad3ba6ea03fbff0ab2369e6df979580a584a6a-image.png" />
 
 ***
 
