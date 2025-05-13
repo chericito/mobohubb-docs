@@ -261,7 +261,7 @@ Even after publishing, you may edit a shift as long as it hasn’t **started**:
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/30607d48f3d30554f1cb85e2a50d0105f8ffa1184b1a36d72162e7664c74a803-image.png" />
 
-The scheduling interface includes a special **Unassigned Shift** section showing hours, total cost, and a **spots indicator** (e.g., “3 of 5 spots claimed”). This helps track how many employees can still claim each open shift.
+The scheduling interface includes a special **Unassigned Shift** section showing hours and a **spots indicator** (e.g., “3 of 5 spots claimed”). This helps track how many employees can still claim each open shift.
 
 <Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/36aaf0ea84f05f7f1efe8fd0e8e18e9c60532c4f7c3e6b83dd4a45364abcd72d-image.png" />
 
