@@ -156,35 +156,6 @@ If you need to delete an unavailability:
 
 ***
 
-# View Conflict
-
-When **conflicts** arise in your schedule, like missed shifts, not accepted shifts, or overlaps, you can see all issues at once for quick resolution.
-
-1. **Open** the scheduler interface.
-
-2. **Click** **“Actions.”**
-
-3. **Choose** **“View conflict.”**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7c473abe55777b2bd137f5c38365ddcd1e7a9ea28d41276199365f9ffff4a148-image.png" />
-
-4. A list of **messages** (conflicts) appears, which you can scroll through to find each issue:
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6eca170bea7891dce28947a08c85ab16ecc9d2d87456939dbb83979bb6c0c597-image.png" />
-
-<br />
-
-* **Immediate Attention (Red Alert)**:
-  * **Missed shift**
-  * **Not accepted shift**
-  * **Overlapping shifts**
-* **Alert Messages (Yellow Alert)**:
-  * **Not completed** activities (tasks, scans, forms)
-  * **Cannot calculate cost** (missing fee)
-  * **Exceed limit hours** per day or week
-
-Review these conflicts to address scheduling shortfalls and keep your workforce operations running smoothly.
-
 # Export PDF
 
 **Export PDF** allows you to download the currently displayed schedule, making it simple to print or share offline.
