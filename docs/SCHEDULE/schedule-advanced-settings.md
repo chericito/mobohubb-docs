@@ -66,19 +66,17 @@ A schedule is divided into the **toolbar**, **grid**, **users**, **unassigned sh
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/941078bb3e853d2ffa2d00098e4d4eed5ae79d4941543b9bc46419ce34485466-image.png" />
 
-* **Schedule Bar**: Displays the view, hours, total cost, and view options.
+* **Schedule Bar**: Displays the view, hours, and view options.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/0a8993f545dfd08976bbca3d7342638f1f61a28924f4ddf408b1ff058c42672f-image.png" />
 
-* **Shift View**: Shows user columns, assigned shifts, hours, and total cost details.
+* **Shift View**: Shows user columns, assigned shifts, and hours details.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/da7611fda1e120fba793dfbfe87130b74bb6f0f952c9c9c078a164f760ad77ba-image.png" />
 
 * **Unassigned Shift View**: Displays shifts available for users to claim.
 
 <Image align="center" className="border" border={true} src="https://files.readme.io/8f8c326efe81af995ec80968aba0a1b9df540fd8b2daa15231687f31b930c946-image.png" />
-
-<br />
 
 ***
 
