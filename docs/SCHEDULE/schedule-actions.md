@@ -95,23 +95,27 @@ You can **save** entire weeks (or days) as templates for quick re-creation:
 
 1. **Select** the timeframe (week/day) with the Time Selector.
 2. **Press** **Actions** → **Save as Week/Day Template**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/3de851d22613479f3594342e045a710966096b10465a46a1d23b0ebd67c900e9-image.png" />
+
 3. **Name** the template and **save** it.
 
-To **apply** a template to a future week/day:
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f942a927082eba64543e28bcff08cbe59a6f451f0e7c21b2831460c2734d81b6-image.png" />
+
+To **use** a template to a future week/day:
 
 1. **Move** to the next or target timeframe.
 2. **Press** **Actions** → **Copy from Template**.
-3. **Confirm** to import the layout.
 
-<Image align="center" alt="Save As Template" border={true} caption="Save as Template" src="https://files.readme.io/0fc9ef5736c12b00439e8e940d04d9f5267621c1e2d3ce43d90764b4aae7eee5-image.png" width="50% " />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6e8d9749b63654a1b97a8f47d4f007cec8e29d3c9b7a5256892884781f71fe44-image.png" />
 
-<br />
+3. **Select** the template to import the layout and **press** **Add from template**.
 
-<Image align="center" border={true} caption="Copy from Template" src="https://files.readme.io/aa832f677e32824f10a3bde3f30c166bfac0e1e1f96924bb1b9a2873e49636b3-image.png" width="50% " />
+<Image align="center" className="border" border={true} width="40% " src="https://files.readme.io/99393555564292ef92da841a47db09e16da2cbebdad0ccdd1959fb2ed080c638-image.png" />
 
-<br />
+4. Now the week will have all the shifts predefined in the template.
 
-<br />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e3b570725c836feb6028b9f7526a000a7248800fbda08b9d3ccf82384a207730-image.png" />
 
 ***
 
