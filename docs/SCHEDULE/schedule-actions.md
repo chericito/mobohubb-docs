@@ -61,11 +61,18 @@ The **Clear Week** option removes all shiftsâ€”draft, published, or unassignedâ€
 1. **Go** to the desired week using the Date Selector.
 2. **Click** **Actions**.
 3. **Choose** **Clear Week**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/9d7585751a6e041d9733e7e20e35ad16aae19fed28564123d4b6652572506ad3-image.png" />
+
 4. **Confirm** by clicking **Delete**.
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/5c60dac5f605bb085fe9856c310d6557be86b26ebef7b8a9e53cf1348b5fe4e4-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b760d4e0b34a5f5a892ecdb41325999da35d33281ffdc37b44d6cb924c1b5995-image.png" />
 
-> **Note**: Shifts already started by a user (checked in) remain intact.
+5. The **week** is now **empty**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/b8dd3ebd6d76ac9821879a080905e088dc952382a4d44a586081a0898784c67a-image.png" />
+
+> **Note**: Shifts already started/completed by a user (checked in) remain intact.
 
 ***
 
