@@ -125,7 +125,7 @@ To **use** a template to a future week/day:
 
 ## Copy Previous Week
 
-This will quickly copy all shifts, users, and all other information from the previous week (M-S) to the current week.
+Duplicate an entire week’s schedule—shifts, assigned users, tasks, and settings—in one step. The system lifts everything from the last Monday-through-Sunday period and places it into the week you’re currently viewing.
 
 1. In the scheduler,  **click** **Actions** → **Copy Previous Week**.
 
