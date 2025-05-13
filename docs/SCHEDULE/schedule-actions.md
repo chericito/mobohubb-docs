@@ -124,13 +124,16 @@ To **use** a template to a future week/day:
 Unavailability marks specific times or dates when employees **can’t** take shifts. Examples: holidays, or events.
 
 1. **In** the scheduler, **click** **Actions** → **Add or Edit Unavailability**.
-2. A popup lists current unavailabilities.
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/53ce070987ffe205a81548ca8a9789c1264312ae1692eabdf19c495d174b8bae-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c5a5f30e03d6f296e21f440db65f0229cd6f6836d1bca34cd1a11a938e2ed5d3-image.png" />
 
-3. **Click** **ADD NEW** to create a new unavailability or **Edit** an existing one:
+2. A pop-up lists current unavailabilities.
 
-<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/eb019df6faf8b9e459dcdca3b490070b43086c6b287f1f1362b93f132745902d-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c216a97cd9d89332b9f5648ced199312244a6a2101a6cc2aa2fac2f3364c9c89-image.png" />
+
+3. **Click** **Add New** to create a new unavailability or **Edit** an existing one:
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/47169c74c6c507539f0eaf8303052a61d41cd738c63da49b38e8d97c6d6c4c01-image.png" />
 
 * **Unavailability name**: A descriptive label, e.g., “Saint Julius Day”
 * **Holiday** (optional): Check if it’s a recognized holiday.
@@ -140,9 +143,12 @@ Unavailability marks specific times or dates when employees **can’t** take shi
 If you need to delete an unavailability:
 
 1. **Check** the item from the popup list.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0d0866641f341754abdc003f4d31f82531fb8e37c68784d8b85958c4668c876f-image.png" />
+
 2. **Click** **Delete** and confirm.
 
-<Image align="center" border={true} caption="Employees marked unavailable cannot be scheduled for shifts during those times." src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
 
 ***
 
