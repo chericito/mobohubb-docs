@@ -48,7 +48,7 @@ That shift is now stored as a template and will appear in the **Add New → New 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f9b5ed6abb7de3fac2508680e967d022067c57ad6b49868078a75df3fcd6a1d1-image.png" />
 
-That week is now stored as a template and will appear in the **Add New → New Shift from Template** dialog.
+That week is now stored as a template and will appear in the **Actions → Copy From Template** dialog.
 
 ***
 
@@ -78,17 +78,23 @@ The new shift inherits every element you stored: role colors, tasks, forms, and 
 
 ***
 
+## Add Week from Template
+
+<br />
+
+***
+
 ## Template Management Tab
 
 Need to clean up old templates or confirm what’s available? Use the dedicated management view:
 
 1. From the scheduler’s **three-dots** menu, choose **Settings**.
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/a70f2b53453d1dc032388a11549a9db24492096812b9cfec11275833c9a44a91-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a70f2b53453d1dc032388a11549a9db24492096812b9cfec11275833c9a44a91-image.png" />
 
-   <Image align="center" className="border" border={true} src="https://files.readme.io/ec5b5dffc776ba55daaa5567ef4422f66a862fa3ce04dc4065ad66a97a8068fa-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ec5b5dffc776ba55daaa5567ef4422f66a862fa3ce04dc4065ad66a97a8068fa-image.png" />
 
-2. Open the **Template Management** tab.
+1. Open the **Template Management** tab.
 
    * View every saved template in one grid.
    * **Delete** single or multiple templates if they’re no longer needed.
