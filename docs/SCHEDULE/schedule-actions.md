@@ -167,4 +167,4 @@ If you need to delete an unavailability:
 4. The PDF **downloads** to your device.
 5. **Open** the file locally to view or print the schedule.
 
-> **Note**: If the file size is large, the PDF might appear in **“Downloads”** on the platform instead of an immediate device download.
+> **Note**: If the file size is large, the PDF might appear in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform instead of an immediate device download.
