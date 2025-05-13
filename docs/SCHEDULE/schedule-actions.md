@@ -13,14 +13,18 @@ metadata:
 ---
 # Schedule: Actions
 
-Administrators can perform various actions in the schedule using the **Actions** menu. Access this menu via the toolbar within the scheduler.
+Access this menu via the toolbar within the scheduler.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dea88a20b474ea3c4c173c3e9b922e956649fb244b685457ca98bb5db0c52697-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c76c17947ba391243bf419e3ebc01991fbf733a7901b92e3c4ddb6aabf87b263-image.png" />
+
+Administrators can perform various actions in the schedule using the **Actions** menu.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b12d9cd8f5a9d93c60cae66136055c1dca40c9111ffd12e5c6678d8855b73a5f-image.png" />
 
 **Menu Options:**
 
 * **Unpublish Week**: Converts published shifts to drafts, hiding them from mobile users.
-* **Copy From Template**: Opens a window with ready-to-use templates.
+* **Copy From Template**: Opens a popup with ready-to-use templates.
 * **Clear Week**: Deletes all **non-started** shifts in the current view.
 * **Remove Assignments**: Changes all assigned shifts to unassigned, letting users claim them.
 * **Save as Week Template**: Captures the current week’s shifts and layout for future reuse.
