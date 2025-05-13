@@ -154,7 +154,6 @@ Within the scheduler, clicking **“Actions”** reveals various operations. Vis
 * **Save as Week Template**: Saves the present week’s layout as a reusable template.
 * **Copy Previous Week**: Brings over last week’s shifts into the current week.
 * **Add or Edit Unavailability**: Manage the times users are marked as unavailable.
-* **View Conflict**: Highlights warning or alert messages for immediate attention (e.g., overlapping shifts or missing acceptances).
 * **Export PDF**: Downloads the current view as a PDF (appears in **“Downloads”** if it exceeds file size limits).
 
 ### Publish
