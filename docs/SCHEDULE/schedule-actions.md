@@ -123,6 +123,22 @@ To **use** a template to a future week/day:
 
 ***
 
+## Copy Previous Week
+
+This will quickly copy all shifts, users, and all other information from the previous week (M-S) to the current week.
+
+1. In the scheduler,  **click** **Actions** → **Copy Previous Week**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e7d34096d3a10e337ce7ba2dd5c09e41e0cc7be72bb337bced789e1e09948fd6-image.png" />
+
+2. **Select** **Copy shifts**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c0052b243bc1d2d12e626461b5853e42afe8a67aa00642238ab768d7b235cf75-image.png" />
+
+3. All the shifts from the previous week are duplicated in the current week.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1de4bb79af4ebe278adbfba973bec2007f42ee2485b6ead16a3d973227973325-image.png" />
+
 ## Add or Edit Unavailability
 
 Unavailability marks specific times or dates when employees **can’t** take shifts. Examples: holidays, or events.
