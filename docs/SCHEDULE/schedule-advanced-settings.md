@@ -206,10 +206,10 @@ Each day may display **alert messages** or **immediate attention** icons if conf
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/42b6a14eb537c41e57fb05c5f86635c801b293ba9ed80ef31e3413a73af6170a-Screenshot_2025-05-12_at_12.19.15_PM.png" />
 
 * **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or not-accepted shifts.
-* **Alert (Yellow)**: Incomplete tasks, uncalculated cost (missing fee), or exceeding hour limits.
+* **Alert (Yellow)**: Incomplete tasks or exceeding hour limits.
 * **Informative (Blue)**: Time off, or unavailability.
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/e0aa7e3795aeb1fb1974b867262064b2cf7e67a8998a53947e06d962d31d5942-Screenshot_2025-05-12_at_12.33.28_PM.png" />
+<Image align="center" width="80% " src="https://files.readme.io/757d726d2e8e4ba296204201ce5386145e4ceb64a9033890a6c3d72000ec39f9-Messages.png" />
 
 #### Hours
 
@@ -234,7 +234,8 @@ A **shift** is a specified time slot an employee is assigned to work. Administra
 This column can also reflect conflict icons or alert messages for each user:
 
 * **Immediate Attention (Red)**: Missed shifts, overlapping shifts, or unaccepted shifts.
-* **Alert (Yellow)**: Tasks incomplete, missing cost info, or hour limits exceeded.
+* **Alert (Yellow)**: Tasks incomplete, missing info, or hour limits exceeded.
+* **Informative (Blue)**: Time off, or unavailability.
 
 ***
 
