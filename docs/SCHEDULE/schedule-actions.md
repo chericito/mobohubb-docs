@@ -11,6 +11,16 @@ hidden: false
 metadata:
   robots: index
 ---
+**In this guide you’ll learn**
+
+* Where to find the **Actions** menu in the scheduler and what each option does
+* How to **unpublish, clear, copy, template, or export** an entire week in just a few clicks
+* How to **remove assignments** or manage employee **unavailability** without losing shift data
+* When to use **Copy Previous Week** versus **Copy from Template** to speed up planning
+* How to generate a **PDF** of the current view for quick printing or sharing
+
+***
+
 # Schedule: Actions
 
 Access this menu via the toolbar within the scheduler.
