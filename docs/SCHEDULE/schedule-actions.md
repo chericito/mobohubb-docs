@@ -135,7 +135,7 @@ To learn more about **templates** usage and management, visit our dedicated [gui
 
 ## Copy Previous Week
 
-Duplicate an entire week’s schedule—shifts, assigned users, tasks, and settings—in one step. The system lifts everything from the last Monday-through-Sunday period and places it into the week you’re currently viewing.
+Duplicate an entire week’s schedule—shifts, assigned users, tasks, and settings—in one step. The system lifts everything from the last Monday through Sunday period and places it into the week you’re currently viewing.
 
 1. In the scheduler,  **click** **Actions** → **Copy Previous Week**.
 
