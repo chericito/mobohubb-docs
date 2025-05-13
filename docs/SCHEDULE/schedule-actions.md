@@ -131,7 +131,7 @@ To **use** a template to a future week/day:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e3b570725c836feb6028b9f7526a000a7248800fbda08b9d3ccf82384a207730-image.png" />
 
-***
+To learn more about templates, visit our dedicated guide.
 
 ## Copy Previous Week
 
