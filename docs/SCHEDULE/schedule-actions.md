@@ -81,11 +81,15 @@ The **Clear Week** option removes all shiftsâ€”draft, published, or unassignedâ€
 This action unassigns all shifts in the selected week, turning them into open (unassigned) shifts. Users can then claim them via the Mobile App:
 
 1. **Select** the week in the Date Selector.
-2. **Click** **Actions** in the scheduler.
-3. **Choose** **Remove Assignments**.
-4. **Submit** to confirm.
+2. **Click** **Actions** in the scheduler, and **choose** **Remove Assignments**.
 
-All user links are cleared, but the shifts remain visible for claiming.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/73e4ef7334df1edec90897eec3a551c8b3b5496409958d5314fb1e1d6d74cb10-image.png" />
+
+3. **Submit** to confirm.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e25ae538029036f5f22b8e51b1ff899769ee92c147b0959a67e5666230289358-image.png" />
+
+4. All user links are cleared, but the shifts remain visible for claiming.
 
 ***
 
