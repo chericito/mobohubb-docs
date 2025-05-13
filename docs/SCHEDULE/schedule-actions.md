@@ -152,8 +152,6 @@ If you need to delete an unavailability:
 
 2. **Click** **Delete** and confirm.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
-
 ***
 
 # Export PDF
@@ -164,7 +162,7 @@ If you need to delete an unavailability:
 2. **Click** **Actions** in the schedule toolbar.
 3. **Choose** **“Export PDF”.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/a8a7a200816ba6503d6d4119866a1bc38d564ee8ba42c7fdefc403b62cccb439-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ac9f8258ee5356244d8bbe6c1ad3401ac9f1e1500653ea8610a6d435662a33f8-image.png" />
 
 4. The PDF **downloads** to your device.
 5. **Open** the file locally to view or print the schedule.
