@@ -48,6 +48,10 @@ Turning a published week into a draft state hides all shifts from mobile app use
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/cdde78fe1fd08a23f547c8fef2ad3ba6ea03fbff0ab2369e6df979580a584a6a-image.png" />
 
+5. **All shifts** are now **drafts**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c5a7949e3ef8a813f15e202d411c1c3f4cb36cc056d592c74863e6eab3c3d6ee-image.png" />
+
 ***
 
 ## Clear Week
