@@ -148,13 +148,13 @@ If you need to delete an unavailability:
 
 2. **Click** **Delete** and confirm.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d563bec935bc2cf63bdb4b40872fca708a4d820b0942c998667b4f7ec0f019b4-image.png" />
 
 ***
 
 # View Conflict
 
-When **conflicts** arise in your schedule—like missed shifts, not accepted shifts, or overlaps—you can see all issues at once for quick resolution.
+When **conflicts** arise in your schedule, like missed shifts, not accepted shifts, or overlaps, you can see all issues at once for quick resolution.
 
 1. **Open** the scheduler interface.
 
