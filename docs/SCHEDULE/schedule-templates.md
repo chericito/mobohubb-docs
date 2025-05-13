@@ -29,7 +29,7 @@ Templates speed up shift creation by letting you reuse proven combinations of **
    * All fields are available from the shift’s **Tool bar**.
 3. **Scroll** to the bottom of the details panel and press **“Save As Template.”**
 
-<Image align="center" className="border" border={true} width="70% " src="https://files.readme.io/c0115b53daee680444dd6879288d9970f9ee693a2a3798943f0b92f4596a6920-image.png" />
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/650320b07b436ebb8f5cf125f2287a804daae82b5b1e835c91090a03beeab465-image.png" />
 
 That shift is now stored as a template and will appear in the **Add New → New Shift from Template** dialog.
 
@@ -37,15 +37,33 @@ That shift is now stored as a template and will appear in the **Add New → New 
 
 ***
 
+## Save Week as a Template
+
+<br />
+
+***
+
 ## Add New Shifts from Templates
 
-1. In the scheduler, click **Add new**.
-2. Choose **“New shift from template.”**
-3. Use the search bar to locate your template, then click **“Add from template.”**
-4. Adjust specifics (date, assignees, number of spots, etc.) if needed.
-5. **Publish** or **Save as Draft**.
+1. In the scheduler, **click** **Add new**, and **choose** **“New shift from template.”**
 
-<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/4c4de6675512c30585a6cd7429303680e8cc7f264ff91c4fd0f437559c02de31-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/27b972e934164bf17c81b1f3d746ff1ae24dc3b06849b573cd7e6f09729d7a01-image.png" />
+
+2. **Use** the search bar to locate your template, then click **“Add from template.”**
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/5a8939b593f9bae97686e023f04b88f359bf99338ebb7141b848e86765b177a2-image.png" />
+
+3. **Find** the shift in the schedule. It will be saved as a **Draft**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7f6b4bed1d829377b3e885fb4a844b0429450a4cdfe7a6c139d8d7075bc414cf-image.png" />
+
+3. If needed, **press** the **Edit** button and  **adjust**specifics (date, assignees, number of spots, etc.).
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2f6ec17c107df798e104d70b3f60e4acc224ce426596b9ad69f4341a4980de7e-image.png" />
+
+3. **Publish** or **Updated Draft**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d02316d9e8c75efaa65cff3aa4a68aba347653f399cca98ae699bdb34098ca71-image.png" />
 
 The new shift inherits every element you stored: role colors, tasks, forms, and any attached documents—ready in seconds.
 
