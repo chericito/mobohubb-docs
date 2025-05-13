@@ -58,7 +58,7 @@ That week is now stored as a template and will appear in the **Actions → Copy 
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/27b972e934164bf17c81b1f3d746ff1ae24dc3b06849b573cd7e6f09729d7a01-image.png" />
 
-2. **Use** the search bar to locate your template, then click **“Add from template.”**
+2. **Use** the search bar to locate your template, then **click** **“Add from template.”**
 
 <Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/5a8939b593f9bae97686e023f04b88f359bf99338ebb7141b848e86765b177a2-image.png" />
 
@@ -80,7 +80,18 @@ The new shift inherits every element you stored: role colors, tasks, forms, and 
 
 ## Add Week from Template
 
-<br />
+1. **Navigate** to an empty week.
+2. In the scheduler, **click** **Actions** and **select** **Copy from template**.
+
+![](https://files.readme.io/1d61678801d45d6ff419831958eca3d72fdd3e29ee8d13e9053d0069c45e1b2b-image.png)
+
+3. **Use** the search bar to locate your template, then **click** **“Add from template.”**
+
+<Image align="center" className="border" border={true} width="60% " src="https://files.readme.io/56e1d4d9ea11fa37b3f4c44f1293274ac9ffd57be39acb7cd04662631d226392-image.png" />
+
+4. All the shifts from the template will appear as **drafts** on the scheduler. **Press "Publish"** or **edit** the drafts as needed.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/14c4220fd417ea877ae9679c89add4576dec518f35d7959429e0a2acda16c0ed-image.png" />
 
 ***
 
