@@ -101,6 +101,8 @@ This action unassigns all shifts in the selected week, turning them into open (u
 
 4. All user links are cleared, but the shifts remain visible for claiming.
 
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a8dd8856ed0ce14515d066e50275caed2e558b2166381c350be09bd2265acf54-image.png" />
+
 ***
 
 ## Save Templates & Copy From Templates
@@ -192,5 +194,3 @@ If you need to delete an unavailability:
 
 4. The PDF **downloads** to your device.
 5. **Open** the file locally to view or print the schedule.
-
-> **Note**: If the file size is large, the PDF might appear in **“[Downloads](https://mobohubb.readme.io/docs/downloads#/)”** on the platform instead of an immediate device download.
