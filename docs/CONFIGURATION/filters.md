@@ -6,7 +6,7 @@ excerpt: >-
   shows you how to apply multiple filters at once, and reveals how to remove or
   switch between filter types.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
