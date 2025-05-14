@@ -25,4 +25,10 @@ If an export (such as a report or data file) exceeds the allowed size limit or c
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cbf782d72b1fe0b93bb570c9739acf6f6a87f04c9f464c8f8933cc32167120d-Screenshot_2025-04-11_at_10.35.00_AM.png" />
 
+2. A list with all the files available for download is visible.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2025664f926740f601c23322b0e747bd41317bafe6210b26ebe8834c6e1994b5-image.png" />
+
+<br />
+
 > **Tip:** The **Downloads** section displays important details such as **format type** (PDF, Excel, etc.), **file name**, and **status**, making it easy to locate and manage your large exports.
