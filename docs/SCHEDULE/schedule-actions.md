@@ -155,7 +155,7 @@ Duplicate an entire week’s schedule—shifts, assigned users, tasks, and setti
 
 Unavailability marks specific times or dates when employees **can’t** take shifts. Examples: holidays, or events.
 
-<Image align="center" border={true} caption="View with unavailability" src="https://files.readme.io/bd82eaddab8c55df81eec53a3f66d42fb36a05643932990f3085935e6178fdff-image.png" width="80% " />
+<Image align="center" border={true} caption="**Wed 06/25** View with unavailability" src="https://files.readme.io/bd82eaddab8c55df81eec53a3f66d42fb36a05643932990f3085935e6178fdff-image.png" width="80% " />
 
 1. **In** the scheduler, **click** **Actions** → **Add or Edit Unavailability**.
 
