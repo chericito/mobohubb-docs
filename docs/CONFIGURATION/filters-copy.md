@@ -10,102 +10,119 @@ hidden: false
 metadata:
   robots: index
 ---
-Filters in the **mobohubb** portal are a fantastic way to achieve useful data management.
+**In this guide you'll learn**
+
+* Where to **find and open** the filter panel on any data grid
+* The difference between **Quick** and **Advanced** filters—and when to use each
+* How to **apply**, **stack**, and **preview** multiple filter rules
+* Ways to **save** a filtered layout as a reusable view and how to **restore** defaults
+
+***
+
+## Filters
+
+Filters in **mobohubb** let you narrow, organize, and quickly surface the data you need—without exporting to Excel or running extra reports.
+
+***
 
 ## Access Filters
 
-You can access the filters menu by clicking on the **Filter** button on most screens from the **mobohubb** portal. In this example, we are looking at the **Report Data** screen.
+Click the **Filter** button (upper-left of most tables).
+
+Here, for example, we’re on **Report Data**:
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c732729baa4c947d01ee8f78ca7f69b2245458ba731acd712677513612f0fce-image.png" />
 
-## Configure and Apply Filters
+A pop-up appears showing every filter available on that screen.
 
-A new pop-up menu will appear where you will see all the available options and filter types. There are two filter types: **quick filters** and **advanced filters**.
-
-> 📘 Important:
+> 📘 **Heads-up**
 >
-> The filtering options in filters depend specifically on the page you're currently on. Filter may differ from "Users" to "Tags" or "Report Data". This helps the experience to be as customizable as possible within the realm of possiblities por each screen/page.
+> Filter options change from page to page. A *Users* view will expose very different filters than *Report Data*—so each screen stays relevant to its own data set.
 
 ![](https://files.readme.io/e7a71ef1afb61b93dd21510a3cd2b714b8116e39e841034494ca6474aac39a76-image.png)
 
+***
+
 ## Quick Filters
 
-<Image align="center" border={true} caption="Quick filters for **Report Data**" src="https://files.readme.io/9d6184eda6b11f5f8d37e08c1ada761194eabc07e946075e3ecda326776a3aff-Screenshot_2025-05-14_at_11.10.14_AM.png" width="30% " />
+<Image align="center" border={true} caption="Quick filters in **Report Data**" src="https://files.readme.io/9d6184eda6b11f5f8d37e08c1ada761194eabc07e946075e3ecda326776a3aff-Screenshot_2025-05-14_at_11.10.14_AM.png" width="30% " />
 
-Let's take a look at "Report Name", for example.
+Choose a category (e.g., **Report Name**).
 
-![](https://files.readme.io/862d4ce1f0989bc03ff5bc7de3f5ff1d61abd1b2adc46cef0181ef6708a6def6-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/862d4ce1f0989bc03ff5bc7de3f5ff1d61abd1b2adc46cef0181ef6708a6def6-image.png" />
 
-And each quick filter has a dropdown menu based on the available data. You can quickly search for a specific report or narrow the results by typing in the search bar.
+Begin typing to locate a value, then tick one or several checkboxes.
 
-![](https://files.readme.io/0b8e8dfc3ddb696d3b01b86d1a67fc2b58a24ac81a42adfc80cb240c2d7f9426-Screenshot_2025-05-14_at_11.17.29_AM.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b8e8dfc3ddb696d3b01b86d1a67fc2b58a24ac81a42adfc80cb240c2d7f9426-Screenshot_2025-05-14_at_11.17.29_AM.png" />
 
-You can select one or multiple results:
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/115071e76d842c91e5a987eae232173cd114647a6a294c9f7d37665b98a73edf-image.png" />
 
-![](https://files.readme.io/115071e76d842c91e5a987eae232173cd114647a6a294c9f7d37665b98a73edf-image.png)
+Close the drop-down (or click elsewhere), and the grid refreshes immediately.
 
-Click the "Return" button or click outside the filter box, and the view will be updated based on your filters.
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/81a804e050ad26f0face25d5495bebe5796c1ba02970ba0c4fb3b09e3968a112-image.png" />
 
-![](https://files.readme.io/81a804e050ad26f0face25d5495bebe5796c1ba02970ba0c4fb3b09e3968a112-image.png)
+***
 
 ## Advanced Filters
 
-This is what advanced filters look like:
+You can narrow your results even more by switching to **Advanced** filters.
 
-<Image align="center" border={false} caption="Advanced filters for **Report Data**" src="https://files.readme.io/705e526e09f14924cc46a0a132ee67e85ca8620158470ab0f61e23c85d3fc7c3-image.png" width="80% " />
+<Image align="center" border={true} caption="Advanced filters in **Report Data**" src="https://files.readme.io/705e526e09f14924cc46a0a132ee67e85ca8620158470ab0f61e23c85d3fc7c3-image.png" width="80% " />
 
-Select the appropriate filters and **Press** **Apply**.
+Define your conditions, then click **Apply**.
 
-<Image align="center" src="https://files.readme.io/f0a79a370ff0db333bafb533dccf608a205770167eabdca2a738e560e304c26e-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f0a79a370ff0db333bafb533dccf608a205770167eabdca2a738e560e304c26e-image.png" />
 
-And now, the view will be updated based on your filters.
+Now the table shows only the rows that match.
 
-![](https://files.readme.io/0bd7bbdf98476f929e1460ceec85dc2f01668c009654beb1c68620ed342cf99a-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/0bd7bbdf98476f929e1460ceec85dc2f01668c009654beb1c68620ed342cf99a-image.png" />
 
-> 📘 Pro tip:
+> 📘 **Tip**
 >
-> If you selected multiple options under a filter. You can quickly view which ones the current view is showing by hovering over the filter name:
+> Hover over a blue filter-chip to see every value selected:
 >
 > ![](https://files.readme.io/4ab22f29fd64671dbfa77bf1eb86e4ada374d2ecdd2fbfafbd681639a73c0ff2-image.png)
->
->
 
-## Save view
+***
 
-If you want to save a specific filtered view, you can go ahead and do this:
+## Save View
 
-1. **Filter** your data using filters.
+Lock in your favorite combination of filters and columns.
+
+1. Apply the filters you need.
 
 ![](https://files.readme.io/906fd6426e291a3634bf4a8972063d5bd38016a55527e1b85af091952654e1bf-image.png)
 
-2. Press the **Save View** button.
+2. Click **Save View**.
 
 ![](https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png)
 
-3. Assign a name, icon and color, and press Save.
+3. Give the view a **name**, choose an **icon** and **color**, then save.
 
 ![](https://files.readme.io/d65ab1c15aa56b5d5d70411cdee49cf3b80de74b44209af57ee294724c1537bb-image.png)
 
-4. The view will be saved under your **Favorites** folder in the left panel
+4. Your view now lives under **Favorites** in the left pane.
 
 ![](https://files.readme.io/fcc6b1a561b0c045eca1514a84df0af809b6a70d9bfcebbef93bc5d5689732a4-image.png)
 
+***
+
 ## Restore View
 
-There are different ways to restore a view to its original content.
+### Using **Restore View**
 
-### Using the Restore View Option
-
-1. Click the ⋮ button in the toolbar and **Select** **Restore View**.
+1. Click the ⋮ menu and choose **Restore View**.
 
 ![](https://files.readme.io/c6eadb23c8507c0d952a46e9eb579302aa2ff18f1dc17e11dd97c4109995efd4-image.png)
 
-2. The view will return to its default version.
+2. All filters, column changes, and sorts revert to default.
 
 ![](https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png)
 
-### Removing filters from the filter tab
+### Clearing Individual Filters
 
-1. Identify the filter you want to remove from the filter tab. Press the "X" button. Repeat for all filters if desired. The system will stop filtering with these options.
+Locate the blue filter-chips at the top of the table and click **×** to remove each one.
 
 ![](https://files.readme.io/1eafb4a82733caabb779f3876d4e60545ed5c0bf120126769f6ed2d3c5509faf-image.png)
+
+The grid updates right away, restoring the hidden rows.
