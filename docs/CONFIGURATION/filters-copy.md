@@ -10,3 +10,76 @@ hidden: false
 metadata:
   robots: index
 ---
+Filters in the **mobohubb** portal are a fantastic way to achieve useful data management.
+
+## Access Filters
+
+You can access the filters menu by clicking on the **Filter** button on most screens from the **mobohubb** portal. In this example, we are looking at the **Report Data** screen.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/5c732729baa4c947d01ee8f78ca7f69b2245458ba731acd712677513612f0fce-image.png" />
+
+## Configure and Apply Filters
+
+A new pop-up menu will appear where you will see all the available options and filter types. There are two filter types: **quick filters** and **advanced filters**.
+
+> 📘 Important:
+>
+> The filtering options in filters depend specifically on the page you're currently on. Filter may differ from "Users" to "Tags" or "Report Data". This helps the experience to be as customizable as possible within the realm of possiblities por each screen/page.
+
+![](https://files.readme.io/e7a71ef1afb61b93dd21510a3cd2b714b8116e39e841034494ca6474aac39a76-image.png)
+
+## Quick Filters
+
+<Image align="center" border={true} caption="Quick filters for **Report Data**" src="https://files.readme.io/9d6184eda6b11f5f8d37e08c1ada761194eabc07e946075e3ecda326776a3aff-Screenshot_2025-05-14_at_11.10.14_AM.png" width="30% " />
+
+Let's take a look at "Report Name", for example.
+
+![](https://files.readme.io/862d4ce1f0989bc03ff5bc7de3f5ff1d61abd1b2adc46cef0181ef6708a6def6-image.png)
+
+And each quick filter has a dropdown menu based on the available data. You can quickly search for a specific report or narrow the results by typing in the search bar.
+
+![](https://files.readme.io/0b8e8dfc3ddb696d3b01b86d1a67fc2b58a24ac81a42adfc80cb240c2d7f9426-Screenshot_2025-05-14_at_11.17.29_AM.png)
+
+You can select one or multiple results:
+
+![](https://files.readme.io/115071e76d842c91e5a987eae232173cd114647a6a294c9f7d37665b98a73edf-image.png)
+
+Click the "Return" button or click outside the filter box, and the view will be updated based on your filters.
+
+![](https://files.readme.io/81a804e050ad26f0face25d5495bebe5796c1ba02970ba0c4fb3b09e3968a112-image.png)
+
+## Advanced Filters
+
+This is what advanced filters look like:
+
+<Image align="center" border={false} caption="Advanced filters for **Report Data**" src="https://files.readme.io/705e526e09f14924cc46a0a132ee67e85ca8620158470ab0f61e23c85d3fc7c3-image.png" width="80% " />
+
+Select the appropriate filters and **Press** **Apply**.
+
+<Image align="center" src="https://files.readme.io/f0a79a370ff0db333bafb533dccf608a205770167eabdca2a738e560e304c26e-image.png" />
+
+And now, the view will be updated based on your filters.
+
+![](https://files.readme.io/0bd7bbdf98476f929e1460ceec85dc2f01668c009654beb1c68620ed342cf99a-image.png)
+
+## Save view
+
+If you want to save a specific filtered view, you can go ahead and do this:
+
+1. **Filter** your data using filters.
+
+![](https://files.readme.io/906fd6426e291a3634bf4a8972063d5bd38016a55527e1b85af091952654e1bf-image.png)
+
+2. Press the **Save View** button.
+
+![](https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png)
+
+3. Assign a name, icon and color, and press Save.
+
+![](https://files.readme.io/d65ab1c15aa56b5d5d70411cdee49cf3b80de74b44209af57ee294724c1537bb-image.png)
+
+4. The view will be saved under your **Favorites** folder in the left panel
+
+![](https://files.readme.io/fcc6b1a561b0c045eca1514a84df0af809b6a70d9bfcebbef93bc5d5689732a4-image.png)
+
+## Restore View
