@@ -21,7 +21,7 @@ If an export (such as a report or data file) exceeds the allowed size limit or c
 
 ### Navigation
 
-1. From the Settings menu, navigate to **Site Administration → Downloads**.
+1. From the **Site Administration** section, **select Downloads**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cbf782d72b1fe0b93bb570c9739acf6f6a87f04c9f464c8f8933cc32167120d-Screenshot_2025-04-11_at_10.35.00_AM.png" />
 
@@ -29,6 +29,10 @@ If an export (such as a report or data file) exceeds the allowed size limit or c
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2025664f926740f601c23322b0e747bd41317bafe6210b26ebe8834c6e1994b5-image.png" />
 
-<br />
+3. **Click** the **download** button under the **Download** column for the files you want to download.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8a826f58012a508173dfb2b0560eccd08d4652e0cc388a91df5a38532b3762a5-image.png" />
+
+4. Find your download in your local **downloads** folder.
 
 > **Tip:** The **Downloads** section displays important details such as **format type** (PDF, Excel, etc.), **file name**, and **status**, making it easy to locate and manage your large exports.
