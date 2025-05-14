@@ -16,7 +16,7 @@ metadata:
 
 ***
 
-If an export (such as a report or data file) exceeds the allowed size limit or cannot be transferred immediately, mobohubb places it in the Downloads section as a pending file. Once you have the necessary space or availability, you can re-download the file at your convenience. Please note that mobohubb does not automatically notify you when your exports are available in Downloads, so it's a good practice to check this section regularly.
+If an export (such as a report or data file) exceeds the allowed size limit or cannot be transferred immediately, mobohubb places it in the Downloads section as a pending file. Once you have the necessary space or availability, you can re-download the file. Please note that mobohubb does not automatically notify you when your exports are available in Downloads, so it's a good practice to check this section regularly.
 
 ### Navigation
 
