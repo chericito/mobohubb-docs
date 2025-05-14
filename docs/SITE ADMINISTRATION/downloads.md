@@ -11,9 +11,8 @@ metadata:
 ---
 **In this guide you'll learn**
 
-* **Where to Access Pending Files** that weren’t immediately downloaded
-* **How to Retrieve Exported Data** later on, once storage is available
-* **What Information is Provided** (e.g., file format, name, and status)
+* **Where to Access Pending Files** that weren’t immediately downloaded.
+* **How to Retrieve Exported Data** later on, once storage is available.
 
 ***
 
@@ -21,7 +20,11 @@ If an export (such as a report or data file) exceeds the allowed size limit or c
 
 ### Navigation
 
-1. From the **Site Administration** section, **select Downloads**.
+1. **Navigate to the Portal’s Top Menu** and select **Settings** from the dropdown.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/84271ddfd277b67b32b0addce24e9e728b4ac48763aa0b92a63a0cf8c52f9a50-Screenshot_2025-04-03_at_12.41.34_PM.png" />
+
+2. From the **Site Administration** section, **select Downloads**.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1cbf782d72b1fe0b93bb570c9739acf6f6a87f04c9f464c8f8933cc32167120d-Screenshot_2025-04-11_at_10.35.00_AM.png" />
 
