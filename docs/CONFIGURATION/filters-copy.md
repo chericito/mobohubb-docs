@@ -79,7 +79,7 @@ Now the table shows only the rows that match.
 
 > 📘 **Tip**
 >
-> Hover over a blue filter-chip to see every value selected:
+> Hover and click over a filter-chip to see every value selected:
 >
 > ![](https://files.readme.io/4ab22f29fd64671dbfa77bf1eb86e4ada374d2ecdd2fbfafbd681639a73c0ff2-image.png)
 
@@ -91,19 +91,19 @@ Lock in your favorite combination of filters and columns.
 
 1. Apply the filters you need.
 
-![](https://files.readme.io/906fd6426e291a3634bf4a8972063d5bd38016a55527e1b85af091952654e1bf-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/906fd6426e291a3634bf4a8972063d5bd38016a55527e1b85af091952654e1bf-image.png" />
 
 2. Click **Save View**.
 
-![](https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png)
+<Image align="center" width="80% " src="https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png" />
 
 3. Give the view a **name**, choose an **icon** and **color**, then save.
 
-![](https://files.readme.io/d65ab1c15aa56b5d5d70411cdee49cf3b80de74b44209af57ee294724c1537bb-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d65ab1c15aa56b5d5d70411cdee49cf3b80de74b44209af57ee294724c1537bb-image.png" />
 
 4. Your view now lives under **Favorites** in the left pane.
 
-![](https://files.readme.io/fcc6b1a561b0c045eca1514a84df0af809b6a70d9bfcebbef93bc5d5689732a4-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/fcc6b1a561b0c045eca1514a84df0af809b6a70d9bfcebbef93bc5d5689732a4-image.png" />
 
 ***
 
@@ -111,18 +111,18 @@ Lock in your favorite combination of filters and columns.
 
 ### Using **Restore View**
 
-1. Click the ⋮ menu and choose **Restore View**.
+1. **Click** the ⋮ menu and choose **Restore View**.
 
-![](https://files.readme.io/c6eadb23c8507c0d952a46e9eb579302aa2ff18f1dc17e11dd97c4109995efd4-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c6eadb23c8507c0d952a46e9eb579302aa2ff18f1dc17e11dd97c4109995efd4-image.png" />
 
 2. All filters, column changes, and sorts revert to default.
 
-![](https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png)
+<Image align="center" width="80% " src="https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png" />
 
 ### Clearing Individual Filters
 
 Locate the blue filter-chips at the top of the table and click **×** to remove each one.
 
-![](https://files.readme.io/1eafb4a82733caabb779f3876d4e60545ed5c0bf120126769f6ed2d3c5509faf-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1eafb4a82733caabb779f3876d4e60545ed5c0bf120126769f6ed2d3c5509faf-image.png" />
 
 The grid updates right away, restoring the hidden rows.
