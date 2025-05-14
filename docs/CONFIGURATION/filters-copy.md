@@ -62,6 +62,14 @@ And now, the view will be updated based on your filters.
 
 ![](https://files.readme.io/0bd7bbdf98476f929e1460ceec85dc2f01668c009654beb1c68620ed342cf99a-image.png)
 
+> 📘 Pro tip:
+>
+> If you selected multiple options under a filter. You can quickly view which ones the current view is showing by hovering over the filter name:
+>
+> ![](https://files.readme.io/4ab22f29fd64671dbfa77bf1eb86e4ada374d2ecdd2fbfafbd681639a73c0ff2-image.png)
+>
+>
+
 ## Save view
 
 If you want to save a specific filtered view, you can go ahead and do this:
@@ -83,3 +91,21 @@ If you want to save a specific filtered view, you can go ahead and do this:
 ![](https://files.readme.io/fcc6b1a561b0c045eca1514a84df0af809b6a70d9bfcebbef93bc5d5689732a4-image.png)
 
 ## Restore View
+
+There are different ways to restore a view to its original content.
+
+### Using the Restore View Option
+
+1. Click the ⋮ button in the toolbar and **Select** **Restore View**.
+
+![](https://files.readme.io/c6eadb23c8507c0d952a46e9eb579302aa2ff18f1dc17e11dd97c4109995efd4-image.png)
+
+2. The view will return to its default version.
+
+![](https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png)
+
+### Removing filters from the filter tab
+
+1. Identify the filter you want to remove from the filter tab. Press the "X" button. Repeat for all filters if desired. The system will stop filtering with these options.
+
+![](https://files.readme.io/1eafb4a82733caabb779f3876d4e60545ed5c0bf120126769f6ed2d3c5509faf-image.png)
