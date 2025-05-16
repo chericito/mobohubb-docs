@@ -79,20 +79,23 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
 # Complete Tasks
 
-1. **Select** the task.
+1. **Tap** the **Tasks** icon.
 
-   * You can use the **search bar** at the top of the tasks section to easily find it.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/61c2bc7c5478567552ebb0085c1ae103b44734851d247eb1c5ef4981bac3e16a-image.png" />
 
-   <br />
+2. **Select** the task.
 
-   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fe6987d16c2ac60f46db90c2b3a5fb62d87aa9f37b947864246d650fac81c7ba-image.png" />
+* You can use the **search bar** at the top of the tasks section to easily find it.
 
-   <br />
-2. **Swipe right** to mark it as done.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fe6987d16c2ac60f46db90c2b3a5fb62d87aa9f37b947864246d650fac81c7ba-image.png" />
+
+<br />
+
+3. **Swipe right** to mark it as done.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8366882f84743ccb64fa4492754a4625c2e3cee1384c9704792cf514e396bba4-image.png" />
 
-3. **Confirm** using the check button.
+4. **Confirm** using the check button.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9aab521a07899ec54f86cc0c7d414059ce2475ca7f63d136a2eb09572c49fe04-image.png" />
 
@@ -108,25 +111,25 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
 # Forms or Checklists
 
-1. <br />
+1. **Tap** the **Forms** icon.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/194667941fd1f58505eed5cd210c3f0629f006892d21b7932116ba0d1b01d641-image.png" />
+
 2. **Select** the form or checklist.
 
-   * Use the search bar at the top to find it quickly.
+* Use the search bar at the top to find it quickly.
 
-   <br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74f52c33bee3af04a4ba2b426241b0c1da41fefc30ca79c8fd401ebad906ef2b-image.png" />
 
-   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74f52c33bee3af04a4ba2b426241b0c1da41fefc30ca79c8fd401ebad906ef2b-image.png" />
-
-   <br />
 3. **Fill in the form**, noting the fields marked with an asterisk.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2ed2e254cb267454592095719e16f1f6c199a7d6b68eedc541dc6e6a38c24231-image.png" />
 
-3. **Submit** the form or checklist.
+4. **Submit** the form or checklist.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
-4. You'll receive a confirmation.
+5. You'll receive a confirmation.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c2742b173193b9ba0383dacbe9c312a3f9389d24f37db6ccfaa0e02f93d15b50-image.png" />
 
