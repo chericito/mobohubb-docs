@@ -83,16 +83,18 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
    * You can use the **search bar** at the top of the tasks section to easily find it.
 
-   <Image align="center" width="38% " src="https://files.readme.io/3af86ec971e98f3967e689e4c8c0a382f67fee7241d44220405b2a0216c4791d-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fe6987d16c2ac60f46db90c2b3a5fb62d87aa9f37b947864246d650fac81c7ba-image.png" />
 
    <br />
 2. **Swipe right** to mark it as done.
 
-<Image align="center" width="38% " src="https://files.readme.io/f6ab9fab3fcac295c74677c57427ea9a4606f1924f3678e576b651c77ab0e850-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8366882f84743ccb64fa4492754a4625c2e3cee1384c9704792cf514e396bba4-image.png" />
 
 3. **Confirm** using the check button.
 
-<Image align="center" width="38% " src="https://files.readme.io/b13cf0a1a844d8ba29b1f9bc38927f32f365e616c44415c8010fa1bdafd26924-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9aab521a07899ec54f86cc0c7d414059ce2475ca7f63d136a2eb09572c49fe04-image.png" />
 
 * **Scan task**: Prompts you to scan a QR code or NFC with your device.
 * **Report task**: Redirects you to a form.
