@@ -108,26 +108,29 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
 # Forms or Checklists
 
-1. **Select** the form or checklist.
+1. <br />
+2. **Select** the form or checklist.
 
    * Use the search bar at the top to find it quickly.
 
-   <Image align="center" width="30% " src="https://files.readme.io/d0974cf095507abd4956b3a61631fc7055cfa442c12b6befbad655b9f27b13c1-image.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74f52c33bee3af04a4ba2b426241b0c1da41fefc30ca79c8fd401ebad906ef2b-image.png" />
 
    <br />
-2. **Fill in the form**, noting the fields marked with an asterisk.
+3. **Fill in the form**, noting the fields marked with an asterisk.
 
-<Image align="center" width="30% " src="https://files.readme.io/93bfbc1bfde4d83b952134f46e848886d51cbef7a60a16fbeb0aaf27f72d4cd1-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2ed2e254cb267454592095719e16f1f6c199a7d6b68eedc541dc6e6a38c24231-image.png" />
 
 3. **Submit** the form or checklist.
 
-<Image align="center" width="30% " src="https://files.readme.io/cdeb1a0d0272d7bbd622f8dc92aa43b2372804ac1bc0587f60a21355cf99b6d5-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
-4. **Close** and confirm.
+4. You'll receive a confirmation.
 
-* You can track your logs in **My Activity**.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c2742b173193b9ba0383dacbe9c312a3f9389d24f37db6ccfaa0e02f93d15b50-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/8a2ae740c23b05db3cbe0041e5f7e2881d2e53f3f5bbbb9ea2b993ddb4228d8f-image.png" />
+<br />
 
 ***
 
@@ -139,24 +142,22 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
    * Use the **search bar** at the top to find it.
 
-   <Image align="center" width="30% " src="https://files.readme.io/1c8451260578292179399c831a82983eedada1b9b6f8cfbe4dee47646a438107-image.png" />
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a3481f5327ce21b0079f429860a96059c63510241eec1d5858f5e8b59bc17b54-image.png" />
 
    <br />
 2. **Fill in** the form, keeping in mind required fields.
 
-<Image align="center" width="30% " src="https://files.readme.io/e525982516443e7f6936bf7ac4f12bb18066d22ee0fdbf8a7368b9381e7ff890-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5f895eded679767c8ec4ee1312d4384bf91d788ed0996d0544d12d0b5aa13dd2-image.png" />
 
-3. Tap the **drop menu**.
+3. Tap the **drop menu**, and **select** **Save Draft.**
 
-<Image align="center" width="30% " src="https://files.readme.io/b67f9d85a0b446202cc1b818b9d5aed4d2d7aa40cab62436c3bf7dd42888850d-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5e8688bc8c6b336f0abedab80c02c365ab94c56e9e28afbf2c426740d09b1050-image.png" />
 
-4. Select **Save Draft**.
+4. You'll get a confirmation.
 
-<Image align="center" width="30% " src="https://files.readme.io/f80f81c73598b31e407c1fd3d75f51dd8f15b7538d2144ceb441202f9b9a1c56-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a9c87280a73e426689b616864c4287789e6daa94d0fc931dc0459823d115f1ac-image.png" />
 
-5. **Close** and confirm.
-
-<Image align="center" width="30% " src="https://files.readme.io/93b54e853f7b9d70c1fc2f015b603652cc2450bdaba3a584d05e8220ad286319-image.png" />
+<br />
 
 ### Completing a Draft
 
