@@ -153,11 +153,15 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5e8688bc8c6b336f0abedab80c02c365ab94c56e9e28afbf2c426740d09b1050-image.png" />
 
-4. You'll get a confirmation.
+4. **Provide** a name for the draft and **press** **Done**.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a9c87280a73e426689b616864c4287789e6daa94d0fc931dc0459823d115f1ac-image.png" />
+<Image align="center" width="30% " src="https://files.readme.io/2d1a0b10bf8bb3f5df8b6b931f2c8f9f82b1f1524705062c9fa123914f499c9e-image.png" />
 
 <br />
+
+5. You'll get a confirmation.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/cc346dd4adf8cf3b961989ed9735b27202e7278835d2afd9a5acb12af480568c-image.png" />
 
 ### Completing a Draft
 
