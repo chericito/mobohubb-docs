@@ -167,26 +167,24 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 
 1. Tap on **Saved Drafts**.
 
-<Image align="center" width="30% " src="https://files.readme.io/3268988e5f8455c840686cd859689957b784939c2598ba87b8d2986545c74ded-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8b36a1aa8bd9b85e199be5bdbea21c6f4bf2e1ebbbf9dd42d935352ac3e51295-image.png" />
 
 2. **Select** the draft form.
 
 * You can use the **search bar** to find it by the name assigned.
 
-<Image align="center" width="30% " src="https://files.readme.io/4640b302e60b69f0a38e80091ff9d6319cb775d086493ba541d46a02e47075b2-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ecbf8c024155ee1e30a2d25daa1570b667124dcab6a00965e806a8b594abc88a-image.png" />
 
-3. **Fill in** or complete the draft.
+3. **Fill in** or complete the draft and **submit** it.
 
-<Image align="center" width="30% " src="https://files.readme.io/65a42877b4c1edae9a6b697b9a6373bf3cdbe6ef9b59d76dbf98e4546a4ebd22-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
-4. **Submit** the form or checklist.
+4. You'll get a confirmation.
 
-<Image align="center" width="30% " src="https://files.readme.io/064b3badcfb5371b525ab53a00d8c64f8828e485b4d017e19976876b1ce29f6d-image.png" />
-
-5. **Close** and confirm.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/246e867e38ab14b71ee26583eb3e412c328cabdaa48c8b31b31aa47c1a803c08-image.png" />
 
 * You can track your logs in **My Activity**.
 
-<Image align="center" width="30% " src="https://files.readme.io/2068a479862e03d4c2fab2c80365328b21f04b0435d2abd3204d09992c463385-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/35a942484f6df3569732dff49e6ee9167b835cbc691a7055bd14a5e284712f8b-image.png" />
 
 This is everything you need for a quick start. Please, don't hesitate on asking questions or [contact support](https://mobohubb.zendesk.com/hc/en-us/requests/new).
