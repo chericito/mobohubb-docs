@@ -24,23 +24,23 @@ metadata:
 
 1. **Locate** the landing screen.
 
-<Image align="center" width="30% " src="https://files.readme.io/6c35c52f72a489f9236977a91a1ab4ac99b598a0cfeb97907c45a41810929190-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a6c4c9988985d1e31fee8f1276244d4d7b58244c74dbc016938a930ba0b8e997-image.png" />
 
 2. Use the bottom menu and select the **Scan** option.
 
-<Image align="center" width="30% " src="https://files.readme.io/3ed3bf8037091bb2585712c23e6145f09434947fa65ad503606d4749914f2851-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/05fc50bbf8c425844ec8a7fbb4670034fdf00dfee66a05571cc40db16ae8828f-image.png" />
 
 3. The **camera** will activate and scan the QR code.
 
-<Image align="center" width="30% " src="https://files.readme.io/37123b81d11453aded391513b313c58cbc905664d6b281ad6ef73cf2c9fd7b5c-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9567e9274b2f6d1c296276c84e289d0966bfbfe31782d2ba4499693f8a06d94f-image.png" />
 
 4. **Submit** the QR code.
 
-<Image align="center" width="30% " src="https://files.readme.io/3c443a2353cb2c0cf3f85dcb578a029473518fdd23db7b34884352101655627d-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/93ff1921f40dd1f2ced04c42da95b6fe410ebbf13f8222fdd12ecc75dcec58c5-image.png" />
 
 5. **Close** and validate. You can track your logs in **My Activity**.
 
-<Image align="center" width="30% " src="https://files.readme.io/548e7710efc10de4747021044a6c5953e3c202ec771013252f876f1777801209-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ff0c0f1bd01bf65f456739dc760e99f7bfab57fcbcce2d2ff6c313bda55774b9-Image_1.png" />
 
 ***
 
