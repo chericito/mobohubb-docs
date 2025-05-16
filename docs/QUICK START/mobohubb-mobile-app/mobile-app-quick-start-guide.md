@@ -100,9 +100,9 @@ Tap it to choose from the **break options** configured by the admin (paid or unp
 * **Report task**: Redirects you to a form.
 * **Manual task**: Appears as a checkbox with no redirects.
 
-4. **Click** **Close**.
+4. You'll receive a confirmation.
 
-<Image align="center" width="38% " src="https://files.readme.io/af629cad8e13c1f4d3b80b91d4cb36b4692847f31d8c87b61d090a923a548557-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/cff87ae3bc234bea7ed1dd4706cdc723efd43302b23ec7d0ef183ebd08af5b76-image.png" />
 
 ***
 
