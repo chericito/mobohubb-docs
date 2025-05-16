@@ -65,7 +65,7 @@ metadata:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9d510b80ff29d860a769396a00ba9ca193b12dc0fbfd674d959cf8c01bf104d3-image.png" />
 
-### Manual Breaks
+### Breaks
 
 If the administrator configured breaks to be manual, you will see a **Take a break** button on the time clock.
 
