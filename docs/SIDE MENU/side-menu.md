@@ -37,11 +37,11 @@ The side menu offers a variety of features:
 
 * **Offline Work**: Enables you to continue working without an internet connection. Data such as hours worked, tasks performed, forms completed, and scan records are stored on your device and synchronized once connectivity is restored.
 
-* **Map**: Displays geo-task type shifts; these shifts are not visible in the main task view and are exclusive to this section.
+* **Map**: Displays geo-task type tasks; these tasks are not visible in the main task view and are exclusive to this section.
 
 * **Request**: Lets you submit emergency or permit requests. This section shows the status of your requests (pending, approved, or rejected) and any permissions or responses associated with them.
 
-* **Knowledge Base**: Provides access to guidelines, directives, and standards within the organization.
+* **Knowledge Base**: Provides access to the organization's guidelines, directives, and standards.
 
 * **App Info**: Shows details about the app, including version information and updates.
 
@@ -51,4 +51,4 @@ The side menu offers a variety of features:
 
 Site administrators can customize the side menu to display only the options relevant to their site. As a result, you might not see every function listed here if your site’s configuration does not include it.
 
-> **Note:** For additional details on customizing the side menu, please visit our dedicated guide on [mobile configuration](https://mobohubb.readme.io/docs/site-management#/mobile-configuration).
+> **Note:** For additional details on customizing the side menu, please visit our dedicated guide on [mobile configuration](https://mobohubb.readme.io/docs/site-management#mobile-configuration).
