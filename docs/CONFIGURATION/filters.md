@@ -21,7 +21,7 @@ metadata:
 
 ## Filters
 
-Filters in **mobohubb** let you narrow, organize, and quickly surface the data you need—without exporting to Excel or running extra reports.
+Filters in **mobohubb** let you narrow, organize, and quickly surface the needed data—without exporting to Excel or running extra reports.
 
 ***
 
