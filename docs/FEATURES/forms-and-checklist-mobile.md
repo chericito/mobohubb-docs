@@ -109,13 +109,25 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <Image align="center" border={true} caption="**Press** **Save** when finished." src="https://files.readme.io/a275a9d5af9784850084fdaa50682017c6b4937e77c610fdf7ede8a751d6e474-image.png" width="30% " />
 
-* **Scan QR/NFC**:
+* **Scan QR/NFC**: You can scan a QR/NFC based on your site's configuration.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2ac80c79bae873c8603ed7b0dedf1a61bf0d9d56bc94d5f37643b23df8c98e51-image.png" />
+<Image align="center" border={true} caption="Select **Scan**." src="https://files.readme.io/2ac80c79bae873c8603ed7b0dedf1a61bf0d9d56bc94d5f37643b23df8c98e51-image.png" width="30% " />
+
+<Image align="center" border={true} caption="**Use** your camera to scan a QR." src="https://files.readme.io/2fda11918f9728584c37080c7d2b5f178394e63e9f8589e2c9a23f4c57e4bad8-image.png" width="30% " />
+
+<Image align="center" border={true} caption="**Save** your scan." src="https://files.readme.io/24a7ac1fbaf5e388f5f2869d8a86521abeca2b9fc7b224ce46d9360696fc565a-image.png" width="30% " />
+
+<Image align="center" border={true} caption="**Put** your phone close to the NFC." src="https://files.readme.io/1e1fd5c2dfbe56c311c3dc8e9816090c4209a33db23074b4fe1b29e76b36a31e-image.png" width="30% " />
+
+<Image align="center" border={true} caption="**Save** your scan." src="https://files.readme.io/0ff34fc78da2b629ffd49863ae0e8b6c7f689d57c78a50bf7a1734418e21d8c6-image.png" width="30% " />
 
 <br />
 
-4. **Submit** the form or checklist.
+<br />
+
+<br />
+
+5. **Submit** the form or checklist.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
