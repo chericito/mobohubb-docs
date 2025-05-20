@@ -39,13 +39,13 @@ A pop-up appears showing every filter available on that screen.
 >
 > Filter options change from page to page. A *Users* view will expose very different filters than *Report Data*—so each screen stays relevant to its own data set.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/2541de757807c0ffeeee317a962cc8a39e3c4a161f7544ef75303a5691253ead-image.png" />
+<Image align="center" src="https://files.readme.io/2541de757807c0ffeeee317a962cc8a39e3c4a161f7544ef75303a5691253ead-image.png" />
 
 ***
 
 ## Quick Filters
 
-<Image align="center" border={true} src="https://files.readme.io/cabf287929ce8f4b7799c1bf4d4f86c4ca7e01297a644980ab720c8ebabeb6b2-image.png" />
+<Image align="center" className="border" border={true} src="https://files.readme.io/cabf287929ce8f4b7799c1bf4d4f86c4ca7e01297a644980ab720c8ebabeb6b2-image.png" />
 
 Choose a category (e.g., **Report Name**).
 
