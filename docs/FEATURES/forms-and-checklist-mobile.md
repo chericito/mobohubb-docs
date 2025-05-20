@@ -101,6 +101,12 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <Image align="center" border={true} caption="Images option" src="https://files.readme.io/4577080e252cba069ab6897f85663f1e5042023037c3207494eb56f520d362b8-image.png" width="30% " />
 
+**Record audio**: You can record audio using your device's microphone.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ce451dbf670b0de6b5acd1206eaebd5481e154a180403bb23793ff8947d6e4b8-image.png" />
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a275a9d5af9784850084fdaa50682017c6b4937e77c610fdf7ede8a751d6e474-image.png" />
+
 <br />
 
 4. **Submit** the form or checklist.
