@@ -39,7 +39,7 @@ A pop-up appears showing every filter available on that screen.
 >
 > Filter options change from page to page. A *Users* view will expose very different filters than *Report Data*—so each screen stays relevant to its own data set.
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/e7a71ef1afb61b93dd21510a3cd2b714b8116e39e841034494ca6474aac39a76-image.png" />
+<Image align="center" className="border" border={true} width="% " src="https://files.readme.io/e7a71ef1afb61b93dd21510a3cd2b714b8116e39e841034494ca6474aac39a76-image.png" />
 
 ***
 
