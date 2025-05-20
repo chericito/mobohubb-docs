@@ -143,10 +143,6 @@ Forms and checklists are essential tools for collecting and managing data:
 
 ## Drafts
 
-<br />
-
-# Drafts
-
 ### Saving a Draft
 
 1. **Select** the form or checklist.
