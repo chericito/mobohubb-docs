@@ -67,6 +67,10 @@ Forms and checklists are essential tools for collecting and managing data:
 
    * Schedule
 
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fad54c63372ee4f8be8ec4d440b02b95571d23b0f09580996946e47e5f14b79d-image.png" />
+
    <Image align="center" width="30% " src="https://files.readme.io/a38842bb52e54a87f47c7b50fce3d90d701ba944073e0774e34f8ef8a5c8923c-blobid1.png" />
 
    <br />
@@ -82,7 +86,9 @@ Forms and checklists are essential tools for collecting and managing data:
    * **Time clock**
    * **Schedule**: Tap on **Forms / Checklist**.
 
-   <Image align="center" width="30% " src="https://files.readme.io/f4d3c7a9237284946d3416f6f59cac1971afcd1d13c8a737dc6545eafd7fe2b2-blobid2.png" />
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7c20b1a40eb66839d846f72378bb617aa5f4abbc8b3cb5d049b4b85570b4ee0d-image.png" />
 
    <br />
 
