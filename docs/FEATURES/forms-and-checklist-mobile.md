@@ -93,19 +93,25 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c8c9d6cfbd41510bd2fffed238fb194232a4bbda779d4bf8595395db55b16b64-image.png" />
 
-* **Videos and pictures:** You can take a picture, record a video, or use your gallery to retrieve media.
+* **Videos and pictures:** You can take a picture, record a video, or use your gallery to retrieve media. **Click** the video or image button, select **camera** or **gallery** and add your media, **press** **Close** to continue.
 
-<Image align="center" border={true} caption="Video and images" src="https://files.readme.io/782cd995d4b73bc9a977b1348b7c44e48e262245292c87a6e59c98f1b247c567-image.png" width="30% " />
+<Image align="center" border={true} caption="Video and images." src="https://files.readme.io/782cd995d4b73bc9a977b1348b7c44e48e262245292c87a6e59c98f1b247c567-image.png" width="30% " />
 
-<Image align="center" border={true} caption="Video option" src="https://files.readme.io/56b2627225dd0991f215e2c53318e84e2863ab1f4c463f1850cbd56b2928f49c-image.png" width="30% " />
+<Image align="center" border={true} caption="You can record or select a video of a maximum of 1 minute." src="https://files.readme.io/56b2627225dd0991f215e2c53318e84e2863ab1f4c463f1850cbd56b2928f49c-image.png" width="30% " />
 
-<Image align="center" border={true} caption="Images option" src="https://files.readme.io/4577080e252cba069ab6897f85663f1e5042023037c3207494eb56f520d362b8-image.png" width="30% " />
+<Image align="center" border={true} caption="You can select/take up to 10 images." src="https://files.readme.io/4577080e252cba069ab6897f85663f1e5042023037c3207494eb56f520d362b8-image.png" width="30% " />
 
 **Record audio**: You can record audio using your device's microphone.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ce451dbf670b0de6b5acd1206eaebd5481e154a180403bb23793ff8947d6e4b8-image.png" />
+<Image align="center" border={true} caption="**Select** audio recording." src="https://files.readme.io/ce451dbf670b0de6b5acd1206eaebd5481e154a180403bb23793ff8947d6e4b8-image.png" width="30% " />
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a275a9d5af9784850084fdaa50682017c6b4937e77c610fdf7ede8a751d6e474-image.png" />
+<Image align="center" border={true} caption="Press **Start** to record your audio." src="https://files.readme.io/e9a01af08fba5ea1c1caea63a2c92fbe97fda0f7b1e38a6b44ab12c2caa0f132-image.png" width="30% " />
+
+<Image align="center" border={true} caption="**Press** **Save** when finished." src="https://files.readme.io/a275a9d5af9784850084fdaa50682017c6b4937e77c610fdf7ede8a751d6e474-image.png" width="30% " />
+
+* **Scan QR/NFC**:
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2ac80c79bae873c8603ed7b0dedf1a61bf0d9d56bc94d5f37643b23df8c98e51-image.png" />
 
 <br />
 
