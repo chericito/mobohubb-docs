@@ -53,7 +53,7 @@ Begin typing to locate a value, then tick one or several checkboxes.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/85df6a68bed13f3516b1409a6d84c0fa84b2ea13a58214345411d69abf8c683a-image.png" />
 
-**Click** apply or **click** somewhere else on the page to update the list.
+**Click** **Apply** or **click** somewhere else on the page to update the list.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b35fb5cd03966cb8196eeaa1000ebc29e9fa037fb526981147f5ece397cfd61b-image.png" />
 
