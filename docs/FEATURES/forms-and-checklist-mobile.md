@@ -143,94 +143,55 @@ Forms and checklists are essential tools for collecting and managing data:
 
 ## Drafts
 
-When you can’t finish a form immediately, you can **create a draft**:
-
-1. **Locate the Landing Screen**: As explained above, the portal administrator can customize this screen differently for each site.
-
-<Image align="center" width="30% " src="https://files.readme.io/6c96882e2b4a91b43670893c8fc4a5cda8e3d2532ed0c2938e8892298f18d788-blobid1.png" />
-
 <br />
 
-2. **Use the Footer Menu**: Select **Forms / Checklist** from among the app’s six main features.
+# Drafts
 
-<Image align="center" width="30% " src="https://files.readme.io/ced5caef62b0441af68c47776114aa00dd55a10ed3ae533a3de9bd32a9b92bba-blobid2.png" />
+### Saving a Draft
 
-<br />
+1. **Select** the form or checklist.
 
-> **Tip:** The last two icons may be in **“more menu apps.”**
+   * Use the **search bar** at the top to find it.
 
-3. **Select the Form or Checklist**: Use the **search bar** to find it.
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a3481f5327ce21b0079f429860a96059c63510241eec1d5858f5e8b59bc17b54-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/766f2b111d1ec68c62db450bc5465913ca3da1035bd18a37b88789f1bfb71a17-blobid3.png" />
+   <br />
+2. **Fill in** the form, keeping in mind required fields.
 
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5f895eded679767c8ec4ee1312d4384bf91d788ed0996d0544d12d0b5aa13dd2-image.png" />
 
-3. **Fill In the Form**: Remember to review **[Form Field Descriptions](https://mobohubb.readme.io/v1.2/docs/forms-and-checklist-mobile#form-field-descriptions)** for details on each field type.
+3. Tap the **drop menu**, and **select** **Save Draft.**
 
-![](https://files.readme.io/970eacbe4d20102e0e83b5878f4407cda9499be13ae053c69e1ed8decc8846e9-blobid4.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5e8688bc8c6b336f0abedab80c02c365ab94c56e9e28afbf2c426740d09b1050-image.png" />
 
-<br />
+4. **Provide** a name for the draft and **press** **Done**.
 
-> **Note:** The bottom menu allows for file attachments like images, videos, or audio notes.
+<Image align="center" width="30% " src="https://files.readme.io/2d1a0b10bf8bb3f5df8b6b931f2c8f9f82b1f1524705062c9fa123914f499c9e-image.png" />
 
-5. **Tap** the dropdown menu.
+5. You'll get a confirmation.
 
-<Image align="center" width="30% " src="https://files.readme.io/2836ae05aeb350cc608281cdcfe39fe191e610920cede46cd26d4ac2168e153b-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/cc346dd4adf8cf3b961989ed9735b27202e7278835d2afd9a5acb12af480568c-image.png" />
 
-<br />
+### Completing a Draft
 
-5. **Select** **“Save Draft”.**
-6. **Wait** for the validation process.
+1. Tap on **Saved Drafts**.
 
-<Image align="center" width="30% " src="https://files.readme.io/c282e3533983b1c3e0a1cbddcf24e7aa3fe5933da8ea1afaa0e9ffa8e57c1918-blobid7.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8b36a1aa8bd9b85e199be5bdbea21c6f4bf2e1ebbbf9dd42d935352ac3e51295-image.png" />
 
-7. **Close** and **Confirm**.
+2. **Select** the draft form.
 
-<Image align="center" width="30% " src="https://files.readme.io/41583f729b48b7e9a9ac67c555a1aa79c3fd39a98ed954d1350df975634987d9-blobid8.png" />
+* You can use the **search bar** to find it by the name assigned.
 
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/ecbf8c024155ee1e30a2d25daa1570b667124dcab6a00965e806a8b594abc88a-image.png" />
 
-***
+3. **Fill in** or complete the draft and **submit** it.
 
-## Completing Drafts
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
-1. **Locate the Landing Screen**: The choices remain consistent: Scan/NFC, Dashboard, Forms, Tasks, Time clock, Schedule.
+4. You'll get a confirmation.
 
-<Image align="center" width="30% " src="https://files.readme.io/ef96aeeaa2b67a08eea820492b995a01916e5fa701d3d98d6d593a2e853d8d8d-blobid1.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/246e867e38ab14b71ee26583eb3e412c328cabdaa48c8b31b31aa47c1a803c08-image.png" />
 
-<br />
+* You can track your logs in **My Activity**.
 
-2. **Use the Footer Menu**: Go to **Forms / Checklist**.
-
-<Image align="center" width="30% " src="https://files.readme.io/4f4e10d49f3db0d5e8bc685c396f1c126755f244692803735791ee6335eb759b-blobid2.png" />
-
-<br />
-
-3. **Tap** the **“Saved Drafts”** button.
-
-<Image align="center" width="30% " src="https://files.readme.io/6922b50580b1c4430fc57e477b6762d4ebcadd09897b15b2cc8f185dc8e7cb2f-blobid16.png" />
-
-<br />
-
-4. **Select** the draft form
-
-<Image align="center" width="30% " src="https://files.readme.io/6634ab89ab373fa8e39aea472e698b7476094fc856a7df170c79488dd502210d-blobid17.png" />
-
-* The **search bar** helps find it quickly.
-* The **form’s** original name appears beneath your assigned draft name.
-
-5. **Fill In** the form to pick up where you left off.
-
-<Image align="center" width="30% " src="https://files.readme.io/603db8bf081f91d97adac0ea40e5c32e95c3345e4726c84ce0f1e75f3b27a414-blobid18.png" />
-
-6. **Submit** the form or checklist.
-
-<Image align="center" width="30% " src="https://files.readme.io/6538eafa95c1ecb3764746251572f7d097346c5a72c698cec1e47a4a2f3b89ed-blobid19.png" />
-
-7. **Wait** for the validation process.
-
-<Image align="center" width="30% " src="https://files.readme.io/ae21e3d4efc7a31f8077a7f108fe6313c37dd6194e15422f14d55455feeec842-blobid7.png" />
-
-8. **Close** and **Confirm**. You can **track your logs** in **“My Activity.”**
-
-<Image align="center" width="30% " src="https://files.readme.io/064d1a21b89c029d3dcef0399827fb63fa3502ccc804a602365a600c9d44c292-blobid8.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/eec27a8cc116444bbd5fc490a704c1f9ffe2e4a60425e6a9be6a273c5390011c-image.png" />
