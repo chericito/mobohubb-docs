@@ -45,21 +45,21 @@ A pop-up appears showing every filter available on that screen.
 
 ## Quick Filters
 
-<Image align="center" border={true} caption="Quick filters in **Report Data**" src="https://files.readme.io/9d6184eda6b11f5f8d37e08c1ada761194eabc07e946075e3ecda326776a3aff-Screenshot_2025-05-14_at_11.10.14_AM.png" width="30% " />
-
 Choose a category (e.g., **Report Name**).
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/862d4ce1f0989bc03ff5bc7de3f5ff1d61abd1b2adc46cef0181ef6708a6def6-image.png" />
+<Image align="center" border={true} caption="**Quick filters**" src="https://files.readme.io/79076967d6f68b9cbadd158d39c1c5c005a21e4e23edecd17a911ee05467a01c-image.png" width="30% " />
 
 Begin typing to locate a value, then tick one or several checkboxes.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0b8e8dfc3ddb696d3b01b86d1a67fc2b58a24ac81a42adfc80cb240c2d7f9426-Screenshot_2025-05-14_at_11.17.29_AM.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/85df6a68bed13f3516b1409a6d84c0fa84b2ea13a58214345411d69abf8c683a-image.png" />
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/115071e76d842c91e5a987eae232173cd114647a6a294c9f7d37665b98a73edf-image.png" />
+**Click** apply or **click** somewhere else on the page to update the list.
 
-Close the drop-down (or click elsewhere), and the grid refreshes immediately.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b35fb5cd03966cb8196eeaa1000ebc29e9fa037fb526981147f5ece397cfd61b-image.png" />
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/81a804e050ad26f0face25d5495bebe5796c1ba02970ba0c4fb3b09e3968a112-image.png" />
+<br />
+
+<Image align="center" border={true} caption="Updated list" src="https://files.readme.io/0a78dec8ea8ee33e50178b82164632d4785db5648178c88588320cbd8a622887-image.png" width="80% " />
 
 ***
 
