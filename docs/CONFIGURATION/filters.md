@@ -45,7 +45,7 @@ A pop-up appears showing every filter available on that screen.
 
 ## Quick Filters
 
-<Image align="center" src="https://files.readme.io/cabf287929ce8f4b7799c1bf4d4f86c4ca7e01297a644980ab720c8ebabeb6b2-image.png" />
+<Image align="center" border={false} src="https://files.readme.io/cabf287929ce8f4b7799c1bf4d4f86c4ca7e01297a644980ab720c8ebabeb6b2-image.png" />
 
 Choose a category (e.g., **Report Name**).
 
