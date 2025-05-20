@@ -71,48 +71,47 @@ Forms and checklists are essential tools for collecting and managing data:
 
    <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fad54c63372ee4f8be8ec4d440b02b95571d23b0f09580996946e47e5f14b79d-image.png" />
 
-   <Image align="center" width="30% " src="https://files.readme.io/a38842bb52e54a87f47c7b50fce3d90d701ba944073e0774e34f8ef8a5c8923c-blobid1.png" />
-
    <br />
 
    > **Note:** Even if your landing screen differs from the example below, the steps remain the same.
 
-2. **Use the Footer Menu**: The footer menu contains six options, which lead you to key app features:
+2. **Tap** the **Forms** icon.
 
-   * **Scan/NFC**
-   * **Dashboard**
-   * **Forms**
-   * **Tasks**
-   * **Time clock**
-   * **Schedule**: Tap on **Forms / Checklist**.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/194667941fd1f58505eed5cd210c3f0629f006892d21b7932116ba0d1b01d641-image.png" />
 
-   <br />
+2. **Select** the form or checklist.
 
-   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7c20b1a40eb66839d846f72378bb617aa5f4abbc8b3cb5d049b4b85570b4ee0d-image.png" />
+* Use the search bar at the top to find it quickly.
 
-   <br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74f52c33bee3af04a4ba2b426241b0c1da41fefc30ca79c8fd401ebad906ef2b-image.png" />
 
-   > **Tip:** Only up to four icons appear directly. Additional icons may be in the **“more menu apps”** section.
+3. **Fill in the form**, noting the fields marked with an asterisk.
 
-3. **Select the Form or Checklist**: Use the **search bar** at the top to locate the correct form or checklist.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2ed2e254cb267454592095719e16f1f6c199a7d6b68eedc541dc6e6a38c24231-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/826ef84650e2439857e53d228ff635bef318221c7c16bae6ef195637ad012daa-blobid3.png" />
+4. A menu at the bottom allows you to **attach images, videos, audio notes, or scans**. A red indicator means a field is mandatory.
 
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c8c9d6cfbd41510bd2fffed238fb194232a4bbda779d4bf8595395db55b16b64-image.png" />
 
-4. **Fill In the Form**: Each form is unique, so the one you see may differ from examples. Consult **[Form Field Descriptions](https://mobohubb.readme.io/v1.2/docs/forms-and-checklist-mobile#form-field-descriptions)** for details on how each field type works (e.g., date, time, scan).
+* **Videos and pictures:** You can take a picture, record a video, or use your gallery to retrieve media.
 
-<Image align="center" width="30% " src="https://files.readme.io/81cd2669a1f8245841728e5e49f6b4aa6975c991ca6901719745e27c734a66fe-blobid4.png" />
+<Image align="center" border={true} caption="Video and images" src="https://files.readme.io/782cd995d4b73bc9a977b1348b7c44e48e262245292c87a6e59c98f1b247c567-image.png" width="30% " />
 
-<Image align="center" border={false} caption="Time" src="https://files.readme.io/3e71f0e808afa63302998c0527bd308ace46e34927b4a4a1c806b531347c38ae-blobid5.png" width="30% " />
+<Image align="center" border={true} caption="Video option" src="https://files.readme.io/56b2627225dd0991f215e2c53318e84e2863ab1f4c463f1850cbd56b2928f49c-image.png" width="30% " />
+
+<Image align="center" border={true} caption="Images option" src="https://files.readme.io/4577080e252cba069ab6897f85663f1e5042023037c3207494eb56f520d362b8-image.png" width="30% " />
 
 <br />
 
-> **Note:** A menu at the bottom allows you to **attach images, videos, audio notes, or scans**. A red indicator means a field is mandatory.
+4. **Submit** the form or checklist.
 
-5. **Submit the Form or Checklist**: Alternatively, you can **save it as a draft** to finish later.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a38042532b83211d0355b2e1727ecc5e907e0ad4e173c9fb37dfe00fffba29bd-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/abcbe4a6061db98e7f8482babc0cc38d77cfa8f759d586faca5cca1bb2744664-blobid6.png" />
+5. You'll receive a confirmation.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c2742b173193b9ba0383dacbe9c312a3f9389d24f37db6ccfaa0e02f93d15b50-image.png" />
+
+<br />
 
 <br />
 
