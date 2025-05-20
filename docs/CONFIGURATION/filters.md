@@ -39,13 +39,13 @@ A pop-up appears showing every filter available on that screen.
 >
 > Filter options change from page to page. A *Users* view will expose very different filters than *Report Data*—so each screen stays relevant to its own data set.
 
-<Image align="center" src="https://files.readme.io/2541de757807c0ffeeee317a962cc8a39e3c4a161f7544ef75303a5691253ead-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e7a71ef1afb61b93dd21510a3cd2b714b8116e39e841034494ca6474aac39a76-image.png" />
 
 ***
 
 ## Quick Filters
 
-<Image align="center" border={false} src="https://files.readme.io/cabf287929ce8f4b7799c1bf4d4f86c4ca7e01297a644980ab720c8ebabeb6b2-image.png" />
+<Image align="center" border={true} caption="Quick filters in **Report Data**" src="https://files.readme.io/9d6184eda6b11f5f8d37e08c1ada761194eabc07e946075e3ecda326776a3aff-Screenshot_2025-05-14_at_11.10.14_AM.png" width="30% " />
 
 Choose a category (e.g., **Report Name**).
 
@@ -57,9 +57,7 @@ Begin typing to locate a value, then tick one or several checkboxes.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/115071e76d842c91e5a987eae232173cd114647a6a294c9f7d37665b98a73edf-image.png" />
 
-Click **Apply** to update the view.
-
-<br />
+Close the drop-down (or click elsewhere), and the grid refreshes immediately.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/81a804e050ad26f0face25d5495bebe5796c1ba02970ba0c4fb3b09e3968a112-image.png" />
 
