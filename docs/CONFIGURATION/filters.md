@@ -121,8 +121,22 @@ Lock in your favorite combination of filters and columns.
 
 ### Clearing Individual Filters
 
-Locate the blue filter-chips at the top of the table and click **×** to remove each one.
+**Locate** the blue filter-chips at the top of the table and click **×** to remove each one.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1eafb4a82733caabb779f3876d4e60545ed5c0bf120126769f6ed2d3c5509faf-image.png" />
 
 The grid updates right away, restoring the hidden rows.
+
+### Clearing All Filters
+
+1. **Go** to **Filter** and **press** the **return** button.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/6166bdad55299225c9868ecdc08fc160aac445825b49955b07aad4d1ce522ef3-image.png" />
+
+2. **Press** **Clear All**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d29f8278acf8d353274d2efb640b5ab061ad1e58bedf22f3899fd88df363d38b-image.png" />
+
+3. The list will return to default.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/f1892921f2ceed24704168110578e04f3a1dca313476542dd35bca16577318b7-image.png" />
