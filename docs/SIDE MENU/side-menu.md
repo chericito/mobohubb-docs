@@ -51,4 +51,4 @@ The side menu offers a variety of features:
 
 Site administrators can customize the side menu to display only the options relevant to their site. As a result, you might not see every function listed here if your site’s configuration does not include it.
 
-> **Note:** For additional details on customizing the side menu, please visit our dedicated guide on [mobile configuration](https://mobohubb.readme.io/v1.1/docs/site-management#mobile-configuration).
+> **Note:** For additional details on customizing the side menu, please visit our dedicated guide on [mobile configuration](https://mobohubb.readme.io/v1.1/docs/site-management#/mobile-configuration).
