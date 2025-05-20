@@ -95,7 +95,7 @@ Lock in your favorite combination of filters and columns.
 
 2. Click **Save View**.
 
-<Image align="center" width="80% " src="https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/c5dc4241ae4438d2d23b664df2d0ff32c2233eb4efa6cd69c9a07aaaa30ca712-image.png" />
 
 3. Give the view a **name**, choose an **icon** and **color**, then save.
 
@@ -117,7 +117,7 @@ Lock in your favorite combination of filters and columns.
 
 2. All filters, column changes, and sorts revert to default.
 
-<Image align="center" width="80% " src="https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/bf9fa494bae6b0e9678287691c9d8ced8b7805a29ad801b5192d10c67779b4f5-image.png" />
 
 ### Clearing Individual Filters
 
