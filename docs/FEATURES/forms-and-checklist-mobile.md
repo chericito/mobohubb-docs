@@ -101,7 +101,7 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <Image align="center" border={true} caption="You can select/take up to 10 images." src="https://files.readme.io/4577080e252cba069ab6897f85663f1e5042023037c3207494eb56f520d362b8-image.png" width="30% " />
 
-**Record audio**: You can record audio using your device's microphone.
+* **Audio**: You can record audio using your device's microphone.
 
 <Image align="center" border={true} caption="**Select** audio recording." src="https://files.readme.io/ce451dbf670b0de6b5acd1206eaebd5481e154a180403bb23793ff8947d6e4b8-image.png" width="30% " />
 
@@ -121,11 +121,11 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <Image align="center" border={true} caption="**Save** your scan." src="https://files.readme.io/0ff34fc78da2b629ffd49863ae0e8b6c7f689d57c78a50bf7a1734418e21d8c6-image.png" width="30% " />
 
-<br />
+* **File**: You can attach one (1) document.
 
-<br />
+<Image align="center" border={true} caption="Select **Attachments**." src="https://files.readme.io/1d9333745a8f066628ea1a76e50d3d45b6abd0b49377807d26b85fdd869d50b3-image.png" width="30% " />
 
-<br />
+<Image align="center" border={true} caption="**Include** your file." src="https://files.readme.io/41b2eb850e870cc7120a1de653ff2c5403ea5fd692c13535c48743df3340a934-image.png" width="30% " />
 
 5. **Submit** the form or checklist.
 
@@ -137,17 +137,7 @@ Forms and checklists are essential tools for collecting and managing data:
 
 <br />
 
-<br />
-
-6. **Wait** for the validation process to complete.
-
-<Image align="center" width="30% " src="https://files.readme.io/837ad4375865ff6a7efdfeb5d7e9e81d296c2b3155474b0c4881d591f1883c67-blobid7.png" />
-
-7. **Close** and **Confirm**. You can **track your logs** in “My Activity”.
-
-<Image align="center" width="30% " src="https://files.readme.io/ef106b575b996f294ed74db23ed26bc25ecd24657c9fb830eff635e6cf9ece5e-blobid8.png" />
-
-<br />
+**Wait** for the validation process to complete.
 
 ***
 
