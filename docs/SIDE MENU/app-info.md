@@ -26,7 +26,7 @@ The **App Info** screen provides essential information about your mobohubb mobil
 
 1. **Open** the side menu: Tap the **hamburger button** at the upper left corner of the app.
 
-![](https://files.readme.io/739dd7ffd1f3fcb3f969a4c6e96b5b836a84ed88be2126ab31a0182aaa865a4a-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dd3279bbefb4ede39e64d73b45315a4ae24ca26a891afa1db0d125d95413f467-image.png" />
 
 <br />
 
