@@ -26,35 +26,31 @@ The **Knowledge Base** is a collection of folders and articles where your admini
 
 1. **Open** the side menu: Tap the **hamburger button** at the top-left corner of the app.
 
-<Image align="center" width="30% " src="https://files.readme.io/eb0e37d04cda1812e5df10f41feac85ae9329acc14956f46d24f349f8573d2bd-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dd3279bbefb4ede39e64d73b45315a4ae24ca26a891afa1db0d125d95413f467-image.png" />
+
+<br />
 
 2. **Select** **“Knowledge Base.”**
 
-![](https://files.readme.io/ba77ce835eaf171a133b293e26dade370c7d6edce26c5ba9ca356c17ef70408c-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/1ec787ad835243907c7b5f1f7be21380e00753368e8e4b13515d79de32e3d8db-image.png" />
 
 3. **Explore** the directory:
 
 * The **Site Directory** displays folders and articles.
 
-<Image align="center" width="% " src="https://files.readme.io/3a4be2ff6fe54d1cda5b3eeeeb6413b37b91080e00302db7231707353b6abd61-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0f0852886beb0acda8882ef061b0d6f7aa331b400c19ca127549e90a8e28e860-image.png" />
 
 * Tap a **folder** to navigate deeper, or an **article** to read it.
 
-4. **Open** the folder/article you need:
-
-* Folders can contain more subfolders or articles.
-
-![](https://files.readme.io/d21d390432c2246b88e84f0fd1ee8c2c5e767b3eba8efb8fb28b21317e58e4fc-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/671eb1ea84bb07adf25f672cc51679c5149f496debba2ecf8f9ea8bb59b18408-image.png" />
 
 * Articles often include text, images, or file attachments.
 
-5. **Read** the chosen article:
+4. **Read** the chosen article:
 
 * Scroll down to view the full content. Articles may contain text, images, or downloadable files.
 
-![](https://files.readme.io/23b75dbc378b17745641e1774a22dda64b01864f2ced23b94ae990c6c28362e8-image.png)
-
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/697e576e3c5cee53d4842dfdb913b005f88b9cee5b54a1523e9e89016f43495b-image.png" />
 
 ***
 
@@ -64,7 +60,7 @@ Articles can include PDF files or other attachments available for download. To d
 
 1. **Navigate** to the article that contains the file you want.
 
-<Image align="center" width="30% " src="https://files.readme.io/6e4dce90fc9fc653cab1a04a998bdbaed17c24c6d19d2d977c76d71c90d51f41-blobid5.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0af9f10949ae44a80e61039875582b704361a41cb98f7c6fbba824ea7d404c5e-image.png" />
 
 2. **Open** the article.
 
@@ -74,7 +70,7 @@ Articles can include PDF files or other attachments available for download. To d
 
 3. **Scroll** to the bottom:
 
-![](https://files.readme.io/2ff7358821e6c71a3850124d6f0a306bc9161e511199ab07d3b1cf6ab7e9c877-blobid8.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/08fd2a2da798bc1f72229a24154c9665c259287e82fefabe0d380e082fa4e28f-image.png" />
 
 * If an attachment is present, you’ll see a download button.
 
