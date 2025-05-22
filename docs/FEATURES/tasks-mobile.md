@@ -29,67 +29,32 @@ metadata:
 
 ## Steps to Check & Complete Tasks
 
-1. **Locate the Landing Screen**: The **portal administrator** can customize which screen appears first:
+1. **Tap** the **Tasks** icon.
 
-   * **Scan/NFC**
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/61c2bc7c5478567552ebb0085c1ae103b44734851d247eb1c5ef4981bac3e16a-image.png" />
 
-   * **Dashboard**
+2. **Select** the task.
 
-   * **Forms**
+* You can use the **search bar** at the top of the tasks section to easily find it.
 
-   * **Tasks**
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fe6987d16c2ac60f46db90c2b3a5fb62d87aa9f37b947864246d650fac81c7ba-image.png" />
 
-   * **Time clock**
+3. **Swipe right** to mark it as done.
 
-   * **Schedule**
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8366882f84743ccb64fa4492754a4625c2e3cee1384c9704792cf514e396bba4-image.png" />
 
-   <Image align="center" width="30% " src="https://files.readme.io/8a5bdeef297fa78cf8950ad91dda4607b13d35f2d00bf5a5ce2a0541b825c8d0-blobid0.png" />
+4. **Confirm** using the check button.
 
-   <br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9aab521a07899ec54f86cc0c7d414059ce2475ca7f63d136a2eb09572c49fe04-image.png" />
 
-   > **Note:** Even if your default screen differs from the example here, the process remains the same.
+* **Scan task**: Prompts you to scan a QR code or NFC with your device.
+* **Report task**: Redirects you to a form.
+* **Manual task**: Appears as a checkbox with no redirects.
 
-2. **Use the Footer Menu**: The footer menu contains six options leading to the app’s core features:
+4. You'll receive a confirmation.
 
-<Image align="center" width="30% " src="https://files.readme.io/f50e80e8ef4fb39af93b4a577327b83cd922510c93734ff1e682802713ad63f3-blobid1.png" />
-
-* **Scan/NFC**
-* **Dashboard**
-* **Forms**
-* **Tasks**
-* **Time clock**
-* **Schedule**
-
-Tap on **Tasks**. If you don’t see the icon directly, you can access it via **“more menu apps.”**
-
-3. **Select the Task**: Use the **search bar** at the top to quickly locate the task you need.
-
-<Image align="center" width="30% " src="https://files.readme.io/979caf577c9c42ff9b2524a8a2ca51596b73d67d6e78d48a776d7e71868f8632-blobid1_1.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/cff87ae3bc234bea7ed1dd4706cdc723efd43302b23ec7d0ef183ebd08af5b76-image.png" />
 
 <br />
-
-3. **Swipe Right** to Mark it as Done: This will prompt you to confirm completion.
-
-<Image align="center" width="30% " src="https://files.readme.io/7c87ab45e5e798a1059bfee7ec53646121384751130c15cce27613661e81a25e-blobid2.png" />
-
-<br />
-
-3. **Confirm** the Completion.
-
-<Image align="center" width="30% " src="https://files.readme.io/6375f09286d9362df7f7c853b809ed201408dc034b73b340546bd0c021b88fa0-blobid3.png" />
-
-<br />
-
-* **Scan Task**: You’ll be asked to scan a QR code or an NFC tag.
-* **Report Task**: You’ll open and fill out a form.
-* **Manual Task**: A simple checkbox marks it as done—no redirection to another feature.
 
 > **Note:** Some tasks might require a scan, such as scanning a QR code or NFC tag, or completing a form/checklist. If the necessary scan or form is **not** completed, the task **cannot** be marked as done. Users must finish these steps before fully submitting or completing the task.
-
-3. **Close** the Task Interface: Tapping **“Close”** finalizes your action.
-
-<Image align="center" width="30% " src="https://files.readme.io/6d9d974b9ac4ac5d038085a5de9b62ff64aa05965ff8c2f8aac7bdc23882d5f8-blobid4.png" />
-
-<br />
-
-> **Note:** Repeat these steps for each task until all assigned tasks are completed.
