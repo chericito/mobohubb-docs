@@ -32,14 +32,10 @@ The **App Info** screen provides essential information about your mobohubb mobil
 
 2. **Select** **“App Info”**: A new screen appears, showing version details and device ID.
 
-![](https://files.readme.io/a94d84b4b5db358fa092159647a674f298cd161c7f152e8962986a9f3c1c836c-image.png)
-
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e17c9867e16d9d46eecdeeacd4f6c7b4222b7c4a594c1c1ac725742d0771b416-image.png" />
 
 3. **Check** your **App Version** and **Device ID**: These details can be useful for troubleshooting or support queries.
 
-![](https://files.readme.io/284a32bd1360afb39bf06f3478f5b9ef48935ff4b4b0d2a1d8a950ddbfcf445e-image.png)
-
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2e919f8208f5deecee6a9562c4f5c9a1c2834ee4e8e75b61215bc130cc1c4ddf-image.png" />
 
 4. **View** the **Terms of Service** or **Send Feedback**: Tapping these options directs you to the respective sections, where you can review policies or submit comments to mobohubb.
