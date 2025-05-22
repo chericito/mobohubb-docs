@@ -32,7 +32,7 @@ The **App Info** screen provides essential information about your mobohubb mobil
 
 2. **Select** **“App Info”**: A new screen appears, showing version details and device ID.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e17c9867e16d9d46eecdeeacd4f6c7b4222b7c4a594c1c1ac725742d0771b416-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/f7d064382c8a61d349afeb65576ad616f081dbe98562e5a3df9897e7fa0cac79-image.png" />
 
 3. **Check** your **App Version** and **Device ID**: These details can be useful for troubleshooting or support queries.
 
