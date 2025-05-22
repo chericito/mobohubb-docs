@@ -30,22 +30,26 @@ metadata:
 
    * Tap the **hamburger button** at the top-left corner of the app.
 
-   ![](https://files.readme.io/96ce954b8bfd6208819eee592d2e5f7c4c42305f5a919e597ba70da56d91ae09-image.png)
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/dd3279bbefb4ede39e64d73b45315a4ae24ca26a891afa1db0d125d95413f467-image.png" />
 
 2. **Select** **“My Activity.”**
 
    * You’ll see a chronological list of your recent logs.
 
-   ![](https://files.readme.io/9973a988f53b1affd0bd4c2fecc2bc13f7947d8362036368c0d39d45a3c88969-image.png)
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b4393f6d3c5a639319bb63aa8ae437b5604ba4db5278210a43a462ee71c58a8b-image.png" />
 
 3. **Scroll** through the logs:
 
    * Activities are grouped by Task, Forms, Scans, and Timesheet.
    * Each entry shows the name of the activity and the date/time you submitted it.
 
-   ![](https://files.readme.io/ed2903f4ca60300c5ea045f949bb0bd748c7bfb6e4e9e67fe2623c078f0a155b-image.png)
+   <br />
 
-   ![](https://files.readme.io/ba9ed5ddac99cf96aad7f6c2e473139ba383593137f7224e02c5d80e8ed22b91-image.png)
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/86be70644189d1c86d0c947d5418f91c938b22bf574dffbeba5f42c648c83233-image.png" />
 
 ***
 
@@ -55,17 +59,18 @@ You can filter your logs by date to find specific records more easily:
 
 1. **Tap** the calendar icon in **My Activity.**
 
-![](https://files.readme.io/ba7beeec1f5531127d694739c9f3cd55f2ab673c7c28989d0cf7d00a0c802203-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b694ca67ad9a73dd6c2a78f8504e484f6438c707136f9085a4eef52d923a8196-image.png" />
 
 2. **Select** the date using the interactive calendar.
 
 * Activities from that day will be displayed.
 
-![](https://files.readme.io/ed47bc38eb1c474a10859170955012d0870965da4083573c83d3f40b704f2bc0-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/18256a092c396918581b57dbec1a84ddf7576874e9d5bdcd77fb1960f8b13e2d-image.png" />
 
-1. **Review** the filtered results.
-   * If no activities exist on the selected date, you’ll see “There are no activities registered on the selected date.”
-   * Tap **“Delete filter”** to remove the filter and view all logs again.
+3. **Review** the filtered results.
+
+* If no activities exist on the selected date, you’ll see “There are no activities registered on the selected date.”
+* Tap **“Delete filter”** to remove the filter and view all logs again.
 
 ***
 
@@ -79,8 +84,8 @@ To see more information about a specific activity:
    * Exact date/time of the action vs. the submission time (especially relevant if you used **offline functions** and synced later).
    * A map location for the log, if provided.
 
-   ![](https://files.readme.io/ead305b2f7e4e519273e2b5f379c1b2d53da0275040b5a454f0a13d6ccd9dcc6-image.png)
+   <br />
 
-   ![](https://files.readme.io/cb0966f9abf9256362838c91975cea4f6b53569eb2288011138175d868d0176b-image.png)
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/66a1f9372402f29801c744569561e0857cf0d372a6f9599c06cb8fc186eeb9d8-image.png" />
 
 By checking **My Activity**, you can quickly confirm that your tasks, forms, scans, and timesheet entries have been properly recorded.
