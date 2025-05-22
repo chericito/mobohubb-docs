@@ -62,13 +62,7 @@ Articles can include PDF files or other attachments available for download. To d
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/0af9f10949ae44a80e61039875582b704361a41cb98f7c6fbba824ea7d404c5e-image.png" />
 
-2. **Open** the article.
-
-<Image align="center" width="30% " src="https://files.readme.io/c273a68a83af1a269d4c1d3a25e0f1c01fd88376d17d7f5fe5c1ec62dc982f79-blobid6.png" />
-
-<br />
-
-3. **Scroll** to the bottom:
+2. **Scroll** to the bottom:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/08fd2a2da798bc1f72229a24154c9665c259287e82fefabe0d380e082fa4e28f-image.png" />
 
