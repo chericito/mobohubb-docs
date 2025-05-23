@@ -1,5 +1,5 @@
 ---
-title: Profile Selection
+title: Profile
 excerpt: '  Learn how to use the Profile Selection feature in the mobohubb mobile app. This guide explains how to access your profile, add or view users logged in on the device, and switch between sites if you have access to multiple locations.'
 deprecated: false
 hidden: false
