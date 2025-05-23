@@ -67,3 +67,15 @@ To add a new profile:
 3. You're now logged in to the other profile.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/6657622f331feccfcee4999a1ab61723dae9797c371faa28f5f16933b1cfbaba-image.png" />
+
+<br />
+
+## Remove Profile
+
+1. **Tap** the **trash** button for any of the profiles.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/56ca3df1354aa24300a37454b124d7a6b159d064d7e127ddb472dc1ffb1128f6-Image_13.jpeg" />
+
+2. **Confirm** by pressing **Remove**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/91fe6ebac18f01483a8b8d5799d902d87d58a915ff875981ed2664774738305a-Image_14.jpeg" />
