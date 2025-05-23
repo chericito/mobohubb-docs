@@ -9,11 +9,17 @@ hidden: false
 metadata:
   robots: index
 ---
-The Profile Selection feature in mobohubb allows you to manage your user profile quickly. To access it, simply click on the user's profile in the side menu of the mobile app. Once in the profile identification screen, you can:
+**In this guide you'll learn:**
 
 * **Add Users:** Include new users for the device.
 * **View Logged-In Users:** See which users are currently active on the device.
 * **Change Site:** Switch the site if the same user has access to more than one site.
+
+***
+
+# Profile
+
+<br />
 
 ## Change Profile
 
