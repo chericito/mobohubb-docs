@@ -57,6 +57,16 @@ To add a new profile:
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/294021b6a2efc8b53e7744efd21f1b693183ee93741bc89f0bbbda2b60ac795a-image.png" />
 
+## Remove Profile
+
+1. **Press** the trash button from the Profile Selection menu for any available profiles.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/891a26fe9c8229e7f4fddade8aec2091deba35f8e4a7216c28fe0dcdcb3248d6-image.png" />
+
+2. **Confirm** by pressing **Remove**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/8a0162214f4b5251381ef00cf9c10f5a48ba32a62221c30b858277996542179f-image.png" />
+
 ## Change Profile
 
 1. **Tap** on the name area.
