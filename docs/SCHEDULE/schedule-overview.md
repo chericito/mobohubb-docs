@@ -109,7 +109,7 @@ If you see a section labeled **Unassigned Shifts**, it indicates how many open s
 
 Shows the total number of shifts where others have asked you to replace them. Tapping this section opens the **Replacement Request** feature, where you can **accept** or **reject** these requests.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/edb9c57d428a8097b750bedc97289b06632dae6ab8ef0c4eea2e0497a81b29e0-75D0CAE9-026A-40BE-B8E6-AF574E057201.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/479d5b97055daf592ff50de8a309cb09b05687701004edec31f6f3f279e4e651-Schedule_replacement_request.png" />
 
 > **Note:** See **Replacement Request** for more information.
 
