@@ -29,29 +29,27 @@ The **mobohubb** schedule helps deskless workers track when and where they work.
 
 You can see an overview of your scheduled shifts in the **Upcoming Shifts** section on the **dashboard**. If you have no shifts assigned, the message **“There are no scheduled shifts”** will appear. Tapping on this section takes you directly to the **Schedule** feature.
 
-<Image align="center" width="30% " src="https://files.readme.io/38e00f746f687b23f80e53ff9eb0b5427390f5d8bb34672dc7a228759ca643cd-EB7C3F35-D2E2-464F-BA4F-C3F042D2E4A1.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/59934c8c9f9f91e7c6d67e328c70cfb9356121305b12e5130cffcb33ceac9395-image.png" />
+
+<br />
 
 ***
 
 ## Accessing the Schedule
 
-### Schedule in the Footer Menu
+To enter the schedule details, tap the **date section** on the screen, a **schedule**, or the **Schedule button** at the bottom.
 
-1. **Open** the footer menu:
-
-2. **Tap** the **Schedule** icon.
-
-<Image align="center" width="30% " src="https://files.readme.io/24341696acadd215c565ba75050b78254d25c2f4fd827904b21cbce6eccd40dc-3685961F-6D08-47B1-A5F7-C746BBC0FD35.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d6b5f20e6529ecbbccc25ed59deef8ffcf3b092e62c60446fad52be879dfbe2b-image.png" />
 
 <br />
 
-> **Note:** If the icon isn’t visible, look for it under **“additional apps menu”**.
+> **Note:** If the schedule icon isn’t visible, look for it under **“additional apps menu”**.
 
 ### Schedule in the Dashboard Sliders
 
 In the **dashboard**, you’ll see **sliders** that include different features. One of these is **Schedule**. Swipe to reach the **Schedule** slider and tap it to open.
 
-<Image align="center" width="30% " src="https://files.readme.io/53446d40c131e543c816acfd56ee0426c9aee1c8edb3a617d221c9d42de78913-D3D5751E-A39F-46FF-BB9C-A22355D6625C.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/41bb0b8d276cba94ef146e3500d401cdc8a0074e704b9a7fda2d16606267140a-image.png" />
 
 ***
 
@@ -65,55 +63,39 @@ The schedule is divided into several sections:
 4. **Replacement Request**
 5. **Planner**
 
-<Image align="center" width="30% " src="https://files.readme.io/75ecdea5752ac05f61d369fe7ced2d89e223ccf6fb20c4017f4ff74844d79e98-E904B060-2780-4A28-9B93-12B33431E5AC.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/5be6b926f80511d973e3ca13093417b8af1b868ba342791970a9d17bf35e2b23-image.png" />
 
 ### 1. Schedule Selector
 
 By default, it might say **“All Schedules.”** Tap it to switch between different schedules if your organization has more than one configured.
 
-<Image align="center" width="30% " src="https://files.readme.io/150a708a471ca2726ab2a133a868acadfecf0b91d63e943682232a0dfe901441-8BA176AB-4603-408B-A5C2-91FAFC902BFA.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fd1dec164c7815d3dfbc16fdeda0616fee5347be13dc58faed27e5bd58b5f884-image.png" />
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/79fbf8905c210b50a2306a8b7b22cee3af66af96dee68a8473fb6dfec729cb9c-image.png" />
 
 ### 2. Date Selector
 
 This **interactive calendar** helps you quickly navigate through days, months, or even years to find and manage your scheduled shifts. The current calendar displays shifts by day, while additional navigation tools allow you to look at past or future schedules:
 
-<Image align="center" width="30% " src="https://files.readme.io/6e05a410de1fb04bdf039d7d52002d0ecf52da9ce5a12d94441294978171a77f-83ADFA20-9BB9-4F40-9562-E48015F8FE09.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/7a6436a6c82ae4cc4323a4b65d1d7527062f1c80dcfead3b6f97a91b6946d9d8-image.png" />
 
-#### Navigate Day-by-Day
+* Use the **left** and **right** arrows to move to the previous or next day.
 
-Use the **left** and **right** arrows to move to the previous or next day:
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/b90f1a89cce9169fe6940278c01dee818be3e779c5d3811e3bdfe27a066ca877-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/0d8e9c1ccf5693c96d04860d59b0d1ecd589f6eb538f1e47cd6d1aed710715bf-89A60A20-7291-42A0-9CE9-FEE4E5C66B67.png" />
+* Tap and **slide** horizontally through the day selector to jump to a specific date:
 
-#### Day Selector
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/92444cbb5cb33fb53483237e390f3ab018b05ea1ad9c4e256e864e3246c30561-image.png" />
 
-Tap and **slide** horizontally through the day selector to jump to a specific date:
+* Tap the **grey bar** at the top of the calendar to open a **pop-up** with more detailed navigation options for days, months, or years:
 
-<Image align="center" width="30% " src="https://files.readme.io/fe9b52faa86dc445604be3ecdb406f3577d612e9191f2566f2fdb6244e714541-386D93DD-091A-4F55-8CDD-55D51AA8006D.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/696bf045a73bf45be75abbbca7a5fe790ec048f6bc5a5d65b926337b1ef07fe0-image.png" />
 
-#### Advanced Date Selector
+* You can filter dates by day, month or year.
 
-Tap the **grey bar** at the top of the calendar to open a **pop-up** with more detailed navigation options for days, months, or years:
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/92a2135afce8b5f4b80845a74d62dab50ae75b921cb3d5a3b7db0fbc1a9ca9a3-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/68b82892c9a08d7eff45aafd6e7f49efe7995fbfd0e6f3beccafc3f075ec5a50-CD369138-3D86-4C74-A9AF-E5EC4476DE79.png" />
-
-#### By Day
-
-Choose a **day** on the interactive calendar:
-
-<Image align="center" width="30% " src="https://files.readme.io/ab301d5e66c54d905e693c3285f0a6bea2efa4dac0ae858b6b6d9a53927262ee-C4972174-BC18-437C-8FE8-55F71BECE242.png" />
-
-#### By Month
-
-Tap on the current month, then select the **month** you wish to view:
-
-<Image align="center" width="50% " src="https://files.readme.io/dbf67d941502685c5753659a7e32dc19966da472894bd6c0d056adb3fd36805c-3914A24C-B2B4-445C-A945-110EB149A5F7.png" />
-
-#### By Year
-
-Tap on the current year, then pick the **year** you want to consult:
-
-<Image align="center" width="50% " src="https://files.readme.io/046a159181752b98430581d08aa75b47c2119d009bd464b17807a2d9bec54733-5B57B697-265F-41A6-BA97-E332655AC428.png" />
+<br />
 
 <br />
 
