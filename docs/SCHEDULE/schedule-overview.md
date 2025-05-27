@@ -3,9 +3,9 @@ title: 'Schedule Mobile: Overview'
 excerpt: >-
   Learn how to manage and view your schedule in the mobohubb mobile app. This
   guide explains how to access upcoming shifts, navigate the Schedule feature
-  via the footer menu or dashboard sliders, and use advanced date selectors. It
-  also covers unassigned shifts, replacement requests, and how to view shift
-  details in the Planner.
+  via the footer menu or dashboard sliders, and use date selectors. It also
+  covers unassigned shifts, replacement requests, and how to view shift details
+  in the Planner.
 deprecated: false
 hidden: false
 metadata:
@@ -15,7 +15,7 @@ metadata:
 
 * How to check **upcoming shifts** from the dashboard
 * Where to find the **Schedule** feature in the **footer menu**
-* How to **navigate** through days, months, and years using the **advanced date selector**
+* How to **navigate** through days, months, and years using the **date selector**
 * How to manage **unassigned shifts** and **replacement requests**
 * How to view detailed shift information in the **Planner**
 
