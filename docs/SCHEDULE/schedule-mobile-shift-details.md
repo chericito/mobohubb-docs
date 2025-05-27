@@ -74,4 +74,4 @@ Scroll down to see additional team members if there are many.
 
 In the **Activity** section, you’ll find any tasks, scans, or forms related to completing the shift. Each activity category might be required for a successful shift completion.
 
-<Image align="center" width="30% " src="https://files.readme.io/9f587c7201b6899ea3df615a235ee3de08d8e572fdbd6e9a5bba057186bff4dd-8FB7DDB2-0A34-498B-BFFE-7941B288599D.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9e980dbf239d8868b709a683cc5493f322754ff53418051c9638b0c7b3e8deef-image.png" />
