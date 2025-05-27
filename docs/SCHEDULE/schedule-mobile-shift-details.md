@@ -2,9 +2,9 @@
 title: 'Schedule Mobile: Shift Details'
 excerpt: >-
   Learn how to view detailed information about specific **shifts** in the
-  mobohubb mobile app. This guide explains how to use the **Planner** to find a
-  shift, open its details, view attachments, check team members, and see any
-  tasks, scans, or forms associated with the shift.
+  mobohubb mobile app. This guide explains how to find a shift, open its
+  details, view attachments, check team members, and see any tasks, scans, or
+  forms associated with the shift.
 deprecated: false
 hidden: false
 metadata:
@@ -12,7 +12,7 @@ metadata:
 ---
 **In this guide you'll learn**
 
-* How to **open shift details** from the Planner
+* How to **open shift details**
 * Which **fields** (role, date, time, attachments) you can see in each shift
 * How to **view team members** and activity items (tasks, forms, scans) tied to the shift
 
