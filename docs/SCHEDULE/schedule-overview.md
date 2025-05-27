@@ -111,7 +111,7 @@ Shows the total number of shifts where others have asked you to replace them. Ta
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/479d5b97055daf592ff50de8a309cb09b05687701004edec31f6f3f279e4e651-Schedule_replacement_request.png" />
 
-> **Note:** See **Replacement Request** for more information.
+> **Note:** See **[Replacement Request](https://mobohubb.readme.io/v1.2/docs/schedule-mobile-replacement-requests#/)** for more information.
 
 ### 5. Planner
 
