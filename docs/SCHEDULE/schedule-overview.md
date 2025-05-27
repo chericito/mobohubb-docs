@@ -103,7 +103,7 @@ If you see a section labeled **Unassigned Shifts**, it indicates how many open s
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a5accd0da7f6424b287840f1adb9cbc8843add44e46a45f114951d1d6fd147c6-image.png" />
 
-> **Note:** Visit **Unassigned Shifts** for details on how to claim them.
+> **Note:** Visit **[Unassigned Shifts](https://mobohubb.readme.io/v1.2/docs/schedule-mobile-claim-shifts#/)** for details on how to claim them.
 
 ### 4. Replacement Request
 
