@@ -18,9 +18,9 @@ metadata:
 
 ***
 
-Use the **Planner** section of your mobohubb schedule to review the full details of each shift. You can scroll to see future shifts and tap on any shift to open its details.
+Use this section of the **mobohubb** schedule to review the full details of each shift. You can scroll to see future shifts and tap on any shift to open its details.
 
-<Image align="center" width="30% " src="https://files.readme.io/d3d65983d462cab7dc58e1f3ec26da5041d0b6932fc0b805d424046b6e88abc2-E4F12563-9293-4804-B826-9B07F74CB212.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9678f856ea8133df3b4fe9444d6035c82ca982847ef06f5d3c33eb7621513552-image.png" />
 
 ***
 
@@ -28,7 +28,13 @@ Use the **Planner** section of your mobohubb schedule to review the full details
 
 Once you tap a shift, you’ll see its key information in a detailed list:
 
-<Image align="center" width="30% " src="https://files.readme.io/f7be62e3bd3657ff9c995a497960368a5ed84fbe72f2132fc194c54818891ac3-F5D372AD-6156-4D07-9F56-DAD7CD95C730.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/81b0eed5091e91a7919d466e9fc43fc816f987439601a0c12ffe243f6ae45682-image.png" />
+
+These are the possible items you can find:
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fcbb7bca2b82ca0882a8930e7637f61115336e31d64b422a4550d04d2216e071-image.png" />
+
+<br />
 
 * **Role**: The assigned role for the shift (e.g., Security, Driver, Technician).
 * **Start Day**: The calendar date on which the shift begins.
@@ -45,7 +51,7 @@ Once you tap a shift, you’ll see its key information in a detailed list:
 
 If the shift includes file attachments, tap the **download** button to save them to your device.
 
-<Image align="center" width="30% " src="https://files.readme.io/691c12dbf4604a56d43fe753921d187ee161ea12378af444181c136c3aa352bf-DB425165-4EF7-45E7-A0ED-139CF6590C6B.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fac65d8f8aec68d9903854061e9cec810b9ffe21020ccd60b4c245dc66542dce-image.png" />
 
 > **Note:** If there are no attachments, the download button will be disabled.
 
@@ -60,7 +66,7 @@ Tap the **Team** section to see who else is assigned to this shift. You can view
 
 Scroll down to see additional team members if there are many.
 
-<Image align="center" width="30% " src="https://files.readme.io/469e9c2b53fea47c4e1c29427c6e8c8fe718b31731c484f49943b5162bbd5bd2-AB7EEA31-C695-4FBC-9A70-77AE2404C15A.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2a626edd0f85c6efdebe2e307f0446560bc062510358020522c8a754b0044b91-image.png" />
 
 ***
 
