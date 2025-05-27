@@ -126,7 +126,7 @@ The **Planner** section displays shifts in a list format with details such as:
 * **Attachments**: Any files attached to the shift.
 * **Shift Status**: Whether you’ve accepted the shift or not.
 
-<Image align="center" width="30% " src="https://files.readme.io/e57bf319f05e0cc50faa3053f4f29c04574a52c6225297438e250c8b47f1569e-B8D9FD89-5D13-41F8-9FA2-594BB9F90BA3.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/3c999f3945048e9c0f788b73ab251a3494124be639da6775775f49f013b8ce6e-image.png" />
 
 Scroll through the list to see future shifts. **Tap any shift** to view additional details.
 
