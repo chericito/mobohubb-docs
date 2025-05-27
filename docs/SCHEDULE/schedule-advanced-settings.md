@@ -86,15 +86,15 @@ The toolbar includes functions to change how the schedule is displayed and to pe
 
 ### Filter
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/4b8ef6ecb06beeaee9b5752576bf4e2034af459ca13db51d02c477f81077ac4d-image.png" />
-
 You can apply **Quick** or **Advanced** filters by clicking the **“Filter”** button:
 
-**Quick Filters**: By default, you see quick filters divided into categories: **User**, **Shift Title**, **Role**, **Work Status**, and **Shift Status**. Click items to create new filters, then press **“Apply”.**
+**Quick Filters**: By default, quick filters are divided into categories: **User**, **Shift Title**, **Role**, **Work Status**, and **Shift Status**. Click items to create new filters, then press **“Apply”.**
 
-<Image align="center" className="border" border={true} src="https://files.readme.io/422925760c7c7d644d7d0ddd2fd7301cef1fedc97f52f2d07e00b42d8899f9b5-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/12a342615b07f079c5b312e3bb8e2d14e6791c1c5209f7d13fa8f6dcd8f93270-image.png" />
 
 **Advanced Filters**: Switch to advanced filters to define multiple logical conditions. Each filter is composed of **Label** (data categories), **Compare** (equals, not equals, contained in, etc.), and **Value** (the matching text). Press **“Apply”** once done.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/986c4b2a6395511507aec70b4fc41b70c3acf565159b5181e62a7073f650576e-image.png" />
 
 **You can return to Quick Filters by pressing "Switch to Quick Filters".**
 
