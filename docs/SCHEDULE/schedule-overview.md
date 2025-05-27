@@ -130,7 +130,7 @@ The **Planner** section displays shifts in a list format with details such as:
 
 Scroll through the list to see future shifts. **Tap any shift** to view additional details.
 
-> **Note:** For in-depth shift data, visit the **Shift Details** section.
+> **Note:** For in-depth shift data, visit the **[Shift Details](https://mobohubb.readme.io/v1.2/docs/schedule-mobile-shift-details#/)** section.
 
 ***
 
