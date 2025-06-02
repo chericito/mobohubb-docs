@@ -12,72 +12,80 @@ metadata:
 ---
 **In this guide you'll learn**
 
-* How to clock in and out using the **Time Clock** feature
-* The difference between **automatic**, **manual**, and **no-break** time clock settings
-* How to manage **breaks** and view a summary of hours worked
+* How to **clock in** and **clock out** with the Time Clock
+* The differences between **automatic**, **manual**, and **no-break** modes
+* How to record **breaks** and review a summary of hours worked
 
 ***
 
 # Time Clock
 
-The **Time Clock** is a mobohubb feature that allows **deskless** workers to **clock in** and **clock out** of their workplace. It can also track employee location, attendance, and productivity. Breaks (if enabled) are intervals for resting or disconnecting from work and can be configured in three ways:
+The **Time Clock** lets desk-free employees record their working hours directly from the mobile app. Depending on site settings, breaks can be handled in three ways:
 
-1. **Automated Time Clock**: A break is **automatically deducted** after a set number of hours—no manual entry needed.
+1. **Automated** – mobohubb deducts a preset break after a defined number of hours.
 
-> ***Example:*** 1 hour of break is taken for every 9 hours of work.
+*Example:* one-hour break automatically taken every nine hours.
 
-2. **Manual Time Clock**: **Users manually** enter their break times. An administrator can set breaks as paid or unpaid, specifying their durations. This helps distinguish between paid and unpaid break periods.
-3. **Time Clock Without Breaks**: If breaks are **disabled**, the time clock will only record hours worked.
+2. **Manual** – users start and end breaks themselves; each break can be flagged as paid or unpaid.
+3. **No Breaks** – the clock records only worked time.
 
 ***
 
 ## Clock in
 
-1. **Access** the time clock:
-   * Tap the **Time Clock** icon in the footer menu.
-2. (Optional) **Add a note** for your check-in. This could be a brief description or relevant detail about your shift.
-3. **Hold down** the clock button until the **green indicator** completes (about 5 seconds). This starts the timer.
+1. Tap the **Time Clock** icon in the footer.
+2. (Optional) add a note.
+3. Press and hold the clock button until the **green ring** completes (≈ 5 s).
 
-<Image align="center" width="30% " src="https://files.readme.io/41d210c891959e9e45e1b11ac4e9682468484193b02c710f02376b1c05049482-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/a300b71ef43b6276ce56a50aafa5f1f54bcabe7860c1f6c88d6f76d1afb1e1ec-image.png" />
 
-4. **Verify** that the stopwatch is running in the background. You can now use other mobohubb features while the clock tracks your time.
+4. Confirm the stopwatch is running; you may now navigate anywhere in the app.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/1f7af021a7df41f1b357eb28dde4f44974aabccbbfd3dca125c780a09585a533-image.png" />
 
 ***
 
 ## Breaks
 
-If the administrator has configured **manual** breaks, you'll see a **"Take a break"** button on the Time Clock screen. Tapping this opens the break options set by the administrator, allowing you to select the **type of break** (paid or unpaid). This choice determines how break time is recorded and whether it is compensated.
+If **manual** breaks are enabled, a **Take a break** button appears.
 
-<Image align="center" src="https://files.readme.io/4932bda7e7267baf6319e59bcc3ffb72495c251d606b01fe94635c23062fcd69-image.png" />
+1. Tap **Take a break**.
 
-<Image align="center" src="https://files.readme.io/4141de156e8838cb9cfd3bf3e57b94dcc3fae3966bb3b0ad9eeb42f0d0a157fe-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/20810fca1ddb23427187a0dc2008dbde1e4e59478d378529acdd94826709f99b-image.png" />
+
+2. Choose the break type (paid / unpaid) defined by your administrator.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e20ee56f72a1f7ab5459328e23ebbe8229323d421edf4b07bb43e55b32ce2ce2-image.png" />
+
+3. When ready, tap **Return from break**.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/80c1ddc530435dbabdc9125b908a6cefd8dcc7624cbfddb67bbc340273891fab-image.png" />
 
 ***
 
 ## Clock out
 
-When you're ready to end your shift:
+1. Open **Time Clock** and end any active break.
+2. (Optional) add a note.
+3. Hold the clock button until the ring completes.
 
-1. Return to the **Time Clock** section in the footer menu.
-2. (Optional) **Add a note** for your check-out.
-3. **Hold down** the clock button until the green indicator completes (5 seconds).
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/1d18e48d9becb064a73a2eeb7e36cb164e16f55cd3b8c7318e4c198a12a627d3-image.png" />
 
-<Image align="center" width="30% " src="https://files.readme.io/b5d5d904f959abdfbec1cfcc937805ea08889afeacd2c7b61c0fc464345e312c-image.png" />
+4. Review your **time summary**, then close it.
 
-<br />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d271aa31d2bc5abaab405d4f6cad066924f8730a57f27d7ca944b99892976599-image.png" />
 
-4. **Close** the time summary page, where you can review total hours worked.
-
-<Image align="center" src="https://files.readme.io/c70b0090a35c6f736c06d0d47ee5b50b50f3d6d49bc2181568e5cbfd2becf9f2-image.png" />
-
-> **Note:** The Time Clock continues logging your hours while you perform other tasks in the mobohubb app.
+> The Time Clock keeps running while you use any other mobohubb feature.
 
 ***
 
-## Pictures
+## Mandatory pictures
 
-Your administrator can make taking a selfie or a picture mandatory before any action, such as clocking in and out, taking a break, or clocking in after a break.
+If your administrator requires a photo for actions such as clock-in, clock-out, or breaks, a **red border** appears around the camera icon.
 
-You will spot a red mark around the camera icon, indicating that before any action you need to take a picture. To do this, follow these steps:
+1. Tap the camera icon to open the camera.
+2. Take the picture and tap **Save**.
 
-1. Tap on the camera icon.
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/fbf3d449ea08b732184f51da3450d53e9c30cf9fcf59c737eec199b7b6a2ebcf-image.png" />
+
+Repeat whenever the red indicator is shown.
