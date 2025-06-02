@@ -31,7 +31,7 @@ The **Time Clock** is a mobohubb feature that allows **deskless** workers to **c
 
 ***
 
-## Using the Time Clock
+## Clock in
 
 1. **Access** the time clock:
    * Tap the **Time Clock** icon in the footer menu.
@@ -44,7 +44,17 @@ The **Time Clock** is a mobohubb feature that allows **deskless** workers to **c
 
 ***
 
-## Exiting the Time Clock
+## Breaks
+
+If the administrator has configured **manual** breaks, you'll see a **"Take a break"** button on the Time Clock screen. Tapping this opens the break options set by the administrator, allowing you to select the **type of break** (paid or unpaid). This choice determines how break time is recorded and whether it is compensated.
+
+<Image align="center" src="https://files.readme.io/4932bda7e7267baf6319e59bcc3ffb72495c251d606b01fe94635c23062fcd69-image.png" />
+
+<Image align="center" src="https://files.readme.io/4141de156e8838cb9cfd3bf3e57b94dcc3fae3966bb3b0ad9eeb42f0d0a157fe-image.png" />
+
+***
+
+## Clock out
 
 When you're ready to end your shift:
 
@@ -64,10 +74,10 @@ When you're ready to end your shift:
 
 ***
 
-## Manual Breaks
+## Pictures
 
-If the administrator has configured **manual** breaks, you'll see a **"Take a break"** button on the Time Clock screen. Tapping this opens the break options set by the administrator, allowing you to select the **type of break** (paid or unpaid). This choice determines how break time is recorded and whether it is compensated.
+Your administrator can make taking a selfie or a picture mandatory before any action, such as clocking in and out, taking a break, or clocking in after a break.
 
-<Image align="center" src="https://files.readme.io/4932bda7e7267baf6319e59bcc3ffb72495c251d606b01fe94635c23062fcd69-image.png" />
+You will spot a red mark around the camera icon, indicating that before any action you need to take a picture. To do this, follow these steps:
 
-<Image align="center" src="https://files.readme.io/4141de156e8838cb9cfd3bf3e57b94dcc3fae3966bb3b0ad9eeb42f0d0a157fe-image.png" />
+1. Tap on the camera icon.
