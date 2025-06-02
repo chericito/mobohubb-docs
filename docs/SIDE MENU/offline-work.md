@@ -17,7 +17,13 @@ metadata:
 
 # Offline Work
 
-**Offline Work** allows you to use the **mobohubb** Mobile App without needing an **internet connection.** Any data you enter—such as hours worked, tasks performed, forms filled out, or scan records—stays stored **locally** on your device. Once you reconnect to the internet, you’ll need to manually **initiate synchronization** to upload these offline records to the server.
+**Offline Work** allows you to use the **mobohubb** Mobile App without needing an **internet connection.** Any data you enter—such as hours worked, tasks performed, forms filled out, or scan records—stays stored **locally** on your device.
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/04641203ebcd0fea6107afb96be443ce0d938ceb079191748c28878eb23e3fe5-image.png" />
+
+<br />
+
+Once you reconnect to the internet, you’ll need to manually **initiate synchronization** to upload these offline records to the server.
 
 1. **Open** the side menu: Tap the **hamburger button** at the upper left corner of the app.
 
