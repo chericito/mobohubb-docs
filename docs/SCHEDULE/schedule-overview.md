@@ -109,7 +109,7 @@ If you see a section labeled **Unassigned Shifts**, it indicates how many open s
 
 Shows the total number of shifts where others have asked you to replace them. Tapping this section opens the **Replacement Request** feature, where you can **accept** or **reject** these requests.
 
-<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/479d5b97055daf592ff50de8a309cb09b05687701004edec31f6f3f279e4e651-Schedule_replacement_request.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/4fc55aa2a48a9baf348b0237b2b904c566a198f2dc88b97c763f4d0d74f25cda-image.png" />
 
 > **Note:** See **[Replacement Request](https://mobohubb.readme.io/v1.2/docs/schedule-mobile-replacement-requests#/)** for more information.
 
