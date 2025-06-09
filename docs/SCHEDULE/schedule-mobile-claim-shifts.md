@@ -33,7 +33,7 @@ Unassigned shifts let users voluntarily pick up extra work. Depending on your **
 
 > **Note:** If no unassigned shifts exist, this section won’t appear.
 
-<Image align="center" width="30% " src="https://files.readme.io/ab0cb221a256dc5b08991fddb726ec6b08f9f5b66ef59b5f96b07d485d3ea0b0-679F6A02-8810-4521-BF79-DF05EFA9DD89.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/74d865b04af8ed72859ade78b5a8dce2a552470f9ad8625eb13e1cac95ca9dda-image.png" />
 
 3. **Review** unassigned shifts:
 
@@ -43,22 +43,22 @@ Unassigned shifts let users voluntarily pick up extra work. Depending on your **
 * **Tasks/Scans/Forms**: Activities included in the shift.
 * **Location**: Where the shift is performed.
 
-<Image align="center" width="30% " src="https://files.readme.io/48666bc51a989f53d97d15e2116ac0d1a9e9884a901e5d221a2dc7450ecb1349-A7B0E389-CBC8-4706-8693-793D33060D73.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/c7b9018db2a90762c7b9e27743dfd52ab1c5b501504df159e9256b073c6bf394-image.png" />
 
 4. **Search** (Optional): Use the **search bar** to filter shifts by title or other relevant details.
 
-<Image align="center" width="30% " src="https://files.readme.io/bde1afbbdd921142b48f37710c714186100d37bd66e9b5e29ee0b5e725666146-0DA281C4-009B-412A-B548-21BEB9F55140.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/529cb10fe34b18513d0ea69368ddebb582f2fdb958828a65ba3f67f1e2f969a9-image.png" />
 
 5. **Claim** the shift:
 
 * Tap **“Claim this shift.”**
 * Because no approval is needed, it appears **instantly** in your schedule.
 
-<Image align="center" width="30% " src="https://files.readme.io/3014daf2206db609903ebf12a5f475593da27fd43fe88e20e6368322ff6c8b3a-B2DA28A8-2DE4-432D-81A6-20730FFA4AD2.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/f7848662fb2ba2ed432f1803d68a2113e6f3c5e1b83c9463c9156cba6c688dc9-image.png" />
 
 6. **Confirm** the shift is now in your schedule:
 
-<Image align="center" width="30% " src="https://files.readme.io/d96a10aee95a5f718e8ebbd0fa6c980326e1a7cd383044ad506a0261888fea05-78BFED0B-A4D9-4EC9-BAEA-F1CDE64AB176.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/d1611cafae1c2cf5a2e31a0397efc2237a281aa3e784e7c8ce9a493800dc070f-image.png" />
 
 ***
 
