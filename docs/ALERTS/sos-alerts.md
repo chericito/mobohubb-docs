@@ -26,12 +26,19 @@ metadata:
 
 2. **SOS Button Location**: Once enabled, the SOS button appears in the **top-right corner** of the app, next to the notification bell, regardless of which screen or feature you’re viewing.
 
-3. **Alert Types**: According to the administrator’s settings, SOS Alerts can:
-   * **Transmit text messages**
-   * **Initiate phone calls**
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/2f2ac4ac8c7451ec9d89777338feb7b94709d5917f0f88491fa46be7d3c087ab-image.png" />
 
-4. **Triggering an SOS Alert**: Tapping the SOS button **immediately** sends the assigned function (e.g., message, text, or call) to your designated emergency contact(s).
+2. **Alert Types**: According to the administrator’s settings, SOS Alerts can:
 
-<Image align="center" src="https://files.readme.io/91c53cb0eedec1bd0ffd5538889295613c872839c35b6f6634c1fd81548417a1-image.png" />
+* **Transmit text messages**
+* **Initiate phone calls**
+
+3. **Triggering an SOS Alert**: Tapping the SOS button **immediately** sends the assigned function (e.g., message, text, or call) to your designated emergency contact(s).
+
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/bec67ad43e2027aa8a83155055cf632240be8e5cb7382004cb9208bca6c7f899-image.png" />
 
 > **Note:** If you need to update or change your emergency contact details or alert methods, speak with your administrator. They can modify these settings in the portal.
+
+4. The emergency contact will receive the notification via Message, SMS or Call, based on the site's configuration.
+
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/a8f9510a999a860953ca92fb8d1e183cc79a580060a43b882675f5b0b8b24bef-image.png" />
