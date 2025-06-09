@@ -13,7 +13,7 @@ metadata:
 **In this guide you'll learn**
 
 * Where to find the **SOS Alerts** button in the mobile app
-* Which types of **emergency notifications** can be triggered (audio, text, or call)
+* Which types of **emergency notifications** can be triggered (text or call)
 * Why the **portal administrator** must first enable this function
 
 ***
@@ -27,11 +27,10 @@ metadata:
 2. **SOS Button Location**: Once enabled, the SOS button appears in the **top-right corner** of the app, next to the notification bell, regardless of which screen or feature you’re viewing.
 
 3. **Alert Types**: According to the administrator’s settings, SOS Alerts can:
-   * **Send audio** recordings
    * **Transmit text messages**
    * **Initiate phone calls**
 
-4. **Triggering an SOS Alert**: Tapping the SOS button **immediately** sends the assigned function (e.g., audio message, text, or call) to your designated emergency contact(s).
+4. **Triggering an SOS Alert**: Tapping the SOS button **immediately** sends the assigned function (e.g., message, text, or call) to your designated emergency contact(s).
 
 <Image align="center" src="https://files.readme.io/91c53cb0eedec1bd0ffd5538889295613c872839c35b6f6634c1fd81548417a1-image.png" />
 
