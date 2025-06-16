@@ -27,26 +27,27 @@ A **scan point** is an element that can be read with a mobile device to obtain i
 
 1. **Locate** the **Scan** tool:
 
-<Image align="center" width="30% " src="https://files.readme.io/67c8d470c910217ff8aab59346bc748c44000e75e2bceda1833e146d128e861a-blobid0.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/05fc50bbf8c425844ec8a7fbb4670034fdf00dfee66a05571cc40db16ae8828f-image.png" />
+
+<br />
 
 3. **Activate** the camera. Mobohubb will request permission to use your camera if it has not already been granted.
 4. **Aim** at the QR code. Ensure no objects are blocking the camera view.
 
-![Aiming at QR Code](https://files.readme.io/5a4bf557333123cd74d48910214f8ca4fd03b57024dcb6a09c788933d84759b7-image.png)
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/9567e9274b2f6d1c296276c84e289d0966bfbfe31782d2ba4499693f8a06d94f-image.png" />
+
+<br />
 
 3. **Submit** the QR code.
 
    * If the code matches a registered **scan point**, you can proceed.
    * If the code is not recognized, you'll see a **"not registered"** message.
 
-   ![Submit QR Code](https://files.readme.io/fd449d9aa6d6d35522a5e82efeca22662b47245c9ca546744d25cde8beb504da-image.png)
-4. **Wait** for validation.\
-   The app checks if the scanned QR code is valid.
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/93ff1921f40dd1f2ced04c42da95b6fe410ebbf13f8222fdd12ecc75dcec58c5-image.png" />
 
-   ![Validation Process](https://files.readme.io/ebb1a96355388e33eb85137dc5400567cbbe2cc6caf06033fe8ffebc13f51ee5-image.png)
-5. **Close** and validate.\
-   Once validation completes, tap **Close** to finalize.
+   <br />
+4. **Close** and validate. Once validation completes, tap **Close** to finalize.
 
-   ![Close and Validate](https://files.readme.io/d1132c52e47d2fd20f7bba73b6b96f10ef1baf8a4e508f6a986ec7f0c68a3ee9-image.png)
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ff0c0f1bd01bf65f456739dc760e99f7bfab57fcbcce2d2ff6c313bda55774b9-Image_1.png" />
 
 > **Note:** You can review your scan logs under **My Activity** to confirm successful submissions.
