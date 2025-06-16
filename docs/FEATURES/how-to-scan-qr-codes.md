@@ -55,6 +55,6 @@ A **scan point** is an element that can be read with a mobile device to obtain i
    <br />
 4. **Close** and validate. Once validation completes, tap **Close** to finalize.
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/ff0c0f1bd01bf65f456739dc760e99f7bfab57fcbcce2d2ff6c313bda55774b9-Image_1.png" />
+<Image align="center" className="border" border={true} width="50% " src="https://files.readme.io/ff0c0f1bd01bf65f456739dc760e99f7bfab57fcbcce2d2ff6c313bda55774b9-Image_1.png" />
 
 > **Note:** You can review your scan logs under **My Activity** to confirm successful submissions.
