@@ -41,15 +41,16 @@ A **scan point** is an element that can be read with a mobile device to obtain i
 3. **Submit** the QR code.
 
    * If the code matches a registered **scan point**, you can proceed.
-   * If the code is not recognized, you'll see a **"not registered"** message.
-
-   <br />
-
-   ![](https://files.readme.io/88a879ff146eaf9c66c3d929725f5170350ac87aa4852ebee9bfd62d4d06d936-image.png)
 
    <br />
 
    <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/93ff1921f40dd1f2ced04c42da95b6fe410ebbf13f8222fdd12ecc75dcec58c5-image.png" />
+
+   * If the code is not recognized, you'll see a **"not registered"** message.
+
+   <br />
+
+   <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/88a879ff146eaf9c66c3d929725f5170350ac87aa4852ebee9bfd62d4d06d936-image.png" />
 
    <br />
 4. **Close** and validate. Once validation completes, tap **Close** to finalize.
