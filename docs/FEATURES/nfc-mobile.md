@@ -37,20 +37,14 @@ A scan can be associated with a task or a form. The scan must be performed for t
 
 <br />
 
-2. **Get** your device close to the NFC Tag:
-
-**Position** your device within approximately 8 inches (20 cm) of the NFC tag to ensure a proper connection.
+2. **Get** your device close to the NFC Tag: **Position** your device within approximately 8 inches (20 cm) of the NFC tag to ensure a proper connection.
 
 <Image align="center" border={true} caption="**Put** your phone close to the NFC." src="https://files.readme.io/1e1fd5c2dfbe56c311c3dc8e9816090c4209a33db23074b4fe1b29e76b36a31e-image.png" width="30% " />
 
-3. **Submit** the NFC Tag
+3. **Submit** the NFC Tag:
 
 <Image align="center" border={true} caption="**Save** your scan." src="https://files.readme.io/0ff34fc78da2b629ffd49863ae0e8b6c7f689d57c78a50bf7a1734418e21d8c6-image.png" width="30% " />
 
-.
-
-4. **Close** and **Validate**
-
-Once validation is complete, close the process to finalize the scan.
+4. **Close** and **Validate**: Once validation is complete, close the process to finalize the scan.
 
 <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e7ed6d0d1d4a9d692aff021cf98a82855eaaecf053a82c3393407916b3d7eac1-image.png" />
