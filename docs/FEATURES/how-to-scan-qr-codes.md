@@ -21,54 +21,15 @@ metadata:
 
 # QR Codes
 
-A **scan point** is an element that can be read with a mobile device to obtain information. mobohubb supports **QR codes** and **NFC tags**. In the case of QR codes:
-
-* **Scan** tasks may require you to scan a specific QR code to mark a task as complete.
-* **Report** tasks may open a form upon scanning the QR code.
-* **Manual** tasks do not require any scanning.
+A **scan point** is an element that can be read with a mobile device to obtain information. **mobohubb** supports **QR codes** and **NFC tags**.
 
 ## Steps to Scan a QR Code
 
-1. **Locate** the landing screen.
-
-The  **portal administrator** may set the landing screen differently per site. Available options include:
-
-* Scan/NFC
-
-* Dashboard
-
-* Forms
-
-* Tasks
-
-* Time clock
-
-* Schedule
-
-> **Note:** If your landing screen differs from the example, the procedure is still the same.
+1. **Locate** the **Scan** tool:
 
 <Image align="center" width="30% " src="https://files.readme.io/67c8d470c910217ff8aab59346bc748c44000e75e2bceda1833e146d128e861a-blobid0.png" />
 
-2. **Use** the footer menu.
-
-* Tap **Scan / NFC** from among the six core app features:
-  * Scan/NFC
-
-  * Dashboard
-
-  * Forms
-
-  * Tasks
-
-  * Time clock
-
-  * Schedule
-
-> **Tip:** If you don’t see the icon directly, look under **"more menu apps"**.
-
-<Image align="center" width="30% " src="https://files.readme.io/58c2d7476a0ce6459a3b4ed17ae566b40c2da9cbf8190654019b929abd9db0ad-blobid1.png" />
-
-3. **Activate** the camera. Mobohubb will request permission to use your camera if not already granted.
+3. **Activate** the camera. Mobohubb will request permission to use your camera if it has not already been granted.
 4. **Aim** at the QR code. Ensure no objects are blocking the camera view.
 
 ![Aiming at QR Code](https://files.readme.io/5a4bf557333123cd74d48910214f8ca4fd03b57024dcb6a09c788933d84759b7-image.png)
