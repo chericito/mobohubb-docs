@@ -46,7 +46,7 @@ A **scan point** is an element that can be read with a mobile device to obtain i
 
    <Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/93ff1921f40dd1f2ced04c42da95b6fe410ebbf13f8222fdd12ecc75dcec58c5-image.png" />
 
-   * If the code is not recognized, you'll see a **"not registered"** message.
+   * If the code is not recognized, you'll see a **"not registered"** message. **Contact** your administrator.
 
    <br />
 
