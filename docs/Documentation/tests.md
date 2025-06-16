@@ -21,3 +21,27 @@ metadata:
     **Use cases:** SaaS subscriptions; Membership dues; Installment billing.
   </Card>
 </Cards>
+
+<br />
+
+## Payment Methods
+
+PCE supports a variety of [payment methods](doc:payment-methods) to suit your business needs. Choose from any of the options below:
+
+<Cards columns={4}>
+  <Card title="Card" icon="fa-credit-card">
+    Accept all major credit & debit cards (Visa, Mastercard, AMEX, Discover).
+  </Card>
+
+  <Card title="ACH Bank Debit" icon="fa-university">
+    Process U.S. bank-account debits for lower-cost transactions.
+  </Card>
+
+  <Card title="Check Deposit" icon="fa-money-check">
+    Handle manual check payments with digital deposit workflows.
+  </Card>
+
+  <Card title="Wire Transfers" icon="fa-exchange-alt">
+    Support domestic and international bank-to-bank transfers.
+  </Card>
+</Cards>
