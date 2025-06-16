@@ -53,4 +53,4 @@ A scan can be associated with a task or a form. The scan must be performed for t
 
 Once validation is complete, close the process to finalize the scan.
 
-<Image align="center" width="30% " src="https://files.readme.io/9e53f2cee7e28ffde6a71470ce6dca210641291fd4d56020c5a9889ee29c849e-image.png" />
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/e7ed6d0d1d4a9d692aff021cf98a82855eaaecf053a82c3393407916b3d7eac1-image.png" />
