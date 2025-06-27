@@ -76,7 +76,7 @@ Click **Next** (or **Advanced options**) to fine‑tune delivery details.
 
 ## Save & Activate
 
-Click **Save**. **mobohubb** will now:
+Click **Save** **mobohubb** will now:
 
 1. Generate the report on the schedule you chose.
 2. Email it to the addresses provided—PDF attachment or HTML body—until the **End Date** is reached or the scheduler is deactivated.
