@@ -49,7 +49,7 @@ A **report scheduler** automatically generates and emails reports on a cadence y
 
 ***
 
-## Advanced options
+## Advanced Options
 
 Click **Next** (or **Advanced options**) to fine‑tune delivery details.
 
