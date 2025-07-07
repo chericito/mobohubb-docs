@@ -22,19 +22,17 @@ Before adding an article, you must have at least one folder.
 
 1. **Use the Side Menu**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/94b61ae850cd7352d75aacb58691dfedc6bc722fcd917927c39ea22a50524a8c-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a0cb78bde5fa8df10a69c7f8e0903542dc7290bc7fe31ccfb00d7352998709a5-image.png" />
 
-<br />
+2. **Open “Collaboration”.**
 
-2. **Open “Collaboration.”**
-
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/1f6b6732030d150f7df1112af30fb5479be541c8c5a9477ce7ab4f4e2f0bf91a-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/e39bb78c1ce7a78ba99513bf9c7396d63248faa895004c0c57bf987a018b78b7-image.png" />
 
 ![](Captura%20de%20pantalla%202024-09-09%20082134.png)
 
 3. **Click “Knowledge Base".**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/00c631fb8db1cec6c1c759a5ccbdc3bd421fb53716bd3e9d229c55729c445d26-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/539bbfb0a2037a39bdc6e83e68aa9e00abeeffbc2cad0e49b823cc565a9c70ed-image.png" />
 
 4. **Click “Add New”.**
 
