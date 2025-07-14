@@ -177,6 +177,16 @@ When you’re inside a schedule, you can quickly drop in brand-new shifts for yo
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/7f59f7eeec7ded3f7ad1ccbfafe6dd3d398d547edda70cdd01c7af1a3fec91d6-image.png" />
 
+### Overnight Shift Indicator
+
+If a shift’s end time extends past midnight, a **crescent-moon icon** appears to flag it as an **overnight shift**.
+
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/d905a2202f4f0dd6688e3e46927137fcd91fe8885751ca263ec3fa173c55c97b-image.png" />
+
+The same icon is displayed in the main schedule grid wherever an overnight shift is present.
+
+<Image align="center" className="border" border={true} src="https://files.readme.io/218701436286ec603cebce87740132fc7ac167fb68fe496cb1868ed65c185d6a-image.png" />
+
 ***
 
 ## Add New Drafts
