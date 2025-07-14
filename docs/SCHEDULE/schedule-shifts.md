@@ -147,7 +147,7 @@ When you’re inside a schedule, you can quickly drop in brand-new shifts for yo
 
 3. **Complete the shift details.**
 
-<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/2c12bb04efc1c5304b69180b7784624de81aa1b147d47b028ecd402fc10eef57-image.png" />
+<Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/8678e6bf27b9c8c7b431f9a25770af099575c4e8399afc3e105384b83d58da6d-image.png" />
 
 * **Shift Title (\*)** – the name employees see.
 * **Color (\*)** – inherits the role color, or pick another.
