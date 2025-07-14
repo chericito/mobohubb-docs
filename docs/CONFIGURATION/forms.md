@@ -333,6 +333,10 @@ Once complete, your **form or checklist** can be accessed by the selected users,
 
 ## Edit Forms or Checklists
 
+> 🚧 Important
+>
+> Once a form or checklist has **one** or more **submissions**, all its fields become **locked**—including any media elements such as audio, images, or videos.
+
 1. **Click** the name of the form/checklist you want to modify.
 
 <Image align="center" className="border" border={true} width="80% " src="https://files.readme.io/a6747040a69f611d18b4e1a9f71fb178da8cb299ac39c6965d222de47e9c8bc9-Screenshot_2025-04-22_at_11.22.51_AM.png" />
